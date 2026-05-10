@@ -31,4 +31,4 @@ test:
 	$(PYTHON) -m pytest tests/ -v
 
 clean:
-	rm -rf outputs/tables/*.csv outputs/figures/*.png data/processed/*.csv docs/feasibility_report.md docs/power_validation.md docs/analysis_plan_hashes.txt docs/results_summary.md
+	rm -rf outputs/tables/*.csv outputs/tables/*.npz outputs/tables/_meta.json outputs/figures/*.png data/processed/*.csv docs/feasibility_report.md docs/power_validation.md docs/analysis_plan_hashes.txt docs/results_summary.md docs/figure_notes.md

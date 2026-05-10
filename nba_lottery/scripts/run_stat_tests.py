@@ -531,6 +531,14 @@ def main() -> int:
     _write_csv(args.out / "exploratory_phase2_results.csv", phase2_rows,
                ["family", "status", "notes"])
 
+    # Persist the null distributions (for Figure 1's empirical histogram).
+    np.savez_compressed(
+        args.out / "null_samples.npz",
+        A_null=A_result["S_null"],
+        A_pre_null=A_pre["S_null"],
+        A_post_null=A_post["S_null"],
+    )
+
     print(f"\nResults written to {args.out}/")
     return 0
 

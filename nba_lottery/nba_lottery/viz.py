@@ -13,13 +13,12 @@ def figure_global_vs_null(
     conf_csv: Path,
     per_year_nll_csv: Path,
     out_path: Path,
+    null_samples_npz: Path | None = None,
 ) -> None:
     """Figure 1: Observed global statistic S vs simulated null distribution.
 
-    We don't have the null samples in CSV form; we approximate the null
-    using the per-year NLLs and their MC SEs (Gaussian approximation
-    around null_mean with null_std). For the headline figure this is
-    accurate enough to convey the result.
+    Uses the empirical S_null histogram when null_samples_npz is provided,
+    otherwise falls back to a Gaussian approximation (labeled as such).
     """
     rows = list(csv.DictReader(conf_csv.open()))
     A = next(r for r in rows if r["test"] == "A")
@@ -28,19 +27,37 @@ def figure_global_vs_null(
     null_std = float(A["null_std"])
     p = float(A["p_value"])
 
-    xs = np.linspace(null_mean - 4 * null_std, null_mean + 4 * null_std, 200)
-    pdf = np.exp(-0.5 * ((xs - null_mean) / null_std) ** 2) / (null_std * np.sqrt(2 * np.pi))
-
     fig, ax = plt.subplots(figsize=(8, 4.5))
-    ax.plot(xs, pdf, color="steelblue", label="Null distribution (Gaussian approx)")
+    if null_samples_npz is not None and null_samples_npz.exists():
+        data = np.load(null_samples_npz)
+        S_null = data["A_null"]
+        # Empirical histogram
+        counts, edges, _ = ax.hist(
+            S_null, bins=80, density=True, color="steelblue",
+            edgecolor="white", linewidth=0.3,
+            label=f"Empirical null (N={len(S_null):,})",
+        )
+        source = "empirical"
+    else:
+        xs = np.linspace(null_mean - 4 * null_std, null_mean + 4 * null_std, 200)
+        pdf = np.exp(-0.5 * ((xs - null_mean) / null_std) ** 2) / (
+            null_std * np.sqrt(2 * np.pi)
+        )
+        ax.plot(xs, pdf, color="steelblue",
+                label="Null distribution (Gaussian approx)")
+        source = "Gaussian approx (null samples not available)"
+
     ax.axvline(S_obs, color="crimson", linestyle="--", lw=2,
                label=f"Observed S = {S_obs:.1f}")
-    ax.fill_between(xs[xs >= S_obs], 0, pdf[xs >= S_obs],
-                    color="crimson", alpha=0.2, label=f"p-value tail = {p:.3f}")
+    # Shade the tail for visual clarity
+    ax.axvspan(S_obs, ax.get_xlim()[1], color="crimson", alpha=0.15,
+               label=f"p-value tail = {p:.3f}")
     ax.set_xlabel("Global statistic S = Σ −log p(observed)")
     ax.set_ylabel("Density under null")
-    ax.set_title("Test A: observed S vs null (confirmatory, N=1,000,000)\n"
-                 "Pre-trade slot-owner view, 20 years (2006-2025 excl. 2003)")
+    ax.set_title(
+        f"Test A: observed S vs null (confirmatory; {source})\n"
+        "Pre-trade slot-owner view, 20 years (2006-2025 excl. 2003)"
+    )
     ax.legend()
     fig.tight_layout()
     fig.savefig(out_path, dpi=100)

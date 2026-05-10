@@ -29,12 +29,14 @@ def generate_figures(tables: Path, figures: Path) -> list[str]:
     """Generate all figures and return a list of their paths (for manifest)."""
     figures.mkdir(parents=True, exist_ok=True)
     created = []
+    null_npz = tables / "null_samples.npz"
     mapping = [
         ("fig1_global_vs_null.png",
          lambda p: figure_global_vs_null(
              tables / "confirmatory_results.csv",
              tables / "nll_contributions.csv",
              p,
+             null_samples_npz=null_npz if null_npz.exists() else None,
          )),
         ("fig2_per_year_nll.png",
          lambda p: figure_per_year_contributions(tables / "nll_contributions.csv", p)),

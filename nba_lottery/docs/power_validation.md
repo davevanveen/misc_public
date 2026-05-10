@@ -2,14 +2,14 @@
 
 This report is NOT a general power analysis. It is a sensitivity probe: we inject known anomalies into the data and check whether the primary test statistics detect them at the pre-specified correction level.
 
-- MC size for each injection run: N = 30,000
+- MC size for each injection run: N = 50,000
 - Confirmatory-eligible years (A-family tests): 20 (2006-2025).
 
 ## Baseline (no injection)
 
-- Observed S (sum per-year NLL): **138.60** (MC SE ≈ 1.725)
-- Null S mean ± std: 137.48 ± 5.71
-- p-value of A: **0.4131** (MC SE ≈ 0.0028)
+- Observed S (sum per-year NLL): **138.95** (MC SE ≈ 1.487)
+- Null S mean ± std: 138.31 ± 5.93
+- p-value of A: **0.4454** (MC SE ≈ 0.0022)
 
 ## Sparse / outlier injection
 
@@ -17,9 +17,9 @@ For a randomly chosen year, we force the #1 pick to the team with the LOWEST pre
 
 | Injected year | Forced to team | Original #1 | Δ p-value |
 |---|---|---|---|
-| 2008 | Golden State Warriors | Chicago Bulls | 0.4131 → 0.3418 (↓ 0.0714) |
-| 2014 | Phoenix Suns | Cleveland Cavaliers | 0.4131 → 0.5077 (↑ 0.0946) |
-| 2019 | Charlotte Hornets | New Orleans Pelicans | 0.4131 → 0.4834 (↑ 0.0703) |
+| 2008 | Golden State Warriors | Chicago Bulls | 0.4454 → 0.3809 (↓ 0.0646) |
+| 2014 | Phoenix Suns | Cleveland Cavaliers | 0.4454 → 0.4745 (↑ 0.0290) |
+| 2019 | Charlotte Hornets | New Orleans Pelicans | 0.4454 → 0.4246 (↓ 0.0209) |
 
 **Interpretation:** if a single-year outlier noticeably lowers the global p-value, the test is sensitive to sparse alternatives.
 
@@ -31,9 +31,9 @@ We multiply one team's combinations by a factor (1.05, 1.10, 1.20) in every year
 
 | Multiplier | Baseline p-value | Perturbed p-value | Δ |
 |---|---|---|---|
-| ×1.05 | 0.4131 | 0.4859 | -0.0728 |
-| ×1.10 | 0.4131 | 0.4950 | -0.0818 |
-| ×1.20 | 0.4131 | 0.5156 | -0.1025 |
+| ×1.05 | 0.4454 | 0.4836 | -0.0382 |
+| ×1.10 | 0.4454 | 0.4956 | -0.0501 |
+| ×1.20 | 0.4454 | 0.5028 | -0.0574 |
 
 ## T1 detection thresholds
 

@@ -141,19 +141,23 @@ def test_loyo_flips_when_dominant_year_removed():
     # removing year 0 (which contributes most of the NLL) brings it below.
     per_year = {0: (10.0, 0.1), 1: (2.0, 0.1), 2: (2.0, 0.1)}
     S_obs = 14.0
-    # Null distribution centered at say 5.0 with std 2.0
     rng = np.random.default_rng(0)
-    S_null = rng.normal(5.0, 2.0, size=10_000)
+    # Synthetic per-year null: year 0 dominant (mean 3), others mean 1.
+    py0 = rng.normal(3.0, 1.0, size=10_000)
+    py1 = rng.normal(1.0, 1.0, size=10_000)
+    py2 = rng.normal(1.0, 1.0, size=10_000)
+    S_null = py0 + py1 + py2
     fake_result = {
         "per_year_nll": per_year,
         "S_obs": S_obs,
         "S_null": S_null,
-        "null_mean": 5.0,
-        "null_std": 2.0,
+        "per_year_null": {0: py0, 1: py1, 2: py2},
+        "null_mean": float(S_null.mean()),
+        "null_std": float(S_null.std()),
         "n_sims": 10_000,
         "p_value": float((S_null >= S_obs).mean()),
         "p_value_se": 0.001,
     }
     loyo = leave_one_year_out(fake_result, alpha=0.05)
-    # Dropping year 0 should raise p substantially
+    # Dropping year 0 should raise p substantially (lose dominant observed NLL)
     assert loyo[0]["p_value_loyo"] > loyo[1]["p_value_loyo"]

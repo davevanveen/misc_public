@@ -114,44 +114,36 @@ def global_statistic_null(
     configs: dict[int, YearConfig],
     n_sims: int,
     seed_offset: int = 0,
-) -> np.ndarray:
+    return_per_year: bool = False,
+) -> np.ndarray | tuple[np.ndarray, dict[int, np.ndarray]]:
     """Return the null distribution of S = sum of per-year -log p(outcome).
 
-    For each year, draw one outcome from the null, estimate its
-    -log p under the null using a SEPARATE MC pool of size n_sims, and
-    sum across years. Repeat many times to build the null distribution.
+    For each year, draw n_sims samples from its null. Each sample's -log p
+    under its year's null is computed from the empirical frequency of that
+    drawn tuple within the sample pool. The per-year NLL arrays are then
+    shuffled (each year independently) and summed to build the null
+    distribution of S.
 
-    This is the computationally expensive step. For 20 years at
-    n_sims=1M, this would be prohibitively slow (would take 20M simulations
-    per null sample, times many samples). To make it tractable we use a
-    different strategy: for each year, pre-compute the empirical
-    distribution of -log p over n_sims draws, and combine across years.
-
-    Specifically:
-    1. For each year, generate n_sims draws, compute their empirical
-       frequencies (via Counter), and store {tuple -> log_prob}.
-    2. Sample from each year's empirical distribution to build S null.
-
-    This gives us n_sims samples of S cheaply.
+    When `return_per_year=True`, also returns a dict {year: shuffled array}
+    so callers can compute exact LOYO by summing over a subset of years
+    without re-simulating.
     """
-    per_year_nll_samples: list[np.ndarray] = []
+    per_year_nll_samples: dict[int, np.ndarray] = {}
+    rng = np.random.default_rng(seed_offset + 99999)
     for year in sorted(configs.keys()):
         cfg = configs[year]
         sims = simulate(cfg, n_sims, seed=seed_offset + year)
         keys = [tuple(row.tolist()) for row in sims]
         from collections import Counter
         cnt = Counter(keys)
-        # For each sample, its empirical -log p = -log(cnt[key] / n_sims)
         log_ps = np.array([-np.log(cnt[k] / n_sims) for k in keys])
-        per_year_nll_samples.append(log_ps)
-    # Sum across years (aligned by sample index). Shuffle within years to
-    # avoid spurious correlation between years (each year is independent under
-    # the null).
-    rng = np.random.default_rng(seed_offset + 99999)
+        rng.shuffle(log_ps)  # shuffle once, aligned with the sum below
+        per_year_nll_samples[year] = log_ps
     S = np.zeros(n_sims, dtype=np.float64)
-    for arr in per_year_nll_samples:
-        rng.shuffle(arr)  # in-place
+    for arr in per_year_nll_samples.values():
         S += arr
+    if return_per_year:
+        return S, per_year_nll_samples
     return S
 
 
@@ -182,10 +174,11 @@ def global_test(
         S_obs_se_sq += se * se
     S_obs_se = float(np.sqrt(S_obs_se_sq))
 
-    S_null = global_statistic_null(
+    S_null, per_year_null = global_statistic_null(
         {y: configs[y] for y in observed_per_year},
         n_sims=n_sims,
         seed_offset=seed_offset,
+        return_per_year=True,
     )
     # p-value: fraction of null samples with S >= S_obs
     tail = int((S_null >= S_obs).sum())
@@ -202,6 +195,7 @@ def global_test(
         "n_sims": n_sims,
         "per_year_nll": per_year,
         "S_null": S_null,
+        "per_year_null": per_year_null,  # {year: np.ndarray of shape (n_sims,)}
     }
 
 
@@ -210,48 +204,39 @@ def global_test(
 # ---------------------------------------------------------------------------
 
 def leave_one_year_out(test_result: dict, alpha: float = 0.05) -> dict:
-    """Recompute the p-value with each year removed.
+    """Recompute the p-value with each year removed (exact LOYO).
 
-    Uses the stored per_year_nll (observed) and S_null (generated over the
-    full set). For a strict LOYO we'd re-simulate the null without each
-    year; as an approximation, we subtract the expected per-year null
-    contribution from S_null. This is cheap and preserves the comparison.
+    For each removed year, we reconstruct the 19-year null by subtracting
+    that year's per-year NLL samples from the full S_null — equivalent to
+    summing over the 19 retained years directly, since S_null was computed
+    as the sum of per-year arrays.
+
+    Requires test_result to contain `per_year_null` (set by global_test
+    with return_per_year=True on the null generator).
 
     Returns {year: {S_obs_loyo, p_value_loyo, flipped}}.
     """
     per_year = test_result["per_year_nll"]
     S_null_full = test_result["S_null"]
-    alpha_full = test_result["p_value"]
-    flipped_at_alpha = alpha_full < alpha
+    per_year_null = test_result.get("per_year_null")
+    if per_year_null is None:
+        raise ValueError(
+            "leave_one_year_out requires test_result['per_year_null']. "
+            "Call global_test with the updated stats module."
+        )
+    flipped_at_alpha = test_result["p_value"] < alpha
 
     results: dict[int, dict] = {}
-    # Null mean contribution per year: we approximate each year's contribution
-    # by its mean (null_mean scales linearly in years). Simpler approach:
-    # recompute the null distribution only over kept years using the same
-    # seeds. To keep this practical we re-run global_statistic_null without
-    # the removed year. This is O(Y) passes; for small Y (20-41) and
-    # moderate n_sims that's fine.
-    # For tractability we implement this via incremental subtraction from the
-    # per-year null samples, which we stored in global_statistic_null.
-    # Here we don't have that cache — so we approximate by subtracting the
-    # per-year null MEAN from S_null and comparing S_obs minus that year's
-    # observed NLL. This gives a valid but slightly conservative LOYO check:
-    # it centers the null correctly and only misses the variance contribution
-    # of the dropped year (which shrinks the null std, so is not overly
-    # anti-conservative).
-    years = list(per_year.keys())
-    total_nll_mean = test_result["null_mean"]
-    per_year_mean = total_nll_mean / max(1, len(years))  # uniform split
-    for y in years:
-        S_obs_loyo = test_result["S_obs"] - per_year[y][0]
-        # Shift null by the removed year's expected contribution
-        S_null_loyo = S_null_full - per_year_mean
+    for y, (nll_obs, _) in per_year.items():
+        S_obs_loyo = test_result["S_obs"] - nll_obs
+        # Exact LOYO null: subtract this year's aligned per-sample NLL array.
+        S_null_loyo = S_null_full - per_year_null[y]
         tail = int((S_null_loyo >= S_obs_loyo).sum())
         p_loyo = (tail + 1) / (len(S_null_loyo) + 1)
         flipped = (p_loyo < alpha) != flipped_at_alpha
         results[y] = {
-            "S_obs_loyo": S_obs_loyo,
-            "p_value_loyo": p_loyo,
+            "S_obs_loyo": float(S_obs_loyo),
+            "p_value_loyo": float(p_loyo),
             "flipped": bool(flipped),
         }
     return results

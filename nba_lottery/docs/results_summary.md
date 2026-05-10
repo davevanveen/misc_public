@@ -13,12 +13,12 @@
 | A_post2019 | 63.5225 | 62.2089 | 0.330216 | 1.000000 | No |
 | T1 | 4 | 4.2300 | 1.000000 | 1.000000 | No |
 
-Metadata: N = 1,000,000 Monte Carlo simulations; seed = 0; git SHA = `93250402e7`.
+Metadata: N = 1,000,000 Monte Carlo simulations; seed = 0; git SHA = `1264d21888`.
 
 ### Robustness gates (for test A)
 
 - **Concentration gate** (top-3 year NLL excess share < 0.5 required): value = 0.7434, **FAILS**. A global-anomaly headline would be reclassified to outlier-year evidence if the concentration gate had failed with a significant A. Since A itself is not significant, this is moot.
-- **LOYO gate** (no single-year removal should flip the α=0.05 decision): 0 / 20 years flip the decision. LOYO p-values range from 0.353 to 0.758. Headline finding is robust to any single-year removal.
+- **LOYO gate** (no single-year removal should flip the α=0.05 decision): 0 / 20 years flip the decision. LOYO p-values range from 0.411 to 0.652. Headline finding is robust to any single-year removal.
 
 ---
 
