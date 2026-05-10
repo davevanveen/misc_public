@@ -113,26 +113,40 @@ def _parse_int(s: str) -> int | None:
 def _parse_prob_cell(s: str) -> tuple[float | None, bool]:
     """Parse a probability cell. Returns (prob, is_actual_winner).
 
-    Values like '.140', '.006', '—', or with background highlight.
+    Values like '.140', '.006', '14.0%', '—', or with background highlight.
     The `background:#ff9` style marks the cell corresponding to the pick
     position the team actually received.
     """
     is_winner = "#ff9" in s or "#FFFF99" in s or "#ffff99" in s
-    # Strip style attributes to get to the numeric content
+    # Strip style attributes to get to the numeric content.
     # Cell format examples:
     #   " .140 "
     #   'style="background:#ff9; width:2em; text-align:center;"| .127'
+    #   'style="background:#ff9"|.225^' (footnote-style dagger appended)
+    #   '14.0%' (percent-with-sign formatting, used 2021+)
     #   " — "
     content = s
+    # Cell-attribute separator is `"|` (inside style) or `|` (in sparse tables).
+    # Walk the split-list and take the last segment, which is the value.
     if "|" in content:
-        content = content.split("|", 1)[1]
+        content = content.split("|")[-1]
     content = _strip_wikitext_inline(content).strip()
+    # Drop trailing footnote markers (^, *, †, ‡) — these are column footnotes
+    # in older lottery tables pointing at the winner row.
+    content = content.rstrip("^*†‡").strip()
     if not content or content in ("—", "-", "0"):
         return (None, is_winner)
+    # Percent form: '14.0%' -> 0.14
+    is_pct = content.endswith("%")
+    if is_pct:
+        content = content[:-1].strip()
     try:
-        return (float(content), is_winner)
+        val = float(content)
     except ValueError:
         return (None, is_winner)
+    if is_pct:
+        val = val / 100.0
+    return (val, is_winner)
 
 
 def _find_lottery_tables(section: str) -> list[str]:
