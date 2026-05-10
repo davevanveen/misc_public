@@ -1,0 +1,668 @@
+{{short description|Basketball player selection}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox sports draft
+| name        = 1993 NBA draft
+| image       = 
+| caption     = 
+| logo        = 
+| logosize    = 
+| sport       = Basketball
+| date        = June 30, 1993
+| location    = [[The Palace of Auburn Hills]] ([[Auburn Hills, Michigan]])
+| network     = [[NBA on TNT|TNT]]
+| league      = NBA
+| teams       = 
+| overall     = 54
+| rounds      = 2
+| first       = [[Chris Webber]] ([[Orlando Magic]])
+| hofnum      = {{Collapsible list
+| title = 1
+|1 = PF [[Chris Webber]]}}
+| prev        = [[1992 NBA draft|1992]]
+| next        = [[1994 NBA draft|1994]]
+}}
+The '''[[1993–94 NBA season|1993]] [[NBA draft]]''' took place on June 30, 1993, at [[The Palace of Auburn Hills]] in [[Auburn Hills, Michigan]]. The draft had some talented players at the top, but injuries and personal problems hurt many of them. [[Chris Webber]], [[Penny Hardaway]], [[Allan Houston]], and [[Jamal Mashburn]] were All-Stars whose careers were cut short by injuries, with Webber being inducted into the [[Naismith Basketball Hall of Fame]] in 2021. [[Isaiah Rider]] and [[Vin Baker]] showed great potential but were plagued by personal problems. [[Bobby Hurley]]'s career was derailed by a car wreck in December of his rookie year. The mid-to-late first round (starting with pick 13) was littered with players that failed to make any significant impact, with the exception of three-time NBA champion [[Sam Cassell]]. One of the NBA best all-time wing defensive players, three-time champion [[Bruce Bowen]], went undrafted.
+
+Despite having the lowest odds, the [[1993–94 Orlando Magic season|Orlando Magic]] won the first pick in the 1993 [[NBA draft lottery]]. It was the second year in a row the Magic won the draft lottery. The Magic drafted [[Chris Webber]] with the number one overall pick, but only minutes later, executed a blockbuster trade. The Magic traded Webber to the [[1993–94 Golden State Warriors season|Golden State Warriors]] for their first-round pick (#3 overall) [[Penny Hardaway]] and three of Golden State's future first-round draft selections.<ref name="Star07-01-1993">{{cite news|title=Webber, Hardaway trade hats|url=https://www.newspapers.com/clip/4980135//|first=Mike|last=Nadel|newspaper=The Indianapolis News|page=39|via=[[Newspapers.com]]|date=July 1, 1993|access-date=April 18, 2016}}{{Open access}}</ref><ref>June 30, 1993: In exchange for Webber, the Magic received the rights to Anfernee Hardaway, a [[1996 NBA draft|1996]] 1st round draft pick ([[Todd Fuller]] was later selected), a [[1998 NBA draft|1998]] 1st round draft pick ([[Vince Carter]] was later selected) and a [[2000 NBA draft|2000]] 1st round draft pick ([[Mike Miller (basketball, born 1980)|Mike Miller]] was later selected). https://www.basketball-reference.com/friv/trades.cgi?f1=GSW&f2=ORL</ref>
+
+==Draft selections==
+[[File:Chris Webber NBA Asia Challenge 2010.jpg|right|thumb|150px|[[Chris Webber]] was selected 1st overall by the [[Orlando Magic]] (traded to the [[Golden State Warriors]]).]]
+[[File:Penny Hardaway.jpg|right|thumb|150px|[[Penny Hardaway]] was selected 3rd overall by the [[Golden State Warriors]] (traded to the [[Orlando Magic]]).]]
+[[File:Lipofsky-Vin Baker.jpg|right|thumb|150px|[[Vin Baker]] was selected 8th overall by the [[Milwaukee Bucks]].]]
+[[File:Allan Houston 2010.jpg|right|thumb|150px|[[Allan Houston]] was selected 11th overall by the [[Detroit Pistons]].]]
+[[File: CassellShootaroundBig.jpg|right|thumb|150px|[[Sam Cassell]] was selected 24th overall by the [[Houston Rockets]].]]
+[[File: Nick Van Exel free throw.jpg|right|thumb|150px|[[Nick Van Exel]] was selected 37th overall by the [[Los Angeles Lakers]].]]
+{|class=wikitable
+|-
+| PG||[[Point guard]]
+| SG||[[Shooting guard]]
+| SF||[[Small forward]]
+| PF||[[Power forward (basketball)|Power forward]]
+| C||[[Center (basketball)|Center]]
+|}
+{{NBA Draft legend|1=y|2=y|3=y|4=y|5=y|6=y}}
+{|class="wikitable sortable" style="text-align:left"
+|-
+!style="width:20px;"| {{tooltip|Round|Draft round}}
+!style="width:20px;"| {{tooltip|Pick|Overall selection number}}
+!style="width:150px;"| Player
+!style="width:20px;"| {{tooltip|Pos.|Position(s) played}}
+!style="width:100px;"| Nationality{{refn|group=n|Nationality indicates the player's national team or representative nationality. If a player has not competed at the international level, then the nationality indicates the national team which the player is eligible to represent according to [[FIBA]] rules.}}
+!style="width:250px;"| Team
+!style="width:150px;"| {{tooltip|School / club team|Most recent school attended or team played for before the draft}}
+|-
+| 1
+| 1
+| bgcolor="#FFFF99" | {{sortname|Chris|Webber}}^~
+| PF/C
+| {{flagu|United States}}
+| [[Orlando Magic]] <small>(traded to [[Golden State Warriors|Golden State]])</small>
+| [[1992–93 Michigan Wolverines men's basketball team|Michigan]] ([[College sophomore|So.]])
+|-
+| 1
+| 2
+| {{sortname|Shawn|Bradley}}
+| C
+| {{flagu|Germany}}
+| [[Philadelphia 76ers]]
+| [[BYU Cougars men's basketball|BYU]] ([[Freshman|Fr.]])
+|-
+| 1
+| 3
+| bgcolor="#FBCEB1"| {{sortname|Penny|Hardaway}}* 
+|PG/SG
+| {{flagu|United States}}
+| [[Golden State Warriors]] <small>(traded to [[Orlando Magic|Orlando]])</small>
+| [[Memphis Tigers men's basketball|Memphis State]]<!--School changed name from "" to " Memphis" in 1994.--> ([[Junior (education year)|Jr.]])
+|-
+| 1
+| 4
+| bgcolor="#FBCEB1"| {{sortname|Jamal|Mashburn}}* 
+| SF
+| {{flagu|United States}}
+| [[Dallas Mavericks]]
+| [[Kentucky Wildcats men's basketball|Kentucky]] ([[Junior (education year)|Jr.]])
+|-
+| 1
+| 5
+| {{sortname|Isaiah|Rider}}
+| SG
+| {{flagu|United States}}
+| [[Minnesota Timberwolves]]
+| [[UNLV Rebels men's basketball|UNLV]] ([[Senior (education)|Sr.]])
+|-
+| 1
+| 6
+| {{sortname|Calbert|Cheaney}}
+| SG/SF
+| {{flagu|United States}}
+| [[Washington Bullets]]
+| [[Indiana Hoosiers men's basketball|Indiana]] ([[Senior (education)|Sr.]])
+|-
+| 1
+| 7
+| {{sortname|Bobby|Hurley}}
+| PG
+| {{flagu|United States}}
+| [[Sacramento Kings]]
+| [[Duke Blue Devils men's basketball|Duke]] ([[Senior (education)|Sr.]])
+|-
+| 1
+| 8
+| bgcolor="#FBCEB1"| {{sortname|Vin|Baker}}* 
+| PF
+| {{flagu|United States}}
+| [[Milwaukee Bucks]]
+| [[Hartford Hawks men's basketball|Hartford]] ([[Senior (education)|Sr.]])
+|-
+| 1
+| 9
+| {{sortname|Rodney|Rogers}}
+| PF
+| {{flagu|United States}}
+| [[Denver Nuggets]]
+| [[Wake Forest Demon Deacons men's basketball|Wake Forest]] ([[Junior (education year)|Jr.]])
+|-
+| 1
+| 10
+| {{sortname|Lindsey|Hunter}}
+| PG
+| {{flagu|United States}}
+| [[Detroit Pistons]] <small>(from [[Miami Heat|Miami]])</small>
+| [[Jackson State Tigers basketball|Jackson State]] ([[Senior (education)|Sr.]])
+|-
+| 1
+| 11
+| bgcolor="#FFCC00"| {{sortname|Allan|Houston}}<sup>+</sup> 
+| SG
+| {{flagu|United States}}
+| [[Detroit Pistons]]
+| [[Tennessee Volunteers basketball|Tennessee]] ([[Senior (education)|Sr.]])
+|-
+| 1
+| 12
+| {{sortname|George|Lynch|dab=basketball}}
+| SF
+| {{flagu|United States}}
+| [[Los Angeles Lakers]]
+| [[1992–93 North Carolina Tar Heels men's basketball team|North Carolina]] ([[Senior (education)|Sr.]])
+|-
+| 1
+| 13
+| {{sortname|Terry|Dehere}}
+| SG
+| {{flagu|United States}}
+| [[Los Angeles Clippers]]
+| [[Seton Hall Pirates men's basketball|Seton Hall]] ([[Senior (education)|Sr.]])
+|-
+| 1
+| 14
+| {{sortname|Scott|Haskin}}
+| PF
+| {{flagu|United States}}
+| [[Indiana Pacers]]
+| [[Oregon State Beavers men's basketball|Oregon State]] ([[Senior (education)|Sr.]])
+|-
+| 1
+| 15
+| {{sortname|Doug|Edwards|Doug Edwards (basketball)}}
+| SF
+| {{flagu|United States}}
+| [[Atlanta Hawks]]
+| [[Florida State Seminoles men's basketball|Florida State]] ([[Senior (education)|Sr.]])
+|-
+| 1
+| 16
+| {{sortname|Rex|Walters}}
+| SG
+| {{flagu|United States}}
+| [[New Jersey Nets]]
+| [[Kansas Jayhawks men's basketball|Kansas]] ([[Senior (education)|Sr.]])
+|-
+| 1
+| 17
+| {{sortname|Greg|Graham}} 
+| SG
+| {{flagu|United States}}
+| [[Charlotte Hornets]]
+| [[Indiana Hoosiers men's basketball|Indiana]] ([[Senior (education)|Sr.]])
+|-
+| 1
+| 18
+| {{sortname|Luther|Wright}}
+| C
+| {{flagu|United States}}
+| [[Utah Jazz]]
+| [[Seton Hall Pirates men's basketball|Seton Hall]] ([[Junior (education year)|Jr.]])
+|-
+| 1
+| 19
+| {{sortname|Acie|Earl}} 
+| C
+| {{flagu|United States}}
+| [[Boston Celtics]]
+| [[Iowa Hawkeyes men's basketball|Iowa]] ([[Senior (education)|Sr.]])
+|-
+| 1
+| 20
+| {{sortname|Scott|Burrell}}
+| SF
+| {{flagu|United States}}
+| [[Charlotte Hornets]] <small>(from [[San Antonio Spurs|San Antonio]])</small>
+| [[Connecticut Huskies men's basketball|Connecticut]] ([[Senior (education)|Sr.]])
+|-
+| 1
+| 21
+| {{sortname|James|Robinson|dab=basketball, born 1970}}
+| SG
+| {{flagu|United States}}
+| [[Portland Trail Blazers]]
+| [[Alabama Crimson Tide men's basketball|Alabama]] ([[Junior (education year)|Jr.]])
+|-
+| 1
+| 22
+| {{sortname|Chris|Mills|Chris Mills (basketball)}}
+| SF
+| {{flagu|United States}}
+| [[Cleveland Cavaliers]]
+| [[Arizona Wildcats men's basketball|Arizona]] ([[Senior (education)|Sr.]])
+|-
+| 1
+| 23
+| {{sortname|Ervin|Johnson}}
+| C
+| {{flagu|United States}}
+| [[Seattle SuperSonics]]
+| [[New Orleans Privateers men's basketball|New Orleans]] ([[Senior (education)|Sr.]])
+|-
+| 1
+| 24
+| bgcolor="#FBCEB1"| {{sortname|Sam|Cassell}}* 
+| PG
+| {{flagu|United States}}
+| [[Houston Rockets]]
+| [[Florida State Seminoles men's basketball|Florida State]] ([[Senior (education)|Sr.]])
+|-
+| 1
+| 25
+| {{sortname|Corie|Blount}} 
+| PF
+| {{flagu|United States}}
+| [[Chicago Bulls]]
+| [[Cincinnati Bearcats men's basketball|Cincinnati]] ([[Senior (education)|Sr.]])
+|-
+| 1
+| 26
+| {{sortname|Geert|Hammink}}
+| C
+| {{flagu|Netherlands}}
+| [[Orlando Magic]] <small>(from [[New York Knicks|New York]])</small>
+| [[LSU Tigers basketball|LSU]] ([[Senior (education)|Sr.]])
+|-
+| 1
+| 27
+| {{sortname|Malcolm|Mackey}}
+| PF
+| {{flagu|United States}}
+| [[Phoenix Suns]]
+| [[Georgia Tech Yellow Jackets men's basketball|Georgia Tech]] ([[Senior (education)|Sr.]])
+|-
+| 2
+| 28
+| {{sortname|Lucious|Harris}}
+| PG
+| {{flagu|United States}}
+| [[Dallas Mavericks]]
+| [[Long Beach State 49ers men's basketball|Long Beach State]] ([[Senior (education)|Sr.]])
+|-
+| 2
+| 29
+| bgcolor="#C0C0C0" | {{sortname|Sherron|Mills}}<sup>#</sup>
+| F/C
+| {{flagu|United States}}
+| [[Minnesota Timberwolves]]
+| [[VCU Rams men's basketball|VCU]] ([[Senior (education)|Sr.]])
+|-
+| 2
+| 30
+| {{sortname|Gheorghe|Mureșan}}
+| C
+| {{ROM}}
+| [[Washington Bullets]]
+| [[Élan Béarnais Pau-Orthez|Pau-Orthez]] ([[Ligue Nationale de Basketball|France]])
+|-
+| 2
+| 31
+| {{sortname|Evers|Burns}}
+| F
+| {{flagu|United States}}
+| [[Sacramento Kings]]
+| [[Maryland Terrapins men's basketball|Maryland]] ([[Senior (education)|Sr.]])
+|-
+| 2
+| 32
+| {{sortname|Alphonso|Ford}}
+| SG
+| {{flagu|United States}}
+| [[Philadelphia 76ers]]
+| [[Mississippi Valley State Delta Devils basketball|Mississippi Valley State]] ([[Senior (education)|Sr.]])
+|-
+| 2
+| 33
+| {{sortname|Eric|Riley}}
+| C
+| {{flagu|United States}}
+| [[Dallas Mavericks]]
+| [[1992–93 Michigan Wolverines men's basketball team|Michigan]] ([[Senior (education)|Sr.]])
+|-
+| 2
+| 34
+| {{sortname|Darnell|Mee}}
+| SG
+| {{flagu|United States}}
+| [[Golden State Warriors]]
+| [[Western Kentucky Hilltoppers basketball|Western Kentucky]] ([[Senior (education)|Sr.]])
+|-
+| 2
+| 35
+| {{sortname|Ed|Stokes}}
+| C
+| {{flagu|United States}}
+| [[Miami Heat]]
+| [[Arizona Wildcats men's basketball|Arizona]] ([[Senior (education)|Sr.]])
+|-
+| 2
+| 36
+| bgcolor="#C0C0C0" | {{sortname|John|Best|dab=basketball}}<sup>#</sup>
+| F/C
+| {{flagu|United States}}
+| [[New Jersey Nets]]
+| [[Tennessee Tech Golden Eagles men's basketball|Tennessee Tech]] ([[Senior (education)|Sr.]])
+|-
+| 2
+| 37
+| bgcolor="#FFCC00"| {{sortname|Nick|Van Exel}}<sup>+</sup> 
+| PG
+| {{flagu|United States}}
+| [[Los Angeles Lakers]]
+| [[Cincinnati Bearcats men's basketball|Cincinnati]] ([[Senior (education)|Sr.]])
+|-
+| 2
+| 38
+| bgcolor="#C0C0C0" | {{sortname|Conrad|McRae}}<sup>#</sup>
+| PF
+| {{flagu|United States}}
+| [[Washington Bullets]]
+| [[Syracuse Orange men's basketball|Syracuse]] ([[Senior (education)|Sr.]])
+|-
+| 2
+| 39
+| bgcolor="#C0C0C0" | {{sortname|Thomas|Hill|dab=basketball}}<sup>#</sup>
+| SG/SF
+| {{flagu|United States}}
+| [[Indiana Pacers]]
+| [[Duke Blue Devils men's basketball|Duke]] ([[Senior (education)|Sr.]])
+|-
+| 2
+| 40
+| {{sortname|Rich|Manning}}
+| C
+| {{flagu|United States}}
+| [[Atlanta Hawks]]
+| [[Washington Huskies men's basketball|Washington]] ([[Senior (education)|Sr.]])
+|-
+| 2
+| 41
+| bgcolor="#C0C0C0" | {{sortname|Anthony|Reed}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Chicago Bulls]]
+| [[Tulane Green Wave men's basketball|Tulane]] ([[Senior (education)|Sr.]])
+|-
+| 2
+| 42
+| {{sortname|Adonis|Jordan}}
+| PG
+| {{flagu|United States}}
+| [[Seattle SuperSonics]]
+| [[Kansas Jayhawks men's basketball|Kansas]] ([[Senior (education)|Sr.]])
+|-
+| 2
+| 43
+| {{sortname|Josh|Grant|Josh Grant (basketball)}}
+| PF
+| {{flagu|United States}}
+| [[Denver Nuggets]]
+| [[Utah Utes men's basketball|Utah]] ([[Senior (education)|Sr.]])
+|-
+| 2
+| 44
+| bgcolor="#C0C0C0" | {{sortname|Alex|Holcombe}}<sup>#</sup>
+| C
+| {{flagu|United States}}
+| [[Sacramento Kings]]
+| [[Baylor Bears men's basketball|Baylor]] ([[Senior (education)|Sr.]])
+|-
+| 2
+| 45
+| {{sortname|Bryon|Russell}}
+| SF
+| {{flagu|United States}}
+| [[Utah Jazz]]
+| [[Long Beach State 49ers men's basketball|Long Beach State]] ([[Senior (education)|Sr.]])
+|-
+| 2
+| 46
+| {{sortname|Richard|Petruška}}
+| C
+| {{SVK}}
+| [[Houston Rockets]]
+| [[UCLA Bruins men's basketball|UCLA]] ([[Senior (education)|Sr.]])
+|-
+| 2
+| 47
+| {{sortname|Chris|Whitney}}
+| PG
+| {{flagu|United States}}
+| [[San Antonio Spurs]]
+| [[Clemson Tigers men's basketball|Clemson]] ([[Senior (education)|Sr.]])
+|-
+| 2
+| 48
+| {{sortname|Kevin|Thompson|dab=basketball}}
+| C
+| {{flagu|United States}}
+| [[Portland Trail Blazers]]
+| [[NC State Wolfpack men's basketball|NC State]] ([[Senior (education)|Sr.]])
+|-
+| 2
+| 49
+| bgcolor="#C0C0C0" | {{sortname|Mark|Buford}}<sup>#</SUP>
+| C
+| {{flagu|United States}}
+| [[Phoenix Suns]]
+| [[Mississippi Valley State Delta Devils basketball|Mississippi Valley State]] ([[Senior (education)|Sr.]])
+|-
+| 2
+| 50
+| bgcolor="#C0C0C0" | {{sortname|Marcelo|Nicola}}<sup>#</SUP>
+| PF
+| {{ARG}}
+| [[Houston Rockets]]
+| [[Saski Baskonia|Taugres]] ([[Liga ACB|Spain]])
+|-
+| 2
+| 51
+| bgcolor="#C0C0C0" |  {{sortname|Spencer|Dunkley}}<sup>#</sup>
+| C
+| {{GBR}}
+| [[Indiana Pacers]]
+| [[Delaware Fightin' Blue Hens men's basketball|Delaware]] ([[Senior (education)|Sr.]])
+|-
+| 2
+| 52
+| {{sortname|Mike|Peplowski}}
+| C
+| {{flagu|United States}}
+| [[Sacramento Kings]]
+| [[Michigan State Spartans men's basketball|Michigan State]] ([[Senior (education)|Sr.]])
+|-
+| 2
+| 53
+| bgcolor="#C0C0C0" | {{sortname|Leonard|White|dab=basketball}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Los Angeles Clippers]]
+| [[Southern Jaguars basketball|Southern]] ([[Senior (education)|Sr.]])
+|-
+| 2
+| 54
+| bgcolor="#C0C0C0" |{{sortname|Byron|Wilson}}<sup>#</sup>
+| SG/SF
+| {{flagu|United States}}
+| [[Phoenix Suns]]
+| [[Utah Utes men's basketball|Utah]] ([[Senior (education)|Sr.]])
+|}
+{{reflist|group=n}}
+
+==Notable undrafted players==
+{{further|List of undrafted NBA players}}
+These players were not selected in the 1993 NBA draft but have played at least one game in the NBA.
+{| class="wikitable sortable sortable"
+|-
+!style="width:19%;"| Player
+!style="width:1%;"| Pos.
+!style="width:16%;"| Nationality
+!style="width:20%;"| School/club team
+|-
+| {{sortname|Ashraf|Amaya}}
+| F
+| {{flagu|United States}}
+| [[Southern Illinois Salukis men's basketball|Southern Illinois]] <small>(Sr.)</small>
+|-
+| {{sortname|Dexter|Boney}}
+| G
+| {{flagu|United States}}
+| [[UNLV Runnin' Rebels basketball|UNLV]] <small>(Sr.)</small>
+|-
+| {{sortname|Bruce|Bowen}} 
+| SF
+| {{flagu|United States}}
+| [[Cal State Fullerton Titans men's basketball|Cal State Fullerton]] <small>(Sr.)</small>
+|-
+| {{sortname|Mitchell|Butler}} 
+| PG
+| {{flagu|United States}}
+| [[UCLA Bruins men's basketball|UCLA]] <small>(Sr.)</small>
+|-
+| {{sortname|Kornél|Dávid}}
+| PF
+| {{HUN}}
+| [[Budapesti Honvéd SE (men's basketball)|Tungsram-Honvéd]] <small>([[Nemzeti Bajnokság I/A (men's basketball)|Hungary]])</small>
+|-
+| {{sortname|Bill|Edwards|dab=basketball}}
+| F
+| {{flagu|United States}}
+| [[Wright State Raiders men's basketball|Wright State]] <small>(Sr.)</small>
+|-
+| {{sortname|Evric|Gray}} 
+| SF
+| {{flagu|United States}}
+| [[UNLV Runnin' Rebels basketball|UNLV]] <small>(Sr.)</small>
+|-
+| {{sortname|Antonio|Harvey}}
+| PF
+| {{flagu|United States}}
+| [[Pfeiffer Falcons men's basketball|Pfeiffer]] <small>(Sr.)</small>
+|-
+| {{sortname|Stanley|Jackson|dab=basketball}}
+| SG
+| {{flagu|United States}}
+| [[UAB Blazers men's basketball|UAB]] <small>(Sr.)</small>
+|-
+| {{sortname|Warren|Kidd}} 
+| C
+| {{flagu|United States}}
+| [[Middle Tennessee Blue Raiders men's basketball|Middle Tennessee]] <small>(Sr.)</small>
+|-
+| {{sortname|Todd|Mundt}} 
+| C
+| {{flagu|United States}}
+| [[Delta State Statesmen basketball|Delta State]] <small>(Sr.)</small>
+|-
+| {{sortname|Julius|Nwosu}} 
+| PF
+| {{NGA}}
+| [[Liberty Flames basketball|Liberty]] <small>(Sr.)</small>
+|-
+| {{sortname|Bo|Outlaw}} 
+| PF/C
+| {{flagu|United States}}
+| [[Houston Cougars men's basketball|Houston]] <small>(Sr.)</small>
+|-
+| {{sortname|Antoine|Rigaudeau}}
+| PG/SG
+| {{FRA}}
+| [[Cholet Basket]] <small>([[LNB Pro A|France]])</small>
+|-
+| {{sortname|Brent|Scott|dab=basketball}} 
+| C
+| {{flagu|United States}}
+| [[Rice Owls men's basketball|Rice]] <small>(Sr.)</small>
+|-
+| {{sortname|Matt|Wenstrom}} 
+| C
+| {{flagu|United States}}
+| [[North Carolina Tar Heels men's basketball|North Carolina]] <small>(Sr.)</small>
+|-
+| {{sortname|Aaron|Williams|dab=basketball}}
+| PF/C
+| {{flagu|United States}}
+| [[Xavier Musketeers men's basketball|Xavier]] <small>(Sr.)</small>
+|}
+
+==Early entrants==
+===College underclassmen===
+For the eleventh year in a row and the fifteenth time in sixteen years, no college underclassman would withdraw their entry into the NBA draft. However, this would the third time in NBA history where a foreign-born player would enter the NBA draft as an underclassman of sorts, as well as be the first time said player didn't represent the [[Eastern Bloc]], but instead represented [[Africa]] (although still playing in [[Europe]] at the time). It would also be the seventh time in eight years that a player that would leave college in order to play basketball professionally overseas would declare entry into the NBA draft as an underclassman of sorts, with the [[Australia]]n born [[Tony Ronaldson]] leaving [[Arizona State Sun Devils men's basketball|Arizona State University]] to play for the [[South East Melbourne Magic]] in his home nation. Including those two players, the total number of underclassmen that entered this year's draft is twenty. Regardless, the following [[college basketball]] players successfully applied for early draft entrance.<ref name=tdr>{{cite web |title=1993 Underclassmen |url=https://www.thedraftreview.com/index.php?option=com_content&view=article&id=3040:1993-underclassmen&catid=136&Itemid=384 |website=The Draft Review | date=August 4, 2007 |access-date=December 15, 2022}}</ref>
+
+{{div col}}
+* {{flagicon|USA}} [[Milton Bell]] – F, [[Richmond Spiders men's basketball|Richmond]] (junior)
+* {{flagicon|USA}} Antonio Bowen – F, [[Northern Oklahoma Junior College|Northern Oklahoma JC]] (freshman)
+* {{flagicon|GER}} [[Shawn Bradley]] – C, [[BYU Cougars men's basketball|BYU]] (freshman)
+* {{flagicon|USA}} Kenny Carter – G, [[Luzerne County Community College|Luzerne County CC]] (freshman)
+* {{flagicon|USA}} [[Parrish Casebier]] – G, [[Evansville Purple Aces men's basketball|Evansville]] (junior)
+* {{flagicon|USA}} Shawn Copes – F, [[Central Missouri Mules basketball|Central Missouri]] (junior)
+* {{flagicon|USA}} Jim Dickinson – C, [[Seton Hall Pirates men's basketball|Seton Hall]] (junior)
+* {{flagicon|USA}} [[Anfernee Hardaway]] – G, [[Memphis Tigers men's basketball|Memphis]] (junior)
+* {{flagicon|USA}} Daniel Lyton – F, [[Riverside City College#Athletics|Riverside City]] (junior)
+* {{flagicon|USA}} [[Jamal Mashburn]] – F, [[Kentucky Wildcats men's basketball|Kentucky]] (junior)
+* {{flagicon|USA}} Malloy Nesmith – G, [[Utah State Aggies men's basketball|Utah State]] (junior)
+* {{flagicon|USA}} [[James Robinson (basketball, born 1970)|James Robinson]] – G, [[Alabama Crimson Tide men's basketball|Alabama]] (junior)
+* {{flagicon|USA}} [[Rodney Rogers]] – F, [[Wake Forest Demon Deacons men's basketball|Wake Forest]] (junior)
+* {{flagicon|USA}} Ryan Swank – G, [[Luzerne County Community College|Luzerne County CC]] (sophomore)
+* {{flagicon|USA}} Kevin Thomas – F, [[Community College of Beaver County|Beaver County CC]] (freshman)
+* {{flagicon|USA}} Ernest Vickers – F, [[Panhandle State Aggies|Panhandle State]] (junior)
+* {{flagicon|USA}} [[Chris Webber]] – F, [[Michigan Wolverines men's basketball|Michigan]] (sophomore)
+* {{flagicon|USA}} [[Luther Wright]] – C, [[Seton Hall Pirates men's basketball|Seton Hall]] (junior)
+{{div col end}}
+
+===International players===
+For the third time in NBA history, an international player would enter the NBA draft. This draft would also be the first time a foreign player entering the NBA draft would not come from the [[Eastern Bloc]], but instead represent [[Africa]] while playing in [[Europe]]. The following international player successfully applied for early draft entrance.<ref name=tdr />
+
+* {{flagicon|SEN}} Etienne Preira – F, [[ADA Blois Basket 41|ADA Blois]] ([[LNB Pro B|France]])
+
+===Other eligible players===
+{| class="wikitable sortable plainrowheaders" style="text-align:left; font-size:95%"
+! Player !! {{tooltip|Team|Most recent team played for before the draft}} !!class=unsortable| Note !!class=unsortable| Ref.
+|-
+!scope="row"|{{flagicon|AUS}} [[Tony Ronaldson]]
+| [[South East Melbourne Magic]] ([[National Basketball League (Australia)|Australia]]) || Left [[Arizona State Sun Devils men's basketball|Arizona State]] in 1992; playing professionally since the 1992–93 season ||align=center|<ref>{{cite news |last1=Berkowitz |first1=Steve |title=MEN'S BASKETBALL NOTEBOOK |url=https://www.washingtonpost.com/archive/sports/1993/12/23/mens-basketball-notebook/fc686f45-44cf-418a-8e3e-ac275b2c2447/ |newspaper=The Washington Post |access-date=October 6, 2023 |date=December 23, 1993}}</ref>
+|}
+
+==Invited attendees==
+The 1993 NBA draft is considered to be the sixteenth NBA draft to have utilized what's properly considered the "green room" experience for NBA prospects. The NBA's green room is a staging area where anticipated draftees often sit with their families and representatives, waiting for their names to be called on draft night. Often being positioned either in front of or to the side of the podium (in this case, being positioned somewhere within [[The Palace of Auburn Hills]]<ref name="1993Invites">{{cite web | title=1993 Green Room Invites - the Draft Review | access-date=December 27, 2025 | url=https://www.thedraftreview.com/historical-draft-events/green-room/1993-green-room-invites }}</ref>), once a player heard his name, he would walk to the podium to shake hands and take promotional photos with the NBA commissioner. From there, the players often conducted interviews with various media outlets while backstage. From there, the players often conducted interviews with various media outlets while backstage. However, once the NBA draft started to air nationally on TV starting with the [[1980 NBA draft]], the green room evolved from players waiting to hear their name called and then shaking hands with these select players who were often called to the hotel to take promotional pictures with the NBA commissioner a day or two after the draft concluded to having players in real-time waiting to hear their names called up and then shaking hands with [[David Stern]], the NBA's commissioner at the time.<ref>{{Cite web |last=Maurer |first=Matthew |date=2024-02-18 |title=Draft Broadcasts - The Draft Review |url=https://www.thedraftreview.com/sundry/sundry-articles/draft-broadcasts |access-date=2025-12-27 |website=The Draft Review |language=en-us}}</ref> The NBA compiled its list of green room invites through collective voting by the NBA's team presidents and general managers alike, which in this year's case belonged to only what they believed were the top 17 prospects at the time.<ref>{{Cite web |title=Green Room - The Draft Review |url=https://www.thedraftreview.com/historical-draft-events/green-room |access-date=2025-12-27 |website=The Draft Review |language=en-us}}</ref> Despite the large amount of invites that held some very successful players, two notable absences from this group include [[Sam Cassell]] from [[Florida State University]] and [[Nick Van Exel]] from the [[University of Cincinnati]], with 7'7" [[Romania]]n center [[Gheorghe Mureșan]] waiting until the second round to be selected himself. Even so, the following players were invited to attend this year's draft festivities live and in person.<ref name="1993Invites" />
+
+{{div col}}
+*{{flagicon|USA}} [[Vin Baker]] – PF, [[Hartford Hawks men's basketball|Hartford]]
+*{{flagicon|GER}} [[Shawn Bradley]] – C, [[BYU Cougars men's basketball|Brigham Young]]
+*{{flagicon|USA}} [[Calbert Cheaney]] – SG/SF, [[Indiana Hoosiers men's basketball|Indiana]]
+*{{flagicon|USA}} [[Terry Dehere]] – SG, [[Seton Hall Pirates men's basketball|Seton Hall]]
+*{{flagicon|USA}} [[Acie Earl]] – C, [[Iowa Hawkeyes men's basketball|Iowa]]
+*{{flagicon|USA}} [[Doug Edwards (basketball)|Doug Edwards]] – SF, [[Florida State Seminoles men's basketball|Florida State]]
+*{{flagicon|USA}} [[Penny Hardaway|Anfernee "Penny" Hardaway]] – PG/SG, [[Memphis Tigers men's basketball|Memphis State]]
+*{{flagicon|USA}} [[Allan Houston]] – SG, [[Tennessee Volunteers basketball|Tennessee]]
+*{{flagicon|USA}} [[Lindsey Hunter]] – PG, [[Jackson State Tigers basketball|Jackson State]]
+*{{flagicon|USA}} [[Bobby Hurley]] – PG, [[Duke Blue Devils men's basketball|Duke]]
+*{{flagicon|USA}} [[Jamal Mashburn]] – SF, [[Kentucky Wildcats men's basketball|Kentucky]]
+*{{flagicon|USA}} [[Chris Mills (basketball)|Chris Mills]] – SF, [[Arizona Wildcats men's basketball|Arizona]]
+*{{flagicon|ROM}} [[Gheorghe Mureșan]] – C, [[Élan Béarnais|Élan Béarnais Pau-Orthez]] ([[Ligue Nationale de Basketball|France]])
+*{{flagicon|USA}} [[Isaiah Rider]] – SG, [[UNLV Runnin' Rebels men's basketball|UNLV]]
+*{{flagicon|USA}} [[Rodney Rogers]] – PF, [[Wake Forest Demon Deacons men's basketball|Wake Forest]]
+*{{flagicon|USA}} [[Chris Webber]] – PF/C, [[Michigan Wolverines men's basketball|Michigan]]
+*{{flagicon|USA}} [[Luther Wright]] – C, [[Seton Hall Pirates men's basketball|Seton Hall]]
+{{div col end}}
+
+==External links==
+* [https://www.basketball-reference.com/draft/NBA_1993.html 1993 NBA Draft]
+
+==See also==
+* [[List of first overall NBA draft picks]]
+
+
+==References==
+{{Reflist}}
+
+{{NBA Drafts}}
+{{NBA Draft history by team}}
+{{1993 NBA draft}}
+{{1993–94 NBA season by team}}
+{{NBA on TNT}}
+{{NBA Radio Network}}
+
+[[Category:1993–94 NBA season|Draft]]
+[[Category:NBA draft]]
+[[Category:June 1993 sports events in the United States|NBA draft]]
+[[Category:1993 in sports in Michigan|NBA draft]]
+[[Category:Basketball in Michigan]]
+[[Category:Organized events in Michigan]]
+[[Category:Sports in Auburn Hills, Michigan]]

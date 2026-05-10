@@ -1,0 +1,5 @@
+era,year_start,year_end,combination_base,drawn_picks,description
+envelope_1985_1989,1985,1989,,7,Envelope-draw era. Equal odds among lottery teams for their full draft order. Exact official joint probabilities for intermediate picks are coarser than in later eras.
+weighted_1990_1993,1990,1993,66,3,Weighted-ball era using 66 combinations. Top 3 picks drawn; remainder fall by inverse record order.
+weighted_1994_2018,1994,2018,1000,3,"Weighted 14-ball system with 1,000 combinations. Top 3 picks drawn; remainder fall by inverse record order."
+modern_2019_present,2019,9999,1000,4,Modern weighted system with flattened top-3 odds (14.0/14.0/14.0). Top 4 picks drawn; remainder fall by inverse record order.

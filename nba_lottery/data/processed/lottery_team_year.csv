@@ -1,0 +1,294 @@
+year,era,team,team_wikilink,record_wins,record_losses,pre_lottery_rank,combinations,won_pick_position,has_trade_protection_note,pick_note_refs,data_quality_flag,confirmatory_eligible,eligibility_reason
+2003,weighted_1994_2018,Cleveland Cavaliers,Cleveland Cavaliers,17,65,1,225,1,0,,clean,1,ok
+2003,weighted_1994_2018,Denver Nuggets,Denver Nuggets,17,65,1,225,3,0,,clean,1,ok
+2003,weighted_1994_2018,Toronto Raptors,Toronto Raptors,24,58,3,157,4,0,,clean,1,ok
+2003,weighted_1994_2018,Miami Heat,Miami Heat,25,57,4,120,5,0,,clean,1,ok
+2003,weighted_1994_2018,Los Angeles Clippers,Los Angeles Clippers,28,54,5,89,6,0,,clean,1,ok
+2003,weighted_1994_2018,Memphis Grizzlies,Memphis Grizzlies,28,54,5,64,2,0,,clean,1,ok
+2003,weighted_1994_2018,Chicago Bulls,Chicago Bulls,30,52,7,44,7,0,,clean,1,ok
+2003,weighted_1994_2018,Atlanta Hawks,Atlanta Hawks,35,47,8,29,8,0,,clean,1,ok
+2003,weighted_1994_2018,New York Knicks,New York Knicks,37,45,9,15,9,0,,clean,1,ok
+2003,weighted_1994_2018,Washington Wizards,Washington Wizards,37,45,9,14,10,0,,clean,1,ok
+2003,weighted_1994_2018,Golden State Warriors,Golden State Warriors,38,44,11,7,11,0,,clean,1,ok
+2003,weighted_1994_2018,Seattle SuperSonics,Seattle SuperSonics,40,42,12,6,12,0,,clean,1,ok
+2003,weighted_1994_2018,Houston Rockets,Houston Rockets,43,39,13,5,13,0,,clean,1,ok
+2006,weighted_1994_2018,Portland Trail Blazers,Portland Trail Blazers,21,61,1,250,4,0,,clean,1,ok
+2006,weighted_1994_2018,New York Knicks,New York Knicks,23,59,2,199,2,1,a,resolved_ambiguity,1,ok
+2006,weighted_1994_2018,Charlotte Bobcats,Charlotte Bobcats,26,56,3,138,3,0,,clean,1,ok
+2006,weighted_1994_2018,Atlanta Hawks,Atlanta Hawks,26,56,3,137,5,0,,clean,1,ok
+2006,weighted_1994_2018,Toronto Raptors,Toronto Raptors,27,55,5,88,1,0,,clean,1,ok
+2006,weighted_1994_2018,Minnesota Timberwolves,Minnesota Timberwolves,33,49,6,53,6,0,,clean,1,ok
+2006,weighted_1994_2018,Boston Celtics,Boston Celtics,33,49,6,53,7,0,,clean,1,ok
+2006,weighted_1994_2018,Houston Rockets,Houston Rockets,34,48,8,23,8,0,,clean,1,ok
+2006,weighted_1994_2018,Golden State Warriors,Golden State Warriors,34,48,8,22,9,0,,clean,1,ok
+2006,weighted_1994_2018,Seattle SuperSonics,Seattle SuperSonics,35,47,10,11,10,0,,clean,1,ok
+2006,weighted_1994_2018,Orlando Magic,Orlando Magic,36,46,11,8,11,0,,clean,1,ok
+2006,weighted_1994_2018,New Orleans/Oklahoma City Hornets,New Orleans Hornets,38,44,12,7,12,0,,clean,1,ok
+2006,weighted_1994_2018,Philadelphia 76ers,Philadelphia 76ers,38,44,12,6,13,0,,clean,1,ok
+2006,weighted_1994_2018,Utah Jazz,Utah Jazz,41,41,14,5,14,0,,clean,1,ok
+2007,weighted_1994_2018,Memphis Grizzlies,Memphis Grizzlies,22,60,1,250,4,0,,clean,1,ok
+2007,weighted_1994_2018,Boston Celtics,Boston Celtics,24,58,2,199,5,0,,clean,1,ok
+2007,weighted_1994_2018,Milwaukee Bucks,Milwaukee Bucks,28,54,3,156,6,0,,clean,1,ok
+2007,weighted_1994_2018,Atlanta Hawks,Atlanta Hawks,30,52,4,119,3,1,1,resolved_ambiguity,1,ok
+2007,weighted_1994_2018,Seattle SuperSonics,Seattle SuperSonics,31,51,5,88,2,0,,clean,1,ok
+2007,weighted_1994_2018,Minnesota Timberwolves,Minnesota Timberwolves,32,50,6,53,7,0,,clean,1,ok
+2007,weighted_1994_2018,Portland Trail Blazers,Portland Trail Blazers,32,50,6,53,1,0,,clean,1,ok
+2007,weighted_1994_2018,Charlotte Bobcats,Charlotte Bobcats,33,49,8,19,8,0,,clean,1,ok
+2007,weighted_1994_2018,New York Knicks,New York Knicks,33,49,8,19,9,1,2,resolved_ambiguity,1,ok
+2007,weighted_1994_2018,Sacramento Kings,Sacramento Kings,33,49,8,18,10,0,,clean,1,ok
+2007,weighted_1994_2018,Indiana Pacers,Indiana Pacers,35,47,11,8,11,1,3,resolved_ambiguity,1,ok
+2007,weighted_1994_2018,Philadelphia 76ers,Philadelphia 76ers,35,47,11,7,12,0,,clean,1,ok
+2007,weighted_1994_2018,New Orleans Hornets,New Orleans Hornets,39,43,13,6,13,0,,clean,1,ok
+2007,weighted_1994_2018,Los Angeles Clippers,Los Angeles Clippers,40,42,14,5,14,0,,clean,1,ok
+2008,weighted_1994_2018,Miami Heat,Miami Heat,15,67,1,250,2,0,,clean,1,ok
+2008,weighted_1994_2018,Seattle SuperSonics,Seattle SuperSonics,20,62,2,199,4,0,,clean,1,ok
+2008,weighted_1994_2018,Minnesota Timberwolves,Minnesota Timberwolves,22,60,3,138,3,0,,clean,1,ok
+2008,weighted_1994_2018,Memphis Grizzlies,Memphis Grizzlies,22,60,3,137,5,0,,clean,1,ok
+2008,weighted_1994_2018,New York Knicks,New York Knicks,23,59,5,76,6,0,,clean,1,ok
+2008,weighted_1994_2018,Los Angeles Clippers,Los Angeles Clippers,23,59,5,75,7,0,,clean,1,ok
+2008,weighted_1994_2018,Milwaukee Bucks,Milwaukee Bucks,26,56,7,43,8,0,,clean,1,ok
+2008,weighted_1994_2018,Charlotte Bobcats,Charlotte Bobcats,32,50,8,28,9,0,,clean,1,ok
+2008,weighted_1994_2018,Chicago Bulls,Chicago Bulls,33,49,9,17,1,0,,clean,1,ok
+2008,weighted_1994_2018,New Jersey Nets,New Jersey Nets,34,48,10,11,10,0,,clean,1,ok
+2008,weighted_1994_2018,Indiana Pacers,Indiana Pacers,36,46,11,8,11,0,,clean,1,ok
+2008,weighted_1994_2018,Sacramento Kings,Sacramento Kings,38,44,12,7,12,0,,clean,1,ok
+2008,weighted_1994_2018,Portland Trail Blazers,Portland Trail Blazers,41,41,13,6,13,0,,clean,1,ok
+2008,weighted_1994_2018,Golden State Warriors,Golden State Warriors,48,34,14,5,14,0,,clean,1,ok
+2009,weighted_1994_2018,Sacramento Kings,Sacramento Kings,17,65,1,250,4,0,,clean,1,ok
+2009,weighted_1994_2018,Washington Wizards,Washington Wizards,19,63,2,178,5,1,1,resolved_ambiguity,1,ok
+2009,weighted_1994_2018,Los Angeles Clippers,Los Angeles Clippers,19,63,2,177,1,0,,clean,1,ok
+2009,weighted_1994_2018,Oklahoma City Thunder,Oklahoma City Thunder,23,59,4,119,3,0,,clean,1,ok
+2009,weighted_1994_2018,Minnesota Timberwolves,Minnesota Timberwolves,24,58,5,76,6,0,,clean,1,ok
+2009,weighted_1994_2018,Memphis Grizzlies,Memphis Grizzlies,24,58,5,75,2,0,,clean,1,ok
+2009,weighted_1994_2018,Golden State Warriors,Golden State Warriors,29,53,7,43,7,0,,clean,1,ok
+2009,weighted_1994_2018,New York Knicks,New York Knicks,32,50,8,28,8,0,,clean,1,ok
+2009,weighted_1994_2018,Toronto Raptors,Toronto Raptors,33,49,9,17,9,0,,clean,1,ok
+2009,weighted_1994_2018,Milwaukee Bucks,Milwaukee Bucks,34,48,10,10,10,0,,clean,1,ok
+2009,weighted_1994_2018,New Jersey Nets,New Jersey Nets,34,48,10,9,11,0,,clean,1,ok
+2009,weighted_1994_2018,Charlotte Bobcats,Charlotte Bobcats,35,47,12,7,12,0,,clean,1,ok
+2009,weighted_1994_2018,Indiana Pacers,Indiana Pacers,36,46,13,6,13,0,,clean,1,ok
+2009,weighted_1994_2018,Phoenix Suns,Phoenix Suns,46,36,14,5,14,0,,clean,1,ok
+2010,weighted_1994_2018,New Jersey Nets,New Jersey Nets,12,70,1,250,3,0,,clean,1,ok
+2010,weighted_1994_2018,Minnesota Timberwolves,Minnesota Timberwolves,15,67,2,199,4,0,,clean,1,ok
+2010,weighted_1994_2018,Sacramento Kings,Sacramento Kings,25,57,3,156,5,0,,clean,1,ok
+2010,weighted_1994_2018,Golden State Warriors,Golden State Warriors,26,56,4,104,6,0,,clean,1,ok
+2010,weighted_1994_2018,Washington Wizards,Washington Wizards,26,56,4,103,1,0,,clean,1,ok
+2010,weighted_1994_2018,Philadelphia 76ers,Philadelphia 76ers,27,55,6,53,2,0,,clean,1,ok
+2010,weighted_1994_2018,Detroit Pistons,Detroit Pistons,27,55,6,53,7,0,,clean,1,ok
+2010,weighted_1994_2018,Los Angeles Clippers,Los Angeles Clippers,29,53,8,23,8,0,,clean,1,ok
+2010,weighted_1994_2018,New York Knicks,New York Knicks,29,53,8,22,9,1,1,resolved_ambiguity,1,ok
+2010,weighted_1994_2018,Indiana Pacers,Indiana Pacers,32,50,10,11,10,0,,clean,1,ok
+2010,weighted_1994_2018,New Orleans Hornets,New Orleans Hornets,37,45,11,8,11,0,,clean,1,ok
+2010,weighted_1994_2018,Memphis Grizzlies,Memphis Grizzlies,40,42,12,7,12,0,,clean,1,ok
+2010,weighted_1994_2018,Toronto Raptors,Toronto Raptors,40,42,12,6,13,0,,clean,1,ok
+2010,weighted_1994_2018,Houston Rockets,Houston Rockets,42,40,14,5,14,0,,clean,1,ok
+2011,weighted_1994_2018,Minnesota Timberwolves,Minnesota Timberwolves,17,65,1,250,2,0,,clean,1,ok
+2011,weighted_1994_2018,Cleveland Cavaliers,Cleveland Cavaliers,19,63,2,199,4,0,,clean,1,ok
+2011,weighted_1994_2018,Toronto Raptors,Toronto Raptors,22,60,3,156,5,0,,clean,1,ok
+2011,weighted_1994_2018,Washington Wizards,Washington Wizards,23,59,4,119,6,0,,clean,1,ok
+2011,weighted_1994_2018,Sacramento Kings,Sacramento Kings,24,58,5,76,7,0,,clean,1,ok
+2011,weighted_1994_2018,New Jersey Nets,Brooklyn Nets,24,58,5,75,3,1,1,resolved_ambiguity,1,ok
+2011,weighted_1994_2018,Detroit Pistons,Detroit Pistons,30,52,7,43,8,0,,clean,1,ok
+2011,weighted_1994_2018,Los Angeles Clippers,Los Angeles Clippers,32,50,8,28,1,1,2,resolved_ambiguity,1,ok
+2011,weighted_1994_2018,Charlotte Bobcats,Charlotte Bobcats,34,48,9,17,9,0,,clean,1,ok
+2011,weighted_1994_2018,Milwaukee Bucks,Milwaukee Bucks,35,47,10,11,10,0,,clean,1,ok
+2011,weighted_1994_2018,Golden State Warriors,Golden State Warriors,36,46,11,8,11,0,,clean,1,ok
+2011,weighted_1994_2018,Utah Jazz,Utah Jazz,39,43,12,7,12,0,,clean,1,ok
+2011,weighted_1994_2018,Phoenix Suns,Phoenix Suns,40,42,13,6,13,0,,clean,1,ok
+2011,weighted_1994_2018,Houston Rockets,Houston Rockets,43,39,14,5,14,0,,clean,1,ok
+2012,weighted_1994_2018,Charlotte Bobcats,Charlotte Bobcats,7,59,1,250,2,0,,clean,1,ok
+2012,weighted_1994_2018,Washington Wizards,Washington Wizards,20,46,2,199,3,0,,clean,1,ok
+2012,weighted_1994_2018,Cleveland Cavaliers,Cleveland Cavaliers,21,45,3,138,4,0,,clean,1,ok
+2012,weighted_1994_2018,New Orleans Hornets,New Orleans Hornets,21,45,3,137,1,0,,clean,1,ok
+2012,weighted_1994_2018,Sacramento Kings,Sacramento Kings,22,44,5,76,5,0,,clean,1,ok
+2012,weighted_1994_2018,Brooklyn Nets,Brooklyn Nets,22,44,5,75,6,1,1,resolved_ambiguity,1,ok
+2012,weighted_1994_2018,Golden State Warriors,Golden State Warriors,23,43,7,36,7,0,,clean,1,ok
+2012,weighted_1994_2018,Toronto Raptors,Toronto Raptors,23,43,7,35,8,0,,clean,1,ok
+2012,weighted_1994_2018,Detroit Pistons,Detroit Pistons,25,41,9,17,9,0,,clean,1,ok
+2012,weighted_1994_2018,Minnesota Timberwolves,Minnesota Timberwolves,26,40,10,11,10,1,2,resolved_ambiguity,1,ok
+2012,weighted_1994_2018,Portland Trail Blazers,Portland Trail Blazers,28,38,11,8,11,0,,clean,1,ok
+2012,weighted_1994_2018,Milwaukee Bucks,Milwaukee Bucks,31,35,12,7,12,0,,clean,1,ok
+2012,weighted_1994_2018,Phoenix Suns,Phoenix Suns,33,33,13,6,13,0,,clean,1,ok
+2012,weighted_1994_2018,Houston Rockets,Houston Rockets,34,32,14,5,14,0,,clean,1,ok
+2013,weighted_1994_2018,Orlando Magic,Orlando Magic,20,62,1,250,2,0,,clean,1,ok
+2013,weighted_1994_2018,Charlotte Bobcats,Charlotte Bobcats,21,61,2,199,4,0,,clean,1,ok
+2013,weighted_1994_2018,Cleveland Cavaliers,Cleveland Cavaliers,24,58,3,156,1,0,,clean,1,ok
+2013,weighted_1994_2018,Phoenix Suns,Phoenix Suns,25,57,4,119,5,0,,clean,1,ok
+2013,weighted_1994_2018,New Orleans Pelicans,New Orleans Pelicans,27,55,5,88,6,0,,clean,1,ok
+2013,weighted_1994_2018,Sacramento Kings,Sacramento Kings,28,54,6,63,7,0,,clean,1,ok
+2013,weighted_1994_2018,Detroit Pistons,Detroit Pistons,29,53,7,36,8,0,,clean,1,ok
+2013,weighted_1994_2018,Washington Wizards,Washington Wizards,29,53,7,35,3,0,,clean,1,ok
+2013,weighted_1994_2018,Minnesota Timberwolves,Minnesota Timberwolves,31,51,9,17,9,0,,clean,1,ok
+2013,weighted_1994_2018,Portland Trail Blazers,Portland Trail Blazers,33,49,10,11,10,0,,clean,1,ok
+2013,weighted_1994_2018,Philadelphia 76ers,Philadelphia 76ers,34,48,11,8,11,0,,clean,1,ok
+2013,weighted_1994_2018,Toronto Raptors,Toronto Raptors,34,48,11,7,12,1,1,resolved_ambiguity,1,ok
+2013,weighted_1994_2018,Dallas Mavericks,Dallas Mavericks,41,41,13,6,13,0,,clean,1,ok
+2013,weighted_1994_2018,Utah Jazz,Utah Jazz,43,39,14,5,14,0,,clean,1,ok
+2014,weighted_1994_2018,Milwaukee Bucks,Milwaukee Bucks,15,67,1,250,2,0,,clean,1,ok
+2014,weighted_1994_2018,Philadelphia 76ers,Philadelphia 76ers,19,63,2,199,3,0,,clean,1,ok
+2014,weighted_1994_2018,Orlando Magic,Orlando Magic,23,59,3,156,4,0,,clean,1,ok
+2014,weighted_1994_2018,Utah Jazz,Utah Jazz,25,57,4,104,5,0,,clean,1,ok
+2014,weighted_1994_2018,Boston Celtics,Boston Celtics,25,57,4,103,6,0,,clean,1,ok
+2014,weighted_1994_2018,Los Angeles Lakers,Los Angeles Lakers,27,55,6,63,7,0,,clean,1,ok
+2014,weighted_1994_2018,Sacramento Kings,Sacramento Kings,28,54,7,43,8,0,,clean,1,ok
+2014,weighted_1994_2018,Detroit Pistons,Detroit Pistons,29,53,8,28,9,1,1,resolved_ambiguity,1,ok
+2014,weighted_1994_2018,Cleveland Cavaliers,Cleveland Cavaliers,33,49,9,17,1,0,,clean,1,ok
+2014,weighted_1994_2018,New Orleans Pelicans,New Orleans Pelicans,34,48,10,11,10,1,2,resolved_ambiguity,1,ok
+2014,weighted_1994_2018,Denver Nuggets,Denver Nuggets,36,46,11,8,11,0,,clean,1,ok
+2014,weighted_1994_2018,New York Knicks,New York Knicks,37,45,12,7,12,1,3,resolved_ambiguity,1,ok
+2014,weighted_1994_2018,Minnesota Timberwolves,Minnesota Timberwolves,40,42,13,6,13,0,,clean,1,ok
+2014,weighted_1994_2018,Phoenix Suns,Phoenix Suns,48,34,14,5,14,0,,clean,1,ok
+2015,weighted_1994_2018,Minnesota Timberwolves,Minnesota Timberwolves,16,66,1,250,1,0,,clean,1,ok
+2015,weighted_1994_2018,New York Knicks,New York Knicks,17,65,2,199,4,0,,clean,1,ok
+2015,weighted_1994_2018,Philadelphia 76ers,Philadelphia 76ers,18,64,3,156,3,0,,clean,1,ok
+2015,weighted_1994_2018,Los Angeles Lakers,Los Angeles Lakers,21,61,4,119,2,0,,clean,1,ok
+2015,weighted_1994_2018,Orlando Magic,Orlando Magic,25,57,5,88,5,0,,clean,1,ok
+2015,weighted_1994_2018,Sacramento Kings,Sacramento Kings,29,53,6,63,6,0,,clean,1,ok
+2015,weighted_1994_2018,Denver Nuggets,Denver Nuggets,30,52,7,43,7,0,,clean,1,ok
+2015,weighted_1994_2018,Detroit Pistons,Detroit Pistons,32,50,8,28,8,0,,clean,1,ok
+2015,weighted_1994_2018,Charlotte Hornets,Charlotte Hornets,33,49,9,17,9,0,,clean,1,ok
+2015,weighted_1994_2018,Miami Heat,Miami Heat,37,45,10,11,10,0,,clean,1,ok
+2015,weighted_1994_2018,Indiana Pacers,Indiana Pacers,38,44,11,8,11,0,,clean,1,ok
+2015,weighted_1994_2018,Utah Jazz,Utah Jazz,38,44,11,7,12,0,,clean,1,ok
+2015,weighted_1994_2018,Phoenix Suns,Phoenix Suns,39,43,13,6,13,0,,clean,1,ok
+2015,weighted_1994_2018,Oklahoma City Thunder,Oklahoma City Thunder,45,37,14,5,14,0,,clean,1,ok
+2016,weighted_1994_2018,Philadelphia 76ers,Philadelphia 76ers,10,72,1,250,1,0,,clean,1,ok
+2016,weighted_1994_2018,Los Angeles Lakers,Los Angeles Lakers,17,65,2,199,2,0,,clean,1,ok
+2016,weighted_1994_2018,Brooklyn Nets,Brooklyn Nets,21,61,3,156,3,1,1,resolved_ambiguity,1,ok
+2016,weighted_1994_2018,Phoenix Suns,Phoenix Suns,23,59,4,119,4,0,,clean,1,ok
+2016,weighted_1994_2018,Minnesota Timberwolves,Minnesota Timberwolves,29,53,5,88,5,0,,clean,1,ok
+2016,weighted_1994_2018,New Orleans Pelicans,New Orleans Pelicans,30,52,6,63,6,0,,clean,1,ok
+2016,weighted_1994_2018,New York Knicks,New York Knicks,32,50,7,43,7,1,2,resolved_ambiguity,1,ok
+2016,weighted_1994_2018,Sacramento Kings,Sacramento Kings,33,49,8,19,8,0,,clean,1,ok
+2016,weighted_1994_2018,Denver Nuggets,Denver Nuggets,33,49,8,19,9,1,3,resolved_ambiguity,1,ok
+2016,weighted_1994_2018,Milwaukee Bucks,Milwaukee Bucks,33,49,8,18,10,0,,clean,1,ok
+2016,weighted_1994_2018,Orlando Magic,Orlando Magic,35,47,11,8,11,0,,clean,1,ok
+2016,weighted_1994_2018,Utah Jazz,Utah Jazz,40,42,12,7,12,0,,clean,1,ok
+2016,weighted_1994_2018,Washington Wizards,Washington Wizards,41,41,13,6,13,1,4,resolved_ambiguity,1,ok
+2016,weighted_1994_2018,Chicago Bulls,Chicago Bulls,42,40,14,5,14,0,,clean,1,ok
+2017,weighted_1994_2018,Boston Celtics,Boston Celtics,53,29,14,250,1,1,1,resolved_ambiguity,1,ok
+2017,weighted_1994_2018,Phoenix Suns,Phoenix Suns,24,58,1,199,4,0,,clean,1,ok
+2017,weighted_1994_2018,Los Angeles Lakers,Los Angeles Lakers,26,56,2,156,2,0,,clean,1,ok
+2017,weighted_1994_2018,Philadelphia 76ers,Philadelphia 76ers,28,54,3,119,5,1,2,resolved_ambiguity,1,ok
+2017,weighted_1994_2018,Orlando Magic,Orlando Magic,29,53,4,88,6,0,,clean,1,ok
+2017,weighted_1994_2018,Minnesota Timberwolves,Minnesota Timberwolves,31,51,5,53,7,0,,clean,1,ok
+2017,weighted_1994_2018,New York Knicks,New York Knicks,31,51,5,53,8,0,,clean,1,ok
+2017,weighted_1994_2018,Sacramento Kings,Sacramento Kings,32,50,7,28,3,1,2,resolved_ambiguity,1,ok
+2017,weighted_1994_2018,Dallas Mavericks,Dallas Mavericks,33,49,8,17,9,0,,clean,1,ok
+2017,weighted_1994_2018,New Orleans Pelicans,New Orleans Pelicans,34,48,9,11,10,1,3,resolved_ambiguity,1,ok
+2017,weighted_1994_2018,Charlotte Hornets,Charlotte Hornets,36,46,10,8,11,0,,clean,1,ok
+2017,weighted_1994_2018,Detroit Pistons,Detroit Pistons,37,45,11,7,12,0,,clean,1,ok
+2017,weighted_1994_2018,Denver Nuggets,Denver Nuggets,40,42,12,6,13,0,,clean,1,ok
+2017,weighted_1994_2018,Miami Heat,Miami Heat,41,41,13,5,14,0,,clean,1,ok
+2018,weighted_1994_2018,Phoenix Suns,Phoenix Suns,21,61,1,250,1,0,,clean,1,ok
+2018,weighted_1994_2018,Memphis Grizzlies,Memphis Grizzlies,22,60,2,199,4,0,,clean,1,ok
+2018,weighted_1994_2018,Dallas Mavericks,Dallas Mavericks,24,58,3,138,5,0,,clean,1,ok
+2018,weighted_1994_2018,Atlanta Hawks,Atlanta Hawks,24,58,3,137,3,0,,clean,1,ok
+2018,weighted_1994_2018,Orlando Magic,Orlando Magic,25,57,5,88,6,0,,clean,1,ok
+2018,weighted_1994_2018,Chicago Bulls,Chicago Bulls,27,55,6,53,7,0,,clean,1,ok
+2018,weighted_1994_2018,Sacramento Kings,Sacramento Kings,27,55,6,53,2,0,,clean,1,ok
+2018,weighted_1994_2018,Brooklyn Nets,Brooklyn Nets,28,54,8,28,8,1,1,resolved_ambiguity,1,ok
+2018,weighted_1994_2018,New York Knicks,New York Knicks,29,53,9,17,9,0,,clean,1,ok
+2018,weighted_1994_2018,Los Angeles Lakers,Los Angeles Lakers,35,47,10,11,10,1,2,resolved_ambiguity,1,ok
+2018,weighted_1994_2018,Charlotte Hornets,Charlotte Hornets,36,46,11,8,11,0,,clean,1,ok
+2018,weighted_1994_2018,Detroit Pistons,Detroit Pistons,39,43,12,7,12,1,3,resolved_ambiguity,1,ok
+2018,weighted_1994_2018,Los Angeles Clippers,Los Angeles Clippers,42,40,13,6,13,0,,clean,1,ok
+2018,weighted_1994_2018,Denver Nuggets,Denver Nuggets,46,36,14,5,14,0,,clean,1,ok
+2019,modern_2019_present,New York Knicks,New York Knicks,17,65,1,140,3,0,,clean,1,ok
+2019,modern_2019_present,Cleveland Cavaliers,Cleveland Cavaliers,19,63,2,140,5,0,,clean,1,ok
+2019,modern_2019_present,Phoenix Suns,Phoenix Suns,19,63,2,140,6,0,,clean,1,ok
+2019,modern_2019_present,Chicago Bulls,Chicago Bulls,22,60,4,125,7,0,,clean,1,ok
+2019,modern_2019_present,Atlanta Hawks,Atlanta Hawks,29,53,5,105,8,0,,clean,1,ok
+2019,modern_2019_present,Washington Wizards,Washington Wizards,32,50,6,90,9,0,,clean,1,ok
+2019,modern_2019_present,New Orleans Pelicans,New Orleans Pelicans,33,49,7,60,1,0,,clean,1,ok
+2019,modern_2019_present,Memphis Grizzlies,Memphis Grizzlies,33,49,7,60,2,1,1,resolved_ambiguity,1,ok
+2019,modern_2019_present,Dallas Mavericks,Dallas Mavericks,33,49,7,60,10,1,2,resolved_ambiguity,1,ok
+2019,modern_2019_present,Minnesota Timberwolves,Minnesota Timberwolves,36,46,10,30,11,0,,clean,1,ok
+2019,modern_2019_present,Los Angeles Lakers,Los Angeles Lakers,37,45,11,20,4,0,,clean,1,ok
+2019,modern_2019_present,Charlotte Hornets,Charlotte Hornets,39,43,12,10,12,0,,clean,1,ok
+2019,modern_2019_present,Miami Heat,Miami Heat,39,43,12,10,13,0,,clean,1,ok
+2019,modern_2019_present,Sacramento Kings,Sacramento Kings,39,43,12,10,14,1,3,resolved_ambiguity,1,ok
+2020,modern_2019_present,Golden State Warriors,Golden State Warriors,15,50,1,140,2,0,,clean,1,ok
+2020,modern_2019_present,Cleveland Cavaliers,Cleveland Cavaliers,19,46,2,140,5,0,,clean,1,ok
+2020,modern_2019_present,Minnesota Timberwolves,Minnesota Timberwolves,19,45,3,140,1,0,,clean,1,ok
+2020,modern_2019_present,Atlanta Hawks,Atlanta Hawks,20,47,4,125,6,0,,clean,1,ok
+2020,modern_2019_present,Detroit Pistons,Detroit Pistons,20,46,5,105,7,0,,clean,1,ok
+2020,modern_2019_present,New York Knicks,New York Knicks,21,45,6,90,8,0,,clean,1,ok
+2020,modern_2019_present,Chicago Bulls,Chicago Bulls,22,43,7,75,4,0,,clean,1,ok
+2020,modern_2019_present,Charlotte Hornets,Charlotte Hornets,23,42,8,60,3,0,,clean,1,ok
+2020,modern_2019_present,Washington Wizards,Washington Wizards,24,40,9,45,9,0,,clean,1,ok
+2020,modern_2019_present,Phoenix Suns,Phoenix Suns,26,39,10,30,10,0,,clean,1,ok
+2020,modern_2019_present,San Antonio Spurs,San Antonio Spurs,27,36,11,20,11,0,,clean,1,ok
+2020,modern_2019_present,Sacramento Kings,Sacramento Kings,28,36,12,13,12,0,,clean,1,ok
+2020,modern_2019_present,New Orleans Pelicans,New Orleans Pelicans,28,36,12,12,13,0,,clean,1,ok
+2020,modern_2019_present,Memphis Grizzlies,Memphis Grizzlies,32,33,14,5,14,1,2,resolved_ambiguity,1,ok
+2021,modern_2019_present,Houston Rockets,Houston Rockets,17,55,1,140,2,0,,clean,1,ok
+2021,modern_2019_present,Detroit Pistons,Detroit Pistons,20,52,2,140,1,0,,clean,1,ok
+2021,modern_2019_present,Orlando Magic,Orlando Magic,21,51,3,140,5,0,,clean,1,ok
+2021,modern_2019_present,Oklahoma City Thunder,Oklahoma City Thunder,22,50,4,115,6,0,,clean,1,ok
+2021,modern_2019_present,Cleveland Cavaliers,Cleveland Cavaliers,22,50,4,115,3,0,,clean,1,ok
+2021,modern_2019_present,Minnesota Timberwolves,Minnesota Timberwolves,23,49,6,90,7,0,,clean,1,ok
+2021,modern_2019_present,Toronto Raptors,Toronto Raptors,27,45,7,75,4,0,,clean,1,ok
+2021,modern_2019_present,Chicago Bulls,Chicago Bulls,31,41,8,45,8,0,,clean,1,ok
+2021,modern_2019_present,Sacramento Kings,Sacramento Kings,31,41,8,45,9,0,,clean,1,ok
+2021,modern_2019_present,New Orleans Pelicans,New Orleans Pelicans,31,41,8,45,10,0,,clean,1,ok
+2021,modern_2019_present,Charlotte Hornets,Charlotte Hornets,33,39,11,18,11,0,,clean,1,ok
+2021,modern_2019_present,San Antonio Spurs,San Antonio Spurs,33,39,11,17,12,0,,clean,1,ok
+2021,modern_2019_present,Indiana Pacers,Indiana Pacers,34,38,13,10,13,0,,clean,1,ok
+2021,modern_2019_present,Golden State Warriors,Golden State Warriors,39,33,14,5,14,0,,clean,1,ok
+2022,modern_2019_present,Houston Rockets,Houston Rockets,20,62,1,140,3,0,,clean,1,ok
+2022,modern_2019_present,Orlando Magic,Orlando Magic,22,60,2,140,1,0,,clean,1,ok
+2022,modern_2019_present,Detroit Pistons,Detroit Pistons,23,59,3,140,5,0,,clean,1,ok
+2022,modern_2019_present,Oklahoma City Thunder,Oklahoma City Thunder,24,58,4,125,2,0,,clean,1,ok
+2022,modern_2019_present,Indiana Pacers,Indiana Pacers,25,57,5,105,6,0,,clean,1,ok
+2022,modern_2019_present,Portland Trail Blazers,Portland Trail Blazers,27,55,6,90,7,0,,clean,1,ok
+2022,modern_2019_present,Sacramento Kings,Sacramento Kings,30,52,7,75,4,0,,clean,1,ok
+2022,modern_2019_present,Los Angeles Lakers,Los Angeles Lakers,33,49,8,60,8,0,,clean,1,ok
+2022,modern_2019_present,San Antonio Spurs,San Antonio Spurs,34,48,9,45,9,0,,clean,1,ok
+2022,modern_2019_present,Washington Wizards,Washington Wizards,35,47,10,30,10,0,,clean,1,ok
+2022,modern_2019_present,New York Knicks,New York Knicks,37,45,11,20,11,0,,clean,1,ok
+2022,modern_2019_present,Los Angeles Clippers,Los Angeles Clippers,42,40,12,15,12,0,,clean,1,ok
+2022,modern_2019_present,Charlotte Hornets,Charlotte Hornets,43,39,13,10,13,0,,clean,1,ok
+2022,modern_2019_present,Cleveland Cavaliers,Cleveland Cavaliers,44,38,14,5,14,0,,clean,1,ok
+2023,modern_2019_present,Detroit Pistons,Detroit Pistons,17,65,1,140,5,0,,clean,1,ok
+2023,modern_2019_present,Houston Rockets,Houston Rockets,22,60,2,140,4,0,,clean,1,ok
+2023,modern_2019_present,San Antonio Spurs,San Antonio Spurs,22,60,2,140,1,0,,clean,1,ok
+2023,modern_2019_present,Charlotte Hornets,Charlotte Hornets,27,55,4,125,2,0,,clean,1,ok
+2023,modern_2019_present,Portland Trail Blazers,Portland Trail Blazers,33,49,5,105,3,0,,clean,1,ok
+2023,modern_2019_present,Orlando Magic,Orlando Magic,34,48,6,90,6,0,,clean,1,ok
+2023,modern_2019_present,Indiana Pacers,Indiana Pacers,35,47,7,68,7,0,,clean,1,ok
+2023,modern_2019_present,Washington Wizards,Washington Wizards,35,47,7,67,8,0,,clean,1,ok
+2023,modern_2019_present,Utah Jazz,Utah Jazz,37,45,9,45,9,0,,clean,1,ok
+2023,modern_2019_present,Dallas Mavericks,Dallas Mavericks,38,44,10,30,10,0,,clean,1,ok
+2023,modern_2019_present,Chicago Bulls,Chicago Bulls,40,42,11,18,11,0,,clean,1,ok
+2023,modern_2019_present,Oklahoma City Thunder,Oklahoma City Thunder,40,42,11,17,12,0,,clean,1,ok
+2023,modern_2019_present,Toronto Raptors,Toronto Raptors,41,41,13,10,13,0,,clean,1,ok
+2023,modern_2019_present,New Orleans Pelicans,New Orleans Pelicans,42,40,14,5,14,0,,clean,1,ok
+2024,modern_2019_present,Detroit Pistons,Detroit Pistons,14,68,1,140,5,0,,clean,1,ok
+2024,modern_2019_present,Washington Wizards,Washington Wizards,15,67,2,140,2,0,,clean,1,ok
+2024,modern_2019_present,Charlotte Hornets,Charlotte Hornets,21,61,3,133,6,0,,clean,1,ok
+2024,modern_2019_present,Portland Trail Blazers,Portland Trail Blazers,21,61,3,132,7,0,,clean,1,ok
+2024,modern_2019_present,San Antonio Spurs,San Antonio Spurs,22,60,5,105,4,0,,clean,1,ok
+2024,modern_2019_present,Toronto Raptors,Toronto Raptors,25,57,6,90,8,0,,clean,1,ok
+2024,modern_2019_present,Memphis Grizzlies,Memphis Grizzlies,27,55,7,75,9,0,,clean,1,ok
+2024,modern_2019_present,Utah Jazz,Utah Jazz,31,51,8,60,10,0,,clean,1,ok
+2024,modern_2019_present,Brooklyn Nets,Brooklyn Nets,32,50,9,45,3,0,,clean,1,ok
+2024,modern_2019_present,Atlanta Hawks,Atlanta Hawks,36,46,10,30,1,0,,clean,1,ok
+2024,modern_2019_present,Chicago Bulls,Chicago Bulls,39,43,11,20,11,0,,clean,1,ok
+2024,modern_2019_present,Houston Rockets,Houston Rockets,41,41,12,15,12,0,,clean,1,ok
+2024,modern_2019_present,Sacramento Kings,Sacramento Kings,46,36,13,8,13,0,,clean,1,ok
+2024,modern_2019_present,Golden State Warriors,Golden State Warriors,46,36,13,7,14,0,,clean,1,ok
+2025,modern_2019_present,Utah Jazz,Utah Jazz,17,65,1,140,5,0,,clean,1,ok
+2025,modern_2019_present,Washington Wizards,Washington Wizards,18,64,2,140,6,0,,clean,1,ok
+2025,modern_2019_present,Charlotte Hornets,Charlotte Hornets,19,63,3,140,4,0,,clean,1,ok
+2025,modern_2019_present,New Orleans Pelicans,New Orleans Pelicans,21,61,4,125,7,0,,clean,1,ok
+2025,modern_2019_present,Philadelphia 76ers,Philadelphia 76ers,24,58,5,105,3,0,,clean,1,ok
+2025,modern_2019_present,Brooklyn Nets,Brooklyn Nets,26,56,6,90,8,0,,clean,1,ok
+2025,modern_2019_present,Toronto Raptors,Toronto Raptors,30,52,7,75,9,0,,clean,1,ok
+2025,modern_2019_present,San Antonio Spurs,San Antonio Spurs,34,48,8,60,2,0,,clean,1,ok
+2025,modern_2019_present,Phoenix Suns,Phoenix Suns,36,46,9,38,10,0,,clean,1,ok
+2025,modern_2019_present,Portland Trail Blazers,Portland Trail Blazers,36,46,9,37,11,0,,clean,1,ok
+2025,modern_2019_present,Dallas Mavericks,Dallas Mavericks,39,43,11,18,1,0,,clean,1,ok
+2025,modern_2019_present,Chicago Bulls,Chicago Bulls,39,43,11,17,12,0,,clean,1,ok
+2025,modern_2019_present,Sacramento Kings,Sacramento Kings,40,42,13,8,13,0,,clean,1,ok
+2025,modern_2019_present,Atlanta Hawks,Atlanta Hawks,40,42,13,7,14,0,,clean,1,ok

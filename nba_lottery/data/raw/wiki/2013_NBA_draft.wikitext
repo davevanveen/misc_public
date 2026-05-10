@@ -1,0 +1,882 @@
+{{short description|Basketball player selection}}
+{{Use mdy dates|date=June 2022}}
+{{Infobox sports draft
+| name        = 2013 NBA draft
+| image       = 2013 Green Room invites (9156599280).jpg
+| caption     = 
+| logo        = 2013 NBA Draft logo.png
+| logosize    = 
+| sport       = Basketball
+| date        = June 27, 2013
+| location    = [[Barclays Center]] ([[Brooklyn, New York]])
+| network     = [[NBA on ESPN|ESPN]]
+| league      = NBA
+| teams       = 
+| overall     = 60
+| rounds      = 2
+| first       = [[Anthony Bennett (basketball)|Anthony Bennett]] ([[Cleveland Cavaliers]])
+| prev        = [[2012 NBA draft|2012]]
+| next        = [[2014 NBA draft|2014]]
+}}
+The '''2013 [[NBA draft]]''' was held on June 27, 2013, at the [[Barclays Center]] in [[Brooklyn, New York]].<ref>{{cite web|title=2013 NBA Draft will be held in Brooklyn at the Barclays Center|url=http://www.cbssports.com/nba/blog/eye-on-basketball/22132413/2013-nba-draft-will-be-held-in-brooklyn-at-the-barclays-center|work=CBS Sports|access-date=April 24, 2013|archive-date=May 14, 2013|archive-url=https://web.archive.org/web/20130514000104/http://www.cbssports.com/nba/blog/eye-on-basketball/22132413/2013-nba-draft-will-be-held-in-brooklyn-at-the-barclays-center|url-status=live}}</ref> [[National Basketball Association]] (NBA) teams took turns selecting amateur U.S. [[college basketball]] players and other eligible players, including international players. [[State Farm]] was the presenting sponsor.<ref>{{cite web|url=https://www.sportsbusinessdaily.com/Journal/Issues/2013/06/24/Leagues-and-Governing-Bodies/NBA-draft.aspx|title=Sponsors on the clock for NBA draft activation|website=sportsbusinessdaily.com|date=June 24, 2013|access-date=June 30, 2019|archive-date=October 12, 2019|archive-url=https://web.archive.org/web/20191012130528/https://www.sportsbusinessdaily.com/Journal/Issues/2013/06/24/Leagues-and-Governing-Bodies/NBA-draft.aspx|url-status=live}}</ref> The [[NBA draft lottery|lottery]] took place on May 21, 2013. This was the first draft for New Orleans under their new [[New Orleans Pelicans|Pelicans]] name after playing as the New Orleans Hornets previously. It would also be the last draft for the [[Charlotte Bobcats]] under their old name, as they resumed playing under their old Hornets moniker that they last used in [[2001–02 Charlotte Hornets season|2002]] once the [[2013–14 NBA season]] was over. [[Anthony Bennett (basketball)|Anthony Bennett]], the first pick in the draft, had a very limited amount of media outlets considering him as a potential #1 pick in the draft.<ref>{{cite web |url=https://hoopshabit.com/2015/11/15/nba-draft-is-anthony-bennett-a-bust-depends-on-the-definition/ |title=NBA Draft: Is Anthony Bennett A Bust? Depends On The Definition |work=Hoopshabit.com |last=Watson |first=Phil |date=November 15, 2015 |access-date=August 5, 2021 |url-status=live|archive-url=https://web.archive.org/web/20151116182322/http://hoopshabit.com/2015/11/15/nba-draft-is-anthony-bennett-a-bust-depends-on-the-definition/ |archive-date=November 16, 2015 }}</ref> He bounced around the league and then was finally released by the Brooklyn Nets in January 2017 after averaging just 5.2 PPG.<ref>{{cite web |url=http://www.nba.com/nets/news/2017/01/09/brooklyn-nets-waive-anthony-bennett |title=Brooklyn Nets Waive Anthony Bennett |work=NBA.com |date=January 9, 2017 |access-date=August 5, 2021 |url-status=live|archive-url=https://web.archive.org/web/20170112163024/http://www.nba.com:80/nets/news/2017/01/09/brooklyn-nets-waive-anthony-bennett |archive-date=January 12, 2017 }}</ref>
+
+The highlight of the draft was the Milwaukee Bucks’ selection of [[Giannis Antetokounmpo]] with the 15th overall pick, eventually becoming the best player of this class with two [[NBA Most Valuable Player Award|NBA MVP awards]], one [[NBA Defensive Player of the Year Award|Defensive Player of the Year award]], and an NBA championship in {{nbafy|2021}}. Another player from this draft, [[Rudy Gobert]], won four Defensive Player of the Year awards. [[Michael Carter-Williams]] won the [[NBA Rookie of the Year Award|Rookie of the Year award]] that season. The draft also included the first Canadian number one overall selection (Anthony Bennett), the first Canadian pair of lottery picks (Bennett and [[Kelly Olynyk]]), the first Iranian draft choice ([[Arsalan Kazemi]]), the first New Zealander first round pick ([[Steven Adams]]), and the final first round draft selections announced by then-NBA commissioner [[David Stern]], the last of which included a visit by [[Hakeem Olajuwon]], the first pick Stern ever announced from the [[1984 NBA draft]]. He was replaced by current commissioner [[Adam Silver]] beginning with the [[2014 NBA draft]].
+
+==Draft selections==
+{|class="wikitable"
+|-
+| PG || [[Point guard]]
+| SG || [[Shooting guard]]
+| SF || [[Small forward]]
+| PF || [[Power forward]]
+| C || [[Center (basketball)|Center]]
+|}
+{{NBA Draft legend|2=y|5=y|6=y}}
+{{stack|
+[[File:Anthony Bennett by Jeremy Rincon.jpg|thumb|right|150px|[[Anthony Bennett (basketball)|Anthony Bennett]] was selected as the #1 overall pick by the [[Cleveland Cavaliers]].]]
+[[File:Victor Oladipo (39060706270) crop.jpg|thumb|right|150px|[[Victor Oladipo]] was selected 2nd overall by the [[Orlando Magic]].]]
+[[File:CJ McCollum (2022 All-Star Weekend) (cropped).jpg|thumb|right|150px|[[CJ McCollum]] was selected 10th overall by the [[Portland Trail Blazers]].]]
+[[File:Steven Adams (51665800185).jpg|thumb|right|150px|[[Steven Adams]] was selected 12th overall by the [[Oklahoma City Thunder]].]]
+[[File:Giannis Antetokounmpo (51664127127) (cropped).jpg|thumb|right|150px|[[Giannis Antetokounmpo]] was selected 15th overall by the [[Milwaukee Bucks]].]]
+[[File:2023-08-09 Deutschland gegen Kanada (Basketball-Länderspiel) by Sandro Halank–119.jpg|thumb|right|150px|[[Dennis Schröder]] was selected 17th overall by the [[Atlanta Hawks]].]]
+[[File:Rudy_Gobert_2015_%28cropped%29.jpg|thumb|right|150px|[[Rudy Gobert]] was selected 27th overall by the [[Denver Nuggets]] (traded to the [[Utah Jazz]]).]]
+}}
+{|class="wikitable sortable" style="text-align:left"
+|-
+! style="width:1%;"| {{tooltip|Rnd.|Draft round}}
+! style="width:1%;"| {{tooltip|Pick|Overall selection number}}
+! style="width:16%;"| Player
+! style="width:1%;"| {{tooltip|Pos.|Position(s) played}}
+! style="width:16%;"| {{tooltip|Nationality|Player's representative nationality}}{{refn|group=n|name=nationality|Nationality indicates the player's national team or representative nationality. If a player has not competed at the international level, then the nationality indicates the national team which the player is eligible to represent according to [[FIBA]] rules.}}
+! style="width:38%;"| Team
+! style="width:21%;"| {{tooltip|School / club team|Most recent school attended or team played for before the draft}}
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|1
+| {{sortname|Anthony|Bennett|dab=basketball}}
+| PF/SF
+| {{CAN}}
+| [[Cleveland Cavaliers]]
+| [[UNLV Runnin' Rebels basketball|UNLV]] <small>([[Freshman|Fr.]])</small>
+|-
+|align=center| 1
+|align=center| 2
+| bgcolor="#FBCEB1"| {{sortname|Victor|Oladipo}}<sup>*</sup>
+| SG/PG
+| {{USA}}
+| [[Orlando Magic]]
+| [[Indiana Hoosiers men's basketball|Indiana]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 1
+|align=center| 3
+| {{sortname|Otto|Porter Jr.}}
+| SF
+| {{flagu|United States}}
+| [[Washington Wizards]]
+| [[Georgetown Hoyas men's basketball|Georgetown]] <small>([[Sophomore year|So.]])</small>
+|-
+|align=center| 1
+|align=center| 4
+| {{sortname|Cody|Zeller}}
+| C/PF
+| {{flagu|United States}}
+| [[Charlotte Bobcats]]
+| [[Indiana Hoosiers men's basketball|Indiana]] <small>([[Sophomore year|So.]])</small>
+|-
+|align=center| 1
+|align=center| 5
+| {{sortname|Alex|Len}}
+| C
+| {{UKR}}
+| [[Phoenix Suns]]
+| [[Maryland Terrapins men's basketball|Maryland]] <small>([[Sophomore year|So.]])</small>
+|-
+|align=center| 1
+|align=center| 6
+| {{sortname|Nerlens|Noel}}
+| C
+| {{flagu|United States}}
+| [[New Orleans Pelicans]] <small>(traded to [[Philadelphia 76ers|Philadelphia]])</small>{{#tag:ref|The [[New Orleans Pelicans]] traded 6th pick [[Nerlens Noel]] and a 2014 protected first-round pick to the [[Philadelphia 76ers]] in exchange for [[Jrue Holiday]] and 42nd pick [[Pierre Jackson]].<ref name=drafttracker>{{cite web |url=https://www.espn.com/nba/draft2013/story/_/id/9431012/2013-nba-draft-nerlens-noel-traded-new-orleans-pelicans-philadelphia-76ers-jrue-holiday |title=Nerlens Noel heading to Philly |work=ESPN.com |date=June 28, 2013 |access-date=June 28, 2013 |archive-date=May 31, 2015 |archive-url=https://web.archive.org/web/20150531025214/http://espn.go.com/nba/draft2013/story/_/id/9431012/2013-nba-draft-nerlens-noel-traded-new-orleans-pelicans-philadelphia-76ers-jrue-holiday |url-status=live }}</ref>|group=upper-alpha|name=76ersPelicanstrade}}
+| [[Kentucky Wildcats men's basketball|Kentucky]] <small>([[Freshman|Fr.]])</small>
+|-
+|align=center| 1
+|align=center| 7
+| {{sortname|Ben|McLemore}}
+| SG
+| {{flagu|United States}}
+| [[Sacramento Kings]]
+| [[Kansas Jayhawks men's basketball|Kansas]] <small>([[Freshman|Fr.]]) </small>
+|-
+|align=center| 1
+|align=center| 8
+| {{sortname|Kentavious|Caldwell-Pope}}
+| SG
+| {{flagu|United States}}
+| [[Detroit Pistons]]
+| [[Georgia Bulldogs men's basketball|Georgia]] <small>([[Sophomore year|So.]]) </small>
+|-
+|align=center| 1
+|align=center| 9
+| {{sortname|Trey|Burke}}
+| PG
+| {{flagu|United States}}
+| [[Minnesota Timberwolves]] <small>(traded to [[Utah Jazz|Utah]])</small>{{#tag:ref|The [[Minnesota Timberwolves]] traded 9th pick [[Trey Burke]] to the [[Utah Jazz]] in exchange for the 14th pick [[Shabazz Muhammad]] and the 21st pick [[Gorgui Dieng]].<ref name=drafttracker/>|group=upper-alpha|name=JazzTimberwolvestrade}}
+| [[Michigan Wolverines men's basketball|Michigan]] <small>([[Sophomore year|So.]]) </small>
+|-
+|align=center| 1
+|align=center| 10
+| {{sortname|CJ|McCollum}}
+| SG
+| {{flagu|United States}}
+| [[Portland Trail Blazers]]
+| [[Lehigh Mountain Hawks men's basketball|Lehigh]] <small>([[Senior (education)|Sr.]]) </small>
+|-
+|align=center| 1
+|align=center| 11
+|bgcolor="CCCCFF"| {{sortname|Michael|Carter-Williams}}<sup>~</sup>
+| PG
+| {{flagu|United States}}
+| [[Philadelphia 76ers]]
+| [[Syracuse Orange men's basketball|Syracuse]] <small>([[Sophomore year|So.]])</small>
+|-
+|align=center| 1
+|align=center| 12
+| {{sortname|Steven|Adams}}
+| C
+| {{NZL}}
+| [[Oklahoma City Thunder]] <small>(from [[Toronto Raptors|Toronto]] via [[Houston Rockets|Houston]])</small>{{#tag:ref|On July 5, 2012, the [[Oklahoma City Thunder]] acquired the 2013 first round pick (''the 12th pick)'', a 2013 second-round pick (''the 32nd pick''), a future top-20 protected 1st-round pick (from the [[Dallas Mavericks]]), [[Kevin Martin (basketball, born 1983)|Kevin Martin]], and [[Jeremy Lamb]] from the [[Houston Rockets]] in exchange for [[James Harden]], [[Cole Aldrich]], [[Daequan Cook]], and [[Lazar Hayward]].  Previously, on July 5, 2012, Houston acquired [[Gary Forbes]] and a 2013 first-round draft pick (''the 12th pick'') from the [[Toronto Raptors]] in exchange for [[Kyle Lowry]].<ref>{{cite web |url=http://www.raptorsrepublic.com/2013/05/23/revisiting-the-kyle-lowry-trade/ |title=Revisiting the Kyle Lowry Trade |work=RaptorRepublic.com |date=May 23, 2013 |access-date=June 27, 2013 |archive-date=September 29, 2015 |archive-url=https://web.archive.org/web/20150929111717/http://www.raptorsrepublic.com/2013/05/23/revisiting-the-kyle-lowry-trade/ |url-status=live }}</ref> Previously, on July 20, 2012, Houston acquired [[JaJuan Johnson]], [[E'Twaun Moore]], [[Sean Williams (basketball)|Sean Williams]] and the 32nd pick from the [[Boston Celtics]] in a sign-and-trade deal involving [[Courtney Lee]].<ref name="CourtneyLeeRef"/> Previously, on June 26, 2012, Oklahoma City was forced to give Boston the 32nd pick in compensation for [[Jeff Green (basketball)|Jeff Green]]'s heart problems.<ref>{{cite web|url=https://sports.yahoo.com/news/nba--thunder-forced-to-give-up-draft-pick-to-celtics-as-compensation-for-jeff-green-s-health-issues.html|title=Thunder forced to give up draft pick to Celtics as compensation for Jeff Green's health issues|work=[[Yahoo! Sports]]|date=June 26, 2012|author=Adrian Wojnarowski|access-date=July 21, 2014|archive-date=July 7, 2017|archive-url=https://web.archive.org/web/20170707070008/https://sports.yahoo.com/news/nba--thunder-forced-to-give-up-draft-pick-to-celtics-as-compensation-for-jeff-green-s-health-issues.html|url-status=live}}</ref> Previously, on December 19, 2011, Oklahoma City acquired the 32nd pick from the [[Charlotte Bobcats]] in exchange for [[Byron Mullens]].<ref>{{cite web|url=https://www.espn.com/nba/story/_/id/7369458/charlotte-bobcats-acquire-byron-mullens-oklahoma-city-thunder|title=Thunder deal Byron Mullens to Bobcats|publisher=[[ESPN]]|date=December 19, 2011|access-date=June 28, 2013|archive-date=November 18, 2014|archive-url=https://web.archive.org/web/20141118042345/http://espn.go.com/nba/story/_/id/7369458/charlotte-bobcats-acquire-byron-mullens-oklahoma-city-thunder|url-status=live}}</ref>|group=lower-alpha|name=JamesHardenTrade}}
+| [[Pittsburgh Panthers men's basketball|Pittsburgh]] <small>([[Freshman|Fr.]])</small>
+|-
+|align=center| 1
+|align=center| 13
+|[[Kelly Olynyk]]
+| C
+| {{flagu|Canada}}
+| [[Dallas Mavericks]] <small>(traded to [[Boston Celtics|Boston]])</small>{{#tag:ref|The [[Dallas Mavericks]] traded 13th pick [[Kelly Olynyk]] to the [[Boston Celtics]] in exchange for the draft rights to the 16th pick [[Lucas Nogueira]] and a pair of 2014 second-round picks.<ref name=drafttracker/>|group=upper-alpha|name=MavericksCelticstrade}}
+| [[Gonzaga Bulldogs men's basketball|Gonzaga]] <small>([[Junior (education year)|Jr.]]) </small>
+|-
+|align=center| 1
+|align=center| 14
+| {{sortname|Shabazz|Muhammad}}
+| SG/SF
+| {{flagu|United States}}
+| [[Utah Jazz]] <small>(traded to [[Minnesota Timberwolves|Minnesota]])</small><ref group=upper-alpha name=JazzTimberwolvestrade/>
+| [[UCLA Bruins men's basketball|UCLA]] <small>([[Freshman|Fr.]]) </small>
+|-
+|align=center| 1
+|align=center| 15
+|bgcolor="#FBCEB1"| {{sortname|Giannis|Antetokounmpo}}<sup>*</sup>
+| PF
+| {{GRE}}{{refn|group=n|Antetokounmpo was born in Greece to Nigerian parents. He holds dual citizenship and plays for the [[Greece men's national basketball team|Greece national basketball team]].}}
+| [[Milwaukee Bucks]]
+| [[Filathlitikos B.C.|Filathlitikos]] ([[Greek A2 Basketball League|Greece]])
+|-
+|align=center| 1
+|align=center| 16
+| {{sortname|Lucas|Nogueira}}
+| C
+| {{BRA}}
+| [[Boston Celtics]] <small>(traded to [[Atlanta Hawks|Atlanta]] via [[Dallas Mavericks|Dallas]])</small><ref group=upper-alpha name=MavericksCelticstrade/>{{#tag:ref| The [[Dallas Mavericks]] traded 16th pick [[Lucas Nogueira]], guard [[Jared Cunningham]] and the No. 44 pick ([[Mike Muscala]]) to the [[Atlanta Hawks]] for the No. 18 pick, [[Shane Larkin]].<ref name=drafttracker/>|group=upper-alpha|name=MavericksHawksTrade}}
+| [[CB Estudiantes|Estudiantes]] ([[Liga ACB|Spain]])
+|-
+|align=center| 1
+|align=center| 17
+| {{sortname|Dennis|Schröder}}
+| PG
+| {{GER}}
+| [[Atlanta Hawks]]
+| [[Phantoms Braunschweig]] ([[Basketball Bundesliga|Germany]])
+|-
+|align=center| 1
+|align=center| 18
+| {{sortname|Shane|Larkin}}
+| PG
+| {{flagu|United States}}{{refn|group=n|Larkin was granted Turkish citizenship in 2020 and plays for the [[Turkey men's national basketball team|Turkey national basketball team]].}}
+| [[Atlanta Hawks]] <small>(from [[Houston Rockets|Houston]] via [[Brooklyn Nets|Brooklyn]],</small>{{#tag:ref|On July 11, 2012, the [[Atlanta Hawks]] acquired the 2013 first round pick (''the 18th pick'') from the [[Brooklyn Nets]] as a part of [[Joe Johnson (basketball)|Joe Johnson]] trade.<ref>{{cite web |url=http://www.nba.com/nets/news/Johnson_Trade_Release_120711.html |title=Brooklyn Nets Acquire All-Star Joe Johnson |work=NBA.com |date=June 26, 2012 |access-date=April 18, 2013 |archive-date=January 4, 2018 |archive-url=https://web.archive.org/web/20180104051635/http://www.nba.com/nets/news/Johnson_Trade_Release_120711.html |url-status=live }}</ref> Previously, on December 15, 2010, the Nets acquired [[Sasha Vujacic]], and a ''conditional first-round draft pick'' from the [[Houston Rockets]] in a three-team trade.<ref>{{cite web |url=http://www.nba.com/nets/news/Vujacic_Trade_Release_101215.html |title=NETS Acquire Vujacic & Two 1st-Round Picks in 3-Team Trade |work=NBA.com |date=December 15, 2010 |access-date=April 18, 2013 |archive-date=May 13, 2013 |archive-url=https://web.archive.org/web/20130513052916/http://www.nba.com/nets/news/Vujacic_Trade_Release_101215.html |url-status=live }}</ref>|group=lower-alpha}} <small>traded to [[Dallas Mavericks|Dallas]])</small><ref group=upper-alpha name=MavericksHawksTrade/>
+| [[Miami Hurricanes men's basketball|Miami (FL)]] <small>([[Sophomore year|So.]]) </small>
+|-
+|align=center| 1
+|align=center| 19
+| {{sortname|Sergey|Karasev}}
+| SG/SF
+| {{RUS}}
+| [[Cleveland Cavaliers]] <small>(from [[Los Angeles Lakers|LA Lakers]])</small>{{#tag:ref|On March 15, 2012, the [[Cleveland Cavaliers]] acquired [[Luke Walton]], [[Jason Kapono]], a conditional 2012 first round pick and ''the rights to swap the least favorable of 2013 first round picks'' in exchange for [[Ramon Sessions]] and [[Christian Eyenga]]. Cavaliers had their own pick (the 1st pick) and the [[Miami Heat]]'s first round pick (the 30th pick), hence the option is exercised as Cavaliers received the Lakers' 19th pick and the Lakers received the Heat's 30th pick. Previously, on July 10, 2010, the Cavaliers received the 30th pick in a sign-and-trade deal with Miami for [[LeBron James]].<ref>{{cite web |url=http://www.nba.com/cavaliers/releases/trade_120315.html |title=Cavaliers Acquire 2012 First Round Pick, Kapono, Walton And Right To Swap 2013 First Round Picks From Lakers |work=NBA.com |date=March 15, 2012 |access-date=April 18, 2013 |archive-date=April 19, 2013 |archive-url=https://web.archive.org/web/20130419061412/http://www.nba.com/cavaliers/releases/trade_120315.html |url-status=live }}</ref>|group=lower-alpha| name=cavslakerstrade}}
+| [[BC Triumph Lyubertsy|Triumph Lyubertsy]] ([[Russian Professional Basketball League|Russia]])
+|-
+|align=center| 1
+|align=center| 20
+| {{sortname|Tony|Snell|dab=basketball}}
+| SF
+| {{flagu|United States}}
+| [[Chicago Bulls]]
+| [[New Mexico Lobos men's basketball|New Mexico]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 1
+|align=center| 21
+| {{sortname|Gorgui|Dieng}}
+| C
+| {{SEN}}
+| [[Utah Jazz]] <small>(from [[Golden State Warriors|Golden State]] via [[Brooklyn Nets|Brooklyn]],</small>{{#tag:ref|On February 23, 2011, the [[Utah Jazz]] acquired [[Devin Harris]], [[Derrick Favors]], 2011 round pick and the 2013 first round pick (''the 21st pick'') from the [[Brooklyn Nets]] in exchange for [[Deron Williams]].<ref>{{cite web |url=http://www.nba.com/jazz/news/deron_williams_trade.html |title=Jazz Obtains Harris and Favors from New Jersey |work=NBA.com |date=February 23, 2011 |access-date=April 18, 2013 |archive-date=September 14, 2013 |archive-url=https://web.archive.org/web/20130914041024/http://www.nba.com/jazz/news/deron_williams_trade.html |url-status=live }}</ref> Previously, on July 22, 2008, the Nets acquired a conditional first-round draft pick (''the 21st pick'') from the [[Golden State Warriors]] in exchange for [[Marcus Williams (basketball, born 1985)|Marcus Williams]].<ref>{{cite web |url=http://www.nba.com/warriors/news/warriors_acquire_marcus_williams.html |title=Warriors Acquire Guard Marcus Williams From New Jersey |work=NBA.com |date=July 22, 2008 |access-date=April 18, 2013 |archive-date=June 30, 2013 |archive-url=https://web.archive.org/web/20130630050145/http://www.nba.com/warriors/news/warriors_acquire_marcus_williams.html |url-status=live }}</ref>|group=lower-alpha}} <small>traded to [[Minnesota Timberwolves|Minnesota]])</small><ref group=upper-alpha name=JazzTimberwolvestrade/>
+| [[Louisville Cardinals men's basketball|Louisville]] <small>([[Junior (education year)|Jr.]]) </small>
+|-
+|align=center| 1
+|align=center| 22
+| {{sortname|Mason|Plumlee}}
+| C
+| {{flagu|United States}}
+| [[Brooklyn Nets]]
+| [[Duke Blue Devils men's basketball|Duke]] <small>([[Senior (education)|Sr.]]) </small>
+|-
+|align=center| 1
+|align=center| 23
+| {{sortname|Solomon|Hill|dab=basketball}}
+| SF
+| {{flagu|United States}}
+| [[Indiana Pacers]]
+| [[Arizona Wildcats men's basketball|Arizona]] <small>([[Senior (education)|Sr.]]) </small>
+|-
+|align=center| 1
+|align=center| 24
+| {{sortname|Tim|Hardaway Jr.}}
+| SG
+| {{flagu|United States}}
+| [[New York Knicks]]
+| [[Michigan Wolverines men's basketball|Michigan]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 1
+|align=center| 25
+| {{sortname|Reggie|Bullock}}
+| SF
+| {{flagu|United States}}
+| [[Los Angeles Clippers]]
+| [[North Carolina Tar Heels men's basketball|North Carolina]] <small>([[Junior (education year)|Jr.]]) </small>
+|-
+|align=center| 1
+|align=center| 26
+| {{sortname|André|Roberson}}
+| SG/SF
+| {{flagu|United States}}
+| [[Minnesota Timberwolves]] <small>(from [[Memphis Grizzlies|Memphis]] via [[Houston Rockets|Houston]],</small>{{#tag:ref|On June 23, 2011, the [[Minnesota Timberwolves]] acquired [[Brad Miller (basketball)|Brad Miller]], rights to [[Nikola Mirotić]] and [[Chandler Parsons]] and a 2013 first round pick (''the 26th pick'') from the [[Houston Rockets]] in exchange for [[Jonny Flynn]], rights to [[Donatas Motiejūnas]] and a 2012 second-round pick.<ref>{{cite web |url=http://www.nba.com/timberwolves/news/pressrelease_Wolves_Complete_Five_Draft_Night_Trades_2011_06_24.html |title=Wolves Complete Five Draft-Night Trades |work=NBA.com |date=June 23, 2011 |access-date=April 18, 2013 |archive-date=November 11, 2012 |archive-url=https://web.archive.org/web/20121111025344/http://www.nba.com/timberwolves/news/pressrelease_Wolves_Complete_Five_Draft_Night_Trades_2011_06_24.html |url-status=live }}</ref> Previously, on February 24, 2011, the Rockets acquired [[Hasheem Thabeet]], [[DeMarre Carroll]] and a ''2013 first-round draft pick'' from the [[Memphis Grizzlies|Memphis]] in exchange for [[Shane Battier]] and [[Ish Smith]].<ref>{{cite web |url=http://www.nba.com/rockets/news/rockets_acquire_thabeet_dragi_2011_02_24.html |title=Rockets Deal For Thabeet, Dragic And Carroll |work=NBA.com |date=February 24, 2011 |access-date=April 18, 2013 |archive-date=June 5, 2013 |archive-url=https://web.archive.org/web/20130605105353/http://www.nba.com/rockets/news/rockets_acquire_thabeet_dragi_2011_02_24.html |url-status=live }}</ref>|group=lower-alpha}} <small>traded to [[Oklahoma City Thunder|Oklahoma City]] via [[Golden State Warriors|Golden State]])</small>{{#tag:ref|The [[Minnesota Timberwolves]] traded 26th pick [[Andre Roberson]] and [[Malcolm Lee (basketball)|Malcolm Lee]] to the [[Golden State Warriors]] in exchange for a 2014 second-round pick and cash. Golden State then traded Roberson to the [[Oklahoma City Thunder]] in exchange for the 29th pick ([[Archie Goodwin (basketball)|Archie Goodwin]]) and cash.<ref name=drafttracker />|group=upper-alpha|name=AndreRoberson}}
+| [[Colorado Buffaloes men's basketball|Colorado]] <small>([[Junior (education year)|Jr.]]) </small>
+|-
+|align=center| 1
+|align=center| 27
+|bgcolor="#FBCEB1"| {{sortname|Rudy|Gobert}}<sup>*</sup>
+| C
+| {{FRA}}
+| [[Denver Nuggets]]<small> (traded to [[Utah Jazz|Utah]])</small>{{#tag:ref|The [[Denver Nuggets]] traded 27th pick [[Rudy Gobert]] to the [[Utah Jazz]] in exchange for the 46th pick, [[Erick Green]], and cash.<ref name=drafttracker />|group=upper-alpha|name=DenverUtahTrade}}
+| [[Cholet Basket]] ([[LNB Pro A|France]])
+|-
+|align=center| 1
+|align=center| 28
+| bgcolor="C0C0C0" width="5%"| {{sortname|Livio|Jean-Charles}}<sup>#</sup>
+| SF
+| {{flagu|France}}
+| [[San Antonio Spurs]]
+| [[ASVEL Basket]] ([[LNB Pro A|France]])
+|-
+|align=center| 1
+|align=center| 29
+| {{sortname|Archie|Goodwin|dab=basketball}}
+| SG
+| {{flagu|United States}}
+| [[Oklahoma City Thunder]] <small>(traded to [[Phoenix Suns|Phoenix]] via [[Golden State Warriors|Golden State]]) </small><ref group=upper-alpha name=AndreRoberson/>{{#tag:ref|The [[Golden State Warriors]] traded 29th pick [[Archie Goodwin (basketball)|Archie Goodwin]] and [[Malcolm Lee (basketball)|Malcolm Lee]] to the [[Phoenix Suns]] in exchange for 30th pick [[Nemanja Nedovic]].<ref name=drafttracker/>|group=upper-alpha|name=WarriorsSunsTrade}}
+| [[Kentucky Wildcats men's basketball|Kentucky]] <small>([[Freshman|Fr.]]) </small>
+|-
+|align=center| 1
+|align=center| 30
+| {{sortname|Nemanja|Nedović}}
+| SG
+| {{SRB}}
+| [[Phoenix Suns]] <small>(from [[Miami Heat|Miami]] via [[Cleveland Cavaliers|Cleveland]] and [[Los Angeles Lakers|LA Lakers]],</small><ref group=lower-alpha name=cavslakerstrade/>{{#tag:ref|On June 11, 2012, the [[Phoenix Suns]] received the [[Los Angeles Lakers]]' 2013 first round pick (''the 30th pick''), a 2013 second round pick (''the 57th pick''), 2014 second round pick, and 2015 first round pick in a sign-and-trade deal for [[Steve Nash]].<ref>{{cite web|url=https://www.espn.com/los-angeles/nba/story/_/id/8130840/sources-steve-nash-headed-los-angeles-lakers-sign-trade-deal|title=Steve Nash headed to Lakers|author=Marc Stein|date=July 5, 2012|publisher=[[ESPN]]|access-date=June 28, 2013|archive-date=April 22, 2016|archive-url=https://web.archive.org/web/20160422145819/http://espn.go.com/los-angeles/nba/story/_/id/8130840/sources-steve-nash-headed-los-angeles-lakers-sign-trade-deal|url-status=live}}</ref> Previously, on June 23, 2011, the Lakers acquired a future second round pick (''the 57th pick'') from the [[Denver Nuggets]] in exchange for the draft rights to [[Chukwudiebere Maduabum]].<ref>{{cite web|url=http://www.nba.com/nuggets/news/chuchu_trade_06_24_2011.html|title=Nuggets acquire rights to Nigerian forward from Lakers|date=June 23, 2011|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=June 28, 2011|archive-date=October 28, 2014|archive-url=https://web.archive.org/web/20141028054429/http://www.nba.com/nuggets/news/chuchu_trade_06_24_2011.html|url-status=live}}</ref>|group=lower-alpha|name=SteveNashTrade}} <small>traded to [[Golden State Warriors|Golden State]])</small><ref group=upper-alpha name=WarriorsSunsTrade/>
+| [[BC Lietuvos rytas|Lietuvos Rytas]] ([[Lietuvos krepšinio lyga|Lithuania]])
+|-
+|align=center| 2
+|align=center| 31
+| {{sortname|Allen|Crabbe}}
+| SG
+| {{flagu|United States}}
+| [[Cleveland Cavaliers]] <small>(from [[Orlando Magic|Orlando]],</small>{{#tag:ref|On June 24, 2011, the [[Cleveland Cavaliers]] acquired two future second round picks (including ''the 31st pick'') from the [[Orlando Magic]] in exchange for [[Justin Harper (basketball)|Justin Harper]].<ref>{{cite web|url=http://www.nba.com/2011/news/06/24/magic.draft.trade.ap/index.html |title=Magic make a trade, selection on draft night |work=[[NBA.com]] |date=June 24, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110627232724/http://www.nba.com/2011/news/06/24/magic.draft.trade.ap/index.html |archive-date=June 27, 2011 }}</ref>|group=lower-alpha}} <small>traded to [[Portland Trail Blazers|Portland]])</small>{{#tag:ref|The [[Cleveland Cavaliers]] traded 31st pick [[Allen Crabbe]] to the [[Portland Trail Blazers]] for two future second round picks.<ref name=drafttracker/>|group=upper-alpha}}
+| [[California Golden Bears men's basketball|California]] <small>([[Junior (education year)|Jr.]]) </small>
+|-
+|align=center| 2
+|align=center| 32
+| {{sortname|Álex|Abrines}}
+| SG/SF
+| {{ESP}}
+| [[Oklahoma City Thunder]] <small>(from [[Charlotte Bobcats|Charlotte]] via [[Oklahoma City Thunder|Oklahoma City]], [[Boston Celtics|Boston]] and [[Houston Rockets|Houston]])</small><ref group=lower-alpha name=JamesHardenTrade />
+| [[FC Barcelona Bàsquet|FC Barcelona]] ([[Liga ACB|Spain]])
+|-
+|align=center| 2
+|align=center| 33
+| {{sortname|Carrick|Felix}}
+| SG
+| {{flagu|United States}}
+| [[Cleveland Cavaliers]]
+| [[Arizona State Sun Devils men's basketball|Arizona State]] <small>([[Senior (education)|Sr.]]) </small>
+|-
+|align=center| 2
+|align=center| 34
+| {{sortname|Isaiah|Canaan}}
+| PG
+| {{flagu|United States}}
+| [[Houston Rockets]] <small>(from [[Phoenix Suns|Phoenix]])</small>{{#tag:ref|On February 21, 2013, the [[Houston Rockets]] acquired the [[Phoenix Suns]]' 2013 second round pick (''the 34th pick'') in exchange for [[Marcus Morris (basketball)|Marcus Morris]].<ref>{{cite web|url=https://www.espn.com/nba/story/_/id/8971552/houston-rockets-trade-marcus-morris-phoenix-suns|title=Marcus Morris traded to Suns|publisher=[[ESPN]]|date=February 21, 2013|access-date=June 28, 2013|archive-date=June 3, 2015|archive-url=https://web.archive.org/web/20150603235328/http://espn.go.com/nba/story/_/id/8971552/houston-rockets-trade-marcus-morris-phoenix-suns|url-status=live}}</ref>|group=lower-alpha}}
+| [[Murray State Racers men's basketball|Murray State]] <small>([[Senior (education)|Sr.]]) </small>
+|-
+|align=center| 2
+|align=center| 35
+| {{sortname|Glen|Rice Jr.}}
+| SG
+| {{flagu|United States}}
+| [[Philadelphia 76ers]] <small>(from [[New Orleans Pelicans|New Orleans]],</small>{{#tag:ref|On January 4, 2012, the [[Philadelphia 76ers]] acquired the [[Memphis Grizzlies]]' 2012 second round pick and the [[New Orleans Hornets]]' 2013 second round pick (''the 35th pick'') in a three team trade involving [[Marreese Speights]].<ref>{{cite web|url=https://www.espn.com/nba/story/_/id/7423424/memphis-grizzlies-get-philadelphia-76ers-marreese-speights-xavier-henry-new-orleans-hornets|title=Grizzlies acquire Marreese Speights|publisher=[[ESPN]]|date=January 4, 2012|author=Marc Stein|access-date=June 28, 2013|archive-date=April 21, 2012|archive-url=https://web.archive.org/web/20120421062419/http://espn.go.com/nba/story/_/id/7423424/memphis-grizzlies-get-philadelphia-76ers-marreese-speights-xavier-henry-new-orleans-hornets|url-status=live}}</ref>|group=lower-alpha}} <small>traded to [[Washington Wizards|Washington]])</small>{{#tag:ref|The [[Philadelphia 76ers]] traded 35th pick [[Glen Rice Jr.]] to the [[Washington Wizards]] in exchange for 38th pick [[Nate Wolters]] and 54th pick [[Arsalan Kazemi]].<ref name=drafttracker/>|group=upper-alpha|name=76ersWizards}}
+| [[Rio Grande Valley Vipers]] ([[NBA Development League|NBA D-League]])
+|-
+|align=center| 2
+|align=center| 36
+| {{sortname|Ray|McCallum Jr.}}
+| PG
+| {{flagu|United States}}
+| [[Sacramento Kings]]
+| [[Detroit Titans men's basketball|Detroit]] <small>([[Junior (education year)|Jr.]]) </small>
+|-
+|align=center| 2
+|align=center| 37
+| {{sortname|Tony|Mitchell|dab=basketball, born 1992}}
+| PF
+| {{flagu|United States}}
+| [[Detroit Pistons]]
+| [[North Texas Mean Green men's basketball|North Texas]] <small>([[Sophomore year|So.]]) </small>
+|-
+|align=center| 2
+|align=center| 38
+| {{sortname|Nate|Wolters}}
+| PG
+| {{flagu|United States}}
+| [[Washington Wizards]] <small>(traded to [[Milwaukee Bucks|Milwaukee]] via [[Philadelphia 76ers|Philadelphia]])</small><ref group=upper-alpha name=76ersWizards/>{{#tag:ref|The [[Philadelphia 76ers]] traded 38th pick [[Nate Wolters]] to the [[Milwaukee Bucks]] in exchange for 43rd pick [[Ricky Ledo]] and a future second round draft pick.<ref>{{cite web|url=http://host.madison.com/sports/basketball/professional/bucks-pick-then-trade-providence-g-ricky-ledo-but-for/article_86b8929e-cfe8-54d2-82aa-ee28e211ed5a.html|title=Update: Bucks get point guard Nick Wolters in trade for second round pick Ricky Ledo|work=[[Wisconsin State Journal]]|date=June 28, 2013|access-date=June 28, 2013|archive-date=September 6, 2013|archive-url=https://web.archive.org/web/20130906015137/http://host.madison.com/sports/basketball/professional/bucks-pick-then-trade-providence-g-ricky-ledo-but-for/article_86b8929e-cfe8-54d2-82aa-ee28e211ed5a.html|url-status=live}}</ref>|group=upper-alpha|name=76ersBucks}}
+| [[South Dakota State Jackrabbits men's basketball|South Dakota State]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 39
+| {{sortname|Jeff|Withey}}
+| C
+| {{flagu|United States}}
+| [[Portland Trail Blazers]] <small>(from [[Minnesota Timberwolves|Minnesota]] via [[Cleveland Cavaliers|Cleveland]] and [[Boston Celtics|Boston]])</small>{{#tag:ref|On July 20, 2012, the [[Portland Trail Blazers]] acquired [[Aleksandar Pavlović (basketball)|Sasha Pavlovic]], ''the 39th pick'' and ''the 45th pick'' from the [[Boston Celtics]] in a three team sign-and-trade deal involving [[Courtney Lee]].<ref name="CourtneyLeeRef">{{cite web|url=http://www.nba.com/celtics/news/press_release/press072012-celtics-acquire-courtney-lee.html|title=Celtics Acquire Lee|work=[[NBA.com]]|access-date=June 28, 2013|archive-date=October 28, 2014|archive-url=https://web.archive.org/web/20141028054444/http://www.nba.com/celtics/news/press_release/press072012-celtics-acquire-courtney-lee.html|url-status=live}}</ref> Previously, on February 24, 2011, Boston acquired the 39th pick from the [[Cleveland Cavaliers]] in exchange for [[Semih Erden]] and [[Luke Harangody]].<ref>{{cite web|url=http://www.nba.com/cavaliers/news/trade_110224.html|title=Cavaliers Acquire Erden and Harangody from Boston for Future Second Round Pick|date=February 24, 2011|work=[[NBA.com]]|access-date=June 28, 2013|archive-date=October 28, 2014|archive-url=https://web.archive.org/web/20141028054433/http://www.nba.com/cavaliers/news/trade_110224.html|url-status=live}}</ref> Previously, on July 27, 2010, Cleveland acquired the 39th pick from the [[Minnesota Timberwolves]] along with [[Ramon Sessions]] and [[Ryan Hollins]] in exchange for [[Delonte West]] and [[Sebastian Telfair]].<ref>{{cite web|url=https://www.espn.com/nba/news/story?id=5412223|title=Wolves trade Sessions to Cavaliers|publisher=[[ESPN]]|date=July 27, 2010|access-date=June 28, 2013|archive-date=November 18, 2014|archive-url=https://web.archive.org/web/20141118020226/http://sports.espn.go.com/nba/news/story?id=5412223|url-status=live}}</ref>|group=lower-alpha|name=CourtneyLeeTrade}}
+| [[Kansas Jayhawks men's basketball|Kansas]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 40
+| {{sortname|Grant|Jerrett}}
+| PF
+| {{flagu|United States}}
+| [[Portland Trail Blazers]] <small>(traded to [[Oklahoma City Thunder|Oklahoma City]])</small>{{#tag:ref|The [[Portland Trail Blazers]] traded 40th pick [[Grant Jerrett]] to the [[Oklahoma City Thunder]] for cash.<ref name=drafttracker/>|group=upper-alpha}}
+| [[Arizona Wildcats men's basketball|Arizona]] <small>([[Freshman|Fr.]])</small>
+|-
+|align=center| 2
+|align=center| 41
+| {{sortname|Jamaal|Franklin}}
+| SG
+| {{flagu|United States}}
+| [[Memphis Grizzlies]] <small>(from [[Toronto Raptors|Toronto]] via [[Dallas Mavericks|Dallas]] and [[Toronto Raptors|Toronto]])</small>{{#tag:ref|On June 30, 2013, the [[Memphis Grizzlies]] acquired [[Ed Davis (basketball)|Ed Davis]], [[José Calderón (basketball)|José Calderón]], and a 2013 second round pick (''the 41st pick'') from the [[Toronto Raptors]] in a four team trade involving [[Rudy Gay]].<ref>{{cite web|url=https://www.espn.com/nba/story/_/id/8898673/rudy-gay-traded-raptors-grizzlies-6-player-deal-involving-pistons|title=Rudy Gay traded to Raptors|date=January 31, 2013|publisher=[[ESPN]]|access-date=June 28, 2013|archive-date=October 10, 2015|archive-url=https://web.archive.org/web/20151010210352/http://espn.go.com/nba/story/_/id/8898673/rudy-gay-traded-raptors-grizzlies-6-player-deal-involving-pistons|url-status=live}}</ref> Previously, on January 23, 2011, Toronto acquired [[Alexis Ajinca]] and the 41st pick from the [[Dallas Mavericks]] in exchange for the draft rights to [[Giorgos Printezis]]. This pick was reacquired from a 2010 draft deal in which Toronto sent this pick to Dallas in exchange for the draft rights to [[Solomon Alabi]].<ref>{{cite web|url=http://www.nba.com/raptors/news/20110124/9929/raptors-acquire-ajinca-draft-pick-and-cash-considerations-dallas|title=Raptors Acquire Ajinca, Draft Pick And Cash Considerations From Dallas|date=January 24, 2011|work=[[NBA.com]]|access-date=June 28, 2013|archive-date=October 28, 2014|archive-url=https://web.archive.org/web/20141028054421/http://www.nba.com/raptors/news/20110124/9929/raptors-acquire-ajinca-draft-pick-and-cash-considerations-dallas|url-status=live}}</ref>  |group=lower-alpha}}
+| [[San Diego State Aztecs men's basketball|San Diego State]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 2
+|align=center| 42
+| {{sortname|Pierre|Jackson}}
+| PG
+| {{flagu|United States}}
+| [[Philadelphia 76ers]] <small>(traded to [[New Orleans Pelicans|New Orleans]])</small><ref group=upper-alpha name=76ersPelicanstrade/>
+| [[Baylor Bears men's basketball|Baylor]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 43
+| {{sortname|Ricky|Ledo}}
+| SG
+| {{USA}}
+| [[Milwaukee Bucks]] <small>(traded to [[Dallas Mavericks|Dallas]] via [[Philadelphia 76ers|Philadelphia]])</small><ref group=upper-alpha name=76ersBucks/>{{#tag:ref|The [[Philadelphia 76ers]] traded 43rd pick [[Ricky Ledo]] to the [[Dallas Mavericks]] in exchange for a 2014 second round pick (Boston's 2014 pick in the Kelly Olynyk-Lucas Nogueira trade).<ref>{{cite web|url=http://mavsblog.dallasnews.com/2013/06/mavericks-officially-secure-rights-to-ricky-ledo-in-trade-with-76ers.html/|title=Mavericks officially secure rights to Ricky Ledo in trade with 76ers|work=[[Dallas Morning News]]|date=June 28, 2013|access-date=June 28, 2013|archive-url=https://web.archive.org/web/20130701200745/http://mavsblog.dallasnews.com/2013/06/mavericks-officially-secure-rights-to-ricky-ledo-in-trade-with-76ers.html/|archive-date=July 1, 2013|url-status=dead}}</ref>|group=upper-alpha}}
+| [[Providence Friars men's basketball|Providence]] <small>([[Freshman|Fr.]])</small>
+|-
+|align=center| 2
+|align=center| 44
+| {{sortname|Mike|Muscala}}
+| C
+| {{flagu|United States}}
+| [[Dallas Mavericks]]<small> (traded to [[Atlanta Hawks|Atlanta]])</small><ref group=upper-alpha name=MavericksHawksTrade/>
+| [[Bucknell Bison men's basketball|Bucknell]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 45
+| bgcolor="C0C0C0" width="5%"| {{sortname|Marko|Todorović|dab=basketball}}<sup>#</sup>
+| PF/C
+| {{MNE}}
+| [[Portland Trail Blazers]] <small>(from [[Boston Celtics|Boston]])</small><ref group=lower-alpha name=CourtneyLeeTrade/>
+| [[FC Barcelona Bàsquet|FC Barcelona]] ([[Liga ACB|Spain]])
+|-
+|align=center| 2
+|align=center| 46
+|{{sortname|Erick|Green}}
+| PG
+| {{flagu|United States}}
+| [[Utah Jazz]] <small>(traded to Denver)</small><ref group=upper-alpha name=DenverUtahTrade/>
+| [[Virginia Tech Hokies men's basketball|Virginia Tech]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 47
+|{{sortname|Raul|Neto}}
+| PG
+| {{flagu|Brazil}}{{refn|group=n|Neto was born in Brazil and is of Italian descent. He holds dual citizenship and plays for the [[Brazil men's national basketball team|Brazil national basketball team]].}}
+| [[Atlanta Hawks]] <small> (traded to [[Utah Jazz|Utah]]) </small>
+| [[San Sebastián Gipuzkoa BC|Gipuzkoa Basket]] ([[Liga ACB|Spain]])<!--Played in Liga ACB in 2012-13, but relegated at the end of the season.-->
+|-
+|align=center| 2
+|align=center| 48
+| {{sortname|Ryan|Kelly|dab=basketball}}
+| PF
+| {{flagu|United States}}
+| [[Los Angeles Lakers]]
+| [[Duke Blue Devils men's basketball|Duke]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 49
+| {{sortname|Erik|Murphy}}
+| PF
+| {{FIN}}{{refn|group=n|Erik Murphy was born in France to an [[Jay Murphy|American father]] and a Finnish mother. He has dual U.S. and Finnish citizenship, but has chosen to represent [[Finland national basketball team|Finland]] internationally.<ref>{{cite web|url=http://blogs.bulls.com/2014/03/bulls-murphy-excited-to-join-finnish-national-team/|title=Bulls' Murphy excited to join Finnish national team|first=Sam|last=Smith|work=NBA.com|date=March 19, 2014|access-date=June 29, 2014|archive-date=July 28, 2014|archive-url=https://web.archive.org/web/20140728082619/http://blogs.bulls.com/2014/03/bulls-murphy-excited-to-join-finnish-national-team/|url-status=live}}</ref>}}
+| [[Chicago Bulls]]
+| [[Florida Gators men's basketball|Florida]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 50
+| {{sortname|James|Ennis|dab=basketball}}
+| SF
+| {{flagu|United States}}
+| [[Atlanta Hawks]] <small>(from [[Houston Rockets|Houston]], traded to [[Miami Heat|Miami]])</small>{{#tag:ref|The [[Atlanta Hawks]] traded 50th pick [[James Ennis (basketball)|James Ennis]] to the [[Miami Heat]] for a future second-round pick.<ref name=drafttracker/>|group=upper-alpha}}
+| [[Long Beach State 49ers men's basketball|Long Beach State]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 51
+| bgcolor="C0C0C0" width="5%"| {{sortname|Romero|Osby}}<sup>#</sup>
+| PF
+| {{flagu|United States}}
+| [[Orlando Magic]] <small>(from [[Golden State Warriors|Golden State]] via [[Denver Nuggets|Denver]])</small>{{#tag:ref|On August 10, 2012, the [[Orlando Magic]] acquired a 2013 second round pick (''the 51st pick'') from the [[Denver Nuggets]] in a four team trade involving [[Dwight Howard]]. Orlando also received draft picks in 2014, 2015, and 2017.<ref>{{cite web|url=http://www.nba.com/2012/news/08/10/dwight-howard-trade.ap/index.html |title=It's official: Howard dealt to Lakers in four-team trade |date=August 10, 2012 |work=[[NBA.com]] |url-status=dead |archive-url=https://web.archive.org/web/20120811080542/http://www.nba.com/2012/news/08/10/dwight-howard-trade.ap/index.html |archive-date=August 11, 2012 }}</ref>|group=lower-alpha}}
+| [[Oklahoma Sooners men's basketball|Oklahoma]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 52
+| {{sortname|Lorenzo|Brown}}
+| PG
+| {{flagu|United States}}
+| [[Minnesota Timberwolves]] <small>(from [[Brooklyn Nets|Brooklyn]] via [[Minnesota Timberwolves|Minnesota]] and [[New Orleans Pelicans|New Orleans]])</small>{{#tag:ref|On June 23, 2011, the [[Minnesota Timberwolves]] acquired a 2013 second round pick (''the 52nd pick'') from the [[New Jersey Nets]] in exchange for the draft rights to [[Bojan Bogdanovic]].<ref>{{cite web|url=http://www.nba.com/nets/news/Bogdanovic_Rights_Release_110624.html|title=NETS Acquire Draft Rights to Bojan Bogdanovic|date=June 24, 2011|work=[[NBA.com]]|access-date=June 28, 2013|archive-date=January 19, 2012|archive-url=https://web.archive.org/web/20120119053137/http://www.nba.com/nets/news/Bogdanovic_Rights_Release_110624.html|url-status=live}}</ref>|group=lower-alpha}}
+| [[NC State Wolfpack men's basketball|NC State]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 2
+|align=center| 53
+| bgcolor="C0C0C0" width="5%"| {{sortname|Colton|Iverson}}<sup>#</sup>
+| C
+| {{flagu|United States}}
+| [[Indiana Pacers]]<small> (traded to [[Boston Celtics|Boston]])</small>{{#tag:ref|The [[Indiana Pacers]] traded 53rd pick [[Colton Iverson]] to the [[Boston Celtics]] for cash.<ref name=drafttracker/>|group=upper-alpha}}
+| [[Colorado State Rams men's basketball|Colorado State]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 54
+| bgcolor="C0C0C0" width="5%"| {{sortname|Arsalan|Kazemi}}<sup>#</sup>
+| PF
+| {{IRI}}
+| [[Washington Wizards]] <small>(from [[New York Knicks|New York]],</small>{{#tag:ref|On December 10, 2011, the [[Washington Wizards]] acquired [[Ronny Turiaf]], a 2012 second round pick from the [[Dallas Mavericks]] and a 2013 second round pick (''the 54th pick'') from the [[New York Knicks]] in a three-team trade involving [[Tyson Chandler]].<ref>{{cite web|url=http://www.nba.com/wizards/news/wizards_acquire_turiaf_121011.html|title=Wizards Acquire Turiaf|date=December 10, 2011|work=[[NBA.com]]|access-date=June 28, 2013|archive-date=October 28, 2014|archive-url=https://web.archive.org/web/20141028054436/http://www.nba.com/wizards/news/wizards_acquire_turiaf_121011.html|url-status=live}}</ref>|group=lower-alpha}} <small>traded to [[Philadelphia 76ers|Philadelphia]])</small><ref group=upper-alpha name=76ersWizards/>
+| [[Oregon Ducks men's basketball|Oregon]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 55
+|| {{sortname|Joffrey|Lauvergne}}
+| C
+| {{flagu|France}}
+| [[Memphis Grizzlies]] <small>(traded to [[Denver Nuggets|Denver]])</small>{{#tag:ref|The [[Memphis Grizzlies]] traded [[Darrell Arthur]] and 55th pick [[Joffrey Lauvergne]] to the Nuggets for [[Kosta Koufos]].<ref name=drafttracker/>|group=upper-alpha}}
+| [[KK Partizan|Partizan Belgrade]] ([[Basketball League of Serbia|Serbia]])
+|-
+|align=center| 2
+|align=center| 56
+| {{sortname|Peyton|Siva}}
+| PG
+| {{flagu|United States}}
+| [[Detroit Pistons]] <small>(from [[Los Angeles Clippers]])</small>{{#tag:ref|On February 16, 2009, the [[Detroit Pistons]] acquired the [[Los Angeles Clippers]]' 2013 second round pick (''the 56th pick'') in exchange for Detroit's 2011 second round pick and [[Alex Acker]].<ref>{{cite web|url=http://www.nba.com/clippers/news/acker_090216.html|title=Clippers Acquire Alex Acker From Detroit Pistons|date=February 16, 2009|work=[[NBA.com]]|access-date=June 28, 2013|archive-date=June 27, 2015|archive-url=https://web.archive.org/web/20150627201950/http://www.nba.com/clippers/news/acker_090216.html|url-status=live}}</ref>|group=lower-alpha}}
+| [[Louisville Cardinals men's basketball|Louisville]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 57
+| bgcolor="C0C0C0" width="5%"| {{sortname|Alex|Oriakhi}}<sup>#</sup>
+| C
+| {{flagu|United States}}
+| [[Phoenix Suns]] <small>(from [[Denver Nuggets|Denver]] via [[Los Angeles Lakers|LA Lakers]])</small><ref group=lower-alpha name=SteveNashTrade/>
+| [[Missouri Tigers men's basketball|Missouri]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 58
+| bgcolor="C0C0C0" width="5%"| {{sortname|Deshaun|Thomas}}<sup>#</sup>
+| SF
+| {{flagu|United States}}
+| [[San Antonio Spurs]]
+| [[Ohio State Buckeyes men's basketball|Ohio State]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 2
+|align=center| 59
+| bgcolor="C0C0C0" width="5%"| {{sortname|Bojan|Dubljević}}<sup>#</sup>
+| PF
+| {{MNE}}
+| [[Minnesota Timberwolves]] <small>(from [[Oklahoma City Thunder|Oklahoma City]])</small>{{#tag:ref|On December 13, 2011, the [[Minnesota Timberwolves]] acquired [[Robert Vaden (basketball)|Robert Vaden]], a 2012 second round pick and a future conditional second round draft pick (''the 59th pick'') from the [[Oklahoma City Thunder]] in exchange for [[Lazar Hayward]].<ref>{{Cite web |url=http://www.nba.com/timberwolves/news/hayward_trade_okc_2011_12_13.html |title=Timberwolves Trade Lazar Hayward to Oklahoma City |website=[[NBA.com]] |access-date=June 28, 2013 |archive-date=December 4, 2013 |archive-url=https://web.archive.org/web/20131204081731/http://www.nba.com/timberwolves/news/hayward_trade_okc_2011_12_13.html |url-status=live }}</ref>|group=lower-alpha}}
+| [[Valencia Basket]] ([[Liga ACB|Spain]])
+|-
+|align=center| 2
+|align=center| 60
+| bgcolor="C0C0C0" width="5%"| {{sortname|Jānis|Timma}}<sup>#</sup>
+| SF
+| {{LAT}}
+| [[Memphis Grizzlies]] <small>(from [[Miami Heat|Miami]])</small>{{#tag:ref|On February 21, 2013, Memphis acquired [[Dexter Pittman]] and the [[Miami Heat]]'s 2013 second round pick (''the 60th pick'') in exchange for the draft rights to [[Ricky Sánchez]].<ref>{{cite web |url=https://www.espn.com/nba/truehoop/miamiheat/story/_/id/8971382/miami-heat-trade-center-dexter-pittman-memphis-grizzlies |title=Grizzlies acquire Dexter Pittman |publisher=[[ESPN]] |date=February 21, 2013 |access-date=June 27, 2013 |archive-date=October 18, 2014 |archive-url=https://web.archive.org/web/20141018153405/http://espn.go.com/nba/truehoop/miamiheat/story/_/id/8971382/miami-heat-trade-center-dexter-pittman-memphis-grizzlies |url-status=live }}</ref>|group=lower-alpha}}
+| [[BK Ventspils]] ([[Latvian Basketball League|Latvia]])
+|}
+
+==Notable undrafted players==
+{{further|List of undrafted NBA players}}
+[[File:Robert Covington - 38681758810.jpg|thumb|right|150px|[[Robert Covington]] went undrafted, but went on to become a starter for the Philadelphia 76ers, and was later named to the [[NBA All-Defensive Team|NBA All-Defensive First Team]] in 2018.]]
+These players were not selected in the 2013 NBA draft but have played at least one game in the NBA.
+
+{| class="wikitable sortable"
+|-
+! style="width:19%;"| Player
+! style="width:1%;"| Position
+! style="width:16%;"| Nationality
+! style="width:20%;"| School/club team
+|-
+|{{sortname|Chris|Babb}}
+| SG
+| {{flagu|United States}}
+| [[Iowa State Cyclones men's basketball|Iowa State]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|Vander|Blue}}
+| SG
+| {{flagu|United States}}
+| [[Marquette Golden Eagles men's basketball|Marquette]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|{{sortname|Ryan|Broekhoff}}
+| SF/SG
+| {{AUS}}
+| [[Valparaiso Crusaders men's basketball|Valparaiso]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|Facundo|Campazzo}}
+| PG
+| {{ARG}}
+| [[Peñarol de Mar del Plata]] <small>([[Argentina]])</small>
+|-
+|{{sortname|Will|Cherry}}
+| PG
+| {{flagu|United States}}
+| [[Montana Grizzlies men's basketball|Montana]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|Ian|Clark|dab=basketball}}
+| SG
+| {{flagu|United States}}
+| [[Belmont Bruins men's basketball|Belmont]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|Jack|Cooley}}
+| PF
+| {{flagu|United States}}
+| [[Notre Dame Fighting Irish men's basketball|Notre Dame]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|Robert|Covington}}
+| SF
+| {{flagu|United States}}
+| [[Tennessee State Tigers men's basketball|Tennessee State]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|Seth|Curry}}
+| PG
+| {{flagu|United States}}
+| [[Duke Blue Devils men's basketball|Duke]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|Troy|Daniels}}
+| SG
+| {{flagu|United States}}
+| [[VCU Rams men's basketball|VCU]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|Brandon|Davies}}
+| PF
+| {{flagu|United States}}
+| [[BYU Cougars men's basketball|BYU]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|Dewayne|Dedmon}}
+| C
+| {{flagu|United States}}
+| [[USC Trojans men's basketball|USC]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|{{sortname|Matthew|Dellavedova}}
+| PG
+| {{flagu|Australia}}
+| [[Saint Mary's Gaels men's basketball|Saint Mary's]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|Larry|Drew II}}
+| PG
+| {{flagu|United States}}
+| [[UCLA Bruins men's basketball|UCLA]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|Elias|Harris}}
+| F
+| {{GER}}
+| [[Gonzaga Bulldogs men's basketball|Gonzaga]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|Reggie|Hearn}}
+| SG
+| {{flagu|United States}}
+| [[Northwestern Wildcats men's basketball|Northwestern]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|Rodney|McGruder}}
+| SG
+| {{flagu|United States}}
+| [[Kansas State Wildcats men's basketball|Kansas State]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|Trey|McKinney-Jones}}
+| SG
+| {{flagu|United States}}
+| [[Miami Hurricanes men's basketball|Miami (Florida)]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|Nicolò|Melli}}
+| PF/C
+| {{ITA}}{{refn|group=n|Melli was born in Italy to an American mother. He plays for the [[Italy men's national basketball team|Italy national basketball team]].}}
+| [[Pallacanestro Olimpia Milano|Olimpia Milano]] <small>([[Lega Basket Serie A|Italy]])</small>
+|-
+|{{sortname|Brandon|Paul}}
+| SG
+| {{flagu|United States}}
+| [[Illinois Fighting Illini men's basketball|Illinois]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|Phil|Pressey}}
+| PG
+| {{flagu|United States}}
+| [[Missouri Tigers men's basketball|Missouri]] <small>([[Sophomore year|Jr.]])</small>
+|-
+|{{sortname|James|Southerland}}
+| SF
+| {{flagu|United States}}
+| [[Syracuse Orange men's basketball|Syracuse]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|D. J.|Stephens}}
+| SF/SG
+| {{flagu|United States}}
+| [[Memphis Tigers men's basketball|Memphis]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|Daniel|Theis}}
+| PF/C
+| {{flagu|Germany}}
+| [[Ratiopharm Ulm]] <small>([[Basketball Bundesliga|Germany]])</small>
+|-
+|{{sortname|Adonis|Thomas}}
+| SF/SG
+| {{flagu|United States}}
+| [[Memphis Tigers men's basketball|Memphis]] <small>([[Sophomore year|So.]])</small>
+|}
+
+==Eligibility and entrants==
+{{main|Eligibility for the NBA draft}}
+
+The draft is conducted under the eligibility rules established in the league's new 2011 collective bargaining agreement (CBA) with its players union. The CBA that ended the [[2011 NBA lockout|2011 lockout]] instituted no immediate changes to the draft, but called for a committee of owners and players to discuss future changes.<ref name="2011 status quo">{{cite news |url=https://www.usatoday.com/sports/basketball/nba/story/2011-12-07/hunters-memo-to-players-details-nba-cba/51722458/1 |title=Hunter's memo to players details NBA CBA |first=Jeff |last=Zillgit |work=[[USA Today]] |date=December 7, 2011 |access-date=December 12, 2011 |archive-date=December 9, 2011 |archive-url=https://web.archive.org/web/20111209061854/http://www.usatoday.com/sports/basketball/nba/story/2011-12-07/hunters-memo-to-players-details-nba-cba/51722458/1 |url-status=live }}</ref> {{as of|2012}}, the basic eligibility rules for the draft are listed below.
+* All drafted players must be at least 19 years old during the calendar year of the draft. In terms of dates, players eligible for the 2013 draft must be born on or before December 31, 1994.<ref name="CBA Age">{{cite web|url=http://www.nbpa.com/cba_articles/article-X.php |title=Article X, Section 1(b)(i) |work=2005 NBA Collective Bargaining Agreement |publisher=National Basketball Players Association |access-date=April 17, 2008 |archive-url=https://web.archive.org/web/20080227065646/http://www.nbpa.com/cba_articles/article-X.php |archive-date=February 27, 2008 |url-status=dead }}</ref>
+* Any player who is not an "international player", as defined in the CBA, must be at least one year removed from the graduation of his high school class.<ref name="CBA Age"/> The CBA defines "international players" as players who permanently resided outside the U.S. for three years prior to the draft, did not complete high school in the U.S., and have never enrolled at a U.S. college or university.<ref name="CBA International">{{cite web|url=http://www.nbpa.com/cba_articles/article-X.php |title=Article X, Section 1(c) |work=2005 NBA Collective Bargaining Agreement |publisher=National Basketball Players Association |access-date=April 17, 2008 |archive-url=https://web.archive.org/web/20090621100158/http://www.nbpa.com/cba_articles/article-X.php |archive-date=June 21, 2009 |url-status=dead }}</ref>
+
+===Early entrants===
+Player who are not automatically eligible must declare their eligibility for the draft by notifying the NBA offices in writing no later than 60 days before the draft.<ref name="CBA US Early Entry">{{cite web|url=http://www.nbpa.com/cba_articles/article-X.php |title=Article X, Section 1(b)(ii)(F) |work=2005 NBA Collective Bargaining Agreement |publisher=National Basketball Players Association |access-date=April 17, 2008 |archive-url=https://web.archive.org/web/20080227065646/http://www.nbpa.com/cba_articles/article-X.php |archive-date=February 27, 2008 |url-status=dead }} (non-international players)</ref><ref name="CBA International Early Entry">{{cite web|url=http://www.nbpa.com/cba_articles/article-X.php |title=Article X, Section 1(b)(ii)(G)(3) |work=2005 NBA Collective Bargaining Agreement |publisher=National Basketball Players Association |access-date=April 17, 2008 |archive-url=https://web.archive.org/web/20080227065646/http://www.nbpa.com/cba_articles/article-X.php |archive-date=February 27, 2008 |url-status=dead }} (international players)</ref> For the 2013 draft, this date fell on April 28. Under NCAA rules, players will only have until April 16<!--The NCAA bylaw specifies this exact calendar date.--> to withdraw from the draft and maintain their college eligibility.<ref name="NCAA withdrawal">{{cite web |url=http://www.ncaapublications.com/productdownloads/D111.pdf |title=Bylaw 12.2.4.2.1.1 Exception—Basketball—Four-Year College Student-Athlete, Men's Basketball |work=2010–11 NCAA Division I Manual |publisher=National Collegiate Athletic Association |page=72 |access-date=February 2, 2011 |archive-date=October 31, 2014 |archive-url=https://web.archive.org/web/20141031233421/http://www.ncaapublications.com/productdownloads/D111.pdf |url-status=live }}</ref>
+
+A player who has hired an [[sports agent|agent]] will forfeit his remaining college eligibility, regardless of whether he is drafted. Also, while the CBA allows a player to withdraw from the draft twice, the NCAA mandates that a player who has declared twice loses his college eligibility.
+
+====College underclassmen====
+Forty-five college players declared for the draft.<ref name="nbadraft2013p">{{cite news |url=https://www.usatoday.com/story/sports/nba/2013/05/01/nba-early-entrants-college-international-players/2126359/ |title=NBA early entry applicants list release |work=[[USA Today]] |date=May 1, 2013 |access-date=May 3, 2013 |archive-date=May 22, 2013 |archive-url=https://web.archive.org/web/20130522075754/http://www.usatoday.com/story/sports/nba/2013/05/01/nba-early-entrants-college-international-players/2126359/ |url-status=live }}</ref><ref name="nbadraft2013f">{{cite web | url=http://www.nba.com/2013/news/06/18/2013-draft-withdrawals/ | title=Eighteen early-entry candidates withdraw from 2013 Draft | work=NBA.com | date=June 18, 2013 | access-date=April 21, 2016 | archive-date=June 28, 2015 | archive-url=https://web.archive.org/web/20150628082905/http://www.nba.com/2013/news/06/18/2013-draft-withdrawals/ | url-status=live }}</ref>
+{{div col|colwidth=28em}}
+*{{flagicon|NZL}} [[Steven Adams]] – C, [[Pittsburgh Panthers men's basketball|Pittsburgh]] (freshman)
+*{{flagicon|USA}} [[C. J. Aiken]] – F, [[Saint Joseph's Hawks men's basketball|Saint Joseph's]] (junior)
+*{{flagicon|CAN}} [[Anthony Bennett (basketball)|Anthony Bennett]] – F, [[UNLV Rebels men's basketball|UNLV]] (freshman)
+*{{flagicon|USA}} [[Vander Blue]] – G, [[Marquette Golden Eagles men's basketball|Marquette]] (junior)
+*{{flagicon|USA}} [[Lorenzo Brown]] – G, [[NC State Wolfpack men's basketball|North Carolina State]] (junior)
+*{{flagicon|USA}} [[Reggie Bullock]] – F, [[North Carolina Tar Heels men's basketball|North Carolina]] (junior)
+*{{flagicon|USA}} [[Trey Burke]] – G, [[Michigan Wolverines men's basketball|Michigan]] (sophomore)
+*{{flagicon|USA}} [[Kentavious Caldwell-Pope]] – G, [[Georgia Bulldogs men's basketball|Georgia]] (sophomore)
+*{{flagicon|USA}} [[Michael Carter-Williams]] – G, [[Syracuse Orange men's basketball|Syracuse]] (sophomore)
+*{{flagicon|USA}} [[Adrien Coleman]] – G/F, [[Bethune-Cookman Wildcats men's basketball|Bethune-Cookman]] (junior)
+*{{flagicon|USA}} [[Allen Crabbe]] – G, [[California Golden Bears men's basketball|California]] (junior)
+*{{flagicon|USA}} [[Dewayne Dedmon]] – C, [[USC Trojans men's basketball|USC]] (junior)
+*{{flagicon|SEN}} [[Gorgui Dieng]] – C, [[Louisville Cardinals men's basketball|Louisville]] (junior)
+*{{flagicon|USA}} [[Jamaal Franklin]] – G, [[San Diego State Aztecs men's basketball|San Diego State]] (junior)
+*{{flagicon|USA}} [[Kiwi Gardner]] – G, [[Midland College]] (sophomore)
+*{{flagicon|USA}} [[Archie Goodwin (basketball)|Archie Goodwin]] – G, [[Kentucky Wildcats men's basketball|Kentucky]] (freshman)
+*{{flagicon|USA}} [[Tim Hardaway Jr.]] – G, [[Michigan Wolverines men's basketball|Michigan]] (junior)
+*{{flagicon|USA}} [[Grant Jerrett]] – F, [[Arizona Wildcats men's basketball|Arizona]] (freshman)
+*{{flagicon|CAN}} [[Christian Kabongo]] – G, [[Morgan State Bears men's basketball|Morgan State]] (junior)
+*{{flagicon|CAN}} [[Myck Kabongo]] – G, [[Texas Longhorns men's basketball|Texas]] (sophomore)
+*{{flagicon|USA}} [[Shane Larkin]] – G, [[Miami Hurricanes men's basketball|Miami (Florida)]] (sophomore)
+*{{flagicon|USA}} [[Ricky Ledo]] – G, [[Providence Friars men's basketball|Providence]] (freshman)
+*{{flagicon|UKR}} [[Alex Len]] – C, [[Maryland Terrapins men's basketball|Maryland]] (sophomore)
+*{{flagicon|USA}} [[C. J. Leslie]] – F, [[North Carolina State Wolfpack men's basketball|North Carolina State]] (junior)
+*{{flagicon|USA}} [[Nurideen Lindsey]] – G, [[Rider Broncs men's basketball|Rider]] (junior)
+*{{flagicon|FRA}} [[Amath M'Baye]] – F, [[Oklahoma Sooners men's basketball|Oklahoma]] (junior)
+*{{flagicon|USA}} [[Ray McCallum Jr.]] – G, [[Detroit Titans men's basketball|Detroit]] (junior)
+*{{flagicon|USA}} [[Ben McLemore]] – G, [[Kansas Jayhawks men's basketball|Kansas]] (freshman)
+*{{flagicon|USA}} [[Tony Mitchell (basketball, born 1992)|Tony Mitchell]] – F, [[North Texas Mean Green men's basketball|North Texas]] (sophomore)
+*{{flagicon|USA}} [[Shabazz Muhammad]] – G/F, [[UCLA Bruins men's basketball|UCLA]] (freshman)
+*{{flagicon|USA}} [[Nerlens Noel]] – C, [[Kentucky Wildcats men's basketball|Kentucky]] (freshman)
+*{{flagicon|USA}} [[Victor Oladipo]] – G/F, [[Indiana Hoosiers men's basketball|Indiana]] (junior)
+*{{flagicon|CAN}} [[Kelly Olynyk]] – C, [[Gonzaga Bulldogs men's basketball|Gonzaga]] (junior)
+*{{flagicon|USA}} [[Otto Porter]] – F, [[Georgetown Hoyas men's basketball|Georgetown]] (sophomore)
+*{{flagicon|USA}} [[Marshawn Powell]] – F, [[Arkansas Razorbacks men's basketball|Arkansas]] (junior)
+*{{flagicon|USA}} [[Phil Pressey]] – G, [[Missouri Tigers men's basketball|Missouri]] (junior)
+*{{flagicon|USA}} [[André Roberson]] – F, [[Colorado Buffaloes men's basketball|Colorado]] (junior)
+*{{flagicon|USA}} [[Trevis Simpson]] – G, [[UNC Greensboro Spartans men's basketball|UNC Greensboro]] (junior)
+*{{flagicon|USA}} [[Tony Snell (basketball)|Tony Snell]] – F, [[New Mexico Lobos men's basketball|New Mexico]] (junior)
+*{{flagicon|USA}} [[Tahj Tate]] – G, [[Delaware State Hornets men's basketball|Delaware State]] (sophomore)
+*{{flagicon|USA}} [[John Taylor (basketball)|John Taylor]] – G, [[Fresno Pacific University|Fresno Pacific]] (junior)
+*{{flagicon|USA}} [[Adonis Thomas]] – G/F, [[Memphis Tigers men's basketball|Memphis]] (sophomore)
+*{{flagicon|USA}} [[Deshaun Thomas]] – F, [[Ohio State Buckeyes men's basketball|Ohio State]] (junior)
+*{{flagicon|USA}} [[B. J. Young (basketball)|B. J. Young]] – G, [[Arkansas Razorbacks men's basketball|Arkansas]] (sophomore)
+*{{flagicon|USA}} [[Cody Zeller]] – F/C, [[Indiana Hoosiers men's basketball|Indiana]] (sophomore)
+{{div col end}}
+
+====International players====
+Fifteen players who did not attend college in the US or Canada between the ages of 18 and 22 declared for the draft.<ref name="nbadraft2013p"/><ref name="nbadraft2013f"/>
+{{div col|colwidth=28em}}
+* {{flagicon|Spain}} [[Álex Abrines]] – G/F, [[FC Barcelona Bàsquet|FC Barcelona]] ([[Liga ACB|Spain]])
+* {{flagicon|Greece}} [[Giannis Antetokounmpo]] – G/F, [[Filathlitikos B.C.]] ([[Greek A2 Basketball League|Greece]])
+* {{flagicon|Hungary}} [[László Dobos]] – C, [[Basket Zaragoza 2002|Basket Zaragoza]] ([[Liga ACB|Spain]])
+* {{flagicon|France}} [[Rudy Gobert]] – C, [[Cholet Basket]] ([[LNB Pro A|France]])
+* {{flagicon|France}} [[Livio Jean-Charles]] – F, [[ASVEL Basket]] ([[LNB Pro A|France]])
+* {{flagicon|Russia}} [[Sergey Karasev]] – G/F, [[BC Triumph Lyubertsy]] ([[Russian Professional Basketball League|Russia]])
+* {{flagicon|Brazil}} [[Raulzinho Neto]] – G, [[Gipuzkoa BC]] ([[Liga ACB|Spain]])
+* {{flagicon|Brazil}} [[Lucas Nogueira]] – C, [[CB Estudiantes]] ([[Liga ACB|Spain]])
+* {{flagicon|Brazil}} [[Alexandre Paranhos]] – F, [[Flamengo Basketball|CR Flamengo]] ([[Novo Basquete Brasil|Brazil]])
+* {{flagicon|Croatia}} [[Bogdan Radosavljević]] – C, [[FC Bayern Munich (basketball)|FC Bayern Munich]] ([[Basketball Bundesliga|Germany]])
+* {{flagicon|Germany}} [[Dennis Schröder]] – G, [[Basketball Löwen Braunschweig]] ([[Basketball Bundesliga|Germany]])
+* {{flagicon|Serbia}} [[Strahinja Stojačić]] – G, [[KK Smederevo 1953|KK Smederevo]] ([[Basketball League of Serbia|Serbia]])
+* {{flagicon|Germany}} [[Daniel Theis]] – F/C, [[Ratiopharm Ulm|Basketball Ulm]] ([[Basketball Bundesliga|Germany]])
+* {{flagicon|Latvia}} [[Jānis Timma]] – F, [[BK Ventspils]] ([[Latvian Basketball League|Latvia]])
+* {{flagicon|Montenegro}} [[Marko Todorović (basketball)|Marko Todorović]] – C, [[FC Barcelona Bàsquet|FC Barcelona]] ([[Liga ACB|Spain]])
+{{div col end}}
+
+===Automatically eligible entrants===
+Players who do not meet the criteria for "international" players are automatically eligible if they meet any of the following criteria:<ref name="CBA US">{{cite web|url=http://www.nbpa.com/cba_articles/article-X.php |title=Article X, Section 1(b)(ii) |work=2005 NBA Collective Bargaining Agreement |publisher=[[National Basketball Players Association]] |access-date=April 17, 2008 |archive-url=https://web.archive.org/web/20080227065646/http://www.nbpa.com/cba_articles/article-X.php |archive-date=February 27, 2008 |url-status=dead }}</ref>
+* They have completed 4 years of their college eligibility.
+* If they graduated from high school in the U.S., but did not enroll in a U.S. college or university, four years have passed since their high school class graduated.
+* They have signed a contract with a professional basketball team outside of the NBA, anywhere in the world, and have played under that contract.
+
+Players who meet the criteria for "international" players are automatically eligible if they meet any of the following criteria:
+* They are least 22 years old during the calendar year of the draft. In terms of dates, players born on or before December 31, 1991, are automatically eligible for the 2013 draft.<ref name="CBA International Age">{{cite web|url=http://www.nbpa.com/cba_articles/article-X.php |title=Article X, Section 1(b)(ii)(G)(1) |work=2005 NBA Collective Bargaining Agreement |publisher=[[National Basketball Players Association]] |access-date=April 17, 2008 |archive-url=https://web.archive.org/web/20080227065646/http://www.nbpa.com/cba_articles/article-X.php |archive-date=February 27, 2008 |url-status=dead }}</ref>
+* They have signed a contract with a professional basketball team outside of the NBA ''within the United States'', and have played under that contract.<ref name="CBA International US Contract">{{cite web|url=http://www.nbpa.com/cba_articles/article-X.php |title=Article X, Section 1(b)(ii)(G)(2) |work=2005 NBA Collective Bargaining Agreement |publisher=[[National Basketball Players Association]] |access-date=April 17, 2008 |archive-url=https://web.archive.org/web/20080227065646/http://www.nbpa.com/cba_articles/article-X.php |archive-date=February 27, 2008 |url-status=dead }}</ref>
+
+In addition to every college players who has completed their college eligibility and every "international" players who was born on or before December 31, 1991, the following player would also be eligible for selection in the 2013 NBA draft:
+*{{flagicon|USA}} [[Glen Rice Jr.]] – G, [[Rio Grande Valley Vipers]] ([[NBA Development League|NBA D-League]])<ref>{{cite web |url=http://www.nba.com/2013/news/features/chris_dortch/05/14/glen-rice-jr-nba-draft-2013/ |title=D-League stop helps college washout revive his NBA dream |work=NBA.com |date=May 14, 2013 |access-date=May 8, 2015 |archive-date=October 22, 2015 |archive-url=https://web.archive.org/web/20151022214452/http://www.nba.com/2013/news/features/chris_dortch/05/14/glen-rice-jr-nba-draft-2013/ |url-status=live }}</ref>
+
+==Draft lottery==
+{{further|NBA draft lottery}}
+The first 14 picks in the draft belong to teams that miss the [[2013 NBA Playoffs|playoffs]]; the order was determined through a lottery. The lottery determined the three teams that will obtain the first three picks on the draft. The remaining first-round picks and the second-round picks were assigned to teams in reverse order of their win–loss record in the [[2012–13 NBA season|previous season]].
+
+Below were the chances for each team to get specific picks in the 2013 draft lottery, rounded to three decimal places.
+{| class="wikitable"
+|-
+| style="background:#ff9; border:1px solid #aaa; width:2em;"| ^
+|Denotes the actual lottery results
+|}
+{|class="wikitable" style="text-align:right"
+|-
+! rowspan="2" style="text-align:left;"|Team||rowspan="2"|[[2012–13 NBA season|2012–13<br>record]]||rowspan="2"|Lottery<br>chances||colspan="14"|Pick
+|-
+!1st||2nd||3rd||4th||5th||6th||7th||8th||9th||10th||11th||12th||13th||14th
+|-
+|align="left"|[[Orlando Magic]]|| style="text-align:center;"|20–62
+|| 250 ||.250||style="background:#ff9"|.215^||.178||.358|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—
+|-
+|align="left"|[[Charlotte Bobcats]]|| style="text-align:center;"|21–61
+|| 199 ||.199||.188||.171||style="background:#ff9"|.319^||.123|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—
+|-
+|align="left"|[[Cleveland Cavaliers]]|| style="text-align:center;"|24–58
+|| 156 ||style="background:#ff9"|.156^||.157||.156||.226||.265||.040|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—
+|-
+|align="left"|[[Phoenix Suns]]|| style="text-align:center;"|25–57
+|| 119 ||.119||.126||.133||.099||style="background:#ff9"|.351^||.161||.013|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—
+|-
+|align="left"|[[New Orleans Pelicans]]|| style="text-align:center;"|27–55
+|| 88 ||.088||.097||.107|| style="text-align:center;"|—||.262||style="background:#ff9"|.360^|||.161||.012|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—
+|-
+|align="left"|[[Sacramento Kings]]|| style="text-align:center;"|28–54
+|| 63 ||.063||.071||.081|| style="text-align:center;"|—|| style="text-align:center;"|—||.440||style="background:#ff9"|.304^||.040||.001|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—
+|-
+|align="left"|[[Detroit Pistons]]|| style="text-align:center;"|29–53
+|| 36 ||.036||.042||.049|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—||.599||style="background:#ff9"|.253^||.021||.000|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—
+|-
+|align="left"|[[Washington Wizards]]|| style="text-align:center;"|29–53
+|| 35 ||.035||.041||style="background:#ff9"|.048^|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—||.703||.165||.008||.000|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—
+|-
+|align="left"|[[Minnesota Timberwolves]]|| style="text-align:center;"|31–51
+|| 17 ||.017||.020||.024|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—||style="background:#ff9"|.813^||.122||.004||.000|| style="text-align:center;"|—|| style="text-align:center;"|—
+|-
+|align="left"|[[Portland Trail Blazers]]|| style="text-align:center;"|33–49
+|| 11 ||.011||.013||.016|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—||style="background:#ff9"|.870^||.089||.002||.000|| style="text-align:center;"|—
+|-
+|align="left"|[[Philadelphia 76ers]]|| style="text-align:center;"|34–48
+|| 8 ||.008||.010||.012|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="background:#ff9"|.907^||.063||.001||.000
+|-
+|align="left"|[[Toronto Raptors]]{{Cref|1}}|| style="text-align:center;"|34–48
+|| 7 ||.007||.008||.010|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—||style="background:#ff9"|.935^||.039||.000
+|-
+|align="left"|[[Dallas Mavericks]]|| style="text-align:center;"|41–41
+|| 6 ||.006||.007||.009|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—||style="background:#ff9"|.960^||.018
+|-
+|align="left"|[[Utah Jazz]]|| style="text-align:center;"|43–39
+|| 5 ||.005||.006 ||.007|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—|| style="text-align:center;"|—||style="background:#ff9"|.982^
+|}
+{{Cnote|1|Toronto Raptors' pick was conveyed to the [[Oklahoma City Thunder]].<ref>{{cite web |url=http://www.prosportstransactions.com/basketball/DraftTrades/Years/2013.htm |title=2013 NBA Draft Pick Pending Transactions |publisher=Prosportstransactions.com |access-date=June 27, 2013 |archive-date=October 24, 2020 |archive-url=https://web.archive.org/web/20201024124229/http://www.prosportstransactions.com/basketball/DraftTrades/Years/2013.htm |url-status=live }}</ref>}}
+
+==Invited attendees==
+The NBA annually invites around 10–15 players to sit in the so-called "green room", a special room set aside at the draft site for the invited players plus their families and agents. The following 13 players were invited (listed alphabetically) to the 2013 NBA draft.<ref>{{cite web |last=Golliver |first=Ben |url=http://nba.si.com/2013/06/23/2013-nba-draft-green-room-invitations-nerlens-noel-ben-mclemore/ |title=Reports: 13 prospects receive NBA Draft green room invitations &#124; The Point Forward&nbsp;— SI.com |publisher=Nba.si.com |access-date=June 27, 2013 |archive-url=https://web.archive.org/web/20130629022401/http://nba.si.com/2013/06/23/2013-nba-draft-green-room-invitations-nerlens-noel-ben-mclemore/ |archive-date=June 29, 2013 |url-status=dead }}</ref>
+
+*{{flagicon|NZL}} [[Steven Adams]], [[Pittsburgh Panthers men's basketball|Pittsburgh]]
+*{{flagicon|CAN}} [[Anthony Bennett (basketball)|Anthony Bennett]], [[UNLV Runnin' Rebels men's basketball|UNLV]]
+*{{flagicon|USA}} [[Trey Burke]], [[Michigan Wolverines men's basketball|Michigan]]
+*{{flagicon|USA}} [[Kentavious Caldwell-Pope]], [[Georgia Bulldogs men's basketball|Georgia]]
+*{{flagicon|USA}} [[Michael Carter-Williams]], [[Syracuse Orange men's basketball|Syracuse]]
+*{{flagicon|RUS}} [[Sergey Karasev]], [[BC Triumph Lyubertsy|Triumph Lyubertsy]]
+*{{flagicon|UKR}} [[Alex Len]], [[Maryland Terrapins men's basketball|Maryland]]
+*{{flagicon|USA}} [[CJ McCollum]], [[Lehigh Mountain Hawks men's basketball|Lehigh]]
+*{{flagicon|USA}} [[Ben McLemore]], [[Kansas Jayhawks men's basketball|Kansas]]
+*{{flagicon|USA}} [[Nerlens Noel]], [[Kentucky Wildcats men's basketball|Kentucky]]
+*{{flagicon|USA}} [[Victor Oladipo]], [[Indiana Hoosiers men's basketball|Indiana]]
+*{{flagicon|USA}} [[Otto Porter]], [[Georgetown Hoyas men's basketball|Georgetown]]
+*{{flagicon|USA}} [[Cody Zeller]], [[Indiana Hoosiers men's basketball|Indiana]]
+
+==Trades involving draft picks==
+
+===Pre-draft trades===
+Prior to the day of the draft, the following trades were made and resulted in exchanges of draft picks between the teams.
+{{reflist|group=lower-alpha}}
+
+===Draft-day trades===
+The following trades involving drafted players were made on the day of the draft.
+{{reflist|group=upper-alpha}}
+
+==See also==
+* [[List of first overall NBA draft picks]]
+
+
+==Notes==
+{{reflist|group=n}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.nba.com/draft/ Official Site]
+*[https://www.espn.com/nba/draft/rounds ESPN 2013 NBA Draft]
+
+{{NBA Drafts}}
+{{NBA Draft history by team}}
+{{2013 NBA draft}}
+{{2013–14 NBA season by team}}
+{{Portal bar|Sports}}
+[[Category:2013–14 NBA season|Draft]]
+[[Category:NBA draft]]
+[[Category:June 2013 sports events in the United States|NBA draft]]
+[[Category:2013 in sports in New York City|NBA draft]]
+[[Category:2010s in Brooklyn]]
+[[Category:Basketball in New York City]]
+[[Category:Sporting events in New York City]]
+[[Category:Sports in Brooklyn]]
+[[Category:Organized events in Brooklyn]]

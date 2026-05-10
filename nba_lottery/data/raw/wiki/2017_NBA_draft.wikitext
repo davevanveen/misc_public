@@ -1,0 +1,1219 @@
+{{short description|Basketball player selection}}
+{{pp-vandalism|small=yes}}
+{{Use mdy dates|date=May 2017}}
+{{Infobox sports draft
+| name        = 2017 NBA draft
+| image       = 
+| caption     = 
+| logo        = 2017 NBA Draft logo.jpg
+| logosize    = 
+| sport       = Basketball
+| date        = June 22, 2017
+| location    = [[Barclays Center]] ([[Brooklyn, New York]])
+| network     = {{hlist|[[ESPN]]|[[Yahoo! Sports|The Vertical]]}}
+| league      = NBA
+| teams       = 
+| overall     = 60
+| rounds      = 2
+| first       = [[Markelle Fultz]] ([[Philadelphia 76ers]])
+| prev        = [[2016 NBA draft|2016]]
+| next        = [[2018 NBA draft|2018]]
+}}
+The '''2017 NBA draft''' was held on June 22, 2017, at [[Barclays Center]] in [[Brooklyn]], New York.<ref>{{cite web|title=When is the 2017 NBA draft?|url=https://www.si.com/nba/2017/05/03/when-nba-draft-2017-date-time-info|date=May 3, 2017|website=[[si.com]]|access-date=May 3, 2017|archive-date=May 3, 2017|archive-url=https://web.archive.org/web/20170503221352/https://www.si.com/nba/2017/05/03/when-nba-draft-2017-date-time-info|url-status=live}}</ref> [[National Basketball Association]] (NBA) teams took turns selecting U.S. [[college basketball]] players and other eligible players, including international players.
+
+The [[NBA draft lottery|draft lottery]] took place during the playoffs on May 16, 2017. The 53–29 [[Boston Celtics]], who were also the #1 seed in the [[Eastern Conference (NBA)|Eastern Conference]] and reached the [[2017 NBA Playoffs|Eastern Conference Finals]] at the time of the NBA draft lottery, won the #1 pick with pick swapping rights thanks to a previous trade with the [[Brooklyn Nets]], who had the worst record the previous season. The [[Los Angeles Lakers]], who had risked losing their 2017 first round pick to the [[Philadelphia 76ers]], moved up two spots to get the second overall pick, while Philadelphia moved up to receive the No. 3 pick due to the [[Sacramento Kings]] moving up in the draft, which activated pick swapping rights the 76ers had from an earlier trade. On June 19, four days before the NBA draft began, the Celtics and 76ers traded their top first round picks to each other, meaning the holders of the top four picks of this year's draft would be exactly the same as the previous year's draft. The Celtics intended to draft [[Duke Blue Devils men's basketball|Duke]] forward [[Jayson Tatum]] with their pick regardless of its position,<ref>{{cite web|url=https://www.espn.com/nba/story/_/id/43520876/how-jayson-tatum-2017-nba-draft-fuels-boston-celtics-los-angeles-lakers-rivalry |title=How Jayson Tatum and the 2017 NBA draft fuels the storied Celtics-Lakers rivalry |website=ESPN |last=McMenamin |first=Dave |date=January 23, 2025 |access-date=March 11, 2025}}</ref> who ultimately developed into an MVP candidate and led the team to their 18th championship in [[2023–24 Boston Celtics season|2024]].<ref>{{cite web|url=https://www.celticsblog.com/2017/6/19/15831962/nba-draft-celtics-officially-trade-number-one-pick-to-76ers-philadelphia-boston-fultz-tatum|title=NBA Draft: Celtics officially trade number-one pick to 76ers|date=June 19, 2017 |access-date=June 23, 2017|archive-date=August 30, 2017|archive-url=https://web.archive.org/web/20170830234837/https://www.celticsblog.com/2017/6/19/15831962/nba-draft-celtics-officially-trade-number-one-pick-to-76ers-philadelphia-boston-fultz-tatum|url-status=live}}</ref>
+
+The draft class was the youngest draft class to date, with the most freshmen and fewest seniors selected in the first round; the top seven picks in the draft were college freshmen. It was the third time, and the second in a row, that three players were selected from [[Serbia]]n team [[KK Mega Basket]] in the same draft ([[Vlatko Čančar]], [[Ognjen Jaramaz]], [[Alpha Kaba]]), with it previously occurring during the [[2014 NBA draft|2014]] and [[2016 NBA draft]]. It also included the second Finn selected in the first round, and the first Bulgarian player selected since 1985. The draft also received much media coverage from [[ESPN]] pertaining to eventual second overall pick [[Lonzo Ball]] and his outspoken father, [[LaVar Ball]], much to the chagrin of many sports fans and even some ESPN employees. This was one of the rare occasions where a player drafted from their year did not win Rookie of the Year; the award went to 2016 first overall pick [[Ben Simmons]], the first player since [[Blake Griffin]] in 2011 to win the award in a year he was not drafted.<ref>{{cite web |url=https://www.espn.com/espn/feature/story/_/page/presents19367606/how-lonzo-ball-father-lavar-ball-captured-our-attention |title=Speak It Into Being |last=Shelburne |first=Ramona |work=ESPN |date=May 15, 2017 |access-date=June 29, 2021 |url-status=live|archive-url=https://web.archive.org/web/20170515133437/http://www.espn.com/espn/feature/story/_/page/presents19367606/how-lonzo-ball-father-lavar-ball-captured-our-attention |archive-date=May 15, 2017 }}</ref><ref>{{cite web |url=http://nesn.com/2017/03/lavar-ball-to-be-back-on-first-take-despite-objections-from-espn-personalities/ |title=LaVar Ball To Be Back On 'First Take' Despite Objections From ESPN Personalities |work=NESN |last=London |first=Adam |date=March 26, 2017 |access-date=June 29, 2021 |url-status=live|archive-url=https://web.archive.org/web/20170327054802/http://nesn.com/2017/03/lavar-ball-to-be-back-on-first-take-despite-objections-from-espn-personalities/ |archive-date=March 27, 2017 }}</ref>
+
+==Draft selections==
+{|class="wikitable"
+|-
+| PG || [[Point guard]]
+| SG || [[Shooting guard]]
+| SF || [[Small forward]]
+| PF || [[Power forward (basketball)|Power forward]]
+| C || [[Center (basketball)|Center]]
+|}
+{{NBA Draft legend|2=y|3=y|5=y|6=y}}
+[[File:Markelle Fultz (50639078246).jpg|thumb|150px|right|[[Markelle Fultz]] was selected first overall by the [[Philadelphia 76ers]].]]
+[[File:Lonzo Ball smile (cropped).jpg|thumb|150px|right|[[Lonzo Ball]] was selected 2nd overall by the [[Los Angeles Lakers]].]]
+[[File:Jayson Tatum (51688503300) (cropped).jpg|thumb|150px|right|[[Jayson Tatum]] was selected 3rd overall by the [[Boston Celtics]].]]
+[[File:DeAaron Fox DBZ 2.jpg|thumb|189x189px|[[De'Aaron Fox]] was selected 5th overall by the [[Sacramento Kings]].]]
+[[File:EuroBasket 2017 France vs Finland 01.jpg|thumb|150px|right|[[Lauri Markkanen]] was selected 7th overall by the [[Minnesota Timberwolves]] (traded to the [[Chicago Bulls]]).]]
+[[File:Donovan Mitchell shooting (cropped).jpg|thumb|190x190px|[[Donovan Mitchell]] was selected 13th overall by the [[Denver Nuggets]] (traded to the [[Utah Jazz]]).]]
+[[File:Bam Adebayo.jpg|thumb|150px|right|[[Bam Adebayo]] was selected 14th overall by the [[Miami Heat]].]]
+[[File:Jarrett Allen 2018.jpg|thumb|150px|right|[[Jarrett Allen]] was selected 22nd overall by the [[Brooklyn Nets]].]]
+[[File:Kyle Kuzma 2018 (cropped).jpg|thumb|150px|right|[[Kyle Kuzma]] was selected 27th overall by the Brooklyn Nets (traded to the [[Los Angeles Lakers]]).]]
+[[File:Derrick White 2023.png|thumb|150px|right|[[Derrick White]] was selected 29th overall by the [[San Antonio Spurs]].]]
+[[File:20170213 Villanova-Depaul Josh Hart driving.jpg|thumb|150px|right|[[Josh Hart]] was selected 30th overall by the [[Utah Jazz]] (traded to the [[Los Angeles Lakers]]).]]
+[[File:2023-08-09 Deutschland gegen Kanada (Basketball-Länderspiel) by Sandro Halank–091.jpg|thumb|150px|right|[[Dillon Brooks]] was selected 45th overall by the [[Houston Rockets]] (traded to the [[Memphis Grizzlies]]).]]
+{|class="wikitable sortable" style="text-align:left"
+|-
+!style="width:1%;"| {{tooltip|Rnd.|Draft round}}
+!style="width:1%;"| {{tooltip|Pick|Overall selection number}}
+!style="width:16%;"| Player
+!style="width:1%;"| {{tooltip|Pos.|Position(s) played}}
+!style="width:16%;"| {{tooltip|Nationality|Player's representative nationality}}{{refn|group=n|name=nationality|Nationality indicates the player's national team or representative nationality. If a player had not competed at the international level, then the nationality indicates the national team which the player was eligible to represent according to [[FIBA]] rules.}}
+!style="width:36%;"| Team
+!style="width:23%;"| {{tooltip|School / club team|Most recent school attended or team played for before the draft}}
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|[[List of first overall NBA draft picks|1]]
+|{{sortname|Markelle|Fultz}}
+|PG/SG
+|{{USA}}
+|[[Philadelphia 76ers]] {{small|(from [[Brooklyn Nets|Brooklyn]] via [[Boston Celtics|Boston]])}}{{refn|group=upper-alpha|name=GarnettPierce|July 12, 2013: [[Brooklyn Nets]] to [[Boston Celtics]]<ref>{{cite web|url=http://www.nba.com/celtics/news/press_release/celtics-complete-trade-brooklyn-nets|title=Celtics Complete Trade With Brooklyn Nets|date=July 12, 2013|work=NBA.com|access-date=May 19, 2016|archive-date=June 16, 2018|archive-url=https://web.archive.org/web/20180616031658/https://www.nba.com/celtics/news/press_release/celtics-complete-trade-brooklyn-nets|url-status=live}}</ref>
+*Boston acquired [[Gerald Wallace]], [[Kris Humphries]], [[Keith Bogans]], [[MarShon Brooks]], [[Kris Joseph]], a 2014 first-round pick, a 2016 first-round pick, a 2018 first-round pick and the option to ''swap 2017 first-round picks''; Boston exercised this option on April 3, 2017.<ref>{{cite web|url=http://www.nba.com/celtics/news/sidebar/2017-draft-lottery-qa/|title=Inside the Numbers: Draft Lottery and Draft Position Q&A|date=May 8, 2017|work=NBA.com|access-date=May 18, 2017|archive-date=June 22, 2018|archive-url=https://web.archive.org/web/20180622220735/https://www.nba.com/celtics/news/sidebar/2017-draft-lottery-qa/|url-status=live}}</ref>
+*Brooklyn acquired [[Paul Pierce]], [[Kevin Garnett]], [[Jason Terry]] and [[D. J. White]]; Brooklyn also acquired Boston's second-round pick for compensation after the previous season ended.<ref>{{cite web|title=Nets Draft Picture: Brooklyn has picks, just not a lot of them|url=http://www.netsdaily.com/2017/5/16/15646548/nets-draft-picture-brooklyn-does-have-picks-just-not-a-lot-of-them|website=SBNation|publisher=[[Vox Media, Inc.]]|access-date=May 18, 2017|date=May 16, 2017|archive-date=December 1, 2017|archive-url=https://web.archive.org/web/20171201131222/https://www.netsdaily.com/2017/5/16/15646548/nets-draft-picture-brooklyn-does-have-picks-just-not-a-lot-of-them|url-status=live}}</ref>}}{{refn|group=upper-alpha|name=NumbaOneSwap|June 19, 2017: [[Boston Celtics]] to [[Philadelphia 76ers]]
+*Philadelphia acquired the #1 pick in the 2017 NBA draft
+*Boston acquired the #3 pick in the 2017 NBA draft and a 2018 [[Los Angeles Lakers]] first-round pick (#2-5) or 2019 first-round pick<ref>{{cite web |url=https://www.espn.com/nba/story/_/id/19680150/boston-celtics-trade-no-1-overall-pick-philadelphia-76ers-no-3-pick-future-first-round-selection |title=Celtics, 76ers finalize blockbuster deal to swap top picks |work=ESPN.com |date=June 19, 2017 |access-date=June 19, 2017 |archive-date=June 26, 2019 |archive-url=https://web.archive.org/web/20190626213344/https://www.espn.com/nba/story/_/id/19680150/boston-celtics-trade-no-1-overall-pick-philadelphia-76ers-no-3-pick-future-first-round-selection |url-status=live }}</ref>}}
+|[[Washington Huskies men's basketball|Washington]] <small>([[Freshman|Fr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|2
+|{{sortname|Lonzo|Ball}}
+|PG
+|{{flagu|United States}}
+|[[Los Angeles Lakers]]
+|[[UCLA Bruins men's basketball|UCLA]] <small>([[Freshman|Fr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|3
+|bgcolor="#FBCEB1"|
+{{sortname|Jayson|Tatum}}<sup>*</sup>
+|SF
+|{{flagu|United States}}
+|[[Boston Celtics]] {{small|(from [[Sacramento Kings|Sacramento]] via [[Philadelphia 76ers|Philadelphia]])}}{{refn|group=upper-alpha|name=EarlySwap|July 10, 2015: [[Sacramento Kings]] to [[Philadelphia 76ers]]<ref>{{cite web|title=Sixers Acquire Three Players From Sacramento|url=http://www.nba.com/sixers/news/150710-kings-trade-release|website=NBA.com|publisher=Turner Sports Interactive, Inc.|access-date=May 28, 2017|date=July 10, 2015|archive-date=June 22, 2018|archive-url=https://web.archive.org/web/20180622220741/https://www.nba.com/sixers/news/150710-kings-trade-release|url-status=live}}</ref>
+*Philadelphia acquired [[Nik Stauskas]], [[Carl Landry]], [[Jason Thompson (basketball)|Jason Thompson]], a 2019 first-round pick, and ''the right to swap 2016 & 2017 first-round picks''
+*Sacramento acquired the draft rights to [[Artūras Gudaitis]] and [[Luka Mitrović]]}}<ref group=upper-alpha name=NumbaOneSwap/>
+|[[Duke Blue Devils men's basketball|Duke]] <small>([[Freshman|Fr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|4
+|{{sortname|Josh|Jackson|dab=basketball}}
+|SF
+|{{flagu|United States}}
+|[[Phoenix Suns]]
+|[[Kansas Jayhawks men's basketball|Kansas]] <small>([[Freshman|Fr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|5
+|bgcolor="#FBCEB1"|
+{{sortname|De'Aaron|Fox}}<sup>*</sup>
+|PG
+|{{flagu|United States}}
+|[[Sacramento Kings]] {{small|(from [[Philadelphia 76ers|Philadelphia]])}}<ref group="upper-alpha" name="EarlySwap" />
+|[[Kentucky Wildcats men's basketball|Kentucky]] <small>([[Freshman|Fr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|6
+|{{sortname|Jonathan|Isaac}}
+|SF/PF
+|{{flagu|United States}}
+|[[Orlando Magic]]
+|[[Florida State Seminoles men's basketball|Florida State]] <small>([[Freshman|Fr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|7
+| bgcolor="#FFCC00"|
+{{sortname|Lauri|Markkanen}}<sup>+</sup>
+|PF
+|{{FIN}}
+|[[Minnesota Timberwolves]]<small> (traded to [[Chicago Bulls]])</small>{{refn|group=lower-alpha|name=7th|
+June 22, 2017: [[Minnesota Timberwolves]] to [[Chicago Bulls]]<ref name="JimmyButler">{{cite web|url=http://www.nba.com/bulls/news/bulls-acquire-dunn-lavine-and-markkanen-minneosta|title=Bulls Acquire Dunn, Lavine and Markkanen from Minnesota|work=NBA.com|date=June 22, 2017|access-date=June 23, 2017|archive-date=September 11, 2019|archive-url=https://web.archive.org/web/20190911212344/https://www.nba.com/bulls/news/bulls-acquire-dunn-lavine-and-markkanen-minnesota|url-status=live}}</ref>
+*Chicago acquired ''Minnesota's first round pick'' (No. 7), [[Kris Dunn]], and [[Zach LaVine]]
+*Minnesota acquired [[Jimmy Butler]] and Chicago's first round pick (No. 16)}}
+|[[Arizona Wildcats men's basketball|Arizona]] <small>([[Freshman|Fr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|8
+|{{sortname|Frank|Ntilikina}}
+|PG
+|{{FRA}}{{refn|group=n|name=france|Frank Ntilikina was born in [[Belgium]] to [[Rwanda]]n parents, but represents [[France]] in international competitions.}}
+|[[New York Knicks]]
+|[[SIG Basket|SIG Strasbourg]] ([[LNB Pro A|France]])
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|9
+|{{sortname|Dennis|Smith Jr.}}
+|PG
+|{{flagu|United States}}
+|[[Dallas Mavericks]]
+|[[NC State Wolfpack men's basketball|NC State]] <small>([[Freshman|Fr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|10
+|{{sortname|Zach|Collins}}
+|C/PF
+|{{flagu|United States}}
+|[[Sacramento Kings]] {{small|(from [[New Orleans Pelicans|New Orleans]],{{refn|group=upper-alpha|name=DeMarcus|February 20, 2017: [[New Orleans Pelicans]] to [[Sacramento Kings]]<ref>{{cite web|title=Kings Acquire Hield, Evans, Galloway, and 2017 Draft Selections Team Sends DeMarcus Cousins and Omri Casspi to the Pelicans and Waives Matt Barnes|url=http://www.nba.com/kings/news/kings-acquire-hield-evans-galloway/|website=NBA.com|publisher=Turner Sports Interactive, Inc.|access-date=May 28, 2017|date=February 20, 2017|archive-date=June 14, 2018|archive-url=https://web.archive.org/web/20180614005716/https://www.nba.com/kings/news/kings-acquire-hield-evans-galloway/|url-status=live}}</ref>
+*New Orleans acquired [[DeMarcus Cousins]] and [[Omri Casspi]]
+*Sacramento acquired [[Buddy Hield]], [[Tyreke Evans]], [[Langston Galloway]], New Orleans' ''2017 first-round pick'' (top 3 protected), and a ''second-round pick'' (originally belonged to Philadelphia)}} traded to [[Portland Trail Blazers]]{{refn|group=lower-alpha|name=10th|
+June 22, 2017: [[Sacramento Kings]] to [[Portland Trail Blazers]]<ref name="ZachCollins">{{cite web|url=http://www.nba.com/blazers/news/trail-blazers-acquire-draft-rights-zach-collins|title=Trail Blazers Acquire Draft Rights to Zach Collins|work=NBA.com|date=June 22, 2017|access-date=June 23, 2017|archive-date=June 22, 2018|archive-url=https://web.archive.org/web/20180622195516/http://www.nba.com/blazers/news/trail-blazers-acquire-draft-rights-zach-collins|url-status=live}}</ref>
+*Portland acquired ''Sacramento's first round pick'' (No. 10)
+*Sacramento acquired Portland's first round picks (No. 15 and No. 20)}})}}
+|[[Gonzaga Bulldogs men's basketball|Gonzaga]] <small>([[Freshman|Fr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|11
+|{{sortname|Malik|Monk}}
+|SG
+|{{flagu|United States}}
+|[[Charlotte Hornets]]
+|[[Kentucky Wildcats men's basketball|Kentucky]] <small>([[Freshman|Fr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|12
+|{{sortname|Luke|Kennard|dab=basketball}}
+|SG
+|{{flagu|United States}}
+|[[Detroit Pistons]]
+|[[Duke Blue Devils men's basketball|Duke]] <small>([[Sophomore|So.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|13
+|bgcolor="#FBCEB1"|
+{{sortname|Donovan|Mitchell}}<sup>*</sup>
+|SG
+|{{flagu|United States}}
+|[[Denver Nuggets]] <small>(traded to [[Utah Jazz]]){{refn|group=lower-alpha|name=13th|
+June 22, 2017: [[Denver Nuggets]] to [[Utah Jazz]]<ref name="DonovanMitchell">{{cite web|url=http://www.nba.com/nuggets/news/nuggets-acquire-lyles-lydon-from-utah|title=Nuggets Acquire Trey Lyles and Tyler Lydon from Utah in Draft-Night Trade|work=NBA.com|date=June 22, 2017|access-date=June 23, 2017|archive-date=June 22, 2018|archive-url=https://web.archive.org/web/20180622220936/https://www.nba.com/nuggets/news/nuggets-acquire-lyles-lydon-from-utah|url-status=live}}</ref>
+*Utah acquired ''Denver's first round pick'' (No. 13)
+*Denver acquired Utah's first round pick (No. 24) and [[Trey Lyles]]}}</small>
+|[[Louisville Cardinals men's basketball|Louisville]] <small>([[Sophomore|So.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|14
+|bgcolor="#FFCC00"|
+{{sortname|Bam|Adebayo}}<sup>+</sup>
+|PF/C
+|{{flagu|United States}}
+|[[Miami Heat]]
+|[[Kentucky Wildcats men's basketball|Kentucky]] <small>([[Freshman|Fr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|15
+|{{sortname|Justin|Jackson|dab=basketball, born 1995}}
+|SF
+|{{flagu|United States}}
+|[[Portland Trail Blazers]] {{small|(traded to [[Sacramento Kings]]){{refn|group=lower-alpha|name=10th}}}}
+|[[North Carolina Tar Heels men's basketball|North Carolina]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|16
+|{{sortname|Justin|Patton}}
+|C
+|{{flagu|United States}}
+|[[Chicago Bulls]] <small>(traded to [[Minnesota Timberwolves|Minnesota]])</small>{{refn|group=lower-alpha|name=7th}}
+|[[Creighton Bluejays men's basketball|Creighton]] <small>([[Freshman|Fr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|17
+|{{sortname|D. J.|Wilson}}
+|PF/SF
+|{{flagu|United States}}
+|[[Milwaukee Bucks]]
+|[[Michigan Wolverines men's basketball|Michigan]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|18
+|{{sortname|T. J.|Leaf}}
+|PF
+|{{ISR}}{{refn|group=n|name=israel|T. J. Leaf was born in [[Israel]], but was raised in the United States. He holds dual citizenship, but has represented Israel during international competitions.}}
+|[[Indiana Pacers]]
+|[[UCLA Bruins men's basketball|UCLA]] <small>([[Freshman|Fr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|19
+|{{sortname|John|Collins|dab=basketball}}
+|PF
+|{{flagu|United States}}
+|[[Atlanta Hawks]]
+|[[Wake Forest Demon Deacons men's basketball|Wake Forest]] <small>([[Sophomore|So.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|20
+|{{sortname|Harry|Giles III|dab=}}
+|PF/C
+|{{flagu|United States}}
+|[[Portland Trail Blazers]] <small>(from [[Memphis Grizzlies|Memphis]] via [[Denver Nuggets|Denver]] and [[Cleveland Cavaliers|Cleveland]],{{refn|group=upper-alpha|January 22, 2013: [[Memphis Grizzlies]] to [[Cleveland Cavaliers]]<ref>{{cite web|title=Grizzlies, Cavs agree to multiplayer trade|url=http://www.nba.com/2013/news/01/22/grizzlies-cavs-trade.ap/|website=NBA.com|publisher=Turner Sports Interactive, Inc.|access-date=May 27, 2017|date=January 22, 2013|archive-url=https://web.archive.org/web/20171201045826/http://www.nba.com/2013/news/01/22/grizzlies-cavs-trade.ap/|archive-date=December 1, 2017|url-status=dead}}</ref>
+*Memphis acquired [[Jon Leuer]]
+*Cleveland acquired [[Marreese Speights]], [[Josh Selby]], [[Wayne Ellington]], and Memphis' protected future first-round pick; the pick could not be conveyed until two years after Memphis sent its first-round pick to Minnesota (which happened in 2013) and was protected #1-5 and #15-30 in 2015, then #1-5 in 2017 and 2018
+January 7, 2015: [[Cleveland Cavaliers]] to [[Denver Nuggets]]<ref>{{cite web|title=Cavs Acquire Timofey Mozgov|url=http://www.nba.com/cavaliers/releases/mozgov-trade-150107|website=NBA.com|publisher=Turner Sports Interactive, Inc.|access-date=May 27, 2017|date=January 7, 2015|archive-date=December 27, 2017|archive-url=https://web.archive.org/web/20171227045152/http://www.nba.com/cavaliers/releases/mozgov-trade-150107|url-status=live}}</ref>
+*Cleveland acquired [[Timofey Mozgov]] and the worse of Chicago's and Portland's 2015 second-round picks
+*Denver acquired Oklahoma City's 2015 protected first-round pick and Memphis's ''first-round pick'' (protected through 2018)
+February 13, 2017: Denver Nuggets to [[Portland Trail Blazers]]<ref>{{cite web|title=Trail Blazers Acquire Jusuf Nurkić, 2017 First Round Pick from Denver|url=http://www.nba.com/blazers/nurk/|website=NBA.com|publisher=Turner Sports Interactive, Inc.|access-date=May 27, 2017|date=February 13, 2017|archive-date=September 18, 2017|archive-url=https://web.archive.org/web/20170918071911/http://www.nba.com/blazers/nurk/|url-status=live}}</ref>
+*Denver acquired [[Mason Plumlee]] and a 2018 second-round pick
+*Portland acquired [[Jusuf Nurkić]] and Memphis's protected first-round pick (protected #1-5 through 2018)}} traded to [[Sacramento Kings]]{{refn|group=lower-alpha|name=10th}})</small>
+|[[Duke Blue Devils men's basketball|Duke]] <small>([[Freshman|Fr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|21
+|{{sortname|Terrance|Ferguson}}
+|SG
+|{{flagu|United States}}
+|[[Oklahoma City Thunder]]
+|[[Adelaide 36ers]] ([[National Basketball League (Australia)|Australia]])
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|22
+|bgcolor="#FFCC00"|
+{{sortname|Jarrett|Allen}}<sup>+</sup>
+|C
+|{{flagu|United States}}
+|[[Brooklyn Nets]] <small>(from [[Washington Wizards|Washington]])</small>{{refn|group=upper-alpha|February 22, 2017: [[Washington Wizards]] to [[Brooklyn Nets]]<ref>{{cite web|last1=Dowd|first1=Tom|title=Nets Shuffle to Start the Second Half|url=http://www.nba.com/nets/news/2017/02/23/nets-shuffle-to-start-the-second-half/|website=NBA.com|publisher=Turner Sports Interactive, Inc.|access-date=May 27, 2017|date=February 23, 2017|archive-date=December 6, 2017|archive-url=https://web.archive.org/web/20171206221005/http://www.nba.com/nets/news/2017/02/23/nets-shuffle-to-start-the-second-half|url-status=live}}</ref>
+*Washington acquired [[Bojan Bogdanović]] and [[Chris McCullough]]
+*Brooklyn acquired [[Andrew Nicholson (basketball)|Andrew Nicholson]], [[Marcus Thornton (basketball, born 1987)|Marcus Thornton]], and Washington's ''2017 first-round pick'' (protected #1-14)}}
+|[[Texas Longhorns men's basketball|Texas]] <small>([[Freshman|Fr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|23
+|{{sortname|OG|Anunoby}}
+|SF
+|{{GBR}}{{refn|group=n|Anunoby was born in the United Kingdom to Nigerian parents. He holds dual citizenship but is yet to debut for either country in international competition.}}
+|[[Toronto Raptors]] <small>(from [[Los Angeles Clippers|L.A. Clippers]] via [[Milwaukee Bucks|Milwaukee]])</small>{{refn|group=upper-alpha|name=IbakaRoss|August 26, 2014:[[Los Angeles Clippers]] to [[Milwaukee Bucks]]<ref>{{cite web|title=Bucks Acquire Jared Dudley and First Round Pick From Clippers|url=http://www.nba.com/bucks/release/bucks-acquire-jared-dudley-clippers|website=NBA.com|publisher=Turner Sports Interactive, Inc.|access-date=May 27, 2017|date=August 26, 2014|archive-date=June 22, 2018|archive-url=https://web.archive.org/web/20180622220624/https://www.nba.com/bucks/release/bucks-acquire-jared-dudley-clippers|url-status=live}}</ref>
+*Los Angeles Clippers acquired [[Carlos Delfino]], [[Miroslav Raduljica]], and a 2015 second-round pick
+*Milwaukee acquired [[Jared Dudley]] and the ''Clippers' protected 2017 first-round pick''
+June 25, 2015: [[Milwaukee Bucks]] to [[Toronto Raptors]]<ref>{{cite web|title=Bucks Acquire Greivis Vasquez|url=http://www.nba.com/bucks/release/bucks-acquire-greivis-vasquez|website=NBA.com|publisher=Turner Sports Interactive, Inc.|access-date=May 27, 2017|date=June 25, 2015|archive-date=December 1, 2017|archive-url=https://web.archive.org/web/20171201054451/http://www.nba.com/bucks/release/bucks-acquire-greivis-vasquez|url-status=live}}</ref>
+*Milwaukee acquired [[Greivis Vásquez]]
+*Toronto acquired rights to [[Norman Powell]] and the ''Los Angeles Clippers' 2017 first-round pick''}}
+|[[Indiana Hoosiers men's basketball|Indiana]] <small>([[Sophomore|So.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|24
+|{{sortname|Tyler|Lydon}}
+|PF
+|{{flagu|United States}}
+|[[Utah Jazz]] <small>(traded to [[Denver Nuggets]]){{refn|group=lower-alpha|name=13th}}</small>
+|[[Syracuse Orange men's basketball|Syracuse]] <small>([[Sophomore|So.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|25
+|{{sortname|Anžejs|Pasečņiks}}
+|C
+|{{LAT}}
+|[[Orlando Magic]] <small>(from [[Toronto Raptors|Toronto]],{{refn|name=TorToOrl|group=upper-alpha|February 14, 2017: [[Toronto Raptors]] to [[Orlando Magic]]<ref>{{cite web|last1=Denton|first1=John|title=Magic Trade Serge Ibaka to Raptors for Terrence Ross and 2017 First Round Pick|url=http://www.nba.com/magic/es/news/magic-trade-serge-ibaka-raptors-terrence-ross-and-2017-first-round-pick-denton-20170214|website=NBA.com|publisher=Turner Sports Interactive, Inc.|access-date=May 27, 2017|date=February 14, 2017|archive-date=December 1, 2017|archive-url=https://web.archive.org/web/20171201064639/http://www.nba.com/magic/es/news/magic-trade-serge-ibaka-raptors-terrence-ross-and-2017-first-round-pick-denton-20170214|url-status=live}}</ref><ref>{{cite web|title=5 Key Reasons Terrence Ross Trade Benefits Magic|url=http://www.nba.com/magic/galleries/terrence-ross/5-key-reasons-trade-benefits-cohen-20170221/|website=NBA.com|publisher=Turner Sports Interactive, Inc.|access-date=May 27, 2017|page=4|date=February 21, 2017|archive-date=December 6, 2017|archive-url=https://web.archive.org/web/20171206223531/http://www.nba.com/magic/galleries/terrence-ross/5-key-reasons-trade-benefits-cohen-20170221|url-status=live}}</ref>
+*Toronto acquired [[Serge Ibaka]]
+*Orlando acquired [[Terrence Ross]] and worse of Los Angeles Clippers' 2017 first-round pick and Toronto's 2017 ''first-round pick''}} traded to [[Philadelphia 76ers]]){{refn|group=lower-alpha|June 22, 2017: [[Orlando Magic]] to [[Philadelphia 76ers]]
+*Philadelphia acquired ''Orlando's first-round pick'' (No. 25)
+*Orlando acquired a protected first-round selection and a second-round selection in 2020}}</small>
+|[[CB Gran Canaria|Herbalife Gran Canaria]] ([[Liga ACB|Spain]])
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|26
+|{{sortname|Caleb|Swanigan}}
+|PF
+|{{flagu|United States}}
+|[[Portland Trail Blazers]] <small>(from [[Cleveland Cavaliers|Cleveland]])</small>{{refn|group=upper-alpha|February 18, 2016: [[Cleveland Cavaliers]] to [[Portland Trail Blazers]]<ref>{{cite web|title=Trail Blazers Acquire Future First-Round Draft Pick, Anderson Varejao From Cleveland|url=http://www.nba.com/blazers/trail-blazers-acquire-future-first-round-draft-pick-anderson-varejao-cleveland|website=NBA.com|publisher=Turner Sports Interactive, Inc.|access-date=May 27, 2017|date=February 18, 2016|archive-date=June 22, 2018|archive-url=https://web.archive.org/web/20180622084931/http://www.nba.com/blazers/trail-blazers-acquire-future-first-round-draft-pick-anderson-varejao-cleveland|url-status=live}}</ref>
+*Cleveland acquired a future second-round pick (2018)
+*Portland acquired [[Anderson Varejão]] and a future first-round pick
+January 6, 2017: Cleveland Cavaliers to Portland Trail Blazers<ref>{{cite web|title=Trail Blazers Acquire Unprotected 2017 First Round Pick from Cleveland|url=http://www.nba.com/blazers/news/trail-blazers-acquire-unprotected-2017-first-round-pick-cleveland/|website=NBA.com|publisher=Turner Sports Interactive, Inc.|access-date=May 27, 2017|date=January 6, 2017|archive-date=December 6, 2017|archive-url=https://web.archive.org/web/20171206211610/http://www.nba.com/blazers/news/trail-blazers-acquire-unprotected-2017-first-round-pick-cleveland|url-status=live}}</ref>
+*Cleveland reacquired its own 2018 first-round pick
+*Portland acquired a ''first-round pick''}}
+|[[Purdue Boilermakers men's basketball|Purdue]] <small>([[Sophomore|So.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|27
+|{{sortname|Kyle|Kuzma}}
+|PF
+|{{flagu|United States}}
+|[[Brooklyn Nets]] <small>(from [[Boston Celtics|Boston]],</small><ref group=upper-alpha name=GarnettPierce /> <small>traded to [[Los Angeles Lakers]]){{refn|group=lower-alpha|name=27th|June 22, 2017: [[Los Angeles Lakers]] to [[Brooklyn Nets]]<ref>{{Cite web|url=http://www.nba.com/lakers/releases/170622-brook-lopez-acquired|title=Lakers Acquire Brook Lopez, Kyle Kuzma In Trade With Brooklyn|work=NBA.com|date=June 22, 2017|access-date=June 29, 2017|archive-date=June 22, 2018|archive-url=https://web.archive.org/web/20180622220434/https://www.nba.com/lakers/releases/170622-brook-lopez-acquired|url-status=live}}</ref>
+*Brooklyn acquired [[D'Angelo Russell]] and [[Timofey Mozgov]]
+*Los Angeles Lakers acquired [[Brook Lopez]] and Brooklyn's first-round pick (No. 27)}}</small>
+|[[Utah Utes men's basketball|Utah]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|28
+|{{sortname|Tony|Bradley|dab=basketball}}
+|PF/C
+|{{flagu|United States}}
+|[[Los Angeles Lakers]] <small>(from [[Houston Rockets|Houston]],{{refn|group=upper-alpha|February 23, 2017: [[Houston Rockets]] to [[Los Angeles Lakers]]<ref>{{cite web|title=Houston Rockets trade Corey Brewer, 2017 first-round pick to Los Angeles Lakers for Lou Williams|url=http://www.nba.com/article/2017/02/23/houston-rockets-trade-corey-brewer-lakers-lou-williams|website=NBA.com|publisher=Turner Sports Interactive, Inc.|access-date=February 25, 2017|date=February 23, 2017|archive-date=December 4, 2017|archive-url=https://web.archive.org/web/20171204171257/http://www.nba.com/article/2017/02/23/houston-rockets-trade-corey-brewer-lakers-lou-williams|url-status=live}}</ref>
+*Houston acquired [[Lou Williams]]
+*Los Angeles Lakers acquired [[Corey Brewer]] and Houston's ''2017 first-round round pick.''}} traded to [[Utah Jazz]]){{refn|group=lower-alpha|name=28th|June 22, 2017: [[Los Angeles Lakers]] to [[Utah Jazz]]<ref>{{cite web|title=Lakers Acquire Josh Hart, Thomas Bryant in Trade with Utah|url=http://www.nba.com/lakers/releases/170622-hart-bryant-acquired?ls=recent_news|website=NBA.com|access-date=June 23, 2017|date=June 22, 2017|archive-date=June 22, 2018|archive-url=https://web.archive.org/web/20180622220848/https://www.nba.com/lakers/releases/170622-hart-bryant-acquired?ls=recent_news|url-status=live}}</ref>
+*Utah acquired ''Los Angeles' first-round pick'' (No. 28)
+*Los Angeles Lakers acquired Utah's first-round pick (No. 30) and second-round pick (No. 42)}}</small>
+|[[North Carolina Tar Heels men's basketball|North Carolina]] <small>([[Freshman|Fr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|29
+|{{sortname|Derrick|White}}
+|PG/SG
+|{{flagu|United States}}
+|[[San Antonio Spurs]]
+|[[Colorado Buffaloes men's basketball|Colorado]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|30
+|{{sortname|Josh|Hart}}
+|SG
+|{{flagu|United States}}
+|[[Utah Jazz]] <small>(from [[Golden State Warriors|Golden State]],{{refn|name=IguodalaTrade|group=upper-alpha|July 10, 2013: [[Golden State Warriors]] to [[Utah Jazz]] (three-team trade with [[Denver Nuggets]])<ref>{{cite web|title=Warriors Acquire Andre Iguodala from Denver Nuggets as Part of Three-Team Trade|url=http://www.nba.com/warriors/news/warriors-acquire-andre-iguodala-071013|website=NBA.com|publisher=Turner Sports Interactive, Inc.|access-date=May 28, 2017|date=July 10, 2013|archive-date=June 21, 2018|archive-url=https://web.archive.org/web/20180621070456/http://www.nba.com/warriors/news/warriors-acquire-andre-iguodala-071013|url-status=live}}</ref>
+*Golden State acquired [[Andre Iguodala]] and [[Kevin Murphy (basketball)|Kevin Murphy]]
+*Denver acquired [[Randy Foye]] and Golden State's 2018 second-round pick
+*Utah acquired [[Andris Biedriņš]], [[Richard Jefferson]], [[Brandon Rush]], cash considerations, Denver's 2018 second-round pick, and Golden State's 2014 first-round pick, 2016 second-round pick, ''2017 first-round pick'', and ''2017 second-round pick''}} traded to [[Los Angeles Lakers]]){{refn|group=lower-alpha|name=28th}}</small>
+||[[Villanova Wildcats men's basketball|Villanova]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|31
+| {{sortname|Frank|Jackson|dab=basketball}}
+|PG
+|{{flagu|United States}}
+|[[Charlotte Hornets]] <small>(from [[Brooklyn Nets|Brooklyn]] via [[Atlanta Hawks]],{{refn|name=JoeJohnsonDwightHoward|group=upper-alpha|July 11, 2012: [[Brooklyn Nets]] to [[Atlanta Hawks]]<ref>{{cite web|title=Brooklyn Nets Acquire All-Star Joe Johnson|url=http://www.nba.com/nets/news/Johnson_Trade_Release_120711.html|website=NBA.com|publisher=Turner Sports Interactive, Inc.|access-date=May 28, 2017|date=July 11, 2012|archive-date=January 4, 2018|archive-url=https://web.archive.org/web/20180104051635/http://www.nba.com/nets/news/Johnson_Trade_Release_120711.html|url-status=live}}</ref>
+*Brooklyn acquired [[Joe Johnson (basketball)|Joe Johnson]]
+*Atlanta acquired [[DeShawn Stevenson]], [[Johan Petro]], [[Jordan Farmar]], [[Anthony Morrow]], [[Jordan Williams (basketball, born 1990)|Jordan Williams]], Houston's 2013 first-round pick, and Brooklyn's 2017 ''second-round pick''
+June 20, 2017: [[Atlanta Hawks]] to [[Charlotte Hornets]]<ref>{{cite web|title=Hornets Acquire 8-Time NBA All-Star Howard from Hawks|url=http://www.nba.com/hornets/hornets-acquire-howard-and-draft-pick-hawks|website=NBA.com|publisher=Turner Sports Interactive, Inc.|access-date=June 20, 2017|date=June 20, 2017|archive-date=June 20, 2018|archive-url=https://web.archive.org/web/20180620181614/https://www.nba.com/hornets/hornets-acquire-howard-and-draft-pick-hawks|url-status=live}}</ref>
+*Atlanta acquired [[Marco Belinelli]], [[Miles Plumlee]], and ''the 41st pick of the draft''
+*Charlotte acquired [[Dwight Howard]] and ''the 31st pick of the draft''}} traded to [[New Orleans Pelicans]]){{refn|name=31st|group=lower-alpha|June 22, 2017: [[Charlotte Hornets]] to [[New Orleans Pelicans]]<ref>{{cite web|title=Pelicans Acquire Draft Rights to Frank Jackson|url=http://www.nba.com/pelicans/news/pelicans-acquire-draft-rights-frank-jackson|website=NBA.com|access-date=June 23, 2017|date=June 22, 2017|archive-date=June 22, 2018|archive-url=https://web.archive.org/web/20180622222046/https://www.nba.com/pelicans/news/pelicans-acquire-draft-rights-frank-jackson|url-status=live}}</ref>
+*New Orleans acquired ''Charlotte's second-round pick'' (No. 31)
+*Charlotte acquired New Orleans' second-round pick (No. 40) and cash considerations}}</small>
+|[[Duke Blue Devils men's basketball|Duke]] <small>([[Freshman|Fr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|32
+|{{sortname|Davon|Reed}}
+|SG
+|{{flagu|United States}}
+|[[Phoenix Suns]]
+|[[Miami Hurricanes men's basketball|Miami]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|33
+|{{sortname|Wes|Iwundu}}
+|SF
+|{{flagu|United States}}
+|[[Orlando Magic]] <small>(from [[Los Angeles Lakers|L.A. Lakers]])</small>{{refn|group=upper-alpha|August 10, 2012: [[Los Angeles Lakers]] to [[Orlando Magic]] (four-team trade with [[Denver Nuggets]] and [[Philadelphia 76ers]])<ref>{{cite web|title=Magic Acquire Six Players, Five Draft Picks in Howard Trade|url=http://www.nba.com/magic/news/magic-acquire-six-players-five-draft-picks-howard-trade|website=NBA.com|publisher=Turner Sports Interactive, Inc.|access-date=May 28, 2017|date=August 10, 2012|archive-date=June 14, 2018|archive-url=https://web.archive.org/web/20180614051259/https://www.nba.com/magic/news/magic-acquire-six-players-five-draft-picks-howard-trade/|url-status=live}}</ref><ref>{{cite web|last1=Konsens|first1=Hunter|title=Orlando Magic Are Officially Winners of Dwight Howard Trade|url=https://bleacherreport.com/articles/1494126-orlando-magic-are-officially-winners-of-dwight-howard-trade|website=BleacherReport|publisher=Turner Sports Network|access-date=May 28, 2017|date=January 21, 2013|archive-date=June 22, 2018|archive-url=https://web.archive.org/web/20180622193307/http://bleacherreport.com/articles/1494126-orlando-magic-are-officially-winners-of-dwight-howard-trade|url-status=live}}</ref>
+*Denver acquired [[Andre Iguodala]] from Philadelphia
+*Los Angeles acquired [[Dwight Howard]], [[Earl Clark]], and [[Chris Duhon]], all from Orlando
+*Philadelphia acquired [[Andrew Bynum]] from Los Angeles and [[Jason Richardson]] from Orlando
+*Orlando acquired [[Arron Afflalo]], [[Al Harrington]], Denver's 2013 second-round pick, and the worse of Denver's and New York's 2014 first-round pick from Denver; [[Nikola Vučević]], [[Maurice Harkless]], and Philadelphia's 2015 conditional first-round pick (not conveyed as of 2017) from Philadelphia; [[Josh McRoberts]], [[Christian Eyenga]], a 2015 protected second-round pick, and the Lakers' protected 2017 protected first-round pick (converted to the Lakers' 2017 ''second-round pick'' and 2018 second-round pick, which may be conveyed to Toronto)<ref>{{cite web|last1=Rossman-Reich|first1=Philip|title=Orlando Magic will pick sixth in the 2017 NBA Draft|url=https://orlandomagicdaily.com/2017/05/16/orlando-magic-will-pick-sixth-2017-nba-draft/|website=FanSided|access-date=May 28, 2017|date=May 21, 2017|archive-date=February 7, 2018|archive-url=https://web.archive.org/web/20180207060534/https://orlandomagicdaily.com/2017/05/16/orlando-magic-will-pick-sixth-2017-nba-draft/|url-status=live}} from Los Angeles</ref>}}
+|[[Kansas State Wildcats men's basketball|Kansas State]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|34
+|{{sortname|Frank|Mason III}}
+|PG
+|{{flagu|United States}}
+|[[Sacramento Kings]] <small>(from [[Philadelphia 76ers|Philadelphia]] via [[New Orleans Pelicans|New Orleans]])</small><ref group="upper-alpha" name="DeMarcus" />
+|[[Kansas Jayhawks men's basketball|Kansas]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|35
+|{{sortname|Ivan|Rabb}}
+|PF
+|{{flagu|United States}}
+|[[Orlando Magic]] <small>(traded to [[Memphis Grizzlies]]){{refn|group=lower-alpha|June 22, 2017: [[Orlando Magic]] to [[Memphis Grizzlies]]<ref name="GrizzliesDraft">{{cite web|url=http://www.nba.com/grizzlies/news/grizz-acquire-rabb-and-brooks-draft-rights-170622|title=Grizzlies acquire draft rights to Ivan Rabb and Dillon Brooks|work=NBA.com|date=June 22, 2017|access-date=June 23, 2017|archive-date=June 22, 2018|archive-url=https://web.archive.org/web/20180622143301/https://www.nba.com/grizzlies/news/grizz-acquire-rabb-and-brooks-draft-rights-170622|url-status=live}}</ref>
+*Memphis acquired ''Orlando's second-round pick'' (No. 35)
+*Orlando acquired a future second-round selection from Memphis}}</small>
+|[[California Golden Bears men's basketball|California]] <small>([[Sophomore|So.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|36
+|{{sortname|Jonah|Bolden}}
+|PF
+|{{AUS}}{{refn|group=n|Bolden was born in Australia to an American father. He holds dual citizenship and played for Australia in junior competition.}}
+|[[Philadelphia 76ers]] <small>(from [[New York Knicks|New York]] via [[Utah Jazz|Utah]] and [[Toronto Raptors|Toronto]])</small>{{refn|name=UtahNYPick|group=upper-alpha|
+July 10, 2013: [[New York Knicks]] to [[Toronto Raptors]]<ref>{{cite web|title=Knicks acquire Bargnani in trade, sign Prigioni|url=http://www.nba.com/2013/news/07/10/knicks-trade-for-bargnani.ap/|website=NBA.com|publisher=Turner Sports Interactive, Inc.|access-date=May 28, 2017|date=July 10, 2013|archive-url=https://web.archive.org/web/20171201070505/http://www.nba.com/2013/news/07/10/knicks-trade-for-bargnani.ap/|archive-date=December 1, 2017|url-status=dead}}</ref>
+*New York acquired [[Andrea Bargnani]]
+*Toronto acquired [[Marcus Camby]], [[Steve Novak]], [[Quentin Richardson]], New York's 2014 second-round pick, New York's 2016 first-round pick, and ''New York's 2017 second-round pick''
+July 10, 2014: Toronto Raptors to Utah Jazz<ref>{{cite web|title=Jazz acquire Novak through trade with Raptors|url=http://www.nba.com/2014/news/07/10/jazz-acquire-novak.ap/|website=NBA.com|publisher=Turner Sports Interactive, Inc.|access-date=May 28, 2017|date=July 10, 2014|archive-url=https://web.archive.org/web/20171201045655/http://www.nba.com/2014/news/07/10/jazz-acquire-novak.ap/|archive-date=December 1, 2017|url-status=dead}}</ref>
+*Toronto acquired [[Diante Garrett]]
+*Utah acquired Steve Novak and ''New York's 2017 second-round pick''}}{{refn|name=UtahToPhi|group=upper-alpha|
+August 26, 2016: Utah Jazz to [[Philadelphia 76ers]]<ref>{{cite web|title=Sixers Complete Trade With Utah|url=http://www.nba.com/sixers/sixers-complete-trade-utah|website=NBA.com|publisher=Turner Sports Interactive, Inc.|access-date=May 28, 2017|date=August 26, 2016|archive-date=September 27, 2017|archive-url=https://web.archive.org/web/20170927054248/http://www.nba.com/sixers/sixers-complete-trade-utah/|url-status=live}}</ref>
+*Utah Jazz acquired [[Kendall Marshall]]
+*Philadelphia acquired Tibor Pleiß and best and worst of four 2017 second-round picks: Golden State's ''second round pick'' and New York's ''second-round pick''}}
+|[[KK Crvena zvezda|Crvena zvezda]] ([[Basketball League of Serbia|Serbia]])
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|37
+|{{sortname|Semi|Ojeleye}}
+|SF/PF
+|{{flagu|United States}}{{refn|group=n|name=nigeria|Both Semi Ojeleye and Ike Anigbogu were born in the United States to Nigerian parents.}}
+|[[Boston Celtics]] <small>(from [[Minnesota Timberwolves|Minnesota]] via [[Phoenix Suns|Phoenix]])</small>{{refn|group=upper-alpha|
+July 27, 2012: Minnesota Timberwolves to [[Phoenix Suns]] (three-team trade with New Orleans Hornets (now [[New Orleans Pelicans|Pelicans]]))<ref>{{cite web|title=Suns Acquire Johnson and Pick, Trade Lopez and Warrick|url=http://www.nba.com/suns/suns-acquire-johnson-and-pick-trade-lopez-and-warrick|website=NBA.com|publisher=Turner Sports Interactive, Inc.|access-date=May 28, 2017|date=July 27, 2012|archive-date=July 30, 2012|archive-url=https://web.archive.org/web/20120730090336/http://www.nba.com/suns/suns-acquire-johnson-and-pick-trade-lopez-and-warrick|url-status=live}}</ref>
+*Phoenix acquired the rights to [[Brad Miller (basketball)|Brad Miller]] and [[Jerome Dyson]] from New Orleans; [[Wesley Johnson (basketball)|Wesley Johnson]] and a protected first-round pick from Minnesota
+*New Orleans acquired [[Robin Lopez]], [[Hakim Warrick]], and cash considerations from Phoenix
+*Minnesota acquired the Los Angeles Lakers' 2014 second-round pick from Phoenix; Brooklyn's 2013 second-round pick and Minnesota's 2016 second-round pick from New Orleans
+January 9, 2015: [[Phoenix Suns]] to [[Boston Celtics]]<ref>{{cite web|last1=Aldridge|first1=David|title=Suns bolster frontline with acquisition of Wright|url=http://www.nba.com/2015/news/features/david_aldridge/01/09/suns-acquire-brandan-wright/|website=NBA.com|publisher=Turner Sports Interactive, Inc.|access-date=May 28, 2017|date=January 9, 2015|archive-url=https://web.archive.org/web/20170702021919/http://www.nba.com/2015/news/features/david_aldridge/01/09/suns-acquire-brandan-wright/|archive-date=July 2, 2017|url-status=dead}}</ref>
+*Phoenix acquired [[Brandan Wright]]
+*Boston acquired a Minnesota first-round pick (protected #1-12 through 2016, converts to Minnesota's 2016 second-round pick and 2017 ''second-round pick'' if unconveyed)
+}}
+|[[SMU Mustangs men's basketball|SMU]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|38
+|{{sortname|Jordan|Bell}}
+|PF
+|{{flagu|United States}}
+|[[Chicago Bulls]] <small>(from [[Sacramento Kings|Sacramento]] via [[Cleveland Cavaliers|Cleveland]],{{refn|group=upper-alpha|
+June 30, 2011: [[Sacramento Kings]] to [[Cleveland Cavaliers]]<ref>{{cite web|url=http://www.nba.com/cavaliers/news/trade_110630.html|title=Cavaliers Acquire Casspi and Future First Round Pick from Sacramento in Exchange For Hickson|date=June 30, 2011|work=NBA.com|access-date=May 18, 2017|archive-date=June 22, 2018|archive-url=https://web.archive.org/web/20180622193656/http://www.nba.com/cavaliers/news/trade_110630.html|url-status=live}}</ref>
+*Sacramento acquired [[JJ Hickson]]
+*Cleveland acquired [[Omri Casspi]] and Sacramento's ''protected 2012 first-round pick''; the pick rolled over through 2017, when it was converted to Sacramento's ''2017 second-round pick''
+January 6, 2014: Cleveland Cavaliers to [[Chicago Bulls]]<ref>{{cite web|url=http://www.nba.com/bulls/news/bulls-acquire-multiple-draft-picks-deng.html|title=Bulls Acquire Multiple Draft Picks for Deng|date=January 7, 2014|work=NBA.com|access-date=May 18, 2017|archive-date=June 22, 2018|archive-url=https://web.archive.org/web/20180622222043/https://www.nba.com/bulls/news/bulls-acquire-multiple-draft-picks-deng.html|url-status=live}}</ref>
+*Cleveland acquired [[Luol Deng]]
+*Chicago acquired [[Andrew Bynum]], Sacramento's ''protected first-round pick'', the option to swap 2015 first-round picks, Portland's 2015 second-round pick and Portland's 2016 second-round pick}} traded to [[Golden State Warriors]]){{refn|group=lower-alpha|
+June 22, 2017: [[Chicago Bulls]] to [[Golden State Warriors|Golden State]]<ref>{{cite web|url=http://www.nba.com/warriors/news/warriors-acquire-draft-rights-jordan-bell-chicago-cash-considerations|title=Warriors Acquire Draft Rights to Jordan Bell from Chicago for Cash Considerations|date=June 22, 2017|work=NBA.com|access-date=June 23, 2017|archive-date=June 22, 2018|archive-url=https://web.archive.org/web/20180622193644/http://www.nba.com/warriors/news/warriors-acquire-draft-rights-jordan-bell-chicago-cash-considerations|url-status=live}}</ref>
+*Golden State acquired ''Chicago's second-round pick'' (No. 38)
+*Chicago received cash considerations}}</small>
+|[[Oregon Ducks men's basketball|Oregon]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|39
+|{{sortname|Jawun|Evans}}
+|PG
+|{{flagu|United States}}
+|[[Philadelphia 76ers]] <small>(from [[Dallas Mavericks|Dallas]],{{refn|group=upper-alpha|February 23, 2017: [[Dallas Mavericks]] to [[Philadelphia 76ers]]<ref>{{cite web|title=Philadelphia 76ers Acquire First-Round Pick, Justin Anderson, and Andrew Bogut From Dallas|url=http://www.nba.com/sixers/news/nerlens-release-draft/|website=NBA.com|publisher=Turner Sports Interactive, Inc.|access-date=May 25, 2017|date=February 23, 2017|archive-date=March 15, 2017|archive-url=https://web.archive.org/web/20170315024026/http://www.nba.com/sixers/news/nerlens-release-draft|url-status=live}}</ref>
+*Dallas acquired [[Nerlens Noel]]
+*Philadelphia acquired [[Andrew Bogut]], [[Justin Anderson (basketball)|Justin Anderson]], and Dallas's 2017 first-round pick (protected #1-18, converts to Dallas's ''2017 second-round pick'' and Dallas's 2020 second-round pick if not conveyed)}} traded to [[Los Angeles Clippers]]){{refn|group=lower-alpha|June 22, 2017: [[Philadelphia 76ers]] to [[Los Angeles Clippers]]<ref>{{cite web|url=http://www.nba.com/clippers/clippers-acquire-rights-jawun-evans|title=Press Release: L.A. Clippers Acquire Rights to Jawun Evans|work=NBA.com|date=July 6, 2017|access-date=July 6, 2017|archive-date=June 22, 2018|archive-url=https://web.archive.org/web/20180622220513/https://www.nba.com/clippers/clippers-acquire-rights-jawun-evans|url-status=live}}</ref>
+*Clippers acquired ''Philadelphia' second-round pick'' (No. 39)
+*Philadelphia received cash considerations}}</small>
+|[[Oklahoma State Cowboys men's basketball|Oklahoma State]] <small>([[Sophomore|So.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|40
+|{{sortname|Dwayne|Bacon}}
+|SG
+|{{flagu|United States}}
+|[[New Orleans Pelicans]] <small>(traded to [[Charlotte Hornets]]){{refn|group=lower-alpha|name=31st}}</small>
+|[[Florida State Seminoles men's basketball|Florida State]] <small>([[Sophomore|So.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|41
+|{{sortname|Tyler|Dorsey}}
+|SG
+|{{GRC}}{{refn|group=n|name=greece|Tyler Dorsey was born and raised in the United States, but had acquired Greek dual citizenship due to his mother being Greek; Dorsey also represented [[Greece]] due to his citizenship under the name of Tailer Ntorsey.}}
+|[[Atlanta Hawks]] <small>(from [[Charlotte Hornets|Charlotte]])</small><ref group=upper-alpha name=JoeJohnsonDwightHoward />
+|[[Oregon Ducks men's basketball|Oregon]] <small>([[Sophomore|So.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|42
+|{{sortname|Thomas|Bryant|dab=basketball}}
+|PF
+|{{flagu|United States}}
+|[[Utah Jazz]] <small>(from [[Detroit Pistons|Detroit]],{{refn|name=UtahDetPick|group=upper-alpha|
+February 19, 2015: [[Detroit Pistons]] to [[Utah Jazz]] (three-team trade with [[Oklahoma City Thunder]])<ref>{{cite web|title=Thunder acquire Kanter, Novak, Augustin, Singler and draft pick|url=http://www.nba.com/2015/news/02/19/thunder-jazz-pistons-okc-official-release/|website=NBA.com|publisher=Turner Sports Interactive, Inc.|access-date=May 28, 2017|date=February 19, 2015|archive-url=https://web.archive.org/web/20170925231844/http://www.nba.com/2015/news/02/19/thunder-jazz-pistons-okc-official-release/|archive-date=September 25, 2017|url-status=dead}}</ref>
+*Detroit acquired [[Reggie Jackson (basketball, born 1990)|Reggie Jackson]] from Oklahoma City
+*Oklahoma City acquired [[Enes Kanter]] and Steve Novak from Utah; [[D. J. Augustin]] and [[Kyle Singler]] from Detroit, and Detroit's 2019 second-round pick
+*Utah acquired [[Kendrick Perkins]], [[Grant Jerrett]] and draft rights to [[Tibor Pleiß]] from Oklahoma City, Oklahoma City's protected first-round pick (conveyance minimum of two years after first-round pick sent to Philadelphia, which happened in 2016), and Detroit's 2017 ''second-round pick''}} traded to [[Los Angeles Lakers]]){{refn|group=lower-alpha|name=28th}}</small>
+|[[Indiana Hoosiers men's basketball|Indiana]] <small>([[Sophomore|So.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|43
+| {{sortname|Isaiah|Hartenstein}}
+|PF/C
+|{{GER}}{{refn|group=n|name=germany|Isaiah Hartenstein was born and raised in [[Eugene, Oregon]], but holds German citizenship with his father being a former professional player there.}}
+|[[Houston Rockets]] <small>(from [[Denver Nuggets|Denver]])</small>{{refn|group=upper-alpha|July 20, 2015: [[Denver Nuggets]] to [[Houston Rockets]]<ref>{{cite web|title=Rockets Acquire Ty Lawson and Second-Round Pick from Denver|url=http://www.nba.com/rockets/news/rockets-acquire-ty-lawson-and-second-round-pick-denver|website=NBA.com|publisher=Turner Sports Interactive, Inc.|access-date=May 28, 2017|archive-date=December 31, 2016|archive-url=https://web.archive.org/web/20161231154427/http://www.nba.com/rockets/news/rockets-acquire-ty-lawson-and-second-round-pick-denver|url-status=live}}</ref>
+*Houston acquired [[Ty Lawson]] and Denver's 2017 ''second-round pick''
+*Denver acquired [[Joey Dorsey]], [[Nick Johnson (basketball)|Nick Johnson]], [[Kostas Papanikolaou]], [[Pablo Prigioni]], Houston's 2016 lottery-protected first-round pick, and cash considerations}}
+|[[BC Žalgiris|Žalgiris]] ([[Lietuvos krepšinio lyga|Lithuania]])
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|44
+|{{sortname|Damyean|Dotson}}
+|SG
+|{{flagu|United States}}
+|[[New York Knicks]] <small>(from [[Chicago Bulls|Chicago]])</small>{{refn|group=upper-alpha|June 22, 2016: [[Chicago Bulls]] to [[New York Knicks]]<ref>{{cite web|url=http://www.nba.com/bulls/news/release/bulls-send-derrick-rose-new-york-five-player-deal|title=Bulls send Derrick Rose to New York in five-player deal|date=June 22, 2016|work=NBA.com|access-date=May 18, 2015|archive-date=June 12, 2018|archive-url=https://web.archive.org/web/20180612191748/https://www.nba.com/bulls/news/release/bulls-send-derrick-rose-new-york-five-player-deal|url-status=live}}</ref>
+*Chicago acquired [[José Calderón (basketball)|José Calderón]], [[Jerian Grant]], and [[Robin Lopez]]
+*New York acquired [[Justin Holiday]], [[Derrick Rose]], and Chicago's 2017 second-round pick}}
+|[[Houston Cougars men's basketball|Houston]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|45
+|{{sortname|Dillon|Brooks}}
+|SF
+|{{CAN}}
+|[[Houston Rockets]] <small>(from [[Portland Trail Blazers|Portland]],{{refn|group=upper-alpha|July 10, 2013: [[Portland Trail Blazers]] to [[Houston Rockets]]<ref>{{cite web|title=Blazers sign Wright, trade for Lopez, Robinson|url=http://www.nba.com/2013/news/07/10/trail-blazers-rockets-robinson-trade.ap/|website=NBA.com|publisher=Turner Sports Interactive, Inc.|access-date=May 28, 2017|date=July 10, 2013|archive-url=https://web.archive.org/web/20171201054422/http://www.nba.com/2013/news/07/10/trail-blazers-rockets-robinson-trade.ap/|archive-date=December 1, 2017|url-status=dead}}</ref>
+*Houston acquired draft rights to #45 [[Marko Todorović (basketball)|Marko Todorović]], draft rights to 2012 #48 [[Kostas Papanikolaou]], and two future ''second-round pick''s
+*Portland acquired [[Thomas Robinson (basketball)|Thomas Robinson]]}} traded to [[Memphis Grizzlies]]){{refn|group=lower-alpha|June 22, 2017: [[Houston Rockets]] to [[Memphis Grizzlies]]<ref name="GrizzliesDraft"/>
+*Memphis acquired ''Houston's second-round pick'' (No. 45)
+*Houston acquired a future second-round selection from Memphis}}</small>
+|[[Oregon Ducks men's basketball|Oregon]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|46
+|{{sortname|Sterling|Brown|dab=basketball}}
+|SG
+|{{flagu|United States}}
+|[[Philadelphia 76ers]] <small>(from [[Miami Heat|Miami]] via [[Atlanta Hawks|Atlanta]]){{refn|name=MiaToAtl|group=upper-alpha|
+June 28, 2013: [[Miami Heat]] to [[Atlanta Hawks]]<ref>{{cite web|last1=Moorehead|first1=Couper|title=Heat Acquires James Ennis in 2013 NBA Draft|url=http://www.nba.com/heat/news_recap/heat-acquires-james-ennis-2013-nba-draft/|website=NBA.com|publisher=Turner Sports Interactive, Inc.|access-date=May 27, 2017|date=June 28, 2013|archive-date=June 14, 2018|archive-url=https://web.archive.org/web/20180614051107/https://www.nba.com/heat/news_recap/heat-acquires-james-ennis-2013-nba-draft/|url-status=live}}</ref>
+*Miami acquired draft rights to [[James Ennis (basketball)|James Ennis]] (#50)
+*Atlanta acquired a ''2017 second-round pick''}}{{refn|name=IlyasovaTrade|group=upper-alpha|
+February 23, 2017: [[Atlanta Hawks]] to [[Philadelphia 76ers]]<ref>{{cite web|title=Hawks Acquire Ersan Ilyasova, Trade Tiago Splitter|url=http://www.nba.com/hawks/news/hawks-acquire-ersan-ilyasova-trade-tiago-splitter/|website=NBA.com|publisher=Turner Sports Interactive, Inc.|access-date=May 27, 2017|date=February 23, 2017|archive-date=December 6, 2017|archive-url=https://web.archive.org/web/20171206214426/http://www.nba.com/hawks/news/hawks-acquire-ersan-ilyasova-trade-tiago-splitter|url-status=live}}</ref>
+*Atlanta acquired [[Ersan İlyasova]]
+*Philadelphia acquired [[Tiago Splitter]], Miami's protected 2017 ''second-round draft pick'', and the right to swap Atlanta's ''2017 second-round pick'' for the worse of the two picks Philadelphia acquired from Utah}} traded to [[Milwaukee Bucks]]){{refn|group=lower-alpha|June 22, 2017: [[Philadelphia 76ers]] to [[Milwaukee Bucks]]<ref>{{cite web|url=http://www.nba.com/bucks/release/bucks-acquire-draft-rights-sterling-brown|title=Bucks Acquire Draft Rights to Sterling Brown|work=NBA.com|date=July 6, 2017|access-date=July 6, 2017|archive-date=June 22, 2018|archive-url=https://web.archive.org/web/20180622222031/https://www.nba.com/bucks/release/bucks-acquire-draft-rights-sterling-brown|url-status=live}}</ref>
+*Milwaukee acquired ''Philadelphia' second-round pick'' (No. 46)
+*Philadelphia received cash considerations}}</small>
+|[[SMU Mustangs men's basketball|SMU]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|47
+|{{sortname|Ike|Anigbogu}}
+|C
+|{{flagu|United States}}<ref group=n name=nigeria />
+|[[Indiana Pacers]]
+|[[UCLA Bruins men's basketball|UCLA]] <small>([[Freshman|Fr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|48
+|{{sortname|Sindarius|Thornwell}}
+|SG
+|{{flagu|United States}}
+|[[Milwaukee Bucks]] <small>(traded to [[Los Angeles Clippers]]){{refn|group=lower-alpha|June 22, 2017: [[Milwaukee Bucks]] to [[Los Angeles Clippers]]<ref>{{cite web|url=http://www.nba.com/clippers/press-release-la-clippes-acquire-sindarius-thornwell-170622|title=L.A. Clippers Acquire Rights To Sindarius Thornwell|work=NBA.com|date=June 22, 2017|access-date=June 23, 2017|archive-date=December 5, 2017|archive-url=https://web.archive.org/web/20171205025030/http://www.nba.com/clippers/press-release-la-clippes-acquire-sindarius-thornwell-170622|url-status=live}}</ref>
+*Los Angeles Clippers acquire ''Milwaukee's second-round pick'' (No. 48)
+*Milwaukee receives cash considerations}}</small>
+|[[South Carolina Gamecocks men's basketball|South Carolina]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|49
+|{{sortname|Vlatko|Čančar}}
+|SF
+|{{SLO}}
+|[[Denver Nuggets]] <small>(from [[Memphis Grizzlies|Memphis]] via [[Oklahoma City Thunder|Oklahoma City]])</small>{{refn|name=JLauvergne|group=upper-alpha|January 7, 2014: [[Boston Celtics]] to [[Oklahoma City Thunder]]<ref>{{cite web|title=Grizzlies acquire Courtney Lee and 2016 second round Draft pick in three team trade|url=http://www.nba.com/grizzlies/news/grizzlies-acquire-lee-three-team-trade|website=NBA.com|publisher=Turner Sports Interactive, Inc.|access-date=May 27, 2017|date=January 7, 2014|archive-date=June 22, 2018|archive-url=https://web.archive.org/web/20180622220629/https://www.nba.com/grizzlies/news/grizzlies-acquire-lee-three-team-trade|url-status=live}}</ref>
+*Boston acquired [[Jerryd Bayless]] (from Memphis) and [[Ryan Gomes]] (from Oklahoma City)
+*Memphis acquired [[Courtney Lee]] (from Boston), a 2016 second-round pick (from Boston), and cash considerations (from Oklahoma City)
+*Oklahoma City acquired Philadelphia's 2014 second-round pick and a 2017 conditional second-round pick, both from Memphis
+August 30, 2016: Oklahoma City Thunder to [[Denver Nuggets]]<ref>{{cite web|title=Nuggets Acquire Two Second Round Picks From Oklahoma City|url=http://www.nba.com/nuggets/news/nuggets-acquire-two-second-round-picks-from-oklahoma-city-083016|work=NBA.com|publisher=Turner Sports Interactive, Inc.|date=August 30, 2016|access-date=August 31, 2016|archive-date=December 1, 2017|archive-url=https://web.archive.org/web/20171201042846/http://www.nba.com/nuggets/news/nuggets-acquire-two-second-round-picks-from-oklahoma-city-083016|url-status=live}}</ref>
+*Oklahoma City acquired [[Joffrey Lauvergne]]
+*Denver acquired Memphis's 2017 ''second-round pick'' and Oklahoma City's 2017 ''second-round pick''}}
+|[[KK Mega Basket|Mega Leks]] ([[Basketball League of Serbia|Serbia]])
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|50
+|bgcolor="C0C0C0"|{{sortname|Mathias|Lessort}}<sup>#</sup>
+|PF/C
+|{{flagu|France}}{{refn|group=n|name=martinique|Mathias Lessort was born in [[Martinique]], a French possession in the Caribbean. It is an [[overseas department]] with the same political status as [[Departments of France|departments]] within [[metropolitan France]].}}
+|[[Philadelphia 76ers]] <small>(from [[Atlanta Hawks|Atlanta]])</small>{{refn|name=IlyasovaTrade|group=upper-alpha}}
+|[[Nanterre 92]] ([[LNB Pro A|France]])
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|51
+|{{sortname|Monté|Morris}}
+|PG
+|{{flagu|United States}}{{refn|group=n|Morris acquired Nigerian citizenship by naturalization in 2021.}}
+|[[Denver Nuggets]] <small>(from [[Oklahoma City Thunder|Oklahoma City]])</small><ref name=JLauvergne group=upper-alpha />
+|[[Iowa State Cyclones men's basketball|Iowa State]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|52
+|{{sortname|Edmond|Sumner}}
+|PG
+|{{flagu|United States}}
+|[[New Orleans Pelicans]] <small>(from [[Washington Wizards|Washington]],{{refn|group=upper-alpha|June 21, 2017: [[Washington Wizards]] to [[New Orleans Pelicans]]<ref>{{cite web|title=New Orleans Pelicans trade point guard Tim Frazier to Washington Wizards for 52nd pick in Draft|url=http://www.nba.com/article/2017/06/21/new-orleans-pelicans-guard-tim-frazier-traded-washington-wizards-52nd-pick-draft|website=NBA.com|publisher=Turner Sports Interactive, Inc.|access-date=June 21, 2017|date=June 21, 2017|archive-date=June 22, 2018|archive-url=https://web.archive.org/web/20180622195510/http://www.nba.com/article/2017/06/21/new-orleans-pelicans-guard-tim-frazier-traded-washington-wizards-52nd-pick-draft|url-status=live}}</ref>
+*Washington acquired [[Tim Frazier]]
+*New Orleans acquired ''the 52nd pick of the draft''}} traded to [[Indiana Pacers]]){{refn|group=lower-alpha|June 22, 2017: [[New Orleans Pelicans]] to [[Indiana Pacers]]<ref>{{cite web|url=http://www.nba.com/pelicans/news/pelicans-acquire-draft-rights-frank-jackson|title=Pelicans Acquire Draft Rights to Frank Jackson|work=NBA.com|date=June 23, 2017|access-date=June 29, 2017|archive-date=June 22, 2018|archive-url=https://web.archive.org/web/20180622222046/https://www.nba.com/pelicans/news/pelicans-acquire-draft-rights-frank-jackson|url-status=live}}</ref>
+*Pacers acquired ''New Orleans' second-round pick'' (No. 52)
+*New Orleans received cash considerations}}</small>
+|[[Xavier Musketeers men's basketball|Xavier]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|53
+|{{sortname|Kadeem|Allen}}
+|SG
+|{{flagu|United States}}
+|[[Boston Celtics]] <small>(from [[Cleveland Cavaliers|Cleveland]])</small>{{refn|group=upper-alpha|September 25, 2014: [[Cleveland Cavaliers]] to [[Boston Celtics]]<ref>{{cite web|title=Cavs Complete Trade with Boston|url=http://www.nba.com/cavaliers/releases/boston-trade-140925|website=NBA.com|publisher=Turner Sports Interactive, Inc.|access-date=May 30, 2017|date=September 25, 2014|archive-date=October 23, 2017|archive-url=https://web.archive.org/web/20171023090431/http://www.nba.com/cavaliers/releases/boston-trade-140925|url-status=live}}</ref>
+*Boston acquired [[Keith Bogans]], Cleveland's 2016 second-round pick, and Cleveland's 2017 ''second-round pick''
+*Cleveland acquired [[John Lucas III]], [[Erik Murphy]], [[Dwight Powell]], [[Malcolm Thomas (basketball, born 1988)|Malcolm Thomas]], Sacramento's 2015 protected second-round pick, and Sacramento's 2017 protected second-round pick; both picks are protected #31-55}}
+|[[Arizona Wildcats men's basketball|Arizona]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|54
+|{{sortname|Alec|Peters}}
+|SF
+|{{flagu|United States}}
+|[[Phoenix Suns]] <small>(from [[Toronto Raptors|Toronto]])</small>{{refn|group=upper-alpha|name=Tucker|February 22, 2017: [[Toronto Raptors]] to [[Phoenix Suns]]<ref>{{cite web|last1=Cunningham|first1=Cody|title=Phoenix Suns Trade P.J. Tucker to Toronto|url=http://www.nba.com/suns/phoenix-suns-trade-pj-tucker-toronto/|website=NBA.com|publisher=Turner Sports Interactive, Inc.|access-date=May 25, 2017|date=February 23, 2017|archive-date=June 22, 2018|archive-url=https://web.archive.org/web/20180622222027/https://www.nba.com/suns/phoenix-suns-trade-pj-tucker-toronto/|url-status=live}}</ref>
+*Toronto acquired [[P. J. Tucker]]
+*Phoenix acquired [[Jared Sullinger]], Toronto's ''2017 second-round pick'', Toronto's 2018 second-round pick, and cash considerations}}
+|[[Valparaiso Crusaders men's basketball|Valparaiso]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|55
+|{{sortname|Nigel|Williams-Goss}}
+|PG
+|{{flagu|United States}}
+|[[Utah Jazz]]
+|[[Gonzaga Bulldogs men's basketball|Gonzaga]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|56
+|{{sortname|Jabari|Bird}}
+|SG
+|{{flagu|United States}}
+|[[Boston Celtics]] <small>(from [[Los Angeles Clippers|L.A. Clippers]])</small>{{refn|group=upper-alpha|January 15, 2015: [[Los Angeles Clippers]] to [[Boston Celtics]] (three-team trade with [[Phoenix Suns]])<ref>{{cite web|title=Los Angeles Clippers Acquire Austin Rivers in Three-Team Trade|url=http://www.nba.com/clippers/clippers-acquire-austin-rivers-three-team-trade/|website=NBA.com|publisher=Turner Sports Interactive|access-date=June 29, 2017|date=January 15, 2015|archive-date=December 1, 2017|archive-url=https://web.archive.org/web/20171201064940/http://www.nba.com/clippers/clippers-acquire-austin-rivers-three-team-trade|url-status=live}}</ref>
+*Boston acquired [[Shavlik Randolph]] and a $2.4M trade exception from Phoenix, [[Chris Douglas-Roberts]] and a 2017 ''second-round pick'' from Los Angeles
+*Los Angeles acquired [[Austin Rivers]] from Boston
+*Phoenix acquired [[Reggie Bullock]] from Los Angeles
+}}
+|[[California Golden Bears men's basketball|California]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|57
+|{{sortname|Sasha|Vezenkov}}
+|PF
+|{{BUL}}{{refn|group=n|name=bulgaria|Sasha Vezenkov was born in [[Cyprus]] and was raised in Greek communities in both Cyprus and Greece, but represents [[Bulgaria]] in international competitions.}}
+|[[Brooklyn Nets]] <small>(from [[Boston Celtics|Boston]])</small><ref group=upper-alpha name=GarnettPierce />
+|[[FC Barcelona Bàsquet|FC Barcelona Lassa]] ([[Liga ACB|Spain]])
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|58
+|bgcolor="C0C0C0"|{{sortname|Ognjen|Jaramaz}}<sup>#</sup>
+|PG
+|{{SRB}}
+|[[New York Knicks]] <small>(from [[Houston Rockets|Houston]])</small>{{refn|group=upper-alpha|February 19, 2015: [[Houston Rockets]] to [[New York Knicks]]<ref>{{cite web|title=Knicks Acquire Alexey Shved and Two Draft Picks|url=http://www.nba.com/knicks/knicks-acquire-alexey-shved-and-two-draft-picks|website=NBA.com|publisher=Turner Sports Interactive, Inc.|access-date=May 30, 2017|date=February 19, 2015|archive-date=November 6, 2015|archive-url=https://web.archive.org/web/20151106212747/http://www.nba.com/knicks/knicks-acquire-alexey-shved-and-two-draft-picks|url-status=live}}</ref>
+*New York acquired [[Alexey Shved]], Houston's 2017 ''second-round pick'', and Houston's 2019 second-round pick
+*Houston acquired [[Pablo Prigioni]]}}
+|[[KK Mega Basket|Mega Leks]] ([[Basketball League of Serbia|Serbia]])
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|59
+| {{sortname|Jaron|Blossomgame}}
+|SF
+|{{flagu|United States}}
+|[[San Antonio Spurs]]
+|[[Clemson Tigers men's basketball|Clemson]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|60
+|bgcolor="C0C0C0"| {{sortname|Alpha|Kaba}}<sup>#</sup>
+|PF/C
+|{{flagu|Guinea}}{{refn|group=n|Kaba was born in France and represented France in youth tournaments. He plays for the [[Guinea men's national basketball team|Guinea national basketball team]] at the senior level.}}
+|[[Atlanta Hawks]] <small>(from [[Golden State Warriors|Golden State]] via [[Philadelphia 76ers|Philadelphia]] and [[Utah Jazz|Utah]])</small>{{refn|name=IguodalaTrade|group=upper-alpha}}{{refn|name=UtahToPhi|group=upper-alpha}}{{refn|name=IlyasovaTrade|group=upper-alpha}}
+|[[KK Mega Basket|Mega Leks]] ([[Basketball League of Serbia|Serbia]])
+|}
+
+==Notable undrafted players==
+{{further|List of undrafted NBA players}}
+These players were not selected in the 2017 NBA Draft, but have played at least one game in the NBA during the regular season or the [[NBA playoffs]].
+{| class="wikitable sortable"
+|-
+!style="width:19%;"| Player
+!style="width:1%;"| Pos.
+!style="width:16%;"| Nationality
+!style="width:20%;"| School/club team
+|-
+| {{sortname|Jamel|Artis}}
+| SG/SF
+| {{flagu|United States}}
+| [[Pittsburgh Panthers men's basketball|Pittsburgh]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Paris|Bass}}
+| SF
+| {{flagu|United States}}
+| [[Lakeland Magic|Erie BayHawks]] <small>([[NBA Development League|NBA D-League]])</small>
+|-
+| {{sortname|Antonio|Blakeney}}
+| PG
+| {{flagu|United States}}
+| [[LSU Tigers basketball|LSU]] <small>([[Sophomore|So.]])</small>
+|-
+| {{sortname|Chris|Boucher|dab=basketball}}
+| PF/C
+| {{flagu|Canada}}<br>{{LCA}}{{refn|group=n|Boucher was born in Saint Lucia and raised in Canada. He holds dual citizenship but is yet to play for either country internationally.}}
+| [[Oregon Ducks men's basketball|Oregon]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Amida|Brimah}}
+| C
+| {{GHA}}
+| [[UConn Huskies men's basketball|UConn]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Isaiah|Briscoe}}
+| PG
+| {{flagu|United States}}
+| [[Kentucky Wildcats men's basketball|Kentucky]] <small>([[Sophomore|So.]])</small>
+|-
+| {{sortname|Deonte|Burton|dab=basketball, born 1994}}
+| SG
+| {{flagu|United States}}
+| [[Iowa State Cyclones men's basketball|Iowa State]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Troy|Caupain}}
+| PG
+| {{flagu|United States}}
+| [[Cincinnati Bearcats men's basketball|Cincinnati]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Tyler|Cavanaugh}}
+| PF
+| {{flagu|United States}}
+| [[George Washington Colonials men's basketball|George Washington]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Gian|Clavell}}
+| SG
+| {{PUR}}
+| [[Colorado State Rams men's basketball|Colorado State]] <small>([[Senior (education)|Sr.]])</small><!--While he last played for the Brujos de Guayama in Puerto Rico before the draft began, he was listed as a Colorado State alumnus according to the NBA Draft Combine.-->
+|-
+| {{sortname|Antonius|Cleveland}}
+| SG
+| {{flagu|United States}}
+| [[Southeast Missouri State Redhawks men's basketball|Southeast Missouri State]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Chance|Comanche}}
+| PF/C
+| {{flagu|United States}}
+| [[Arizona Wildcats men's basketball|Arizona]] <small>([[Sophomore (education)|So.]])</small>
+|-
+| {{sortname|Charles|Cooke|dab=basketball}}
+| SG
+| {{flagu|United States}}
+| [[Dayton Flyers men's basketball|Dayton]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Gabriel|Deck}}
+| SF/PF
+| {{ARG}}
+| [[San Lorenzo de Almagro (basketball)|San Lorenzo de Almagro]] <small>([[Liga Nacional de Básquet|Argentina]])</small>
+|-
+| {{sortname|Milton|Doyle}}
+| SG
+| {{flagu|United States}}
+| [[Loyola Ramblers men's basketball|Loyola (Illinois)]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|PJ|Dozier}}
+| SG
+| {{flagu|United States}}
+| [[South Carolina Gamecocks men's basketball|South Carolina]] <small>([[Sophomore|So.]])</small>
+|-
+| {{sortname|Simone|Fontecchio}}
+| SF
+| {{ITA}}
+| [[Vanoli Cremona]] <small>([[Lega Basket Serie A|Italy]])</small>
+|-
+| {{sortname|Billy|Garrett Jr.}}
+| SG
+| {{flagu|United States}}
+| [[DePaul Blue Demons men's basketball|DePaul]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Marko|Gudurić}}
+| SG/SF
+| {{flagu|Serbia}}
+| [[KK Crvena zvezda|Crvena zvezda]] ([[Basketball League of Serbia|Serbia]])
+|-
+| {{sortname|Dusty|Hannahs}}
+| SG
+| {{flagu|United States}}
+| [[Arkansas Razorbacks men's basketball|Arkansas]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Nigel|Hayes}}
+| F
+| {{flagu|United States}}
+| [[Wisconsin Badgers men's basketball|Wisconsin]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Isaiah|Hicks}}
+| PF
+| {{flagu|United States}}
+| [[North Carolina Tar Heels men's basketball|North Carolina]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Malcolm|Hill|dab=basketball}}
+| SF
+| {{flagu|United States}}
+| [[Illinois Fighting Illini men's basketball|Illinois]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Isaac|Humphries}}
+| C
+| {{flagu|Australia}}
+| [[Kentucky Wildcats men's basketball|Kentucky]] <small>([[Sophomore|So.]])</small>
+|-
+| {{sortname|Amile|Jefferson}}
+| PF
+| {{flagu|United States}}
+| [[Duke Blue Devils men's basketball|Duke]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Luke|Kornet}}
+| PF/C
+| {{flagu|United States}}
+| [[Vanderbilt Commodores men's basketball|Vanderbilt]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Mangok|Mathiang}}
+| PF/C
+| {{flagu|Australia}}{{refn|group=n|Mathiang was born in Sudan and raised in Australia. He holds dual citizenship of South Sudan and Australia. Mathiang debuted for the [[Australia men's national basketball team|Australia national basketball team]] in 2019. He joined the [[South Sudan men's national basketball team|South Sudan national basketball team]] in 2023.}}
+| [[Louisville Cardinals men's basketball|Louisville]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Tahjere|McCall}}
+| SG
+| {{flagu|United States}}
+| [[Tennessee State Tigers basketball|Tennessee State]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Erik|McCree}}
+| PF
+| {{flagu|United States}}
+| [[Louisiana Tech Bulldogs basketball|Louisiana Tech]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Eric|Mika}}
+| PF/C
+| {{flagu|United States}}
+| [[BYU Cougars men's basketball|BYU]] <small>([[Sophomore|So.]])</small>
+|-
+| {{sortname|Naz|Mitrou-Long}}
+| PG/SG
+| {{GRE}}{{refn|group=n|Mitrou-Long was born in Canada to a Trinidadian father and Greek mother; he holds Canadian, Trinidadian and Greek citizenship. He plays for the [[Greece men's national basketball team|Greece national basketball team]].}}
+| [[Iowa State Cyclones men's basketball|Iowa State]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Xavier|Moon}}
+| SG
+| {{flagu|United States}}
+| [[Morehead State Eagles men's basketball|Morehead State]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Ben|Moore|dab=basketball}}
+| SF
+| {{flagu|United States}}
+| [[SMU Mustangs men's basketball|SMU]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Jaylen|Morris}}
+| SG
+| {{flagu|United States}}
+| [[Molloy College]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Johnathan|Motley}}
+| PF
+| {{flagu|United States}}
+| [[Baylor Bears basketball|Baylor]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+| {{sortname|Mychal|Mulder}}
+| SG
+| {{flagu|Canada}}
+| [[Kentucky Wildcats men's basketball|Kentucky]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Cameron|Oliver}}
+| F
+| {{flagu|United States}}
+| [[Nevada Wolf Pack men's basketball|Nevada]] <small>([[Sophomore|So.]])</small>
+|-
+| {{sortname|Trayvon|Palmer}}
+| SG
+| {{flagu|United States}}
+| [[Chicago State Cougars men's basketball|Chicago State]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|London|Perrantes}}
+| PG
+| {{flagu|United States}}
+| [[Virginia Cavaliers men's basketball|Virginia]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Rodney|Purvis}}
+| SG
+| {{flagu|United States}}
+| [[Connecticut Huskies men's basketball|Connecticut]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Xavier|Rathan-Mayes}}
+| SG
+| {{flagu|Canada}}
+| [[Florida State Seminoles men's basketball|Florida State]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+| {{sortname|Devin|Robinson}}
+| SF
+| {{flagu|United States}}
+| [[Florida Gators men's basketball|Florida]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+| {{sortname|Kobi|Simmons}}
+| PG
+| {{flagu|United States}}
+| [[Arizona Wildcats men's basketball|Arizona]] <small>([[Freshman|Fr.]])</small>
+|-
+| {{sortname|Matt|Thomas|dab=basketball}}
+| SG
+| {{flagu|United States}}
+| [[Iowa State Cyclones men's basketball|Iowa State]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Luca|Vildoza}}
+| PG/SG
+| {{flagu|Argentina}}
+| [[Saski Baskonia]] <small>([[Liga ACB|Spain]])</small>
+|-
+| {{sortname|Ish|Wainright}}
+| PF
+| {{flagu|United States}}{{refn|group=n|Wainright became a naturalized Ugandan citizen in 2020 and plays for the [[Uganda men's national basketball team|Uganda national basketball team]].}}
+| [[Baylor Bears basketball|Baylor]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Derrick|Walton}}
+| PG
+| {{flagu|United States}}
+| [[Michigan Wolverines men's basketball|Michigan]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Paul|Watson|dab=basketball}}
+| SG
+| {{flagu|United States}}
+| [[Fresno State Bulldogs men's basketball|Fresno State]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Andrew|White|dab=basketball}}
+| SF
+| {{flagu|United States}}
+| [[Syracuse Orange men's basketball|Syracuse]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Jacob|Wiley}}
+| SF
+| {{flagu|United States}}
+| [[Eastern Washington Eagles men's basketball|Eastern Washington]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Matt|Williams|dab=basketball}}
+| SG
+| {{flagu|United States}}
+| [[UCF Knights men's basketball|UCF]] <small>([[Senior (education)|Sr.]])</small>
+|}
+
+==Eligibility and entrants==
+{{main|Eligibility for the NBA draft}}
+
+The draft was conducted under the eligibility rules established in the league's 2017 [[NBA Collective Bargaining Agreement|collective bargaining agreement]] (CBA) with its players' union. The CBA that ended the [[2011 NBA Lockout|2011 lockout]] instituted no immediate changes to the draft, but called for a committee of owners and players to discuss future changes.
+
+* All drafted players must have been at least 19 years old during the calendar year of the draft. In terms of dates, players who are eligible for the 2017 draft, must have been born on or before December 31, 1998.
+* Since the 2016 draft, the [[NCAA Division I]] council implemented the following rules for that division that significantly changed the draft landscape for college players:<ref>{{cite news |url=https://www.espn.com/mens-college-basketball/story/_/id/14564613/date-nba-draft-commitment-pushed-may |title=College players given extra time to mull NBA draft decision |first=Jeff |last=Goodman |work=ESPN.com |date=January 13, 2016 |access-date=January 13, 2016 |archive-date=July 13, 2016 |archive-url=https://web.archive.org/web/20160713103619/http://espn.go.com/mens-college-basketball/story/_/id/14564613/date-nba-draft-commitment-pushed-may |url-status=live }}</ref>
+** Declaration for the draft no longer resulted in automatic loss of college eligibility. As long as a player did not sign a contract with a professional team outside the NBA, or sign with an agent, he retained college eligibility as long as he made a timely withdrawal from the draft.
+** NCAA players had until 10 days after the end of the [[NBA Draft Combine]] to withdraw from the draft. Since the combine was held in mid-May, the deadline was about five weeks after the previous mid-April deadline.
+** NCAA players were permitted to participate in the draft combine, and were also allowed to attend one tryout per year with each NBA team without losing college eligibility.
+** NCAA players were permitted to enter and withdraw from the draft up to two times without loss of eligibility. Previously, the NCAA treated a second declaration of draft eligibility as a permanent loss of college eligibility.
+
+The NBA has since expanded the draft combine to include players with remaining college eligibility (who, like players without college eligibility, can only attend by invitation).<ref>{{cite news |url=https://www.espn.com/mens-college-basketball/story/_/id/13142145/ncaa-proposes-new-nba-draft-rule-allow-underclassmen-return-school |title=NCAA proposes new NBA draft rule to allow early entrants back in school |first=Andy |last=Katz |author-link=Andy Katz |work=ESPN.com |date=June 24, 2015 |access-date=June 24, 2015 |archive-date=April 14, 2016 |archive-url=https://web.archive.org/web/20160414070757/http://espn.go.com/mens-college-basketball/story/_/id/13142145/ncaa-proposes-new-nba-draft-rule-allow-underclassmen-return-school |url-status=live }}</ref>
+
+===Early entrants===
+Players who were not automatically eligible for the draft had to declare their eligibility by notifying the NBA offices in writing no later than 60 days before the draft. For the 2017 draft, this date fell on April 23. After that date "early entry" players were able to attend NBA pre-draft camps and individual team workouts to show off their skills and obtain feedback regarding their draft positions. Under the CBA, a player could withdraw from consideration from the draft at any time before the final declaration date, which was 10 days before the draft. Under NCAA rules, players had until May 24 (10 days after the draft combine) to withdraw from the draft and retain college eligibility.
+
+A player who hired an agent forfeited his remaining college eligibility regardless of whether he was drafted.
+
+====College underclassmen====
+At the time, a record-high 185 underclassed draft prospects (i.e., players with remaining college eligibility) had declared themselves for eligibility at the April 24 deadline (138 of them being from college), although college players who had not hired agents or signed professional contracts outside the NBA were able to decide to return to college by May 24, 10 days after the end of the [[NBA Draft Combine]]. These players have publicly indicated that they have hired agents, or had planned to do so around the start of the draft; those who hired agents immediately lost their eligibility to return to NCAA basketball in 2017–18.<ref>{{cite web |url=http://www.nba.com/article/2017/04/25/nba-announces-early-entry-candidates-2017-nba-draft |title=NBA announces early entry candidates for 2017 NBA Draft |website=[[NBA.com]] |access-date=May 18, 2017 |archive-date=May 16, 2017 |archive-url=https://web.archive.org/web/20170516182810/http://www.nba.com/article/2017/04/25/nba-announces-early-entry-candidates-2017-nba-draft |url-status=live }}</ref> By the end of the May 24 deadline, 73 draft candidates from college decided to return to their respective colleges for at least another year, leaving 64 underclassmen to officially enter the draft this year.<ref>{{cite web|url=http://www.nba.com/article/2017/05/25/nba-announces-early-entry-candidates-withdraw-2017-nba-draft|title=NBA announces early entry candidates withdraw for 2017 NBA Draft|first=Official|last=release|website=NBA.com|access-date=June 23, 2017|archive-date=June 25, 2017|archive-url=https://web.archive.org/web/20170625133336/http://www.nba.com/article/2017/05/25/nba-announces-early-entry-candidates-withdraw-2017-nba-draft|url-status=live}}</ref><ref>{{cite web|url=http://nba.nbcsports.com/2017/05/25/after-73-underclassmen-pull-out-of-nba-draft-here-are-the-final-early-entries/|title=After 73 underclassmen pull out of NBA draft, here are the final early entries|first=Kurt|last=Helin|date=May 25, 2017|access-date=June 23, 2017|archive-date=June 29, 2017|archive-url=https://web.archive.org/web/20170629021026/http://nba.nbcsports.com/2017/05/25/after-73-underclassmen-pull-out-of-nba-draft-here-are-the-final-early-entries/|url-status=live}}</ref> Additionally, two more players left entry at the end of the international player deadline, meaning both [[Maverick Rowan]] from North Carolina State and [[Darin Johnson]] from Cal State Northridge would not return for college, but one player managed to enter the college underclassman deadline, thus leaving 63 entries at hand for the NBA Draft.<ref>{{cite web|url=http://www.nba.com/article/2017/06/13/nba-draft-36-early-entry-international-candidates-withdraw|title=Thirty-six international early entry NBA Draft candidates withdraw|first=Official|last=release|website=NBA.com|access-date=June 23, 2017|archive-date=June 18, 2017|archive-url=https://web.archive.org/web/20170618205232/http://www.nba.com/article/2017/06/13/nba-draft-36-early-entry-international-candidates-withdraw|url-status=live}}</ref>
+
+{{Div col|colwidth=30em}}
+*{{flagicon|USA}} [[Bam Adebayo]] – F, [[Kentucky Wildcats men's basketball|Kentucky]] (freshman)
+*{{flagicon|USA}} [[Jarrett Allen]] – F, [[Texas Longhorns men's basketball|Texas]] (freshman)
+*{{flagicon|USA}} [[Ike Anigbogu]] – F, [[UCLA Bruins men's basketball|UCLA]] (freshman)
+*{{flagicon|ENG}}/{{flagicon|NGA}} [[O.G. Anunoby]] – F, [[Indiana Hoosiers men's basketball|Indiana]] (sophomore)
+*{{flagicon|USA}} [[Dwayne Bacon]] – G, [[Florida State Seminoles men's basketball|Florida State]] (sophomore)
+*{{flagicon|USA}} [[Lonzo Ball]] – G, [[UCLA Bruins men's basketball|UCLA]] (freshman)
+*{{flagicon|USA}} [[Jordan Bell]] – F, [[Oregon Ducks men's basketball|Oregon]] (junior)
+*{{flagicon|USA}} [[James Blackmon Jr.]] – G, [[Indiana Hoosiers men's basketball|Indiana]] (junior)
+*{{flagicon|USA}} [[Antonio Blakeney]] – G, [[LSU Tigers men's basketball|LSU]] (sophomore)
+*{{flagicon|USA}} [[Tony Bradley (basketball)|Tony Bradley]] – F, [[North Carolina Tar Heels men's basketball|North Carolina]] (freshman)
+*{{flagicon|USA}} [[Isaiah Briscoe]] – G, [[Kentucky Wildcats men's basketball|Kentucky]] (sophomore)
+*{{flagicon|CAN}} [[Dillon Brooks]] – F, [[Oregon Ducks men's basketball|Oregon]] (junior)
+*{{flagicon|USA}} [[Thomas Bryant (basketball)|Thomas Bryant]] – C, [[Indiana Hoosiers men's basketball|Indiana]] (sophomore)
+*{{flagicon|USA}} [[Clandell Cetoute]] – F, [[Thiel College]] (junior)
+*{{flagicon|USA}} [[John Collins (basketball)|John Collins]] – F, [[Wake Forest Demon Deacons men's basketball|Wake Forest]] (sophomore)
+*{{flagicon|USA}} [[Zach Collins]] – F/C, [[Gonzaga Bulldogs men's basketball|Gonzaga]] (freshman)
+*{{flagicon|USA}} [[Chance Comanche]] – C, [[Arizona Wildcats men's basketball|Arizona]] (sophomore)
+*{{flagicon|USA}}/{{flagicon|GRE}} [[Tyler Dorsey]] – G, [[Oregon Ducks men's basketball|Oregon]] (sophomore)
+*{{flagicon|USA}} [[PJ Dozier]] – G, [[South Carolina Gamecocks men's basketball|South Carolina]] (sophomore)
+*{{flagicon|USA}} [[Jawun Evans]] – G, [[Oklahoma State Cowboys basketball|Oklahoma State]] (sophomore)
+*{{flagicon|USA}} [[Tony Farmer (basketball, born 1995)|Tony Farmer]] – F, [[Lee College]] (sophomore)
+*{{flagicon|USA}} [[De'Aaron Fox]] – G, [[Kentucky Wildcats men's basketball|Kentucky]] (freshman)
+*{{flagicon|USA}} [[Markelle Fultz]] – G, [[Washington Huskies men's basketball|Washington]] (freshman)
+*{{flagicon|USA}} [[Harry Giles (basketball)|Harry Giles]] – F, [[Duke Blue Devils men's basketball|Duke]] (freshman)
+*{{flagicon|AUS}} [[Isaac Humphries]] – C, [[Kentucky Wildcats men's basketball|Kentucky]] (sophomore)
+*{{flagicon|USA}} [[Tre Hunter]] – G, [[Mount San Jacinto College]] (junior)<!--Wasn't on original list, later added during the final, official draft deadline.-->
+*{{flagicon|USA}} [[Jonathan Isaac]] – F, [[Florida State Seminoles men's basketball|Florida State]] (freshman)
+*{{flagicon|USA}} [[Frank Jackson (basketball)|Frank Jackson]] – G, [[Duke Blue Devils men's basketball|Duke]] (freshman)
+*{{flagicon|USA}} [[Josh Jackson (basketball)|Josh Jackson]] – F, [[Kansas Jayhawks men's basketball|Kansas]] (freshman)
+*{{flagicon|USA}} [[Justin Jackson (basketball, born 1995)|Justin Jackson]] – F, [[North Carolina Tar Heels men's basketball|North Carolina]] (junior)
+*{{flagicon|USA}} [[Jaylen Johnson]] – F, [[Louisville Cardinals men's basketball|Louisville]] (junior)
+*{{flagicon|COD}} [[Ted Kapita]] – F, [[NC State Wolfpack men's basketball|NC State]] (freshman)
+*{{flagicon|USA}} [[Marcus Keene]] – G, [[Central Michigan Chippewas men's basketball|Central Michigan]] (junior)
+*{{flagicon|USA}} [[Luke Kennard (basketball)|Luke Kennard]] – G, [[Duke Blue Devils men's basketball|Duke]] (sophomore)
+*{{flagicon|USA}} [[Kyle Kuzma]] – F, [[Utah Utes men's basketball|Utah]] (junior)
+*{{flagicon|ISR}}/{{flagicon|USA}} [[T. J. Leaf]] – F, [[UCLA Bruins men's basketball|UCLA]] (freshman)
+*{{flagicon|USA}} [[Tyler Lydon]] – F, [[Syracuse Orange men's basketball|Syracuse]] (sophomore)
+*{{flagicon|USA}} [[Elijah Macon]] – F, [[West Virginia Mountaineers men's basketball|West Virginia]] (junior)
+*{{flagicon|FIN}} [[Lauri Markkanen]] – F, [[Arizona Wildcats men's basketball|Arizona]] (freshman)
+*{{flagicon|USA}} [[Eric Mika]] – F, [[BYU Cougars men's basketball|BYU]] (sophomore)
+*{{flagicon|USA}} [[Donovan Mitchell]] – G, [[Louisville Cardinals men's basketball|Louisville]] (sophomore)
+*{{flagicon|USA}} [[Malik Monk]] – G, [[Kentucky Wildcats men's basketball|Kentucky]] (freshman)
+*{{flagicon|USA}} [[Johnathan Motley]] – F, [[Baylor Bears men's basketball|Baylor]] (junior)
+*{{flagicon|USA}} [[Austin Nichols (basketball)|Austin Nichols]] – F, [[Virginia Cavaliers men's basketball|Virginia]] (junior)
+*{{flagicon|USA}}/{{flagicon|NGA}} [[Semi Ojeleye]] – F, [[SMU Mustangs men's basketball|SMU]] (junior)
+*{{flagicon|USA}} [[Cameron Oliver]] – F, [[Nevada Wolf Pack men's basketball|Nevada]] (sophomore)
+*{{flagicon|USA}} [[Justin Patton]] – C, [[Creighton Bluejays men's basketball|Creighton]] (freshman)
+*{{flagicon|USA}} [[L. J. Peak]] – G, [[Georgetown Hoyas men's basketball|Georgetown]] (junior)
+*{{flagicon|USA}} [[Ivan Rabb]] – F, [[California Golden Bears men's basketball|California]] (sophomore)
+*{{flagicon|CAN}} [[Xavier Rathan-Mayes]] – G, [[Florida State Seminoles men's basketball|Florida State]] (junior)
+*{{flagicon|USA}} [[Devin Robinson]] – F, [[Florida Gators men's basketball|Florida]] (junior)
+*{{flagicon|USA}} [[Josh Robinson (basketball)|Josh Robinson]] – G, [[Austin Peay Governors men's basketball|Austin Peay]] (junior)
+*{{flagicon|USA}} [[Kobi Simmons]] – G, [[Arizona Wildcats men's basketball|Arizona]] (freshman)
+*{{flagicon|USA}}/{{flagicon|KOS}} [[Jaren Sina]] – G, [[George Washington Colonials men's basketball|George Washington]] (junior)
+*{{flagicon|USA}} [[Dennis Smith Jr.]] – G, [[NC State Wolfpack men's basketball|NC State]] (freshman)
+*{{flagicon|USA}} [[Edmond Sumner]] – G, [[Xavier Musketeers men's basketball|Xavier]] (junior)
+*{{flagicon|USA}} [[Caleb Swanigan]] – F, [[Purdue Boilermakers men's basketball|Purdue]] (sophomore)
+*{{flagicon|USA}} [[Jayson Tatum]] – F, [[Duke Blue Devils men's basketball|Duke]] (freshman)
+*{{flagicon|CAN}} [[Matt Taylor (basketball)|Matt Taylor]] – G, [[New Mexico State Aggies men's basketball|New Mexico State]] (junior)
+*{{flagicon|USA}} [[Trevor Thompson (basketball)|Trevor Thompson]] – C, [[Ohio State Buckeyes men's basketball|Ohio State]] (junior)
+*{{flagicon|USA}} [[Melo Trimble]] – G, [[Maryland Terrapins men's basketball|Maryland]] (junior)
+*{{flagicon|USA}} [[Craig Victor II]] – F, [[LSU Tigers men's basketball|LSU]] (junior)
+*{{flagicon|USA}} [[Antone Warren]] – C, [[Antelope Valley College|Antelope Valley]] (sophomore)
+*{{flagicon|USA}} [[Nigel Williams-Goss]] – G, [[Gonzaga Bulldogs men's basketball|Gonzaga]] (junior)
+*{{flagicon|USA}} [[D. J. Wilson]] – F, [[Michigan Wolverines men's basketball|Michigan]] (junior)
+{{div col end}}
+
+====International players====
+International players that had declared this year and did not previously declare in another prior year can also drop out of the draft about 10 days before the draft begins on June 12. Initially, there were 46 players who originally expressed interest entering the 2017 draft. At the end of the international deadline, 36 players wound up declining entry for the draft, leaving only 10 international players staying in the NBA Draft. As a result, 73 total underclassmen entered the 2017 NBA Draft.
+
+{{div col}}
+* {{flagicon|SWE}} [[Simon Birgander]] – F/C, [[CB Clavijo|Calzados Robusta Clavijo]] ([[LEB Oro|Spain]])
+* {{flagicon|CRO}} [[Luka Božić (basketball)|Luka Božić]] – G/F, [[KK Zagreb]] ([[A-1 Liga|Croatia]])
+* {{flagicon|SLO}} [[Vlatko Čančar]] – F, [[KK Mega Basket|Mega Leks]] ([[Basketball League of Serbia|Serbia]])
+* {{flagicon|BRA}} [[Wesley Alves da Silva]] – F, [[Club Athletico Paulistano (basketball)|Paulistano Corpore]] ([[Novo Basquete Brasil|Brazil]])
+* {{flagicon|BRA}} [[George de Paula|Georginho de Paula]] – G, [[Club Athletico Paulistano (basketball)|Paulistano Corpore]] ([[Novo Basquete Brasil|Brazil]])
+* {{flagicon|GER}} [[Isaiah Hartenstein]] – C, [[BC Žalgiris|Žalgiris Kaunas]] ([[Lietuvos krepšinio lyga|Lithuania]])
+* {{flagicon|FRA}} [[Jonathan Jeanne]] – C, [[SLUC Nancy Basket|SLUC Nancy]] ([[LNB Pro A|France]])
+* {{flagicon|FRA}} [[Alpha Kaba]] – F/C, [[KK Mega Basket|Mega Leks]] ([[Basketball League of Serbia|Serbia]])
+* {{flagicon|FRA}} [[Tidjan Keita]] – F, [[Cégep de Thetford]] ([[CEGEP|Canada]])
+* {{flagicon|FRA}} [[Frank Ntilikina]] – G, [[SIG Basket|SIG Strasbourg]] ([[LNB Pro A|France]])
+{{div col end}}
+
+===Automatically eligible entrants===
+Players who do not meet the criteria for "international" players are automatically eligible if they meet any of the following criteria:<ref name="CBA US">{{cite web|url=http://www.nbpa.com/cba_articles/article-X.php |title=Article X, Section 1(b)(ii) |work=2005 NBA Collective Bargaining Agreement |publisher=[[National Basketball Players Association]] |access-date=April 17, 2008 |archive-url=https://web.archive.org/web/20080227065646/http://www.nbpa.com/cba_articles/article-X.php |archive-date=February 27, 2008 |url-status=dead |df=mdy }}</ref>
+* They have completed four years of their college eligibility.
+* If they graduated from high school in the U.S., but did not enroll in a U.S. college or university, four years have passed since their high school class graduated.
+* They have signed a contract with a professional basketball team outside of the NBA, anywhere in the world, and have played under that contract.
+
+Players who meet the criteria for "international" players are automatically eligible if they meet any of the following criteria:
+* They are least 22 years old during the calendar year of the draft. In terms of dates, players born on or before December 31, 1995, are automatically eligible for the 2017 draft.<ref name="CBA International Age">{{cite web|url=http://www.nbpa.com/cba_articles/article-X.php |title=Article X, Section 1(b)(ii)(G)(1) |work=2005 NBA Collective Bargaining Agreement |publisher=[[National Basketball Players Association]] |access-date=April 17, 2008 |archive-url=https://web.archive.org/web/20080227065646/http://www.nbpa.com/cba_articles/article-X.php |archive-date=February 27, 2008 |url-status=dead |df=mdy }}</ref>
+* They have signed a contract with a professional basketball team outside of the NBA ''within the United States'', and have played under that contract.<ref name="CBA International US Contract">{{cite web|url=http://www.nbpa.com/cba_articles/article-X.php |title=Article X, Section 1(b)(ii)(G)(2) |work=2005 NBA Collective Bargaining Agreement |publisher=[[National Basketball Players Association]] |access-date=April 17, 2008 |archive-url=https://web.archive.org/web/20080227065646/http://www.nbpa.com/cba_articles/article-X.php |archive-date=February 27, 2008 |url-status=dead |df=mdy }}</ref>
+
+{| class="wikitable sortable" style="text-align:left; font-size:95%"
+|+ Other automatically eligible players
+|-
+! Player !! {{tooltip|Team|Most recent team played for before the draft}} !!class=unsortable| Note !!class=unsortable| Ref.
+|-
+| {{flagicon|USA}} {{sortname|Paris|Bass}} || [[Erie BayHawks (2008–2017)|Erie BayHawks]] ([[NBA Development League|D-League]]) || Removed from [[Detroit Titans men's basketball|Detroit]] in 2016;<ref>{{cite news |url=http://www.freep.com/story/sports/college/2016/05/10/parris-bass-udm-basketball-detroit/84185336/ |title=Detroit Mercy leading scorer Paris Bass one of 2 removed from team |first=Perry A. |last=Farrell |newspaper=Detroit Free Press |date=May 10, 2016 |access-date=April 21, 2017 |archive-date=September 24, 2016 |archive-url=https://web.archive.org/web/20160924144727/http://www.freep.com/story/sports/college/2016/05/10/parris-bass-udm-basketball-detroit/84185336/ |url-status=live }}</ref> playing professionally since 2016–17 season ||align=center|
+|-
+| {{flagicon|AUS}} {{sortname|Jonah|Bolden}} || [[KK Crvena zvezda|Crvena zvezda]] ([[Basketball League of Serbia|Serbia]]) || Left [[UCLA Bruins men's basketball|UCLA]] in 2016; playing professionally since 2016–17 season ||align=center|<ref>{{cite web|url=http://www.nba.com/draft/2017/prospects|title=2017 NBA Draft - Prospect Index - NBA.com|website=www.nba.com|access-date=June 23, 2017|archive-date=June 22, 2017|archive-url=https://web.archive.org/web/20170622125937/http://www.nba.com/draft/2017/prospects|url-status=live}}</ref>
+|-
+| {{flagicon|USA}} {{sortname|Terrance|Ferguson}} || [[Adelaide 36ers]] ([[National Basketball League (Australia)|Australia]]) || Didn't attend college in 2016, playing professionally since 2016–17 season ||align=center|<ref>{{cite web | last=Nagy | first=Boti | url=http://www.adelaidenow.com.au/sport/basketball/sacre-bleu-jerome-off-to-france-but-36ers-plan-multiyear-deal-for-nbls-reigning-mvp/news-story/58edb7a7be418d8e600c50d14fff6251 | title=Sacre bleu! Jerome off to France but 36ers plan multi-year deal for NBL's reigning MVP | work=AdelaideNow.com.au | date=March 1, 2017 | access-date=March 1, 2017 | archive-date=March 8, 2017 | archive-url=https://web.archive.org/web/20170308125045/http://www.adelaidenow.com.au/sport/basketball/sacre-bleu-jerome-off-to-france-but-36ers-plan-multiyear-deal-for-nbls-reigning-mvp/news-story/58edb7a7be418d8e600c50d14fff6251 | url-status=live }}</ref>
+|-
+| {{flagicon|USA}} {{sortname|Lee|Moore|dab=basketball}} || [[Basket Brescia Leonessa|Germani Basket Brescia]] ([[Lega Basket Serie A|Italy]]) || Left [[UTEP Miners men's basketball|UTEP]] in 2016; playing professionally since 2016–17 season ||align=center|<ref>{{cite web|url=http://www.draftexpress.com/article/nba-announces-early-entry-candidates-for-2017-nba-draft-5904/|title=DraftExpress - NBA Announces Early Entry Candidates for 2017 NBA Draft|access-date=June 23, 2017|archive-date=June 18, 2017|archive-url=https://web.archive.org/web/20170618224120/http://www.draftexpress.com/article/nba-announces-early-entry-candidates-for-2017-nba-draft-5904/|url-status=live}}</ref>
+|-
+| {{flagicon|SEN}} {{sortname|Waly|Niang}} || [[Long Island Nets]] ([[NBA Development League|D-League]]) || International player who played for the [[Long Island Nets]] in 2016 ||align=center|<ref>{{cite web |title=NBA CMS – National Basketball Association |url=http://longisland.gleague.nba.com/news/long-island-nets-waive-wally-niang/ |url-status=live |archive-url=https://web.archive.org/web/20230419052836/https://longisland.gleague.nba.com/news/long-island-nets-waive-wally-niang |archive-date=19 April 2023 |access-date=19 April 2023 |website=longisland.gleague.nba.com}}</ref>
+|}
+
+==Combine==
+{{main|NBA Draft Combine}}
+
+The invitation-only [[NBA Draft Combine]] was held in Chicago from May 9 to 14. The on-court element of the combine took place on May 11 and 12. This year's event had [[Under Armour]] as its primary sponsor. A total of 67 players were invited for this year's NBA Draft Combine, with 5 more named as alternates in the event some players could not come for whatever reason.<ref>{{cite web|url=http://www.draftexpress.com/article/2017-nba-draft-combine-unofficial-invitee-breakdown-5909/|title=DraftExpress - 2017 NBA Draft Combine Invitee Breakdown|access-date=June 23, 2017|archive-date=June 14, 2017|archive-url=https://web.archive.org/web/20170614135100/http://www.draftexpress.com/article/2017-nba-draft-combine-unofficial-invitee-breakdown-5909/|url-status=live}}</ref><ref>{{cite tweet|user=NBADraftWass|author=Jonathan Wasserman|number=860559860961857539|date=May 5, 2017|title=Official NBA Combine list, 67 names|access-date=June 23, 2017}}</ref> Ten invited players declined to attend for various reasons, including three players completely on the international scale. Eighteen more players that were guaranteed invitations were also players testing out their draft stocks during the event. Eleven players participating in the event were seniors, the lowest number ever of combine participants who had exhausted their college eligibility. During the event, six different players were deemed injured either before or during this year's Draft Combine. At the end of the May 24 college deadline, eight players who originally declared for the NBA Draft and were invited to the Draft Combine this year, including potential "none-and-done" Kentucky freshman redshirt [[Hamidou Diallo]], ultimately returned to college for at least one more season.
+
+==Draft lottery==
+{{Main|NBA Draft Lottery}}
+{{external media
+| float  = right
+| video1 = [https://www.youtube.com/watch?v=RB2GNcAG6i4 2017 NBA Draft Lottery Drawing], ''NBA's official YouTube channel''. May 16, 2017.
+}}
+
+The 2017 NBA draft lottery was held on May 16.
+{| class="wikitable"
+|-
+|style="background:#ff9; width:2em; text-align:center;"|
+|style="text-align:left"|Denotes the actual lottery result
+
+|}
+
+{|class="wikitable plainrowheaders" style="text-align:center"
+|-
+! scope="col" rowspan="2" | Team
+! scope="col" rowspan="2" | [[2016–17 NBA season|2016–17<br>record]]
+! scope="col" rowspan="2" | Lottery<br>chances
+! scope="col" colspan="14" | Lottery probabilities
+|-
+! 1st || 2nd || 3rd || 4th || 5th || 6th || 7th || 8th || 9th || 10th || 11th || 12th || 13th || 14th
+|-
+! scope="row" style="text-align:left;"| [[Boston Celtics]]{{Cref|1}}
+| 53–29 || 250 || style="background:#ff9"| .250 || .215 || .178 || .357 || – || – || – || – || – || – || – || – || – || –
+|-
+! scope="row" style="text-align:left;"| [[Phoenix Suns]]
+| 24–58 || 199 || .199 || .188 || .171 ||style="background:#ff9"| .319 || .123 || – || – || – || – || – || – || – || – || –
+|-
+! scope="row" style="text-align:left;"| [[Los Angeles Lakers]]
+| 26–56 || 156|| .156 || style="background:#ff9;"| .157 || .156 || .226 || .265 || .040 || – || – || – || – || – || – || – || –
+|-
+! scope="row" style="text-align:left;"| [[Philadelphia 76ers]]{{Cref|2}}
+| 28–54 || 119 || .119 || .126 || .133 || .099 ||style="background:#ff9"| .350 || .161 || .013 || – || – || – || – || – || – || –
+|-
+! scope="row" style="text-align:left;"| [[Orlando Magic]]
+| 29–53 || 88 || .088 || .097 || .107 || – || .261 ||style="background:#ff9"| .359 || .084 || .004 || – || – || – || – || – || –
+|-
+! scope="row" style="text-align:left;"| [[Minnesota Timberwolves]]
+| 31–51 || 53 || .053 || .060 || .070 || – || – || .439 ||style="background:#ff9"| .331 || .045 || .001 || – || – || – || – || –
+|-
+! scope="row" style="text-align:left;"| [[New York Knicks]]
+| 31–51 || 53 || .053 || .060 || .070 || – || – || – || .572 ||style="background:#ff9"| .226 || .018 || .000 || – || – || – || –
+|-
+! scope="row" style="text-align:left;"| [[Sacramento Kings]]{{Cref|2}}
+| 32–50 || 28 || .028 || .033 ||style="background:#ff9"| .039 || – || – || – || – || .725 || .168 || .008 || .000 || – || – || –
+|-
+! scope="row" style="text-align:left;"| [[Dallas Mavericks]]
+| 33–49 || 17 || .017 || .020 || .024 || – || – || – || – || – || style="background:#ff9"|.813 || .122 || .004 || .000 || – || –
+|-
+! scope="row" style="text-align:left;"| [[New Orleans Pelicans]]{{Cref|3}}
+| 34–48 || 11 || .011 || .013 ||.016 || – || – || – || – || – || – || style="background:#ff9"| .870 || .089 || .002 || .000 || –
+|-
+! scope="row" style="text-align:left;"| [[Charlotte Hornets]]
+| 36–46 || 8 || .008 || .009 || .012 || – || – || – || – || – || – || – || style="background:#ff9"|.907 || .063 || .001 || .000
+|-
+! scope="row" style="text-align:left;"| [[Detroit Pistons]]
+| 37–45 || 7 || .007 || .008 || .010 || – || – || – || – || – || – || – || – || style="background:#ff9"|.935 || .039 || .000
+|-
+! scope="row" style="text-align:left;"| [[Denver Nuggets]]
+| 40–42 || 6 || .006 || .007 || .009 || – || – || – || – || – || – || – || – || – || style="background:#ff9"| .960 || .018
+|-
+! scope="row" style="text-align:left;"| [[Miami Heat]]
+| 41–41 || 5 || .005 || .006 || .007 || – || – || – || – || – || – || – || – || – || – ||style="background:#ff9"|.982
+|}
+{{Cnote|1|The [[Boston Celtics]] exercised the option to swap first-round picks with the 20–62 [[Brooklyn Nets]] on April 3, 2017.<ref group=upper-alpha name=GarnettPierce/> They traded the pick to the [[Philadelphia 76ers]] four days before the draft began.<ref group=upper-alpha name=NumbaOneSwap/>}}
+{{Cnote|2|The [[Philadelphia 76ers]] exercised the option to swap first-round picks with the [[Sacramento Kings]] after the names of the top three teams were revealed.<ref group=upper-alpha name=EarlySwap/> It was then used to swap their own pick with Boston four days before the draft began.<ref group=upper-alpha name=NumbaOneSwap/>}}
+{{Cnote|3|The [[New Orleans Pelicans]]' first round pick was conveyed to the [[Sacramento Kings]] because it fell outside of the top three.<ref group=upper-alpha name=DeMarcus/>}}
+
+==Invited attendees==
+The NBA annually invites around 15–20 players to sit in the so-called "green room", a special room set aside at the draft site for the invited players plus their families and agents. When their names are called, the player leaves the room and goes up on stage. Other players who are not invited are allowed to attend the ceremony. They sit in the stands with the fans and walk up on stage when (or if) they are drafted.<ref>{{cite web|url=https://www.espn.com/nba/draft2011/news/story?id=6675909|title=NBA issues 'green room' invitations|first=Chad|last=Ford|work=ESPN.com|date=June 18, 2011|access-date=June 23, 2015|archive-date=June 26, 2015|archive-url=https://web.archive.org/web/20150626123405/http://sports.espn.go.com/nba/draft2011/news/story?id=6675909|url-status=live}}</ref> 10 players were invited to the 2017 NBA draft on June 8, with three more of them being invited two days later.<ref>{{cite web|url=http://www.draftexpress.com/article/nba-draft-green-room-invites-begin-to-trickle-out-5988/|title=DraftExpress - NBA Draft Green Room Invites|access-date=June 23, 2017|archive-date=June 11, 2017|archive-url=https://web.archive.org/web/20170611084531/http://www.draftexpress.com/article/nba-draft-green-room-invites-begin-to-trickle-out-5988/|url-status=live}}</ref> Eight more players would be invited to complete the green room listing on June 14, bringing the total invite list to 21, with 20 of the invitees attending. The following players (listed alphabetically) were confirmed as invites for the event this year.
+
+{{Div col}}
+*{{flagicon|USA}} [[Bam Adebayo]], [[Kentucky Wildcats men's basketball|Kentucky]] (not on the original list, later invited)
+*{{flagicon|USA}} [[Jarrett Allen]], [[Texas Longhorns men's basketball|Texas]] (not on the original list, later invited)
+*{{flagicon|ENG}}/{{flagicon|NGA}} [[O.G. Anunoby]], [[Indiana Hoosiers men's basketball|Indiana]] (not on the original list, later invited)
+*{{flagicon|USA}} [[Lonzo Ball]], [[UCLA Bruins men's basketball|UCLA]]
+*{{flagicon|USA}} [[John Collins (basketball)|John Collins]], [[Wake Forest Demon Deacons men's basketball|Wake Forest]] (not on the original list, later invited)
+*{{flagicon|USA}} [[Zach Collins]], [[Gonzaga Bulldogs men's basketball|Gonzaga]]
+*{{flagicon|USA}} [[De'Aaron Fox]], [[Kentucky Wildcats men's basketball|Kentucky]]
+*{{flagicon|USA}} [[Markelle Fultz]], [[Washington Huskies men's basketball|Washington]]
+*{{flagicon|USA}} [[Harry Giles (basketball)|Harry Giles]], [[Duke Blue Devils men's basketball|Duke]] (not on the original list, later invited; declined invite)
+*{{flagicon|USA}} [[Jonathan Isaac]], [[Florida State Seminoles men's basketball|Florida State]]
+*{{flagicon|USA}} [[Josh Jackson (basketball)|Josh Jackson]], [[Kansas Jayhawks men's basketball|Kansas]]
+*{{flagicon|USA}} [[Justin Jackson (basketball, born 1995)|Justin Jackson]], [[North Carolina Tar Heels men's basketball|North Carolina]] (not on the original list, later invited)
+*{{flagicon|USA}} [[Luke Kennard (basketball)|Luke Kennard]], [[Duke Blue Devils men's basketball|Duke]] (not on the original list, later invited)
+*{{flagicon|ISR}}/{{flagicon|USA}} [[T. J. Leaf]], [[UCLA Bruins men's basketball|UCLA]] (not on the original list, later invited)
+*{{flagicon|FIN}} [[Lauri Markkanen]], [[Arizona Wildcats men's basketball|Arizona]]
+*{{flagicon|USA}} [[Donovan Mitchell]], [[Louisville Cardinals men's basketball|Louisville]] (not on the original list, later invited)
+*{{flagicon|USA}} [[Malik Monk]], [[Kentucky Wildcats men's basketball|Kentucky]]
+*{{flagicon|FRA}} [[Frank Ntilikina]], [[SIG Basket|SIG Strasbourg]] (not on the original list, later invited)
+*{{flagicon|USA}} [[Justin Patton]], [[Creighton Bluejays men's basketball|Creighton]] (not on the original list, later invited)
+*{{flagicon|USA}} [[Dennis Smith Jr.]], [[NC State Wolfpack men's basketball|North Carolina State]]
+*{{flagicon|USA}} [[Jayson Tatum]], [[Duke Blue Devils men's basketball|Duke]]
+{{div col end}}
+
+==Trades involving draft picks==
+
+===Pre-draft trades===
+Prior to the day of the draft, the following trades were made and resulted in exchanges of draft picks between the teams.
+{{Reflist|group=upper-alpha}}
+
+===Draft-day trades===
+Draft-day trades occurred on June 22, 2017, the day of the draft.
+{{Reflist|group=lower-alpha}}
+
+==Notes==
+{{reflist|group=n}}
+
+==See also==
+* [[List of first overall NBA draft picks]]
+
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Portal bar|Sports}}
+*[http://www.nba.com/draft/ Official site]
+
+{{NBA Drafts}}
+{{NBA Draft history by team}}
+{{2017 NBA draft}}
+{{2017–18 NBA season by team}}
+
+[[Category:2017–18 NBA season|Draft]]
+[[Category:NBA draft]]
+[[Category:June 2017 sports events in the United States|NBA draft]]
+[[Category:2017 in sports in New York City|NBA draft]]
+[[Category:2010s in Brooklyn]]
+[[Category:Basketball in New York City]]
+[[Category:Sporting events in New York City]]
+[[Category:Sports in Brooklyn]]
+[[Category:Organized events in Brooklyn]]

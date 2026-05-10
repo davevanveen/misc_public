@@ -1,0 +1,747 @@
+{{short description|Basketball player selection}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox sports draft
+| name = 1998 NBA draft
+| image =
+| caption =
+| logo =
+| logosize =
+| sport = Basketball
+| date = June 24, 1998
+| location = [[General Motors Place]] ([[Vancouver]], [[British Columbia]])
+| network = [[NBA on TNT|TNT]], [[The Sports Network|TSN]]
+| league = NBA
+| teams =
+| overall = 58
+| rounds = 2
+| first = [[Michael Olowokandi]] ([[Los Angeles Clippers]])
+| hofnum   = {{Collapsible list
+| title = 3
+|1 = SF [[Vince Carter]]
+|2 = PF [[Dirk Nowitzki]]
+|3 = SF [[Paul Pierce]]}}
+| prev = [[1997 NBA draft|1997]]
+| next = [[1999 NBA draft|1999]]
+}}
+The '''1998 NBA draft''' took place on June 24, 1998, at [[General Motors Place]] in Vancouver, British Columbia, [[Canada]]. This draft helped turn around four struggling franchises: the [[Dallas Mavericks]], the [[Sacramento Kings]], the [[Boston Celtics]], and the [[Toronto Raptors]].
+
+[[1996–97 Vancouver Grizzlies season|The Vancouver Grizzlies]] and [[1996–97 Toronto Raptors season|the Toronto Raptors]] were not able to win the [[NBA draft lottery]]; as they were expansion teams, they were not allowed to select first in this draft.
+
+The Mavericks, despite having a talented nucleus of [[Jason Kidd]], [[Jamal Mashburn]] and [[Jim Jackson (basketball)|Jimmy Jackson]] in the mid-1990s, had not had a winning season since [[1989-90 Dallas Mavericks season|1989-90]], which was also the last time they made the playoffs. By the end of the 1997 season, all three players were traded and it was time to rebuild. With the sixth selection in 1998, they drafted [[Robert Traylor]] and quickly traded him to the [[Milwaukee Bucks]] for [[Dirk Nowitzki]] and [[Pat Garrity]]. They then traded Garrity in a package to the [[Phoenix Suns]] for [[Steve Nash]]. With Nash and Nowitzki, the Mavericks quickly went from a lottery team in the late 1990s to a perennial playoff contender throughout the 2000s. Nowitzki went on to win the [[2011 NBA Finals]] with Dallas without Nash, but with Kidd.
+
+Meanwhile, the Raptors were a recent expansion team that had failed to win more than 30 games in its first three seasons. With the fourth pick they selected [[Antawn Jamison]], whom they quickly dealt to the [[Golden State Warriors]] for [[Vince Carter]]. Carter went on to win Rookie of the Year.
+
+First overall pick [[Michael Olowokandi]] from mid-major [[University of the Pacific (United States)|University of the Pacific]] is regarded by ''[[Sports Illustrated]]'' as one of the biggest draft busts in NBA history.<ref>{{cite web
+| url = http://sportsillustrated.cnn.com/multimedia/photo_gallery/2005/06/24/gallery.nbabusts/content.18.html
+| archive-url = https://web.archive.org/web/20050627010627/http://sportsillustrated.cnn.com/multimedia/photo_gallery/2005/06/24/gallery.nbabusts/content.18.html
+| url-status = dead
+| archive-date = June 27, 2005
+| title = Sports Illustrated photo gallery}}</ref> As of February 2019, he is the last top selection to come out of a university that is considered mid-major.
+
+Five players from the 1998 draft class played in the NBA All-Star Game at least once in their careers: Nowitzki, Carter, Jamison, [[Paul Pierce]] and [[Rashard Lewis]]. All of them except Lewis scored at least 20,000 career points.
+
+Carter retired in 2020, making him the last active player drafted in the 1990s to retire. He set the record for [[List of National Basketball Association seasons played leaders|most seasons played in the NBA]] with 22, becoming the first player to ever appear in NBA games in four different decades. Nowitzki missed the same four-decade status by nine months, retiring from the Mavericks in April 2019 as the first player to ever [[List of NBA players who have spent their entire career with one franchise|spend more than 20 NBA seasons with one team]].
+
+==Draft selections==
+{{stack|[[File:Michael Olowokandi.jpg|right|thumb|150px|[[Michael Olowokandi]] was selected first overall by the [[Los Angeles Clippers]].]]
+[[File:Antawn Jamison Wizards 2006-07.jpg|right|thumb|150px|[[Antawn Jamison]] was selected 4th overall by the [[Toronto Raptors]] (traded to the [[Golden State Warriors]]).]]
+[[File:Lipofsky Vince Carter.jpg|right|thumb|150px|[[Vince Carter]] was selected 5th overall by the [[Golden State Warriors]] (traded to the [[Toronto Raptors]]).]]
+[[File:Dirk Nowitzki 2.jpg|right|thumb|150px|[[Dirk Nowitzki]] was selected 9th overall by the [[Milwaukee Bucks]] (traded to the [[Dallas Mavericks]]).]]
+[[File:Paul pierce 1.jpg|right|thumb|150px|[[Paul Pierce]] was selected 10th overall by the [[Boston Celtics]].]]
+[[File:Rashard Lewis.jpg|right|thumb|150px|[[Rashard Lewis]] was selected 32nd overall by the [[Seattle SuperSonics]].]]
+}}
+
+{|class=wikitable
+|-
+| PG||[[Point guard]]
+| SG||[[Shooting guard]]
+| SF||[[Small forward]]
+| PF||[[Power forward (basketball)|Power forward]]
+| C||[[Center (basketball)|Center]]
+|}
+{{NBA Draft legend|1=y|2=y|3=y|5=y|6=y}}
+
+{| class="wikitable sortable sortable"
+! width="1%"| Round
+! width="1%"| Pick
+! width="19%"| Player
+! width="1%" | Position
+! width="20%"| Nationality{{refn|group=n|Nationality indicates the player's national team or representative nationality. If a player has not competed at the international level, then the nationality indicates the national team which the player is eligible to represent according to [[FIBA]] rules.}}
+! width="35%"| NBA team
+! width="25%"| School/Club team
+|-
+| align=center|1
+| align=center|1
+| {{sortname|Michael|Olowokandi}}
+| C
+| {{flagu|Nigeria}}
+| [[Los Angeles Clippers]]
+| [[Pacific Tigers men's basketball|Pacific]] ([[Senior (education)|Sr.]])
+|-
+| align=center|1
+| align=center|2
+| {{sortname|Mike|Bibby}}
+| PG
+| {{flagu|United States}}
+| [[Vancouver Grizzlies]]
+| [[Arizona Wildcats men's basketball|Arizona]] ([[College sophomore|So.]])
+|-
+| align=center|1
+| align=center|3
+| {{sortname|Raef|LaFrentz}}
+| C/F
+| {{flagu|United States}}
+| [[Denver Nuggets]]
+| [[Kansas Jayhawks men's basketball|Kansas]] ([[Senior (education)|Sr.]])
+|-
+| align=center|1
+| align=center|4
+| bgcolor="#FFCC00"| {{sortname|Antawn|Jamison}}<sup>+</sup>
+| F
+| {{flagu|United States}}
+| [[Toronto Raptors]] <small>(traded to [[Golden State Warriors|Golden State]])</small>
+| [[North Carolina Tar Heels men's basketball|North Carolina]] ([[Junior (education year)|Jr.]])
+|-
+| align=center|1
+| align=center|5
+| bgcolor="#FFFF99"| {{sortname|Vince|Carter}}^<sup>~</sup>
+|SF/SG
+| {{flagu|United States}}
+| [[Golden State Warriors]] <small>(traded to [[Toronto Raptors|Toronto]])</small>
+| [[North Carolina Tar Heels men's basketball|North Carolina]] ([[Junior (education year)|Jr.]])
+|-
+| align=center|1
+| align=center|6
+|{{sortname|Robert|Traylor}}
+| F/C
+| {{flagu|United States}}
+| [[Dallas Mavericks]] <small>(traded to [[Milwaukee Bucks|Milwaukee]])</small>
+| [[Michigan Wolverines men's basketball|Michigan]] ([[Junior (education year)|Jr.]])
+|-
+| align=center|1
+| align=center|7
+| {{sortname|Jason|Williams|dab=basketball, born 1975}}
+| PG
+| {{flagu|United States}}
+| [[Sacramento Kings]]
+| [[Florida Gators men's basketball|Florida]] ([[Junior (education year)|Jr.]])
+|-
+| align=center| 1
+| align=center| 8
+| {{sortname|Larry|Hughes}}
+| SG
+| {{flagu|United States}}
+| [[Philadelphia 76ers]]
+| [[Saint Louis Billikens men's basketball|Saint Louis]] ([[Freshman|Fr.]])
+|-
+| align=center| 1
+| align=center| 9
+| bgcolor="#FFFF99"| {{sortname|Dirk|Nowitzki}}^
+| PF
+| {{flagu|Germany}}
+| [[Milwaukee Bucks]] <small>(traded to [[Dallas Mavericks|Dallas]])</small>
+| [[DJK Würzburg]] <small>([[2. Basketball Bundesliga|Germany, 2nd division]])</small>
+|-
+| align=center| 1
+| align=center| 10
+| bgcolor="#FFFF99" | {{sortname|Paul|Pierce}}^
+| SF/SG
+| {{flagu|United States}}
+| [[Boston Celtics]]
+| [[Kansas Jayhawks men's basketball|Kansas]] ([[Junior (education year)|Jr.]])
+|-
+| align=center| 1
+| align=center| 11
+| {{sortname|Bonzi|Wells}}
+| G/F
+| {{flagu|United States}}
+| [[Detroit Pistons]]
+| [[Ball State Cardinals men's basketball|Ball State]] ([[Senior (education)|Sr.]])
+|-
+| align=center| 1
+| align=center| 12
+| {{sortname|Michael|Doleac}}
+| C
+| {{flagu|United States}}
+| [[Orlando Magic]]
+| [[Utah Utes men's basketball|Utah]] ([[Senior (education)|Sr.]])
+|-
+| align=center| 1
+| align=center| 13
+| {{sortname|Keon|Clark}}
+| F/C
+| {{flagu|United States}}
+| [[Orlando Magic]] <small>(from [[Washington Wizards|Washington]] via [[Golden State Warriors|Golden State]]; traded to [[Denver Nuggets|Denver]])</small>
+| [[UNLV Runnin' Rebels basketball|UNLV]] ([[Senior (education)|Sr.]])
+|-
+| align=center| 1
+| align=center| 14
+| {{sortname|Michael|Dickerson}}
+| SG
+| {{flagu|United States}}
+| [[Houston Rockets]]
+| [[Arizona Wildcats men's basketball|Arizona]] ([[Senior (education)|Sr.]])
+|-
+| align=center| 1
+| align=center| 15
+| {{sortname|Matt|Harpring}}
+| F/G
+| {{flagu|United States}}
+| [[Orlando Magic]] <small>(from [[New Jersey Nets|New Jersey]])</small>
+| [[Georgia Tech Yellow Jackets men's basketball|Georgia Tech]] ([[Senior (education)|Sr.]])
+|-
+| align=center| 1
+| align=center| 16
+| {{sortname|Bryce|Drew}}
+| PG
+| {{flagu|United States}}
+| [[Houston Rockets]] <small>(from [[New York Knicks|New York]] via [[Portland Trail Blazers|Portland]] and [[Toronto Raptors|Toronto]])</small>
+| [[Valparaiso Crusaders men's basketball|Valparaiso]] ([[Senior (education)|Sr.]])
+|-
+| align=center| 1
+| align=center| 17
+| {{sortname|Radoslav|Nesterovič|Rasho Nesterovič}}
+| C
+| {{SVN}}
+| [[Minnesota Timberwolves]]
+| [[Virtus Bologna|Kinder Bologna]] <small>([[Lega Basket Serie A|Italy]])</small>
+|-
+| align=center| 1
+| align=center| 18
+| {{sortname|Mirsad|Türkcan}}
+| PF
+| {{TUR}}
+| [[Houston Rockets]] <small>(from [[Portland Trail Blazers|Portland]] via [[Toronto Raptors|Toronto]])</small>
+| [[Anadolu Efes S.K.|Efes Pilsen]] <small>([[Turkish Basketball Super League|Turkey]])</small>
+|-
+| align=center| 1
+| align=center| 19
+| {{sortname|Pat|Garrity}}
+| PF
+| {{flagu|United States}}
+| [[Milwaukee Bucks]] <small>(from [[Cleveland Cavaliers|Cleveland]], traded to [[Phoenix Suns|Phoenix]])</small>
+| [[Notre Dame Fighting Irish men's basketball|Notre Dame]] ([[Senior (education)|Sr.]])
+|-
+| align=center| 1
+| align=center| 20
+| {{sortname|Roshown|McLeod}}
+| SF
+| {{flagu|United States}}
+| [[Atlanta Hawks]]
+| [[Duke Blue Devils men's basketball|Duke]] ([[Senior (education)|Sr.]])
+|-
+| align=center| 1
+| align=center| 21
+| {{sortname|Ricky|Davis}}
+| G/F
+| {{flagu|United States}}
+| [[Charlotte Hornets]]
+| [[Iowa Hawkeyes men's basketball|Iowa]] ([[Freshman|Fr.]])
+|-
+| align=center| 1
+| align=center| 22
+| {{sortname|Brian|Skinner}}
+| F/C
+| {{flagu|United States}}
+| [[Los Angeles Clippers]] <small>(from [[Miami Heat|Miami]])</small>
+| [[Baylor Bears basketball|Baylor]] ([[Senior (education)|Sr.]])
+|-
+| align=center| 1
+| align=center| 23
+| {{sortname|Tyronn|Lue}}
+| PG
+| {{flagu|United States}}
+| [[Denver Nuggets]] <small>(from [[Phoenix Suns|Phoenix]] traded to [[Los Angeles Lakers|L.A. Lakers]])</small>
+| [[Nebraska Cornhuskers men's basketball|Nebraska]] ([[Junior (education year)|Jr.]])
+|-
+| align=center| 1
+| align=center| 24
+| {{sortname|Felipe|López|dab=basketball}}
+| SG
+| {{DOM}}
+| [[San Antonio Spurs]] <small>(traded to [[Memphis Grizzlies|Vancouver]])</small>
+| [[St. John's Red Storm men's basketball|St. John's]] ([[Senior (education)|Sr.]])
+|-
+| align=center| 1
+| align=center| 25
+| {{sortname|Al|Harrington}}
+| F
+| {{flagu|United States}}
+| [[Indiana Pacers]]
+| [[St. Patrick's High School (New Jersey)|St. Patrick's High School]] <small>([[Elizabeth, New Jersey]])</small>
+|-
+| align=center| 1
+| align=center| 26
+| {{sortname|Sam|Jacobson}}
+| SG
+| {{flagu|United States}}
+| [[Los Angeles Lakers]]
+| [[Minnesota Golden Gophers men's basketball|Minnesota]] ([[Senior (education)|Sr.]])
+|-
+| align=center| 1
+| align=center| 27
+| {{sortname|Vladimir|Stepania}}
+| C
+| {{flagicon|GEO|1990}} [[Georgia (country)|Georgia]]
+| [[Seattle SuperSonics]]
+| [[KK Union Olimpija|Olimpija Ljubljana]] <small>([[Premier A Slovenian Basketball League|Slovenia]])</small>
+|-
+| align=center| 1
+| align=center| 28
+| {{sortname|Corey|Benjamin}}
+| SG
+| {{flagu|United States}}
+| [[Chicago Bulls]]
+| [[Oregon State Beavers men's basketball|Oregon State]] ([[College sophomore|So.]])
+|-
+| align=center| 1
+| align=center| 29
+| {{sortname|Nazr|Mohammed}}
+| C/F
+| {{flagu|United States}}
+| [[Utah Jazz]] <small>(traded to [[Philadelphia 76ers|Philadelphia]])</small>
+| [[Kentucky Wildcats men's basketball|Kentucky]] ([[Junior (education year)|Jr.]])
+|-
+| align=center| 2
+| align=center| 30
+| {{sortname|Ansu|Sesay}}
+| SF
+| {{flagu|United States}}
+| [[Dallas Mavericks]] <small>(from [[Toronto Raptors|Toronto]])</small>
+| [[Ole Miss Rebels men's basketball|Mississippi]] (Sr.)
+|-
+| align=center| 2
+| align=center| 31
+| {{sortname|Ruben|Patterson}}
+| SF
+| {{flagu|United States}}
+| [[Los Angeles Lakers]] <small>(from [[Vancouver Grizzlies|Vancouver]])</small>
+| [[Cincinnati Bearcats men's basketball|Cincinnati]] (Sr.)
+|-
+| align=center| 2
+| align=center| 32
+| bgcolor="#FFCC00"| {{sortname|Rashard|Lewis}}<sup>+</sup>
+| PF
+| {{flagu|United States}}
+| [[Seattle SuperSonics]] <small>(from [[Denver Nuggets|Denver]])</small>
+| [[Alief Elsik High School|Alief Elsik HS]] <small>([[Houston]], [[Texas]])</small>
+|-
+| align=center| 2
+| align=center| 33
+| {{sortname|Jelani|McCoy}}
+| F/C
+| {{flagu|United States}}
+| [[Seattle SuperSonics]] <small>(from [[Los Angeles Clippers|L.A. Clippers]])</small>
+| [[UCLA Bruins men's basketball|UCLA]] (Jr.)
+|-
+| align=center| 2
+| align=center| 34
+| {{sortname|Shammond|Williams}}
+| PG
+| {{flagu|United States}}
+| [[Chicago Bulls]] <small>(from [[Golden State Warriors|Golden State]])</small>
+| [[North Carolina Tar Heels men's basketball|North Carolina]] (Sr.)
+|-
+| align=center| 2
+| align=center| 35
+| {{sortname|Bruno|Šundov}}
+| C
+| {{CRO}}
+| [[Dallas Mavericks]]
+| [[KK Split|Split]] <small>([[A-1 Liga|Croatia]])</small>
+|-
+| align=center| 2
+| align=center| 36
+| {{sortname|Jerome|James}}
+| C
+| {{flagu|United States}}
+| [[Sacramento Kings]]
+| [[Florida A&M Rattlers men's basketball|Florida A&M]] (Jr.)
+|-
+| align=center| 2
+| align=center| 37
+| {{sortname|Casey|Shaw}}
+| C
+| {{flagu|United States}}
+| [[Philadelphia 76ers]]
+| [[Toledo Rockets men's basketball|Toledo]] (Sr.)
+|-
+| align=center| 2
+| align=center| 38
+| {{sortname|DeMarco|Johnson}}
+| PF
+| {{flagu|United States}}
+| [[New York Knicks]] <small>(from [[Boston Celtics|Boston]])</small>
+| [[Charlotte 49ers men's basketball|Charlotte]] (Sr.)
+|-
+| align=center| 2
+| align=center| 39
+| {{sortname|Rafer|Alston}}
+| PG
+| {{flagu|United States}}
+| [[Milwaukee Bucks]]
+| [[Fresno State Bulldogs men's basketball|Fresno State]] (Jr.)
+|-
+| align=center| 2
+| align=center| 40
+| {{sortname|Korleone|Young}}
+| SF
+| {{flagu|United States}}
+| [[Detroit Pistons]]
+| [[Hargrave Military Academy]]
+|-
+| align=center| 2
+| align=center| 41
+| {{sortname|Cuttino|Mobley}}
+| SG
+| {{flagu|United States}}
+| [[Houston Rockets]]
+| [[Rhode Island Rams men's basketball|Rhode Island]] (Sr.)
+|-
+| align=center| 2
+| align=center| 42
+| {{sortname|Miles|Simon}}
+| SG
+| {{flagu|United States}}
+| [[Orlando Magic]]
+| [[Arizona Wildcats men's basketball|Arizona]] (Sr.)
+|-
+| align=center| 2
+| align=center| 43
+| {{sortname|Jahidi|White}}
+| F/C
+| {{flagu|United States}}
+| [[Washington Wizards]]
+| [[Georgetown Hoyas men's basketball|Georgetown]] (Sr.)
+|-
+| align=center| 2
+| align=center| 44
+| {{sortname|Sean|Marks}}
+| PF
+| {{flagu|New Zealand}}
+| [[New York Knicks]]
+| [[California Golden Bears men's basketball|California]] (Sr.)
+|-
+| align=center| 2
+| align=center| 45
+| {{sortname|Toby|Bailey}}
+| SG
+| {{flagu|United States}}
+| [[Los Angeles Lakers]] <small>(from [[New Jersey Nets|New Jersey]])</small>
+| [[UCLA Bruins men's basketball|UCLA]] (Sr.)
+|-
+| align=center| 2
+| align=center| 46
+| {{sortname|Andrae|Patterson}}
+| SF
+| {{flagu|United States}}
+| [[Minnesota Timberwolves]]
+| [[Indiana Hoosiers men's basketball|Indiana]] (Sr.)
+|-
+| align=center| 2
+| align=center| 47
+| {{sortname|Tyson|Wheeler}}
+| PG
+| {{flagu|United States}}
+| [[Toronto Raptors]]
+| [[Rhode Island Rams men's basketball|Rhode Island]] (Sr.)
+|-
+| align=center| 2
+| align=center| 48
+| {{sortname|Ryan|Stack}}
+| C
+| {{flagu|United States}}
+| [[Cleveland Cavaliers]]
+| [[South Carolina Gamecocks men's basketball|South Carolina]] (Sr.)
+|-
+| align=center| 2
+| align=center| 49
+| {{sortname|Cory|Carr}}
+| SG
+| {{flagu|United States}}
+| [[Atlanta Hawks]]
+| [[Texas Tech Red Raiders basketball|Texas Tech]] (Sr.)
+|-
+| align=center| 2
+| align=center| 50
+| bgcolor="#C0C0C0"| {{sortname|Andrew|Betts}}<sup>#</sup>
+| C
+| {{GBR}}
+| [[Charlotte Hornets]]
+| [[Long Beach State 49ers men's basketball|Long Beach State]] (Sr.)
+|-
+| align=center| 2
+| align=center| 51
+| bgcolor="C0C0C0"| {{sortname|Corey|Brewer|dab=basketball, born 1975}}<sup>#</sup>
+| PG
+| {{flagu|United States}}
+| [[Miami Heat]]
+| [[Oklahoma Sooners men's basketball|Oklahoma]] (Sr.)
+|-
+| align=center| 2
+| align=center| 52
+| {{sortname|Derrick|Dial}}
+| SG
+| {{flagu|United States}}
+| [[San Antonio Spurs]]
+| [[Eastern Michigan Eagles men's basketball|Eastern Michigan]] (Sr.)
+|-
+| align=center| 2
+| align=center| 53
+| {{sortname|Greg|Buckner}}
+| SG
+| {{flagu|United States}}
+| [[Dallas Mavericks]] <small>(from [[Phoenix Suns|Phoenix]])</small>
+| [[Clemson Tigers men's basketball|Clemson]] (Sr.)
+|-
+| align=center| 2
+| align=center| 54
+| {{sortname|Tremaine|Fowlkes}}
+| SF
+| {{flagu|United States}}
+| [[Denver Nuggets]] <small>(from [[Indiana Pacers|Indiana]])</small>
+| [[Fresno State Bulldogs men's basketball|Fresno State]] (Sr.)
+|-
+| align=center| 2
+| align=center| 55
+| {{sortname|Ryan|Bowen}}
+| SF
+| {{flagu|United States}}
+| [[Denver Nuggets]] <small>(from [[Seattle SuperSonics|Seattle]])</small>
+| [[Iowa Hawkeyes men's basketball|Iowa]] (Sr.)
+|-
+| align=center| 2
+| align=center| 56
+| {{sortname|J. R.|Henderson|J. R. Sakuragi}}
+| SF
+| {{flagu|United States}}
+| [[Vancouver Grizzlies]] <small>(from [[Los Angeles Lakers|L.A. Lakers]])</small>
+| [[UCLA Bruins men's basketball|UCLA]] (Sr.)
+|-
+| align=center| 2
+| align=center| 57
+| {{sortname|Torraye|Braggs}}
+| PF
+| {{flagu|United States}}
+| [[Utah Jazz]]
+| [[Xavier Musketeers men's basketball|Xavier]] (Sr.)
+|-
+| align=center| 2
+| align=center| 58
+| {{sortname|Maceo|Baston}}
+| PF
+| {{flagu|United States}}
+| [[Chicago Bulls]]
+| [[Michigan Wolverines men's basketball|Michigan]] (Sr.)
+|}
+{{reflist|group=n}}
+
+==Notable undrafted players==
+[[File:Earl_Boykins_Bucks.jpg|thumb|right|150px|[[Earl Boykins]], a notable undrafted player, is known for being the second shortest player in NBA history.]]
+[[File:Brad Miller.jpg|thumb|right|150px|[[Brad Miller (basketball)|Brad Miller]] was not drafted but had a successful 14-year career in the NBA that included two All-Star selections.]]
+[[File:Sharas118.JPG|thumb|right|150px|[[Šarūnas Jasikevičius]] was not drafted but later played in the NBA and is regarded as one of [[EuroLeague Basketball Legend Award|Europe's all-time greatest basketball players]].]]
+{{further|List of undrafted NBA players}}
+These players eligible for the 1998 NBA Draft were not selected but played at least one game in the NBA.
+{| class="wikitable sortable sortable"
+! width="19%"| Player
+! width="1%" | Position
+! width="20%"| Nationality
+! width="25%"| School/Club team
+|-
+|{{sortname|Earl|Boykins}}
+|PG
+|{{flagu|United States}}
+|[[Eastern Michigan Eagles men's basketball|Eastern Michigan]] <small>(Sr.)</small>
+|-
+|{{sortname|Gerald|Brown|Gerald Brown (basketball)}}
+|SG
+|{{flagu|United States}}
+|[[Pepperdine Waves men's basketball|Pepperdine]] <small>(Sr.)</small>
+|-
+|{{sortname|Anthony|Carter|Anthony Carter (basketball)}}
+|PG
+|{{flagu|United States}}
+|[[Hawaii Rainbow Warriors basketball|Hawaii]] <small>(Sr.)</small>
+|-
+|{{sortname|Sean|Colson}}
+|PG
+|{{flagu|United States}}
+|[[Charlotte 49ers men's basketball|Charlotte]] <small>(Sr.)</small>
+|-
+|{{sortname|Steve|Goodrich}}
+|PF/C
+|{{flagu|United States}}
+|[[Princeton Tigers men's basketball|Princeton]] <small>(Sr.)</small>
+|-
+|{{sortname|Zendon|Hamilton}}
+|C
+|{{flagu|United States}}
+|[[St. John's Red Storm men's basketball|St. John's]] <small>(Sr.)</small>
+|-
+|{{sortname|Randell|Jackson}}
+|PF
+|{{flagu|United States}}
+|[[Florida State Seminoles men's basketball|Florida State]] <small>(Jr.)</small>
+|-
+|{{sortname|Mike|James|dab=basketball, born 1975}}
+|PG
+|{{flagu|United States}}
+|[[Duquesne Dukes men's basketball|Duquesne]] <small>(Sr.)</small>
+|-
+|{{sortname|Šarūnas|Jasikevičius}}
+|PG
+|{{flagcountry|LTU|1988}}
+|[[Maryland Terrapins men's basketball|Maryland]] <small>(Sr.)</small>
+|-
+|{{sortname|Charles|Jones|Charles Jones (basketball, born 1975)}}
+|SG
+|{{flagu|United States}}
+|[[LIU Brooklyn Blackbirds men's basketball|LIU Brooklyn]] <small>(Sr.)</small>
+|-
+|{{sortname|Mark|Jones|dab=basketball, born 1975}}
+|SF
+|{{flagu|United States}}
+|[[UCF Knights men's basketball|UCF]] <small>(Sr.)</small>
+|-
+|{{sortname|Kelly|McCarty}}
+|SG
+|{{flagu|United States}}
+|[[Southern Miss Golden Eagles basketball|Southern Miss]] <small>(Sr.)</small>
+|-
+|{{sortname|Slava|Medvedenko}}
+|PF
+|{{UKR}}
+|[[BC Budivelnyk|Budivelnyk Kyiv]] <small>([[Ukrainian Basketball SuperLeague|Ukraine]])</small>
+|-
+| bgcolor="#FFCC00"| {{sortname|Brad|Miller|Brad Miller (basketball)}}<sup>+</sup>
+|C
+|{{flagu|United States}}
+|[[Purdue Boilermakers men's basketball|Purdue]] <small>(Sr.)</small>
+|-
+|{{sortname|Makhtar|N'Diaye|dab=basketball}}
+|PF
+|{{SEN}}
+|[[North Carolina Tar Heels men's basketball|North Carolina]] <small>(Sr.)</small>
+|-
+|{{sortname|Tyrone|Nesby}}
+|SF
+|{{flagu|United States}}
+|[[UNLV Runnin' Rebels basketball|UNLV]] <small>(Sr.)</small>
+|-
+|{{sortname|Daniel|Santiago}}
+|C
+|{{PRI}}
+|[[Saint Vincent College#Athletics|Saint Vincent]] <small>(Sr.)</small>
+|-
+|{{sortname|Jeff|Sheppard}}
+|G
+|{{flagu|United States}}
+|[[Kentucky Wildcats men's basketball|Kentucky]] <small>(Sr.)</small>
+|-
+|{{sortname|Billy|Thomas|dab=basketball}}
+|SG
+|{{flagu|United States}}
+|[[Kansas Jayhawks men's basketball|Kansas]] <small>(Sr.)</small>
+|-
+|{{sortname|Óscar|Torres|dab=basketball}}
+|SF/SG
+|{{VEN}}
+|[[Marinos B.B.C.|Marinos]] <small>([[Superliga Profesional de Baloncesto|Venezuela]])</small>
+|}
+
+==Early entrants==
+===College underclassmen===
+Much like last year, this year initially saw 40 total players classified as underclassmen entering the NBA draft. However, seven players from this year's draft would later withdraw their names from entry, with [[Bud Eley]] from [[Southeast Missouri State Redhawks men's basketball|Southeast Missouri State University]], [[Rico Harris]] from [[Los Angeles City College]], the [[FR Yugoslavia|Yugoslavia]]n-[[Greeks|Greek]] born [[Marko Jarić]] from the [[Peristeri B.C.]] of [[Greece]], the [[Bosnia and Herzegovina|Bosnian]]-[[Greeks|Greek]] born Saša Marković-Theodorakis from the [[Panionios B.C.]] in [[Athens]], [[Greece]], [[Lee Nailon]] from [[TCU Horned Frogs men's basketball|Texas Christian University]], [[Lamar Odom]] from the [[Rhode Island Rams men's basketball|University of Rhode Island]], and the Greek born [[Dimitrios Papanikolaou]] from the [[Olympiacos B.C.|Olympiacos Piraeus B.C.]] in Greece all withdrawing their entries into this year's draft. Including four different players that came directly from high school into the NBA draft (three of which actually became drafted) and three overseas players that successfully stayed into the NBA draft, the number of underclassmen would jump up from 26 total college players to 33 overall. Regardless, the following [[college basketball]] players successfully applied for early draft entrance.<ref name=tdr>{{cite web |title=1998 Underclassmen |url=https://www.thedraftreview.com/index.php?option=com_content&view=article&id=3045:1998-underclassmen&catid=136&Itemid=384 |website=The Draft Review | date=August 4, 2007 |access-date=December 17, 2022}}</ref>
+
+{{div col}}
+* {{flagicon|USA}} [[Rafer Alston]] – G, [[Fresno State Bulldogs men's basketball|Fresno State]] (junior)
+* {{flagicon|USA}} [[Corey Benjamin]] – G, [[Oregon State Beavers men's basketball|Oregon State]] (sophomore)
+* {{flagicon|USA}} [[Mike Bibby]] – G, [[Arizona Wildcats men's basketball|Arizona]] (sophomore)
+* {{flagicon|USA}} Chandar Bingham – F, [[Virginia Union Panthers men's basketball|Virginia Union]] (sophomore)
+* {{flagicon|USA}} Marcus Bullard – G, [[Auburn Montgomery Warhawks|Auburn Montgomery]] (junior)
+* {{flagicon|USA}} [[Vince Carter]] – F/G, [[North Carolina Tar Heels men's basketball|North Carolina]] (junior)
+* {{flagicon|USA}} Wayne Clark – G, [[Park Pirates|Park]] (freshman)
+* {{flagicon|USA}} Tim Cole – G, [[Northeast Mississippi Community College Tigers|Northeast Mississippi CC]] (sophomore)
+* {{flagicon|USA}} [[Peter Cornell (basketball)|Peter Cornell]] – C, [[Loyola Marymount Lions men's basketball|Loyola Marymount]] (junior)
+* {{flagicon|USA}} Arthur Davis – G, [[St. Joseph's Hawks men's basketball|St. Joseph's]] (sophomore)
+* {{flagicon|USA}} [[Ricky Davis]] – F/G, [[Iowa Hawkeyes men's basketball|Iowa]] (freshman)
+* {{flagicon|USA}} [[Tremaine Fowlkes]] – F, [[Fresno State Bulldogs men's basketball|Fresno State]] (junior)
+* {{flagicon|USA}} [[Larry Hughes]] – G, [[Saint Louis Billikens men's basketball|Saint Louis]] (freshman)
+* {{flagicon|USA}} [[Randell Jackson]] – F, [[Florida State Seminoles men's basketball|Florida State]] (junior)
+* {{flagicon|USA}} [[Jerome James]] – C, [[Florida A&M Rattlers men's basketball|Florida A&M]] (junior)
+* {{flagicon|USA}} [[Antawn Jamison]] – F, [[North Carolina Tar Heels men's basketball|North Carolina]] (junior)
+* {{flagicon|USA}} [[Tyronn Lue]] – G, [[Nebraska Cornhuskers men's basketball|Nebraska]] (junior)
+* {{flagicon|USA}} [[Jelani McCoy]] – F/C, [[UCLA Bruins men's basketball|UCLA]] (junior)
+* {{flagicon|USA}} [[Mark Miller (basketball)|Mark Miller]] – G, [[UIC Flames men's basketball|UIC]] (junior)
+* {{flagicon|USA}} [[Nazr Mohammed]] – F/C, [[Kentucky Wildcats men's basketball|Kentucky]] (junior)
+* {{flagicon|USA}} [[Paul Pierce]] – G/F, [[Kansas Jayhawks men's basketball|Kansas]] (junior)
+* {{flagicon|USA}} Adam Roberts – G, [[San Francisco State Gators men's basketball|San Francisco State]] (junior)
+* {{flagicon|USA}} James Spears – F, [[Shaw Bears men's basketball|Shaw]] (junior)
+* {{flagicon|USA}} [[Robert Traylor]] – F, [[Michigan Wolverines men's basketball|Michigan]] (junior)
+* {{flagicon|USA}} Winfred Walton – F, [[Fresno State Bulldogs men's basketball|Fresno State]] (sophomore)
+* {{flagicon|USA}} [[Jason Williams (basketball, born 1975)|Jason Williams]] – G, [[Florida Gators men's basketball|Florida]] (sophomore)
+{{div col end}}
+
+===High school players===
+Had [[Lamar Odom]] declared entry into this year's draft like he planned on doing, he would not have represented St. Thomas Aquinas High School in [[New Britain, Connecticut]] due to him already declaring entry into college this year, but having academic troubles to qualify for collegiate play. That being said, this would be the fourth year in a row where at least one high school player would declare entry into the NBA draft after previously only doing it back in [[1975 NBA draft|1975]]. The following high school players successfully applied for early draft entrance.<ref name=tdr />
+
+{{div col}}
+* {{flagicon|USA}} [[Al Harrington]] – F, [[The Patrick School|St. Patrick]] ([[Elizabeth, New Jersey]])
+* {{flagicon|USA}} [[Rashard Lewis]] – F, [[Alief Elsik High School|Alief Elsik HS]] ([[Houston, Texas]])
+* {{flagicon|USA}} Ellis Richardson – G, [[John H. Francis Polytechnic High School|Polytechnic]] ([[Los Angeles, California]])
+* {{flagicon|USA}} [[Korleone Young]] – F, [[Hargrave Military Academy]] ([[Chatham, Virginia]])
+{{div col end}}
+
+===International players===
+In addition to the players below, three more players from [[Greece]] initially declared entry for this year's draft, but ultimately withdrew their names for one reason or another. The following international players successfully applied for early draft entrance.<ref name=tdr />
+
+{{div col}}
+* {{flagicon|UKR}} [[Slava Medvedenko]] – F, [[BC Budivelnyk|Budivelnyk Kiev]] ([[Ukrainian Basketball SuperLeague|Ukraine]])
+* {{flagicon|GER}} [[Dirk Nowitzki]] – F, [[DJK Würzburg]] ([[2. Basketball Bundesliga|Germany]])
+* {{flagicon|CRO}} [[Bruno Šundov]] – C, [[KK Split|Split]] ([[HT Premijer liga|Croatia]])
+{{div col end}}
+
+==Invited attendees==
+The 1998 NBA draft is considered to be the 21st NBA draft to have utilized what's properly considered the "green room" experience for NBA prospects. The NBA's green room is a staging area where anticipated draftees often sit with their families and representatives, waiting for their names to be called on draft night. Often being positioned either in front of or to the side of the podium (in this case, being positioned somewhere within the [[Rogers Arena|General Motors Place]] in Vancouver, Canada<ref name="1998Invites">{{cite web | title=1998 Green Room Invites - the Draft Review | access-date=April 25, 2026 | url=https://www.thedraftreview.com/historical-draft-events/green-room/1998-green-room-invites }}</ref>), once a player heard his name, he would walk to the podium to shake hands and take promotional photos with the NBA commissioner. From there, the players often conducted interviews with various media outlets while backstage. From there, the players often conducted interviews with various media outlets while backstage. However, once the NBA draft started to air nationally on TV starting with the [[1980 NBA draft]], the green room evolved from players waiting to hear their name called and then shaking hands with these select players who were often called to the hotel to take promotional pictures with the NBA commissioner a day or two after the draft concluded to having players in real-time waiting to hear their names called up and then shaking hands with [[David Stern]], the NBA's commissioner at the time.<ref>{{Cite web |last=Maurer |first=Matthew |date=2024-02-18 |title=Draft Broadcasts - The Draft Review |url=https://www.thedraftreview.com/sundry/sundry-articles/draft-broadcasts |access-date=2026-04-25 |website=The Draft Review |language=en-us}}</ref> The NBA compiled its list of green room invites through collective voting by the NBA's team presidents and general managers alike, which in this year's case belonged to only what they believed were the top 14 prospects at the time.<ref>{{Cite web |title=Green Room - The Draft Review |url=https://www.thedraftreview.com/historical-draft-events/green-room |access-date=2026-04-14 |website=The Draft Review |language=en-us}}</ref> Despite the smaller amount of invites when compared to the past few years, there would be a notable amount of discrepancies between the missed invite of [[Dirk Nowitzki]] (and arguably [[Brad Miller (basketball)|Brad Miller]], despite the latter invite being undrafted) alongside the late first round draft selection of [[Nazr Mohammed]] and the second round selection of [[Rashard Lewis]], not to mention one of the worst #1 draft pick selections ever made in [[Michael Olowokandi]]. With that in mind, the following players were invited to attend this year's draft festivities live and in person.<ref name="1998Invites" />
+
+{{div col}}
+*{{flagicon|USA}} [[Mike Bibby]] – PG, [[Arizona Wildcats men's basketball|Arizona]]
+*{{flagicon|USA}} [[Vince Carter]] – SG/SF, [[North Carolina Tar Heels men's basketball|North Carolina]]
+*{{flagicon|USA}} [[Michael Doleac]] – C, [[Utah Utes men's basketball|Utah]]
+*{{flagicon|USA}} [[Pat Garrity]] – PF, [[Notre Dame Fighting Irish men's basketball|Notre Dame]]
+*{{flagicon|USA}} [[Larry Hughes]] – SG, [[Saint Louis Billikens men's basketball|Saint Louis]]
+*{{flagicon|USA}} [[Antawn Jamison]] – SF/PF, [[North Carolina Tar Heels men's basketball|North Carolina]]
+*{{flagicon|USA}} [[Raef LaFrentz]] – PF/C, [[Kansas Jayhawks men's basketball|Kansas]]
+*{{flagicon|USA}} [[Rashard Lewis]] – PF, [[Alief Elsik High School]] ([[Houston]], [[Texas]])
+*{{flagicon|USA}} [[Nazr Mohammed]] – PF/C, [[Kentucky Wildcats men's basketball|Kentucky]]
+*{{flagicon|SVN}} [[Radoslav Nesterovič]] – C, [[Virtus Bologna|Kinder Bologna]] ([[Lega Basket Serie A|Italy]])
+*{{flagicon|NGA}} [[Michael Olowokandi]] – C, [[Pacific Tigers men's basketball|Pacific]]
+*{{flagicon|USA}} [[Paul Pierce]] – SG/SF, [[Kansas Jayhawks men's basketball|Kansas]]
+*{{flagicon|USA}} [[Robert Traylor]] – PF/C, [[Michigan Wolverines men's basketball|Michigan]]
+*{{flagicon|USA}} [[Bonzi Wells]] – SG/SF, [[Ball State Cardinals men's basketball|Ball State]]
+{{div col end}}
+
+==See also==
+* [[List of first overall NBA draft picks]]
+
+
+==References==
+
+{{Reflist}}
+
+==External links==
+*{{cite web|url=http://www.nba.com/draft98/ |title=Official website |website=[[NBA.com]] |access-date=2011-06-15 |url-status=bot: unknown |archive-url=https://web.archive.org/web/20010214234002/http://www.nba.com/draft98/ |archive-date=2001-02-14 }}
+* [https://www.basketball-reference.com/draft/NBA_1998.html 1998 NBA Draft] at Basketball-Reference.com
+
+{{NBA Drafts}}
+{{NBA Draft history by team}}
+{{1998 NBA draft}}
+{{1998–99 NBA season by team}}
+{{NBA on TNT}}
+
+[[Category:1998–99 NBA season|Draft]]
+[[Category:NBA draft]]
+[[Category:June 1998 sports events in Canada|NBA draft]]
+[[Category:1990s in Vancouver]]
+[[Category:Basketball in Vancouver]]
+[[Category:Organized events in Vancouver]]

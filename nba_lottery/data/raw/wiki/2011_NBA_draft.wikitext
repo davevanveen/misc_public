@@ -1,0 +1,921 @@
+{{short description|Basketball player selection}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox sports draft
+| name        = 2011 NBA draft
+| image       =
+
+| caption     = 
+| logo        = NBA Draft 2011 logo.gif
+| logosize    = 200px
+| sport       = Basketball
+| date        = June 23, 2011
+| location    = [[Prudential Center]] ([[Newark, New Jersey]])
+| network     = [[NBA on ESPN|ESPN]]
+| league      = NBA
+| teams       = 
+| overall     = 60
+| rounds      = 2
+| first       = [[Kyrie Irving]] ([[Cleveland Cavaliers]])
+| prev        = [[2010 NBA draft|2010]]
+| next        = [[2012 NBA draft|2012]]
+}}
+The '''2011 NBA draft''' was held on June 23, 2011, at [[Prudential Center]] in [[Newark, New Jersey]].<ref>{{cite web|title=Report: NBA draft moving to Newark|url=https://www.espn.com/nba/news/story?id=5733121|work=ESPN.com|access-date=October 27, 2010|date=October 27, 2010| archive-url= https://web.archive.org/web/20101030154621/http://sports.espn.go.com/nba/news/story?id=5733121| archive-date= 30 October 2010 | url-status= live}}</ref> The draft started at 8:00&nbsp;p.m. [[Eastern Time Zone|Eastern Daylight Time]] (23:00 [[Coordinated Universal Time|UTC]]), and was broadcast in the United States on [[ESPN]]. [[Kia Motors]] was the presenting sponsor of the 2011 NBA draft.<ref>{{cite web|title=Kia Motors becomes presenting partner of 2011 NBA Draft|url=https://pr.nba.com/kia-motors-2011-nba-draft/|work=NBA Communications|access-date=June 13, 2011|date=June 13, 2011|archive-date=October 12, 2019|archive-url=https://web.archive.org/web/20191012121616/https://pr.nba.com/kia-motors-2011-nba-draft/|url-status=live}}</ref> In this [[Draft (sports)|draft]], [[National Basketball Association]] (NBA) teams took turns selecting amateur U.S. [[college basketball]] players and other eligible players, including international players. The [[Cleveland Cavaliers]] had the first pick due to a previous trade they had involving the [[Los Angeles Clippers]], choosing [[point guard]] [[Kyrie Irving]] of [[Duke Blue Devils men's basketball|Duke]]. Of the 60 players drafted, 7 were [[Freshman|freshmen]], 7 were [[sophomore]]s, 14 were [[Junior (education year)|juniors]], 19 were [[Senior (education)|seniors]], 12 were international players without U.S. college basketball experience (including the first-ever [[Qatar]]i-selected player), and 1 was a [[NBA Development League|D-League]] player.
+
+The 2011 NBA draft marked the final time the [[Brooklyn Nets|New Jersey Nets]] made an NBA draft appearance. After the end of the Nets' [[2011–12 New Jersey Nets season|2011–12 season]], the franchise relocated to [[Brooklyn]], [[New York (state)|New York]] and was renamed to the Brooklyn Nets. The Nets made their first draft appearance with the Brooklyn moniker in [[2012 NBA draft|2012]]. Four of the first-round picks, including three of the top four picks, Kyrie Irving, Derrick Williams, Tristan Thompson, and Iman Shumpert, would all eventually become teammates on the Cleveland Cavaliers. The 2011 draft is considered one of the most abundant drafts in NBA history; seven players in the draft would play in at least two All-Star games and six were selected to at least one All-NBA Team, including the final pick of the draft, [[Isaiah Thomas (basketball)|Isaiah Thomas]]. As of 2025, eight players from this draft remained in the NBA during its [[2025–26 NBA season|2025–26 season]]: Irving, [[Jonas Valančiūnas]], [[Bismack Biyombo]], [[Klay Thompson]], [[Kawhi Leonard]], [[Nikola Vučević]], [[Tobias Harris]], and [[Jimmy Butler]].
+
+==Draft selections==
+{{stack|
+[[File:Kyrie Irving (10355742694).jpg|thumb|right|150px|[[Kyrie Irving]] was selected 1st overall by the [[Cleveland Cavaliers]].]] 
+[[File:Jonas Valanciunas (26715350158).jpg|thumb|right|150px| [[Jonas Valančiūnas]] was selected 5th overall by the [[Toronto Raptors]].]]
+[[File:Kemba Walker (31281786340) (cropped).jpg|thumb|right|150px|[[Kemba Walker]] was selected 9th overall by the [[Charlotte Bobcats]].]]
+[[File:Klay Thompson vs. Jared Dudley (cropped).jpg|thumb|right|150px|[[Klay Thompson]] was selected 11th overall by the [[Golden State Warriors]].]]
+[[File:1 kawhi leonard 2019 (cropped).jpg|thumb|right|150px|[[Kawhi Leonard]] was selected 15th overall by the [[Indiana Pacers]] (traded to the [[San Antonio Spurs]]).]]
+[[File:Nikola Vucevic Dec 2013 (cropped).jpg|thumb|right|150px|[[Nikola Vučević]] was selected 16th overall by the [[Philadelphia 76ers]].]]
+[[File:Tobias Harris Magic.jpg|thumb|right|150px|[[Tobias Harris]] was selected 19th overall by the [[Charlotte Bobcats]] (traded to the [[Milwaukee Bucks]]).]]
+[[File:Jimmy Butler (cropped).jpg|thumb|right|150px|[[Jimmy Butler]] was selected 30th  overall by the [[Chicago Bulls]].]]
+[[File:Bojan Bogdanovic (cropped).jpg|thumb|right|150px|[[Bojan Bogdanović]] was selected 31st by the [[Miami Heat]] (traded to the [[New Jersey Nets]]).]]
+[[File:Isaiah Thomas Dec 2013.jpg|thumb|right|150px|[[Isaiah Thomas (basketball)|Isaiah Thomas]] was selected 60th overall by the [[Sacramento Kings]].]]
+}}
+{|class=wikitable
+| PG || [[Point guard]]
+| SG || [[Shooting guard]]
+| SF || [[Small forward]]
+| PF || [[Power forward (basketball)|Power forward]]
+| C || [[Center (basketball)|Center]]
+|}
+{{NBA Draft legend|2=y|3=y|5=y|6=y}}
+{| class="wikitable sortable sortable"
+! width="1%"| Round
+! width="1%"| Pick
+! width="19%"| Player
+! width="1%"| Position
+! width="16%"| Nationality{{refn|group=n|Nationality indicates the player's national team or representative nationality. If a player has not competed at the international level, then the nationality indicates the national team which the player is eligible to represent according to [[FIBA]] rules.}}
+! width="35%"| Team
+! width="20%"| School/club team
+|-
+|align=center| 1
+|align=center| 1
+| bgcolor="#FBCEB1"| {{sortname|Kyrie|Irving}}<sup>*~</sup>
+| PG
+| {{USA}}{{refn|group=n|Kyrie Irving was born in [[Australia]] to American parents who returned to the U.S. when he was two years old. He has dual U.S. and Australian citizenship, but has represented the [[United States men's national basketball team|United States]] internationally.<ref>{{cite web|url=http://www.heraldsun.com.au/sport/boomers-miss-their-shot-at-courting-us-star-kyrie-irving/story-e6frfglf-1226055994725|title=Boomers miss their shot at courting US star Kyrie Irving|first=Jai|last=Bednall|date=May 15, 2011|publisher=Herald Sun|access-date=June 13, 2011|archive-date=June 29, 2012|archive-url=https://archive.today/20120629185317/http://www.heraldsun.com.au/sport/more-sport/boomers-miss-their-shot-at-courting-us-star-kyrie-irving/story-e6frfglf-1226055994725|url-status=live}}</ref>}}
+| [[Cleveland Cavaliers]] <small>(from [[Los Angeles Clippers|L.A. Clippers]])</small>{{ref label|Note1|a|2}}
+| [[Duke Blue Devils men's basketball|Duke]] <small>([[Freshman|Fr.]])</small>
+|-
+|align=center| 1
+|align=center| 2
+| {{sortname|Derrick|Williams|dab=basketball}}
+| SF/PF
+| {{USA}}
+| [[Minnesota Timberwolves]]
+| [[Arizona Wildcats men's basketball|Arizona]] <small>([[Sophomore year|So.]])</small>
+|-
+|align=center| 1
+|align=center| 3
+| {{sortname|Enes|Kanter}}
+| C
+| {{TUR}}{{refn|group=n|Enes Kanter was born in [[Switzerland]] to Turkish parents. He has represented [[Turkey national basketball team|Turkey]] internationally in competitions until 2015 in part due to political discourse there.<ref>{{cite web|url=http://www.fibaeurope.com/cid_KNce8jInH7Qj1EsyH5rjn2.roundID_6637.compID_8aYeHlfuGF-mF5IqO8aFH1.season_2009.coid_VOOUayIOIp-ItDdLVXLzu2.articleMode_on.html |title=Kanter Named MVP|date=August 2, 2009|publisher=FIBA Europe|access-date=June 28, 2011|archive-date=June 16, 2020|archive-url=https://web.archive.org/web/20200616174414/http://www.fibaeurope.com/cid_KNce8jInH7Qj1EsyH5rjn2.roundID_6637.compID_8aYeHlfuGF-mF5IqO8aFH1.season_2009.coid_VOOUayIOIp-ItDdLVXLzu2.articleMode_on.html%7Curl-status=live }}</ref> On November 29, 2021, he not only became a legal American citizen, but he also changed his name to Enes Kanter Freedom around that same period of time.<ref>{{cite news |last1=Kanter | first1=Enes |title=Enes Kanter to change last name to Freedom after becoming U.S. citizen on Monday |url=https://www.nba.com/news/enes-kanter-to-change-last-name-to-freedom-after-becoming-u-s-citizen-on-monday/ |access-date=November 28, 2021|website=NBA}}</ref>}}
+| [[Utah Jazz]] <small>(from [[New Jersey Nets|New Jersey]])</small>{{ref label|Note2|b|2}}
+| Stoneridge Preparatory School<br />([[Simi Valley, California]]){{Refn|group=n|Although Enes Kanter enrolled at Kentucky, he never played because he was ruled ineligible to play by the [[National Collegiate Athletic Association|NCAA]] for receiving financial benefits from his previous professional team, [[Fenerbahçe Ülker]], during the 2008–09 season.<ref>{{cite web|url=https://www.espn.com/mens-college-basketball/news/story?id=6000134|title=Enes Kanter ruled permanently ineligible|date=January 8, 2011|work=ESPN.com|access-date=June 28, 2011|archive-date=March 21, 2015|archive-url=https://web.archive.org/web/20150321014519/http://sports.espn.go.com/ncb/news/story?id=6000134|url-status=live}}</ref>}}
+|-
+|align=center| 1
+|align=center| 4
+| {{sortname|Tristan|Thompson}}
+| C/PF
+| {{CAN}}{{refn|group=n|Thompson acquired American citizenship in 2020.}}
+| [[Cleveland Cavaliers]]
+| [[Texas Longhorns men's basketball|Texas]] <small>([[Freshman|Fr.]])</small>
+|-
+|align=center| 1
+|align=center| 5
+| {{sortname|Jonas|Valančiūnas}}
+| C
+| {{LTU}}
+| [[Toronto Raptors]]{{ref label|Note3|c|c 1}}
+| [[BC Lietuvos rytas|Lietuvos rytas Vilnius]] <small>([[Lietuvos krepšinio lyga|Lithuania]])</small>
+|-
+|align=center| 1
+|align=center| 6
+| {{sortname|Jan|Veselý}}
+| PF
+| {{CZE}}
+| [[Washington Wizards]]
+| [[KK Partizan|Partizan Belgrade]] <small>([[Basketball League of Serbia|Serbia]])</small>
+|-
+|align=center| 1
+|align=center| 7
+| {{sortname|Bismack|Biyombo}}
+| C
+| {{flag|COD|name=DR Congo}}
+| [[Sacramento Kings]] <small>(traded to [[Charlotte Bobcats|Charlotte]])</small>{{ref label|NoteA|A|A 1}}
+| [[Baloncesto Fuenlabrada|Fuenlabrada]] <small>([[Liga ACB|Spain]])</small>
+|-
+|align=center| 1
+|align=center| 8
+| {{sortname|Brandon|Knight|dab=basketball}}
+| PG
+| {{USA}}
+| [[Detroit Pistons]]
+| [[Kentucky Wildcats men's basketball|Kentucky]] <small>([[Freshman|Fr.]])</small>
+|-
+|align=center| 1
+|align=center| 9
+| bgcolor="#FBCEB1"| {{sortname|Kemba|Walker}}<sup>*</sup>
+| PG
+| {{USA}}
+| [[Charlotte Bobcats]]
+| [[Connecticut Huskies men's basketball|Connecticut]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 1
+|align=center| 10
+| {{sortname|Jimmer|Fredette}}
+| PG/SG
+| {{USA}}
+| [[Milwaukee Bucks]] <small>(traded to [[Sacramento Kings|Sacramento]])</small>{{ref label|NoteA|A|2}}
+| [[BYU Cougars men's basketball|BYU]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 1
+|align=center| 11
+| bgcolor="#FBCEB1"| {{sortname|Klay|Thompson}}<sup>*</sup>
+| SG
+| {{USA}}
+| [[Golden State Warriors]]
+| [[Washington State Cougars men's basketball|Washington State]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 1
+|align=center| 12
+| {{sortname|Alec|Burks}}
+| SG
+| {{USA}}
+| [[Utah Jazz]]
+| [[Colorado Buffaloes men's basketball|Colorado]] <small>([[Sophomore year|So.]])</small>
+|-
+|align=center| 1
+|align=center| 13
+| {{sortname|Markieff|Morris}}
+| PF
+| {{USA}}
+| [[Phoenix Suns]]
+| [[Kansas Jayhawks men's basketball|Kansas]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 1
+|align=center| 14
+| {{sortname|Marcus|Morris|dab=basketball}}
+| PF
+| {{USA}}
+| [[Houston Rockets]]
+| [[Kansas Jayhawks men's basketball|Kansas]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 1
+|align=center| 15
+| bgcolor="#FBCEB1"| {{sortname|Kawhi|Leonard}}<sup>*</sup>
+| SF
+| {{USA}}
+| [[Indiana Pacers]] <small>(traded to [[San Antonio Spurs|San Antonio]])</small>{{ref label|NoteB|B|B 1}}
+| [[San Diego State Aztecs men's basketball|San Diego State]] <small>([[Sophomore year|So.]])</small>
+|-
+|align=center| 1
+|align=center| 16
+| bgcolor="#FFCC00"|{{sortname|Nikola|Vučević}}<sup>+</sup>
+| C
+| {{MNE}}{{refn|group=n|Nikola Vučević was born in Switzerland to [[Yugoslavia]]n parents and raised in Belgium. He holds Montenegrin and Belgian citizenship but represented [[Montenegro national basketball team|Montenegro]] internationally.<ref>{{cite web|url=https://www.latimes.com/sports/la-xpm-2011-mar-07-la-sp-0308-nikola-vucevic-usc-20110308-story.html|title=USC's Nikola Vucevic is following in his father's footsteps|first=Baxter|last=Holmes|date=March 7, 2011|work=Los Angeles Times|access-date=June 29, 2014|archive-date=March 6, 2016|archive-url=https://web.archive.org/web/20160306033438/http://articles.latimes.com/2011/mar/07/sports/la-sp-0308-nikola-vucevic-usc-20110308|url-status=live}}</ref> Vučević became an American citizen in 2024.}}
+| [[Philadelphia 76ers]]
+| [[USC Trojans men's basketball|USC]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 1
+|align=center| 17
+| {{sortname|Iman|Shumpert}}
+| SG
+| {{USA}}
+| [[New York Knicks]]
+| [[Georgia Tech Yellow Jackets men's basketball|Georgia Tech]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 1
+|align=center| 18
+| {{sortname|Chris|Singleton|dab=basketball, born 1989}}
+| SF
+| {{USA}}
+| [[Washington Wizards]] <small>(from [[Atlanta Hawks|Atlanta]])</small>{{ref label|Note4|d|d}}
+| [[Florida State Seminoles men's basketball|Florida State]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 1
+|align=center| 19
+| {{sortname|Tobias|Harris}}
+| SF
+| {{USA}}
+| [[Charlotte Bobcats]] <small>(from [[New Orleans Hornets|New Orleans]] via [[Portland Trail Blazers|Portland]],</small>{{ref label|Note5|e|e}}<small> traded to [[Milwaukee Bucks|Milwaukee]])</small>{{ref label|NoteA|A|3}}
+| [[Tennessee Volunteers basketball|Tennessee]] <small>([[Freshman|Fr.]])</small>
+|-
+|align=center| 1
+|align=center| 20
+| {{sortname|Donatas|Motiejūnas}}
+| PF
+| {{LTU}}
+| [[Minnesota Timberwolves]] <small>(from [[Memphis Grizzlies|Memphis]] via [[Utah Jazz|Utah]],</small>{{ref label|Note6|f|f}}<small> traded to [[Houston Rockets|Houston]])</small>{{ref label|NoteC|C|C 1}}
+| [[Pallacanestro Treviso|Benetton Treviso]] <small>([[Lega Basket Serie A|Italy]])</small>
+|-
+|align=center| 1
+|align=center| 21
+| {{sortname|Nolan|Smith}}
+| PG
+| {{USA}}
+| [[Portland Trail Blazers]]
+| [[Duke Blue Devils men's basketball|Duke]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 1
+|align=center| 22
+| {{sortname|Kenneth|Faried}}
+| PF
+| {{USA}}
+| [[Denver Nuggets]]
+| [[Morehead State University|Morehead State]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 1
+|align=center| 23
+| {{sortname|Nikola|Mirotić}}
+| PF
+| {{ESP}}{{refn|group=n|Nikola Mirotić was born in [[Socialist Republic of Montenegro|SR Montenegro]], [[Socialist Federal Republic of Yugoslavia|SFR Yugoslavia]] (now [[Montenegro]]) to Montenegrin-Spanish parents. He has represented [[Spain national basketball team|Spain]] internationally.<ref>{{cite web|url=http://www.csnchicago.com/blog/bulls-talk/bulls-draft-pick-mirotic-opens-interview|title=Bulls' draft pick Mirotic opens up in interview|date=October 4, 2011|publisher=CSN Chicago|access-date=June 29, 2014|archive-date=September 23, 2015|archive-url=https://web.archive.org/web/20150923212815/http://www.csnchicago.com/blog/bulls-talk/bulls-draft-pick-mirotic-opens-interview|url-status=live}}</ref>}}
+| [[Houston Rockets]] <small>(from [[Orlando Magic|Orlando]] via [[Phoenix Suns|Phoenix]],</small>{{ref label|Note7|g|g}}<small> traded to [[Chicago Bulls|Chicago]] via [[Minnesota Timberwolves|Minnesota]])</small>{{ref label|NoteC|C|2}}{{ref label|NoteD|D|D 1}}
+| [[Real Madrid Baloncesto|Real Madrid]] <small>([[Liga ACB|Spain]])</small>
+|-
+|align=center| 1
+|align=center| 24
+| {{sortname|Reggie|Jackson|dab=basketball, born 1990}}
+| PG
+| {{USA}}{{refn|group=n|Reggie Jackson was born in [[Italy]] to American parents.<ref>{{cite web|url=http://www.bceagles.com/sports/m-baskbl/spec-rel/111008aad.html |title=Freshman Focus: Meet Reggie Jackson |first=Jeff |last=Weinstein |date=November 10, 2008 |publisher=Boston College |access-date=January 13, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120117175714/http://www.bceagles.com/sports/m-baskbl/spec-rel/111008aad.html |archive-date=January 17, 2012 }}</ref>}}
+| [[Oklahoma City Thunder]]
+| [[Boston College Eagles men's basketball|Boston College]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 1
+|align=center| 25
+| {{sortname|MarShon|Brooks}}
+| SG
+| {{USA}}
+| [[Boston Celtics]] <small>(traded to [[New Jersey Nets|New Jersey]])</small>{{ref label|NoteE|E|E 1}}
+| [[Providence Friars men's basketball|Providence]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 1
+|align=center| 26
+| {{sortname|Jordan|Hamilton|dab=basketball}}
+| SG
+| {{USA}}
+| [[Dallas Mavericks]] <small>(traded to [[Denver Nuggets|Denver]])</small>{{ref label|NoteF|F|F 1}}
+| [[Texas Longhorns men's basketball|Texas]] <small>([[Sophomore year|So.]])</small>
+|-
+|align=center| 1
+|align=center| 27
+| {{sortname|JaJuan|Johnson}}
+| PF
+| {{USA}}
+| [[Brooklyn Nets|New Jersey Nets]] <small>(from [[Los Angeles Lakers|L.A. Lakers]],</small>{{ref label|Note8|h|h 1}}<small> traded to [[Boston Celtics|Boston]])</small>{{ref label|NoteE|E|2}}
+| [[Purdue Boilermakers men's basketball|Purdue]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 1
+|align=center| 28
+| {{sortname|Norris|Cole|dab=basketball}}
+| PG
+| {{USA}}
+| [[Chicago Bulls]] <small>(from [[Miami Heat|Miami]] via [[Toronto Raptors|Toronto]],</small>{{ref label|Note3|c|2}}<small> traded to [[Miami Heat|Miami]] via [[Minnesota Timberwolves|Minnesota]])</small>{{ref label|NoteD|D|2}}{{ref label|NoteG|G|G 1}}
+| [[Cleveland State Vikings men's basketball|Cleveland State]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 1
+|align=center| 29
+| {{sortname|Cory|Joseph}}
+| PG
+| {{CAN}}
+| [[San Antonio Spurs]]
+| [[Texas Longhorns men's basketball|Texas]] <small>([[Freshman|Fr.]])</small>
+|-
+|align=center| 1
+|align=center| 30
+| bgcolor="#FBCEB1"| {{sortname|Jimmy|Butler}}<sup>*</sup>
+| SF/SG
+| {{USA}}
+| [[Chicago Bulls]]
+| [[Marquette Golden Eagles men's basketball|Marquette]] <small>([[Senior (education)|Sr.]])</small> 
+|-
+|align=center| 2
+|align=center| 31
+| {{sortname|Bojan|Bogdanović}}
+| SF/PF
+| {{CRO}}{{refn|group=n|Bojan Bogdanović was born in [[Socialist Republic of Bosnia and Herzegovina|SR Bosnia-Herzegovina]], [[Socialist Federal Republic of Yugoslavia|SFR Yugoslavia]] (now [[Bosnia and Herzegovina]]), but has represented [[Croatia men's national basketball team|Croatia]] internationally.<ref>{{cite web|url=http://www.fibaeurope.com/cid_KNce8jInH7Qj1EsyH5rjn2.teamID_2168.compID_UIfgjyQcGqk-fPlnl66Tj0.season_2009.roundID_6623.coid_SDDOCo2,JBcGG-t-ZeEkY0.articleMode_on.html|title=Croatia Push Past Turkey|first=David|last=Hein|date=July 22, 2009|publisher=FIBA Europe|access-date=June 28, 2011|archive-date=June 16, 2020|archive-url=https://web.archive.org/web/20200616155000/http://www.fibaeurope.com/cid_KNce8jInH7Qj1EsyH5rjn2.teamID_2168.compID_UIfgjyQcGqk-fPlnl66Tj0.season_2009.roundID_6623.coid_SDDOCo2,JBcGG-t-ZeEkY0.articleMode_on.html|url-status=live}}</ref>}}
+| [[Miami Heat]] <small>(from [[Minnesota Timberwolves|Minnesota]],</small>{{ref label|Note9|i|i}}<small> traded to [[New Jersey Nets|New Jersey]] via Minnesota)</small>{{ref label|NoteG|G|2}}{{ref label|NoteH|H|H}}
+| [[KK Cibona|Cibona Zagreb]] <small>([[A-1 Liga|Croatia]])</small>{{refn|group=n|Bojan Bogdanović played for Cibona Zagreb during the 2010–11 season, but was signed by [[Fenerbahçe Ülker]] ([[Turkish Basketball League|Turkey]]) on June 20, 2011.<ref>{{cite web|url=http://www.euroleague.net/euroleaguenews/transactions/2011-12-signings/i/86145/5611/fb-ulker-brings-in-bogdanovic-gist|title=FB Ulker brings in Bogdanovic, Gist|date=June 20, 2011|publisher=EuroLeague|access-date=September 26, 2011|archive-date=August 27, 2011|archive-url=https://web.archive.org/web/20110827011920/http://www.euroleague.net/euroleaguenews/transactions/2011-12-signings/i/86145/5611/fb-ulker-brings-in-bogdanovic-gist|url-status=live}}</ref>}}
+|-
+|align=center| 2
+|align=center| 32
+| {{sortname|Justin|Harper|dab=basketball}}
+| PF
+| {{USA}}
+| [[Cleveland Cavaliers]] <small>(traded to [[Orlando Magic|Orlando]])</small>{{ref label|NoteI|I|I}}
+| [[Richmond Spiders men's basketball|Richmond]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 33
+| {{sortname|Kyle|Singler}}
+| SF
+| {{USA}}
+| [[Detroit Pistons]] <small>(from [[Toronto Raptors|Toronto]])</small>{{ref label|Note10|j|j}}
+| [[Duke Blue Devils men's basketball|Duke]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 34
+| {{sortname|Shelvin|Mack}}
+| PG
+| {{USA}}
+| [[Washington Wizards]]
+| [[Butler Bulldogs men's basketball|Butler]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 2
+|align=center| 35
+| {{sortname|Tyler|Honeycutt}}
+| SF
+| {{USA}}
+| [[Sacramento Kings]]
+| [[UCLA Bruins men's basketball|UCLA]] <small>([[Sophomore year|So.]])</small>
+|-
+|align=center| 2
+|align=center| 36
+| {{sortname|Jordan|Williams|dab=basketball, born 1990}}
+| PF
+| {{USA}}
+| [[Brooklyn Nets|New Jersey Nets]]
+| [[Maryland Terrapins men's basketball|Maryland]] <small>([[Sophomore year|So.]])</small>
+|-
+|align=center| 2
+|align=center| 37
+| {{sortname|Trey|Thompkins}}
+| PF
+| {{USA}}
+| [[Los Angeles Clippers]] <small>(from [[Detroit Pistons|Detroit]])</small>{{ref label|Note11|k|k}}
+| [[Georgia Bulldogs men's basketball|Georgia]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 2
+|align=center| 38
+| {{sortname|Chandler|Parsons}}
+| SF
+| {{USA}}
+| [[Houston Rockets]] <small>(from [[Los Angeles Clippers|L.A. Clippers]])</small>{{ref label|Note12|l|l 1}}{{ref label|NoteC|C|3}}
+| [[Florida Gators men's basketball|Florida]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 39
+| {{sortname|Jeremy|Tyler}}
+| PF
+| {{USA}}
+| [[Charlotte Bobcats]] <small>(traded to [[Golden State Warriors|Golden State]])</small>{{ref label|NoteJ|J|J}}
+| [[Tokyo Apache]] <small>([[bj league|Japan]])</small>
+|-
+|align=center| 2
+|align=center| 40
+| {{sortname|Jon|Leuer}}
+| PF
+| {{USA}}
+| [[Milwaukee Bucks]]
+| [[Wisconsin Badgers men's basketball|Wisconsin]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 41
+| {{sortname|Darius|Morris}}
+| PG
+| {{USA}}
+| [[Los Angeles Lakers]] <small>(from [[Golden State Warriors|Golden State]] via [[New Jersey Nets|New Jersey]])</small>{{ref label|Note8|h|2}}
+| [[Michigan Wolverines men's basketball|Michigan]] <small>([[Sophomore year|So.]])</small>
+|-
+|align=center| 2
+|align=center| 42
+| {{sortname|Dāvis|Bertāns}}
+| SF
+| {{LAT}}
+| [[Indiana Pacers]] <small>(traded to [[San Antonio Spurs|San Antonio]])</small>{{ref label|NoteB|B|2}}
+| [[KK Union Olimpija|Union Olimpija]] <small>([[Premier A Slovenian Basketball League|Slovenia]])</small>
+|-
+|align=center| 2
+|align=center| 43
+| {{sortname|Malcolm|Lee|dab=basketball}}
+| SG
+| {{USA}}
+| [[Chicago Bulls]] <small>(from [[Utah Jazz|Utah]],</small>{{ref label|Note13|m|m}}<small> traded to [[Minnesota Timberwolves|Minnesota]])</small>{{ref label|NoteD|D|3}}
+| [[UCLA Bruins men's basketball|UCLA]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 2
+|align=center| 44
+| {{sortname|Charles|Jenkins|dab=basketball}}
+| PG
+| {{USA}}
+| [[Golden State Warriors]] <small>(from [[Phoenix Suns|Phoenix]] via [[Chicago Bulls|Chicago]])</small>{{ref label|Note14|n|n}}
+| [[Hofstra University|Hofstra]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 45
+| {{sortname|Josh|Harrellson}}
+| C
+| {{USA}}
+| [[New Orleans Hornets]] <small>(from [[Philadelphia 76ers|Philadelphia]],</small>{{ref label|Note15|o|o 1}}<small> traded to [[New York Knicks|New York]])</small>{{ref label|NoteK|K|K}}
+| [[Kentucky Wildcats men's basketball|Kentucky]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 46
+| {{sortname|Andrew|Goudelock}}
+| PG
+| {{USA}}
+| [[Los Angeles Lakers]] <small>(from [[New York Knicks|New York]])</small>{{ref label|Note16|p|p}}
+| [[College of Charleston Cougars men's basketball|College of Charleston]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 47
+| {{sortname|Travis|Leslie}}
+| SG
+| {{USA}}
+| [[Los Angeles Clippers]] <small>(from [[Houston Rockets|Houston]])</small>{{ref label|Note12|l|2}}
+| [[Georgia Bulldogs men's basketball|Georgia]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 2
+|align=center| 48
+| {{sortname|Keith|Benson}}
+| C
+| {{USA}}
+| [[Atlanta Hawks]]
+| [[Oakland Golden Grizzlies men's basketball|Oakland]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 49
+| {{sortname|Josh|Selby}}
+| PG
+| {{USA}}
+| [[Memphis Grizzlies]]
+| [[Kansas Jayhawks men's basketball|Kansas]] <small>([[Freshman|Fr.]])</small>
+|-
+|align=center| 2
+|align=center| 50
+| {{sortname|Lavoy|Allen}}
+| PF
+| {{USA}}
+| [[Philadelphia 76ers]] <small>(from [[New Orleans Hornets|New Orleans]])</small>{{ref label|Note15|o|2}}
+| [[Temple Owls men's basketball|Temple]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 51
+| bgcolor="#C0C0C0" width="5%"| {{sortname|Jon|Diebler}}<sup>#</sup>
+| SG
+| {{USA}}
+| [[Portland Trail Blazers]]
+| [[Ohio State Buckeyes men's basketball|Ohio State]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 52
+| {{sortname|Vernon|Macklin}}
+| PF
+| {{USA}}
+| [[Detroit Pistons]] <small>(from [[Denver Nuggets|Denver]])</small>{{ref label|Note17|q|q}}
+| [[Florida Gators men's basketball|Florida]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 53
+| {{sortname|DeAndre|Liggins}}
+| SG
+| {{USA}}
+| [[Orlando Magic]]
+| [[Kentucky Wildcats men's basketball|Kentucky]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 2
+|align=center| 54
+| bgcolor="#C0C0C0" width="5%"| {{sortname|Milan|Mačvan||Macvan, Milan}}<sup>#</sup>
+| PF
+| {{SRB}}{{refn|group=n|Milan Mačvan was born in [[Socialist Republic of Croatia|SR Croatia]], [[Socialist Federal Republic of Yugoslavia|SFR Yugoslavia]] (now [[Croatia]]), but has represented [[Serbia national basketball team|Serbia]] internationally.<ref>{{cite web|url=http://www.eurobasket2009.org/en/cid_toT,ovGDH2EaLKL67XnPo2.pageID_vbd0MJrnIP-v,2kZlxFWv2.compID_qMRZdYCZI6EoANOrUf9le2.season_2009.roundID_6328.startAt_80.coid_RS0Ke2MTI9UIXXk2yEy2f2.articleMode_on.html |archive-url=https://archive.today/20120907183517/http://www.eurobasket2009.org/en/cid_toT,ovGDH2EaLKL67XnPo2.pageID_vbd0MJrnIP-v,2kZlxFWv2.compID_qMRZdYCZI6EoANOrUf9le2.season_2009.roundID_6328.startAt_80.coid_RS0Ke2MTI9UIXXk2yEy2f2.articleMode_on.html |url-status=dead |archive-date=September 7, 2012 |title=Serbians Wise Beyond Their Years |first=Simon |last=Wilkinson |date=September 11, 2009 |publisher=FIBA Europe |access-date=June 28, 2011 }}</ref>}}
+| [[Cleveland Cavaliers]] <small>(from [[Oklahoma City Thunder|Oklahoma City]] via [[Miami Heat|Miami]])</small>{{ref label|Note18|r|r}}
+| [[Maccabi Tel Aviv B.C.|Maccabi Tel Aviv]] <small>([[Israeli Basketball Super League|Israel]])</small>
+|-
+|align=center| 2
+|align=center| 55
+| {{sortname|E'Twaun|Moore||Moore, Etwaun}}
+| SG
+| {{USA}}
+| [[Boston Celtics]]
+| [[Purdue Boilermakers men's basketball|Purdue]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 56
+| bgcolor="#C0C0C0" width="5%"| {{sortname|Chukwudiebere|Maduabum}}<sup>#</sup>
+| PF
+| {{NGA}}
+| [[Los Angeles Lakers]] <small>(traded to [[Denver Nuggets|Denver]])</small>{{ref label|NoteL|L|L}}
+| [[Bakersfield Jam]] <small>([[NBA Development League|D-League]])</small>
+|-
+|align=center| 2
+|align=center| 57
+| bgcolor="#C0C0C0" width="5%"| {{sortname|Tanguy|Ngombo}}<sup>#</sup>
+| SF
+| {{QAT}}{{refn|group=n|Tanguy Ngombo was born in [[Republic of the Congo|Congo]]. He is also a naturalized citizen of Qatar and has represented [[Qatar national basketball team|Qatar]] internationally.<ref>{{cite web|url=https://www.espn.com/espn/wire?section=nba&id=6699221|title=Blazers, Nuggets deal on draft night|date=June 24, 2011|work=ESPN.com|access-date=June 28, 2011|archive-date=November 7, 2012|archive-url=https://web.archive.org/web/20121107040417/http://sports.espn.go.com/espn/wire?section=nba&id=6699221|url-status=live}}</ref><ref>{{cite web|url=http://mirror.www.fiba.com/pages/en/events/players/p/competitioncode/AFMCC/playernumber/54353/roundid/4663/season/2005/teamnumber/96626/players_page.html |title=African Cup for Men's Champion Clubs 2005&nbsp;– Inter Club&nbsp;– Tanguy Alban Harrys Ngombo |publisher=FIBA |access-date=June 28, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110627231332/http://mirror.www.fiba.com/pages/en/events/players/p/competitioncode/AFMCC/playernumber/54353/roundid/4663/season/2005/teamnumber/96626/players_page.html |archive-date=June 27, 2011 }}</ref><ref>{{cite web|url=http://www.fibaasia.net/NewsDetails.aspx?id=250|title=Musa's 4th quarter show gives Qatar the bronze|date=August 15, 2010|publisher=FIBA|access-date=June 28, 2011|archive-date=September 27, 2011|archive-url=https://web.archive.org/web/20110927064814/http://www.fibaasia.net/NewsDetails.aspx?id=250|url-status=live}}</ref>}}
+| [[Dallas Mavericks]] <small>(traded to [[Portland Trail Blazers|Portland]])</small>{{ref label|NoteF|F|2}}
+| [[Al Rayyan Basketball Team|Al Rayyan]] <small>([[Qatari Basketball League|Qatar]])</small>
+|-
+|align=center| 2
+|align=center| 58
+| bgcolor="#C0C0C0" width="5%"| {{sortname|Ater|Majok}}<sup>#</sup>
+| PF
+| {{AUS}}{{refn|group=n|Ater Majok was born in [[Sudan]] and raised in Australia. He is a dual citizen of both countries but represented [[Australia men's national basketball team|Australia]] internationally.<ref>{{cite web|url=http://www.basketball.net.au/index.php?id=302&tx_ttnews%5Btt_news%5D=1049&cHash=5dad57c2c8|title=From Sudan to the Boomers|date=December 10, 2009|publisher=Basketball Australia|access-date=June 28, 2011|archive-date=March 23, 2012|archive-url=https://web.archive.org/web/20120323050208/http://www.basketball.net.au/index.php?id=302&tx_ttnews%5Btt_news%5D=1049&cHash=5dad57c2c8|url-status=live}}</ref> He acquired Lebanese citizenship in 2017 and has since played for the [[Lebanon men's national basketball team|Lebanon national basketball team]].}}
+| [[Los Angeles Lakers]] <small>(from [[Miami Heat|Miami]])</small>{{ref label|Note19|s|s}}
+| [[Gold Coast Blaze]] <small>([[National Basketball League (Australasia)|Australia]])</small>
+|-
+|align=center| 2
+|align=center| 59
+| bgcolor="#C0C0C0" width="5%"| {{sortname|Ádám|Hanga}}<sup>#</sup>
+| SG
+| {{HUN}}
+| [[San Antonio Spurs]]
+| [[Albacomp]] <small>([[Hungarian Basketball National Championship|Hungary]])</small>{{refn|group=n|Ádám Hanga played for Albacomp during the 2010–11 season, but was signed by [[Bàsquet Manresa|Assignia Manresa]] ([[Liga ACB|Spain]]) on May 27, 2011.<ref>{{cite web|url=http://www.marca.com/2011/05/27/baloncesto/acb/1306495264.html|title=El Assignia Manresa ficha a la perla del basket húngaro|language=es|trans-title=Assignia Manresa tab the Pearl of the Hungarian Basketball|date=May 27, 2011|publisher=Marca.com|access-date=October 10, 2011|archive-date=November 5, 2020|archive-url=https://web.archive.org/web/20201105150244/https://www.marca.com/2011/05/27/baloncesto/acb/1306495264.html|url-status=live}}</ref>}}
+|-
+|align=center| 2
+|align=center| 60
+| bgcolor="#FBCEB1"| {{sortname|Isaiah|Thomas|dab=basketball, born 1989}}<sup>*</sup>
+| PG
+| {{USA}}
+| [[Sacramento Kings]] <small>(from [[Chicago Bulls|Chicago]] via [[Milwaukee Bucks|Milwaukee]])</small>{{ref label|Note20|t|t}}
+| [[Washington Huskies men's basketball|Washington]] <small>([[Junior (education year)|Jr.]])</small>
+|}
+
+==Notable undrafted players==
+{{further|List of undrafted NBA players}}
+These players were not selected in the 2011 NBA draft but have played at least one game in the NBA.
+
+{| class="wikitable sortable sortable"
+! width="19%"| Player
+! width="1%"| Position
+! width="16%"| Nationality
+! width="20%"| School/club team
+|-
+|{{sortname|Dairis|Bertāns}}
+|SG
+|{{LAT}}
+|[[BK VEF Rīga|VEF Rīga]] <small>([[Latvijas Basketbola līga|Latvia]])</small>
+|-
+|{{sortname|Dwight|Buycks}}
+|PG
+|{{USA}}
+|[[Marquette Golden Eagles men's basketball|Marquette]] <small>(Sr.)</small>
+|-
+|{{sortname|Malcolm|Delaney}}
+|G
+|{{USA}}
+|[[Virginia Tech Hokies men's basketball|Virginia Tech]] <small>(Sr.)</small>
+|-
+|{{sortname|Zoran|Dragić}}
+|G/F
+|{{SLO}}
+|[[KK Krka]] <small>([[Slovenian Basketball League|Slovenia]])</small>
+|-
+|{{sortname|Diante|Garrett}}
+|G
+|{{USA}}
+|[[Iowa State Cyclones men's basketball|Iowa State]] <small>(Sr.)</small>
+|-
+|{{sortname|Ben|Hansbrough}}
+|G
+|{{USA}}
+|[[Notre Dame Fighting Irish men's basketball|Notre Dame]] <small>(Sr.)</small>
+|-
+|{{sortname|Cory|Higgins}}
+|G
+|{{USA}}
+|[[Colorado Buffaloes men's basketball|Colorado]] <small>(Sr.)</small>
+|-
+|{{sortname|Justin|Holiday}}
+|F
+|{{USA}}
+|[[Washington Huskies men's basketball|Washington]] <small>(Sr.)</small>
+|-
+|{{sortname|John|Holland|dab=basketball}}
+|SG
+|{{PUR}}{{refn|group=n|Holland was born in the United States to a Puerto Rican mother. He plays for the [[Puerto Rico men's national basketball team|Puerto Rico national basketball team]].}}
+|[[Boston University Terriers men's basketball|Boston University]] <small>(Sr.)</small>
+|-
+|{{sortname|Scotty|Hopson}}
+|SG
+|{{USA}}
+|[[Tennessee Volunteers basketball|Tennessee]] <small>(Jr.)</small>
+|-
+|{{sortname|Omari|Johnson}}
+|F
+|{{JAM}}
+|[[Oregon State Beavers men's basketball|Oregon State]] <small>(Sr.)</small>
+|-
+|{{sortname|D. J.|Kennedy}}
+|G/F
+|{{USA}}
+|[[St. John's Red Storm men's basketball|St. John's]] <small>(Sr.)</small>
+|-
+| {{sortname|Mindaugas|Kuzminskas}}
+| SF
+| {{LIT}}
+| [[BC Žalgiris|Žalgiris Kaunas]] <small>([[Lietuvos krepšinio lyga|Lithuania]])</small>
+|-
+|{{sortname|Kalin|Lucas}}
+|PG
+|{{USA}}
+|[[Michigan State Spartans men's basketball|Michigan State]] <small>(Sr.)</small>
+|-
+|{{sortname|Jacob|Pullen}}
+|PG
+|{{USA}}
+|[[Kansas State Wildcats men's basketball|Kansas State]] <small>(Sr.)</small>
+|-
+|{{sortname|Willie|Reed}}
+|F/C
+|{{USA}}
+|[[Saint Louis Billikens men's basketball|Saint Louis]] <small>(So.)</small>
+|-
+|{{sortname|Xavier|Silas}}
+|G
+|{{USA}}
+|[[Northern Illinois Huskies men's basketball|Northern Illinois]] <small>(Sr.)</small>
+|-
+|{{sortname|Greg|Smith|Greg Smith (basketball, born 1991)}}
+|C
+|{{USA}}
+|[[Fresno State Bulldogs men's basketball|Fresno State]] <small>(So.)</small>
+|-
+|{{sortname|Alex|Stepheson}}
+|PF
+|{{USA}}
+|[[USC Trojans men's basketball|USC]] <small>(Sr.)</small>
+|-
+|{{sortname|Julyan|Stone}}
+|SG
+|{{USA}}
+|[[UTEP Miners basketball|UTEP]] <small>(Sr.)</small>
+|-
+|{{sortname|Malcolm|Thomas|Malcolm Thomas (basketball, born 1988)}}
+|F
+|{{USA}}
+|[[San Diego State Aztecs men's basketball|San Diego State]] <small>(Sr.)</small>
+|-
+|{{sortname|Mychel|Thompson}}
+|F/G
+|{{USA}}
+|[[Pepperdine Waves men's basketball|Pepperdine]] <small>(Sr.)</small>
+|-
+|{{sortname|Brad|Wanamaker}}
+|SG
+|{{USA}}
+|[[Pittsburgh Panthers men's basketball|Pittsburgh]] <small>(Sr.)</small>
+|-
+|{{sortname|Chris|Wright|Chris Wright (basketball, born 1988)}}
+|F
+|{{USA}}
+|[[Dayton Flyers men's basketball|Dayton]] <small>(Sr.)</small>
+|-
+|{{sortname|Chris|Wright|Chris Wright (basketball, born 1989)}}
+|PG
+|{{USA}}
+|[[Georgetown Hoyas men's basketball|Georgetown]] <small>(Sr.)</small>
+|}
+
+==Eligibility rules==
+{{main|Eligibility for the NBA draft}}
+As of 2010, the basic eligibility rules for the draft are listed below.
+* All drafted players must be at least 19 years old during the calendar year of the draft. In terms of dates, players eligible for the 2011 draft must be born on or before December 31, 1992.<ref name="CBA Age">{{cite web|url=http://www.nbpa.com/cba_articles/article-X.php |title=Article X, Section 1(b)(i) |work=2005 NBA Collective Bargaining Agreement |publisher=National Basketball Players Association |access-date=April 17, 2008 |archive-url=https://web.archive.org/web/20080227065646/http://www.nbpa.com/cba_articles/article-X.php |archive-date=February 27, 2008 |url-status=dead }}</ref>
+* Any player who is not an "international player", as defined in the CBA, must be at least one year removed from the graduation of his high school class.<ref name="CBA Age"/> The CBA defines "international players" as players who permanently resided outside the U.S. for three years prior to the draft, did not complete high school in the U.S., and have never enrolled at a U.S. college or university.<ref name="CBA International">{{cite web|url=http://www.nbpa.com/cba_articles/article-X.php |title=Article X, Section 1(c) |work=2005 NBA Collective Bargaining Agreement |publisher=National Basketball Players Association |access-date=April 17, 2008 |archive-url=https://web.archive.org/web/20090621100158/http://www.nbpa.com/cba_articles/article-X.php |archive-date=June 21, 2009 |url-status=dead }}</ref>
+
+The basic requirement for automatic eligibility for a U.S. player is the completion of his college eligibility.<ref name="CBA US">{{cite web|url=http://www.nbpa.com/cba_articles/article-X.php |title=Article X, Section 1(b)(ii) |work=2005 NBA Collective Bargaining Agreement |publisher=National Basketball Players Association |access-date=April 17, 2008 |archive-url=https://web.archive.org/web/20090621100158/http://www.nbpa.com/cba_articles/article-X.php |archive-date=June 21, 2009 |url-status=dead }}</ref>
+
+Players who meet the CBA definition of "international players" are automatically eligible if their 22nd birthday falls during or before the calendar year of the draft (i.e., born on or before December 31, 1989).<ref name="CBA International Age">{{cite web|url=http://www.nbpa.com/cba_articles/article-X.php |title=Article X, Section 1(b)(ii)(G)(1) |work=2005 NBA Collective Bargaining Agreement |publisher=National Basketball Players Association |access-date=April 17, 2008 |archive-url=https://web.archive.org/web/20090621100158/http://www.nbpa.com/cba_articles/article-X.php |archive-date=June 21, 2009 |url-status=dead }}</ref> U.S. players who were at least one year removed from their high school graduation and have played minor-league basketball with a team outside the NBA are also automatically eligible.
+
+A player who is not automatically eligible must declare his eligibility for the draft by notifying the NBA offices in writing no later than 60 days before the draft.<ref name="CBA US Early Entry">{{cite web|url=http://www.nbpa.com/cba_articles/article-X.php |title=Article X, Section 1(b)(ii)(F) |work=2005 NBA Collective Bargaining Agreement |publisher=National Basketball Players Association |access-date=April 17, 2008 |archive-url=https://web.archive.org/web/20080227065646/http://www.nbpa.com/cba_articles/article-X.php |archive-date=February 27, 2008 |url-status=dead }} (non-international players)</ref><ref name="CBA International Early Entry">{{cite web|url=http://www.nbpa.com/cba_articles/article-X.php |title=Article X, Section 1(b)(ii)(G)(3) |work=2005 NBA Collective Bargaining Agreement |publisher=National Basketball Players Association |access-date=April 17, 2008 |archive-url=https://web.archive.org/web/20080227065646/http://www.nbpa.com/cba_articles/article-X.php |archive-date=February 27, 2008 |url-status=dead }} (international players)</ref> For the 2011 draft, this date fell on April 24. Under NCAA rules, players will only have until May 8<!--The NCAA bylaw specifies this exact calendar date.--> to withdraw from the draft and maintain their college eligibility.<ref name="NCAA withdrawal">{{cite web |url=http://www.ncaapublications.com/productdownloads/D111.pdf |title=Bylaw 12.2.4.2.1.1 Exception—Basketball—Four-Year College Student-Athlete, Men's Basketball |work=2010–11 NCAA Division I Manual |publisher=National Collegiate Athletic Association |page=72 |access-date=February 2, 2011 |archive-date=October 31, 2014 |archive-url=https://web.archive.org/web/20141031233421/http://www.ncaapublications.com/productdownloads/D111.pdf |url-status=live }}</ref> This year, a total of 69 collegiate players and 20 international players declared as early entry candidates.<ref name="nbadraft">{{cite web|url=http://www.nba.com/2011/news/04/28/early-entries-2011/index.html|title=Early entry candidates for 2011 NBA Draft|date=April 28, 2011|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=May 18, 2011|archive-url=https://web.archive.org/web/20110503025240/http://www.nba.com/2011/news/04/28/early-entries-2011/index.html|archive-date=2011-05-03|url-status=dead}}</ref> At the withdrawal deadline, 41 early entry candidates withdrew from the draft (25 from US colleges and institutions),<ref>{{cite web|url=http://www.nba.com/2011/news/05/11/nba-draft-early-entry-withdrawls/index.html |title = Twenty-five players withdraw from Draft's early-entry list {{!}} NBA.com  |website = [[NBA.com]] |access-date=2011-05-11 |url-status=dead |archive-url=https://web.archive.org/web/20110513235752/http://www.nba.com/2011/news/05/11/nba-draft-early-entry-withdrawls/index.html |archive-date=2011-05-13 }}</ref> leaving 42 collegiate players and six international players as the early entry candidates for the draft.<ref name="nbadraftentries">{{cite web|url=http://www.nba.com/2011/news/06/14/2011-draft-withdrawals/index.html|title=More than 40 early entry candidates withdraw from 2011 Draft|date=June 15, 2011|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=June 14, 2011|archive-url=https://web.archive.org/web/20110618205946/http://www.nba.com/2011/news/06/14/2011-draft-withdrawals/index.html|archive-date=2011-06-18|url-status=dead}}</ref>
+
+A player who has hired an [[sports agent|agent]] will forfeit his remaining college eligibility, regardless of whether he is drafted. Also, while the CBA allows a player to withdraw from the draft twice, the NCAA mandates that a player who has declared twice loses his college eligibility.
+
+==Draft lottery==
+{{further|NBA draft lottery}}
+The first 14 picks in the draft belong to teams that missed the [[2011 NBA Playoffs|playoffs]]; the order will be determined through a lottery. The lottery will determine the three teams that will obtain the first three picks on the draft. The remaining first-round picks and the second-round picks were assigned to teams in reverse order of their win–loss record in the [[2010–11 NBA season|previous season]]. As it is commonplace in the event of identical win–loss records, the NBA performed a random drawing to break the ties on April 15, 2011.<ref>{{cite web|url=http://www.nba.com/2011/news/04/15/draft.ties/index.html |title=Ties broken for 2011 NBA Draft order of selection |date=April 15, 2011 |work=NBA.com |publisher=Turner Sports Interactive, Inc |access-date=April 18, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110418223024/http://www.nba.com/2011/news/04/15/draft.ties/index.html |archive-date=April 18, 2011 }}</ref>
+
+The lottery was held on May 17, 2011, in [[Secaucus, New Jersey]]. The [[Cleveland Cavaliers]], who obtained the [[Los Angeles Clippers]]' first-round draft pick, won the lottery. The Cavaliers won the lottery with a 22.7% chance to win, combining a 19.9% chance from their own pick and 2.8% chance from the Clippers' pick. However, their winning lottery combination came from the Clippers' pick, which had a significantly lower chance to win. The [[Minnesota Timberwolves]], who had the worst record and the biggest chance to win the lottery, won the second pick. The [[Utah Jazz]], who obtained the [[Brooklyn Nets|New Jersey Nets]]' first-round draft pick, won the third pick.<ref>{{cite web|url=http://www.nba.com/2011/news/05/17/draft-lottery.ap/index.html |title=Cavaliers win draft lottery, will pick No. 1 |date=May 17, 2011 |work=NBA.com |publisher=Turner Sports Interactive, Inc |access-date=May 18, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110521144356/http://www.nba.com/2011/news/05/17/draft-lottery.ap/index.html |archive-date=May 21, 2011 }}</ref><ref>{{cite web|url=https://www.espn.com/nba/draft2011/news/story?id=6560322|title=Cavs win No. 1 pick; Wolves 2nd|date=May 18, 2011|work=ESPN.com|publisher=ESPN Internet Ventures|access-date=May 18, 2011|archive-date=November 6, 2012|archive-url=https://web.archive.org/web/20121106232234/http://sports.espn.go.com/nba/draft2011/news/story?id=6560322|url-status=live}}</ref>
+
+Below were the chances for each team to get specific picks in the 2011 draft lottery, rounded to three decimal places.<ref>{{cite web|url=https://www.tsn.ca/nba/feature/?id=40373|title=2011 NBA Draft Lottery Odds|publisher=The Sports Network|work=TSN.ca|date=April 13, 2011|access-date=April 14, 2011|archive-url=https://web.archive.org/web/20110518143431/http://www.tsn.ca/nba/feature/?id=40373|archive-date=2011-05-18|url-status=dead}}</ref>
+
+{| class="wikitable"
+|-
+| style="background-color:#FFFF99; border:1px solid #aaaaaa; width:2em"| ^
+|Denotes the actual lottery results
+|}
+{|class="wikitable" style="text-align:right"
+!rowspan="2" align="left"|Team||rowspan="2"|[[2010–11 NBA season|2010–11<br />record]]||rowspan="2"|Lottery<br />chances||colspan="14"|Pick
+|-
+!1st||2nd||3rd||4th||5th||6th||7th||8th||9th||10th||11th||12th||13th||14th
+|-
+|align="left"|[[Minnesota Timberwolves]]||align="center"|17–65
+|| 250 || .250||style="background-color:#FFFF99"|.215^||.178||.357|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—
+|-
+|align="left"|[[Cleveland Cavaliers]]||align="center"|19–63
+|| 199 || .199||.188||.171||style="background-color:#FFFF99"|.319^||.123|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—
+|-
+|align="left"|[[Toronto Raptors]]||align="center"|22–60
+|| 156 ||.156||.157||.156||.226||style="background-color:#FFFF99"|.265^||.040|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—
+|-
+|align="left"|[[Washington Wizards]]||align="center"|23–59
+|| 119 || .119||.126||.133||.099||.351||style="background-color:#FFFF99"|.161^||.013|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—
+|-
+|align="left"|[[Sacramento Kings]]||align="center"|24–58
+|| 76 || .076||.084||.095|| align="center"|—||.261||.386||style="background-color:#FFFF99"|.093^||.004|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—
+|-
+|align="left"|[[Brooklyn Nets|New Jersey Nets]]{{Cref|1}}||align="center"|24–58
+|| 75 || .075||.083||style="background-color:#FFFF99"|.094^|| align="center"|—|| align="center"|—||.413||.294||.039||.001|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—
+|-
+|align="left"|[[Detroit Pistons]]||align="center"|30–52
+|| 43 || .043||.049||.058|| align="center"|—|| align="center"|—|| align="center"|—||.599||style="background-color:#FFFF99"|.232^||.018||.000|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—
+|-
+|align="left"|[[Los Angeles Clippers]]{{Cref|2}}||align="center"|32–50
+|| 28 || style="background-color:#FFFF99"|.028^||.033||.039|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—||.725||.168||.008||.000|| align="center"|—|| align="center"|—|| align="center"|—
+|-
+|align="left"|[[Charlotte Bobcats]]||align="center"|34–48
+|| 17 || .017||.020||.024|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—||style="background-color:#FFFF99"|.813^||.122||.004||.000|| align="center"|—|| align="center"|—
+|-
+|align="left"|[[Milwaukee Bucks]]||align="center"|35–47
+|| 11 || .011||.013||.016|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—||style="background-color:#FFFF99"|.870^||.089||.002||.000|| align="center"|—
+|-
+|align="left"|[[Golden State Warriors]]||align="center"|36–46
+|| 8 || .008||.009||.012|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—||style="background-color:#FFFF99"|.907^||.063||.001||.000
+|-
+|align="left"|[[Utah Jazz]]||align="center"|39–43
+|| 7 || .007||.008||.010|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—||style="background-color:#FFFF99"|.935^||.039||.000
+|-
+|align="left"|[[Phoenix Suns]]||align="center"|40–42
+|| 6 || .006||.007||.009|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—||style="background-color:#FFFF99"|.960^|| .018
+|-
+|align="left"|[[Houston Rockets]]||align="center"|43–39
+|| 5 || .005|| .006 || .007|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| style="background-color:#FFFF99"|.982^
+|}
+{{Cnote|1|New Jersey Nets' pick was conveyed to the [[Utah Jazz]].{{ref label|Note2|b|b 1}}}}
+{{Cnote|2|Los Angeles Clippers' pick was conveyed to the [[Cleveland Cavaliers]].{{ref label|Note1|a|a 1}}}}
+
+==Entrants==
+
+===Early entrants===
+
+====College underclassmen====
+(All players are Americans except as indicated)<ref name="nbadraftentries"/>
+{{col-begin}}
+{{col-2}}
+* [[Alec Burks]]&nbsp;– G, [[Colorado Buffaloes men's basketball|Colorado]] (sophomore)<ref>{{cite web |title=Alec Burks To Enter NBA Draft |url=http://www.cubuffs.com/ViewArticle.dbml?DB_LANG=C&ATCLID=205140897&DB_OEM_ID=600 |work=CUBuffs.com |date=April 21, 2011 |access-date=April 21, 2011 |archive-date=April 27, 2011 |archive-url=https://web.archive.org/web/20110427014636/http://www.cubuffs.com/ViewArticle.dbml?DB_LANG=C&ATCLID=205140897&DB_OEM_ID=600 |url-status=live }}</ref>
+* [[DeAngelo Casto]]&nbsp;– C, [[Washington State Cougars men's basketball|Washington State]] (junior)<ref>{{cite news |author=Floyd, Brian |title=DeAngelo Casto Declares For 2011 NBA Draft, May Play Overseas |url=http://seattle.sbnation.com/washington-st-cougars/2011/4/15/2113943/deangelo-casto-2011-nba-draft-wsu-basketball |work=Seattle SBNation |date=April 15, 2011 |access-date=April 15, 2011 |archive-date=April 19, 2011 |archive-url=https://web.archive.org/web/20110419033812/http://seattle.sbnation.com/washington-st-cougars/2011/4/15/2113943/deangelo-casto-2011-nba-draft-wsu-basketball |url-status=live }}</ref>
+* [[Roscoe Davis]]&nbsp;– F, [[Midland College|Midland JC (TX)]] (freshman)<ref name="nbadraft"/>
+* {{flagicon|MLI}} [[Mamadou Diarra (basketball)|Mamadou Diarra]]&nbsp;– C, [[Chaminade University of Honolulu|Chaminade]] (junior)<ref>{{cite news |author=Givony, Jonathan |title=2011 Draft Agent Listings |url=http://www.draftexpress.com/early-entry-list.php?page=all&sort=8 |date=May 11, 2011 |access-date=May 11, 2011 |archive-url=https://web.archive.org/web/20110512065757/http://www.draftexpress.com/early-entry-list.php?page=all&sort=8 |archive-date=2011-05-12 |url-status=dead }}</ref>
+* [[Jeremy Green (basketball)|Jeremy Green]]&nbsp;– G, [[Stanford Cardinal men's basketball|Stanford]] (junior)<ref name="nbadraft"/>
+* [[Jordan Hamilton (basketball)|Jordan Hamilton]]&nbsp;– G/F, [[Texas Longhorns men's basketball|Texas]] (sophomore)<ref>{{cite news |title=Trio of Longhorns to declare for NBA draft |url=http://www.kvue.com/sports/Trio-of-Longhorns-to-declare-for-NBA-draft-120514064.html |work=Seattle SBNation |date=April 15, 2011 |access-date=April 15, 2011 |archive-url=https://web.archive.org/web/20110425123139/http://www.kvue.com/sports/Trio-of-Longhorns-to-declare-for-NBA-draft-120514064.html |archive-date=2011-04-25 |url-status=dead }}</ref>
+* [[Tobias Harris]]&nbsp;– F, [[Tennessee Volunteers basketball|Tennessee]]<!--This is the correct article title. All women's sports at Tennessee use "Lady Volunteers" as their long-form nickname.--> (freshman)<ref>{{cite news |author=Halley, Jim |title='Nothing has changed' for Tennessee's Tobias Harris after Pearl's firing |url=http://content.usatoday.com/communities/campusrivalry/post/2011/03/nothing-has-changed-for-tennessee-tobias-harris-after-pearls-firing-/1?loc=interstitialskip |work=USA Today |date=March 22, 2011 |access-date=March 28, 2011 |archive-date=April 7, 2011 |archive-url=https://web.archive.org/web/20110407212908/http://content.usatoday.com/communities/campusrivalry/post/2011/03/nothing-has-changed-for-tennessee-tobias-harris-after-pearls-firing-/1?loc=interstitialskip |url-status=live }}</ref>
+* [[Tyler Honeycutt]]&nbsp;– F, [[UCLA Bruins men's basketball|UCLA]] (sophomore)<ref>{{cite news |author=Yoon, Peter |title=Tyler Honeycutt to enter NBA draft |url=https://www.espn.com/los-angeles/ncb/news/story?id=6267807 |work=ESPN.com |date=March 28, 2011 |access-date=March 29, 2011 |archive-date=April 1, 2011 |archive-url=https://web.archive.org/web/20110401145435/http://sports.espn.go.com/los-angeles/ncb/news/story?id=6267807 |url-status=live }}</ref>
+* [[Scotty Hopson]]&nbsp;– G, [[Tennessee Volunteers basketball|Tennessee]] (junior)<ref>{{cite news |author=Griffith, Mike |title=Harris and Hopson Will Test Draft Waters |url=http://www.govolsxtra.com/news/2011/mar/23/tobias-harris-test-nba-waters/ |work=GoVolsXtra.com |date=March 23, 2011 |access-date=March 28, 2011 |archive-date=April 2, 2011 |archive-url=https://web.archive.org/web/20110402041227/http://www.govolsxtra.com/news/2011/mar/23/tobias-harris-test-nba-waters/ |url-status=live }}</ref>
+* [[Kyrie Irving]]&nbsp;– G, [[Duke Blue Devils men's basketball|Duke]] (freshman)<ref>{{cite web |title=Kyrie Irving entering NBA draft |url=https://www.espn.com/nba/draft2011/news/story?id=6301656 |work=ESPN.com |date=April 6, 2011 |access-date=April 6, 2011 |archive-date=November 6, 2012 |archive-url=https://web.archive.org/web/20121106182014/http://sports.espn.go.com/nba/draft2011/news/story?id=6301656 |url-status=live }}</ref>
+* [[Reggie Jackson (basketball, born 1990)|Reggie Jackson]]&nbsp;– G, [[Boston College Eagles men's basketball|Boston College]] (junior)<ref>{{cite news |title=Boston College junior Reggie Jackson declares for NBA draft |url=http://news.bostonherald.com/blogs/sports/oncampus/?p=353&srvc=home&position=recent |work=Boston Herald |date=March 30, 2011 |access-date=March 30, 2011 |archive-date=January 12, 2012 |archive-url=https://web.archive.org/web/20120112105147/http://news.bostonherald.com/blogs/sports/oncampus/?p=353&srvc=home&position=recent |url-status=live }}</ref>
+* [[Terrence Jennings (basketball)|Terrence Jennings]]&nbsp;– F, [[Louisville Cardinals men's basketball|Louisville]] (junior)<ref>{{cite web|author=Brown, C.L.|url=http://www.courier-journal.com/article/20110413/SPORTS02/304130129/Terrence-Jennings-try-NBA-draft-Louisville-coach-Rick-Pitino-doubts-he-ll-go |title=Louisville basketball's Terrence Jennings to test NBA Draft |publisher=courier-journal.com |date=April 13, 2011 |access-date=April 13, 2011}}</ref>
+* {{flagicon|CAN}} [[Cory Joseph]]&nbsp;– G, [[Texas Longhorns men's basketball|Texas]] (freshman)<ref>{{cite news|title=Report: Cory Joseph to enter draft without an agent, retain eligibility|url=http://collegesportsblog.dallasnews.com/archives/2011/04/report-cory-joseph-to-enter-draft-withou.html|work=SportsDayDFW|date=April 22, 2011|access-date=April 23, 2011|archive-url=https://web.archive.org/web/20110427063952/http://collegesportsblog.dallasnews.com/archives/2011/04/report-cory-joseph-to-enter-draft-withou.html|archive-date=2011-04-27|url-status=dead}}</ref> 
+* {{flagicon|Turkey}} [[Enes Kanter]]&nbsp;– F/C, [[Kentucky Wildcats men's basketball|Kentucky]] (freshman)<ref>{{cite news |title=Enes Kanter talks (with video) about the NCAA ruling, NBA Draft, and baseball |url=http://kykernel.com/2011/04/08/enes-kanter-talks-with-video-about-the-ncaa-ruling-nba-draft-and-baseball/ |work=[[The Kentucky Kernel]] |date=April 8, 2011 |access-date=April 14, 2011 |first=Aaron |last=Smith |archive-url=https://archive.today/20120710023915/http://kykernel.com/2011/04/08/enes-kanter-talks-with-video-about-the-ncaa-ruling-nba-draft-and-baseball/ |archive-date=2012-07-10 |url-status=dead }}</ref> 
+**Although Kanter enrolled at Kentucky, he never played because he was declared ineligible by the NCAA due to financial benefits he had received from his previous Turkish club, [[Fenerbahçe Ülker]].
+* [[Ryan Kelley (basketball)|Ryan Kelley]]&nbsp;– G, [[Colorado Buffaloes men's basketball|Colorado]] (sophomore)<ref name="nbadraft"/>
+* [[Dan Kelm]]&nbsp;– G, [[Viterbo University|Viterbo (WI)]] (sophomore)<ref name="nbadraft"/>
+* [[Brandon Knight (basketball)|Brandon Knight]]&nbsp;– G, [[Kentucky Wildcats men's basketball|Kentucky]] (freshman)<ref name="UK3">{{cite news |title=Brandon Knight entering NBA draft |url=https://www.espn.com/nba/draft2011/news/story?id=6395107&campaign=rss&source=ESPNUHeadlines |work=ESPN.com |date=April 20, 2011 |access-date=April 20, 2011 |archive-date=November 7, 2012 |archive-url=https://web.archive.org/web/20121107042518/http://sports.espn.go.com/nba/draft2011/news/story?id=6395107&campaign=rss&source=ESPNUHeadlines |url-status=live }}</ref>
+* [[Malcolm Lee (basketball)|Malcolm Lee]]&nbsp;– G, [[UCLA Bruins men's basketball|UCLA]] (junior)<ref>{{cite news |title=UCLA basketball: Malcolm Lee to declare for NBA draft, not hire an agent to preserve eligibility |url=http://sportifi.com/news/UCLA-basketball-Malcolm-Lee-to-declare-for-NBA-draft-not-hire-an-agent-to-preserve-eligibility-1430732.html/ |work=Sportifi.com |date=March 28, 2011 |access-date=March 29, 2011 |archive-date=September 13, 2022 |archive-url=https://web.archive.org/web/20220913175841/http://sportifi.com/news/UCLA-basketball-Malcolm-Lee-to-declare-for-NBA-draft-not-hire-an-agent-to-preserve-eligibility-1430732.html/ |url-status=live }}</ref>
+* [[Kawhi Leonard]]&nbsp;– F, [[San Diego State Aztecs men's basketball|San Diego State]] (sophomore)<ref>{{cite news |title=Leonard declares for NBA draft |url=http://sportsillustrated.cnn.com/2011/basketball/ncaa/04/14/leonard.draft.ap/index.html/ |work=SI.com |date=April 14, 2011 |access-date=April 14, 2011 |archive-date=April 18, 2011 |archive-url=https://web.archive.org/web/20110418000359/http://sportsillustrated.cnn.com/2011/basketball/ncaa/04/14/leonard.draft.ap/index.html |url-status=dead }}</ref>
+* [[Travis Leslie]]&nbsp;– G, [[Georgia Bulldogs men's basketball|Georgia]] (junior)<ref name="ThompkinsLeslie"/>
+{{col-2}}
+* [[DeAndre Liggins]]&nbsp;– G, [[Kentucky Wildcats men's basketball|Kentucky]] (junior)<ref name="UK3"/>
+* [[Shelvin Mack]]&nbsp;– G, [[Butler Bulldogs men's basketball|Butler]] (junior)<ref>{{cite news |title=Shelvin Mack to test NBA draft process |url=https://www.espn.com/nba/draft2011/news/story?id=6336316%2F |work=ESPN.com |date=April 12, 2011 |access-date=April 12, 2011 |archive-date=September 13, 2022 |archive-url=https://web.archive.org/web/20220913175843/https://www.espn.com/nba/draft2011/news/story?id=6336316%2F |url-status=live }}</ref>
+* [[Keishawn Mayes]]&nbsp;– F, [[Campbell Fighting Camels men's basketball|Campbell]] (junior)<ref name="nbadraft"/>
+* [[Darius Morris]]&nbsp;– G, [[Michigan Wolverines men's basketball|Michigan]] (sophomore)<ref>{{cite news |author=Snyder, Mark |title=Michigan sophomore Darius Morris to test NBA draft waters |url=http://www.freep.com/article/20110326/SPORTS06/110326037/1054/sports06 |work=Detroit free press |date=March 27, 2011 |access-date=March 27, 2011 |archive-date=June 15, 2013 |archive-url=https://web.archive.org/web/20130615034502/http://www.freep.com/article/20110326/SPORTS06/110326037/1054/sports06 |url-status=live }}</ref>
+* [[Marcus Morris (basketball)|Marcus Morris]] – F, [[Kansas Jayhawks men's basketball|Kansas]] (junior)<ref name="MorrisTwins">{{Cite web |url=http://www2.kusports.com/news/2011/apr/07/morris-twins-sign-agent-will-declare-draft/ |title=Morris twins sign with agent, will declare for draft |access-date=2011-04-07 |archive-date=2011-04-10 |archive-url=https://web.archive.org/web/20110410035559/http://www2.kusports.com/news/2011/apr/07/morris-twins-sign-agent-will-declare-draft/ |url-status=live }}</ref>
+* [[Markieff Morris]] – F, [[Kansas Jayhawks men's basketball|Kansas]] (junior)<ref name="MorrisTwins"/>
+* [[Willie Reed]]&nbsp;– F, [[Saint Louis Billikens men's basketball|Saint Louis]] (junior)<ref name="nbadraft"/>
+* [[Jereme Richmond]]&nbsp;– G/F, [[Illinois Fighting Illini men's basketball|Illinois]] (freshman)<ref>{{cite web |last=Powers |first=Scott |title=Jereme Richmond leaving Illinois |url=https://www.espn.com/chicago/ncb/news/story?id=6296996 |work=ESPN Chicago |date=April 5, 2011 |access-date=April 5, 2011 |archive-date=April 8, 2011 |archive-url=https://web.archive.org/web/20110408160821/http://sports.espn.go.com/chicago/ncb/news/story?id=6296996 |url-status=live }}</ref>
+* [[Carleton Scott]]&nbsp;– F, [[Notre Dame Fighting Irish men's basketball|Notre Dame]] (junior)<ref>{{cite news |author=Noie, Tom |title=Forward Carleton Scott to test NBA waters |url=http://www.southbendtribune.com/sports/sbt-notre-dame-mens-basketball-forward-carleton-scott-to-test-nba-waters-20110413,0,27867.story |date=April 14, 2011 |access-date=April 14, 2011|work=SouthBendTribune.com}}</ref>
+* [[Josh Selby]]&nbsp;– G, [[Kansas Jayhawks men's basketball|Kansas]] (freshman)<ref>{{cite web |title=Kansas' Josh Selby going pro |url=https://www.espn.com/nba/draft2011/news/story?id=6355780 |work=ESPN.com |date=April 14, 2011 |access-date=April 14, 2011 |archive-date=April 16, 2011 |archive-url=https://web.archive.org/web/20110416151641/http://sports.espn.go.com/nba/draft2011/news/story?id=6355780 |url-status=live }}</ref>
+* [[Iman Shumpert]]&nbsp;– G, [[Georgia Tech Yellow Jackets men's basketball|Georgia Tech]] (junior)<ref>{{cite news |author=Roberson, Doug |title=Shumpert puts in for NBA draft |url=http://blogs.ajc.com/georgia-tech-sports/2011/03/28/shumpert-puts-in-for-nba-draft/ |date=March 28, 2011 |access-date=March 29, 2011 |archive-url=https://web.archive.org/web/20111031231116/http://blogs.ajc.com/georgia-tech-sports/2011/03/28/shumpert-puts-in-for-nba-draft/ |archive-date=2011-10-31 |url-status=dead }}</ref>
+* [[Chris Singleton (basketball, born 1989)|Chris Singleton]]&nbsp;– F, [[Florida State Seminoles men's basketball|Florida State]] (junior)<ref>{{cite web |last=Ferrante |first=Bob |title=It's official: Singleton makes jump to NBA |url=http://www.foxsportsflorida.com/04/13/11/Its-official-Singleton-makes-jump-to-NBA/landing_fsu.html?blockID=503315&feedID=3720 |work=FOX Sports Florida |date=April 13, 2011 |access-date=April 13, 2011 |archive-date=September 13, 2022 |archive-url=https://web.archive.org/web/20220913175846/https://www.foxsports.com/ |url-status=live }}</ref>
+* [[Greg Smith (basketball, born 1991)|Greg Smith]]&nbsp;– C, [[Fresno State Bulldogs men's basketball|Fresno State]] (sophomore)<ref>{{cite news |author=Lyght, Daniel |title=Bulldogs' Greg Smith going to NBA |url=http://www.fresnobee.com/2011/03/17/2314058/bulldogs-smith-going-to-nba.html |work=FresnoBee.com |date=March 17, 2011 |access-date=March 18, 2011 |archive-url=https://web.archive.org/web/20110319214949/http://www.fresnobee.com/2011/03/17/2314058/bulldogs-smith-going-to-nba.html |archive-date=2011-03-19 |url-status=dead }}</ref>
+* [[Isaiah Thomas (basketball)|Isaiah Thomas]]&nbsp;– G, [[Washington Huskies men's basketball|Washington]] (junior)<ref>{{cite news |title=Thomas to enter draft |url=http://www.gohuskies.com/sports/m-baskbl/spec-rel/033111aaa.html/ |work=gohuskies.com |date=March 31, 2011 |access-date=March 31, 2011 |archive-url=https://archive.today/20120320051240/http://www.gohuskies.com/sports/m-baskbl/spec-rel/033111aaa.html/ |archive-date=2012-03-20 |url-status=dead }}</ref>
+* [[Trey Thompkins]]&nbsp;– F, [[Georgia Bulldogs men's basketball|Georgia]] (junior)<ref name="ThompkinsLeslie">{{cite web |url=https://www.espn.com/nba/draft2011/news/story?id=6295830 |title=Trey Thompkins entering NBA draft |work=ESPN.com |date=April 5, 2011 |access-date=April 5, 2011 |archive-date=April 9, 2011 |archive-url=https://web.archive.org/web/20110409094023/http://sports.espn.go.com/nba/draft2011/news/story?id=6295830 |url-status=live }}</ref>
+* [[Klay Thompson]]&nbsp;– G, [[Washington State Cougars men's basketball|Washington State]] (junior)<ref>{{cite web |url=http://abclocal.go.com/wtvg/story?section=news/sports/college/basketball/mens&sa=NCB&eid=6383037 |title=Wash. St.'s Thompson in draft, won't hire agent |publisher=ABC |date=April 18, 2011 |access-date=April 18, 2011 |archive-url=https://web.archive.org/web/20110508143727/http://abclocal.go.com/wtvg/story?section=news%2Fsports%2Fcollege%2Fbasketball%2Fmens&sa=NCB&eid=6383037 |archive-date=2011-05-08 |url-status=dead }}</ref>
+* {{flagicon|CAN}} [[Tristan Thompson]]&nbsp;– F, [[Texas Longhorns men's basketball|Texas]] (freshman)<ref>{{cite web |title=Texas' Tristan Thompson will enter NBA Draft |url=http://aol.sportingnews.com/ncaa-basketball/story/2011-04-21/texas-tristan-thompson-will-enter-nba-draft |work=SportingNews.com |date=April 21, 2011 |access-date=2011-04-21 |archive-date=2011-04-27 |archive-url=https://web.archive.org/web/20110427192257/http://aol.sportingnews.com/ncaa-basketball/story/2011-04-21/texas-tristan-thompson-will-enter-nba-draft |url-status=live }}</ref> 
+* {{flagicon|Montenegro}} [[Nikola Vučević]]&nbsp;– F, [[USC Trojans men's basketball|USC]] (junior)<ref>{{cite news |title=USC power forward Vucevic heading to NBA |url=https://sports.yahoo.com/ncaa/basketball/news?slug=ap-usc-vucevic |work=Rivals.com |date=March 25, 2011 |access-date=March 25, 2011 |archive-date=September 13, 2022 |archive-url=https://web.archive.org/web/20220913175847/https://sports.yahoo.com/college-basketball/news/ |url-status=live }}</ref> 
+* [[Kemba Walker]]&nbsp;– G, [[Connecticut Huskies men's basketball|Connecticut]] (junior)<ref>{{cite news |title=Sources: Kemba Walker going pro |url=https://www.espn.com/mens-college-basketball/news/story?id=6331070 |work=ESPN.com |date=April 12, 2011 |access-date=April 12, 2011 |archive-date=April 2, 2015 |archive-url=https://web.archive.org/web/20150402154335/http://sports.espn.go.com/ncb/news/story?id=6331070 |url-status=live }}</ref><ref>{{cite news |title=Kemba Walker declares for NBA draft |url=https://www.espn.com/nba/draft2011/news/story?id=6338613&campaign=rss&source=NBAHeadlines |work=ESPN.com |date=April 12, 2011 |access-date=April 12, 2011 |archive-date=November 6, 2012 |archive-url=https://web.archive.org/web/20121106185610/http://sports.espn.go.com/nba/draft2011/news/story?id=6338613&campaign=rss&source=NBAHeadlines |url-status=live }}</ref>
+* [[Antoine Watson]]&nbsp;– G, [[FIU Golden Panthers men's basketball|Florida International]] (junior)<ref name="nbadraft"/>
+* [[Derrick Williams (basketball)|Derrick Williams]]&nbsp;– F, [[Arizona Wildcats men's basketball|Arizona]] (sophomore)<ref>{{cite web |title=Derrick Williams entering NBA draft |url=https://www.espn.com/nba/draft2011/news/story?id=6347632 |work=ESPN.com |date=April 13, 2011 |access-date=April 13, 2011 |archive-date=April 16, 2011 |archive-url=https://web.archive.org/web/20110416085008/http://sports.espn.go.com/nba/draft2011/news/story?id=6347632 |url-status=live }}</ref>
+* [[Jordan Williams (basketball, born 1990)|Jordan Williams]]&nbsp;– F, [[Maryland Terrapins men's basketball|Maryland]] (sophomore)<ref>{{cite news |author=Smith, Aran |title=Jordan Williams Entering the Draft |url=http://www.nbadraft.net/draft-buzz-4 |date=March 28, 2011 |access-date=March 29, 2011 |archive-date=April 2, 2011 |archive-url=https://web.archive.org/web/20110402043554/http://www.nbadraft.net/draft-buzz-4 |url-status=live }}</ref>
+{{col-end}}
+
+====International players====
+This list is restricted to players who meet the CBA definition of "international" players.<ref name="nbadraftentries"/>
+* {{flagicon|LAT}} [[Dāvis Bertāns]]&nbsp;– F, [[KK Union Olimpija|Olimpija Ljubljana]] ([[Premier A Slovenian Basketball League|Slovenia]])<ref>{{cite news|title=Davis Bertans will be entering the 2011 NBA draft according to his agent|url=https://www.twitter.com/nbadraftnet/status/61631260916842496|work=As.com|date=April 23, 2011|access-date=April 23, 2011|archive-date=September 13, 2022|archive-url=https://web.archive.org/web/20220913175846/https://twitter.com/nbadraftnet/status/61631260916842496|url-status=live}}</ref>
+* {{flagicon|COD}} [[Bismack Biyombo]]&nbsp;– F, [[Baloncesto Fuenlabrada]] ([[Liga ACB|Spain]])<ref>{{cite news |title=Biyombo está en Portland y se presentará al Draft 2011 |url=http://www.as.com/baloncesto/articulo/biyombo-portland-presentara-draft-2011/20110407dasdaibal_5/Tes |work=As.com |date=April 7, 2011 |access-date=April 9, 2011 |archive-date=April 8, 2011 |archive-url=https://web.archive.org/web/20110408140740/http://www.as.com/baloncesto/articulo/biyombo-portland-presentara-draft-2011/20110407dasdaibal_5/Tes |url-status=live }}</ref>
+* {{flagicon|ESP}} [[Nikola Mirotić]]&nbsp;– F, [[Real Madrid Baloncesto|Real Madrid]] ([[Liga ACB|Spain]])<ref>{{cite news |title=NBA: Nikola Mirotic se presentará oficialmente al draft esta semana |author=Nanclares, Cesar |url=http://www.tubasket.com/noticia/NBA-Nikola-Mirotic-se-presentar-oficialmente-al-draft-esta-semana/225049/105 |date=March 29, 2011 |access-date=March 29, 2011 |archive-date=April 1, 2011 |archive-url=https://web.archive.org/web/20110401222125/http://www.tubasket.com/noticia/NBA-Nikola-Mirotic-se-presentar-oficialmente-al-draft-esta-semana/225049/105 |url-status=live }}</ref>
+* {{flagicon|LTU}} [[Donatas Motiejūnas]]&nbsp;– F, [[Pallacanestro Treviso|Benetton Treviso]] ([[Lega Basket Serie A|Italy]])<ref>{{cite news |title=BUCKS BEAT: Lithuanian big man opts for draft |author=Woelfel, Gery |url=http://journaltimes.com/sports/article_6a8f09da-6d50-11e0-9e90-001cc4c03286.html |date=April 22, 2011 |access-date=April 23, 2011 |archive-date=April 25, 2011 |archive-url=https://web.archive.org/web/20110425140632/http://journaltimes.com/sports/article_6a8f09da-6d50-11e0-9e90-001cc4c03286.html |url-status=live }}</ref>
+* {{flagicon|LTU}} [[Jonas Valančiūnas]]&nbsp;– C, [[BC Lietuvos Rytas|Lietuvos Rytas]] ([[Lietuvos Krepšinio Lyga|Lithuania]])
+* {{flagicon|CZE}} [[Jan Veselý]]&nbsp;– F, [[KK Partizan|Partizan Belgrade]] ([[Basketball League of Serbia|Serbia]])<ref>{{cite news |author=Bohn, Rodger |title=Jan Vesely: 'I will enter the NBA Draft' |url=http://www.slamonline.com/online/nba/2011/01/jan-vesely-i-will-enter-the-nba-draft/ |work=SlamOnline.com |date=January 14, 2011 |access-date=January 15, 2011 |archive-date=January 15, 2011 |archive-url=https://web.archive.org/web/20110115235510/http://www.slamonline.com/online/nba/2011/01/jan-vesely-i-will-enter-the-nba-draft/ |url-status=live }}</ref>
+
+===Automatically eligible entrants===
+Players who do not meet the criteria for "international" players are automatically eligible if they meet any of the following criteria:<ref>{{cite web|url=http://www.nbpa.com/cba_articles/article-X.php |title=Article X, Section 1(b)(ii) |work=2005 NBA Collective Bargaining Agreement |publisher=[[National Basketball Players Association]] |access-date=April 17, 2008 |archive-url=https://web.archive.org/web/20080227065646/http://www.nbpa.com/cba_articles/article-X.php |archive-date=February 27, 2008 |url-status=dead }}</ref>
+* They have completed 4 years of their college eligibility.
+* If they graduated from high school in the U.S., but did not enroll in a U.S. college or university, four years have passed since their high school class graduated.
+* They have signed a contract with a professional basketball team outside of the NBA, anywhere in the world, and have played under that contract.
+
+Players who meet the criteria for "international" players are automatically eligible if they meet any of the following criteria:
+* They are least 22 years old during the calendar year of the draft. In terms of dates, players born on or before December 31, 1989, are automatically eligible for the 2011 draft.<ref name="CBA International Age"/>
+* They have signed a contract with a professional basketball team outside of the NBA ''within the United States'', and have played under that contract.<ref name="CBA International US Contract">{{cite web|url=http://www.nbpa.com/cba_articles/article-X.php |title=Article X, Section 1(b)(ii)(G)(2) |work=2005 NBA Collective Bargaining Agreement |publisher=[[National Basketball Players Association]] |access-date=April 17, 2008 |archive-url=https://web.archive.org/web/20080227065646/http://www.nbpa.com/cba_articles/article-X.php |archive-date=February 27, 2008 |url-status=dead }}</ref>
+
+==Invited attendees==
+The NBA annually invites 10 to 15 players to sit in the so-called "green room", a special room set aside at the draft site for the invited players plus their families and agents. This season, the following players were invited (listed alphabetically):<ref>{{cite news |url=https://www.espn.com/nba/draft2011/news/story?id=6675909&campaign=rss&source=NBAHeadlines |title=NBA issues 'green room' invitations |first=Chad |last=Ford |work=ESPN.com |date=June 18, 2011 |access-date=June 21, 2011 |archive-date=June 21, 2011 |archive-url=https://web.archive.org/web/20110621034026/http://sports.espn.go.com/nba/draft2011/news/story?id=6675909&campaign=rss&source=NBAHeadlines |url-status=live }}</ref>
+* {{flagicon|COD}} [[Bismack Biyombo]], [[Baloncesto Fuenlabrada]] (not on the original list; added later)
+* {{flagicon|USA}} [[Alec Burks]], [[Colorado Buffaloes men's basketball|Colorado]]
+* {{flagicon|USA}} [[Jimmer Fredette]], [[BYU Cougars men's basketball|Brigham Young]]
+* {{flagicon|USA}} [[Kyrie Irving]], [[Duke Blue Devils men's basketball|Duke]]
+* {{flagicon|TUR}} [[Enes Kanter]], [[Kentucky Wildcats men's basketball|Kentucky]]
+* {{flagicon|USA}} [[Brandon Knight (basketball)|Brandon Knight]], [[Kentucky Wildcats men's basketball|Kentucky]]
+* {{flagicon|USA}} [[Kawhi Leonard]], [[San Diego State Aztecs men's basketball|San Diego State]]
+* {{flagicon|USA}} [[Marcus Morris (basketball)|Marcus Morris]], [[Kansas Jayhawks men's basketball|Kansas]]
+* {{flagicon|USA}} [[Markieff Morris]], [[Kansas Jayhawks men's basketball|Kansas]] (not on the original list; added later)
+* {{flagicon|LTU}} [[Donatas Motiejūnas]], [[Pallacanestro Treviso|Benetton Treviso]]
+* {{flagicon|USA}} [[Chris Singleton (basketball, born 1989)|Chris Singleton]], [[Florida State Seminoles men's basketball|Florida State]]
+* {{flagicon|USA}} [[Klay Thompson]], [[Washington State Cougars men's basketball|Washington State]]
+* {{flagicon|CAN}} [[Tristan Thompson]], [[Texas Longhorns men's basketball|Texas]]
+* {{flagicon|LTU}} [[Jonas Valančiūnas]], [[BC Lietuvos Rytas|Lietuvos Rytas]]
+* {{flagicon|CZE}} [[Jan Veselý]], [[KK Partizan|Partizan Belgrade]]
+* {{flagicon|USA}} [[Kemba Walker]], [[Connecticut Huskies men's basketball|Connecticut]]
+* {{flagicon|USA}} [[Derrick Williams (basketball)|Derrick Williams]], [[Arizona Wildcats men's basketball|Arizona]]
+
+==Trades involving draft picks==
+
+===Pre-draft trades===
+Prior to the day of the draft, the following trades were made and resulted in exchanges of draft picks between the teams.
+*{{note label|Note1|a|a 1}}{{note label|Note1|a|2}} On February 24, 2011, the [[Cleveland Cavaliers]] acquired [[Baron Davis]] and a 2011 first-round draft pick from the [[Los Angeles Clippers]] in exchange for [[Mo Williams]] and [[Jamario Moon]].<ref>{{cite web|url=http://www.nba.com/cavaliers/news/davis_110224.html|title=Cavaliers Acquire 2011 First Round Pick and Two-Time All-Star Baron Davis From Clippers|date=February 24, 2011|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=May 18, 2011| archive-url= https://web.archive.org/web/20110628201801/http://www.nba.com/cavaliers/news/davis_110224.html| archive-date= 28 June 2011 | url-status= live}}</ref>
+*{{note label|Note2|b|b 1}}{{note label|Note2|b|2}} On February 23, 2011, the [[Utah Jazz]] acquired [[Devin Harris]], [[Derrick Favors]], [[Brooklyn Nets|New Jersey]]'s 2011 first-round draft pick and [[Golden State Warriors|Golden State]]'s [[2012 NBA draft|2012]] first-round draft pick from the New Jersey Nets in exchange for [[Deron Williams]].<ref>{{cite web|url=http://www.nba.com/jazz/news/deron_williams_trade.html|title=Jazz Obtains Harris and Favors from New Jersey|date=February 23, 2011|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=May 18, 2011| archive-url= https://web.archive.org/web/20110628201259/http://www.nba.com/jazz/news/deron_williams_trade.html| archive-date= 28 June 2011 | url-status= live}}</ref>
+*{{note label|Note3|c|c 1}}{{note label|Note3|c|2}} On February 22, 2011, the [[Chicago Bulls]] acquired [[Miami Heat|Miami]]'s 2011 first-round draft pick (the 28th pick) from the [[Toronto Raptors]] in exchange for [[James Johnson (basketball, born 1987)|James Johnson]].<ref>{{cite web|url=http://www.nba.com/bulls/news/johnson_trade_110222.html|title=Bulls send James Johnson to Toronto|date=February 22, 2011|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=May 18, 2011|archive-date=March 23, 2014|archive-url=https://web.archive.org/web/20140323075544/http://www.nba.com/bulls/news/johnson_trade_110222.html|url-status=live}}</ref> Previously, on July 9, 2010, the Raptors re-acquired their 2011 first-round draft pick (the 5th pick) while also acquiring Miami's 2011 first-round draft pick (the 28th pick) and a trade exception from the Miami Heat in exchange for [[Chris Bosh]].<ref>{{cite web|url=http://www.nba.com/raptors/news/raptors_trade_070910.html|title=Raptors Obtain Two First-Round Picks And A Trade Exception From Miami|date=July 9, 2010|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=May 18, 2011|archive-date=December 2, 2010|archive-url=https://web.archive.org/web/20101202155917/http://www.nba.com/raptors/news/raptors_trade_070910.html|url-status=live}}</ref> Previously, on February 14, 2009, the Heat acquired [[Jermaine O'Neal]], [[Jamario Moon]], a 2011 first-round draft pick (the 5th pick) and a [[2010 NBA draft|2010]] second-round draft pick from the Raptors in exchange for [[Shawn Marion]], [[Marcus Banks]] and cash considerations.<ref>{{cite web|url=http://www.nba.com/heat/news/heat_acquire_joneal_moon.html|title=Heat Acquire Jermaine O'Neal & Jamario Moon|date=February 14, 2009|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=June 29, 2011|archive-date=July 24, 2020|archive-url=https://web.archive.org/web/20200724143637/http://www.nba.com/heat/news/heat_acquire_joneal_moon.html|url-status=live}}</ref>
+*{{note label|Note4|d|d}} On February 23, 2011, the [[Washington Wizards]] acquired [[Mike Bibby]], [[Maurice Evans (basketball)|Maurice Evans]], [[Jordan Crawford]] and a 2011 first-round draft pick from the [[Atlanta Hawks]] in exchange for [[Kirk Hinrich]] and [[Hilton Armstrong]].<ref>{{cite web|url=http://www.nba.com/wizards/news/trade_022311.html|title=Wizards Acquire Bibby, Evans, Crawford and First Round Pick|date=February 23, 2011|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=May 18, 2011| archive-url= https://web.archive.org/web/20110628201811/http://www.nba.com/wizards/news/trade_022311.html| archive-date= 28 June 2011 | url-status= live}}</ref>
+*{{note label|Note5|e|e}} On February 23, 2011, the [[Charlotte Bobcats]] acquired [[Joel Przybilla]], [[Dante Cunningham]], [[Sean Marks]], [[New Orleans Hornets|New Orleans]]' 2011 first-round draft pick, [[Portland Trail Blazers|Portland]]'s [[2013 NBA draft|2013]] conditional first-round draft pick and cash considerations from the Portland Trail Blazers in exchange for [[Gerald Wallace]].<ref>{{cite web|url=http://www.nba.com/bobcats/release_portland_trade_110224.html |title=Cunningham, Przybilla, Marks, 2 First Round Picks Acquired from Portland |date=February 24, 2011 |work=NBA.com |publisher=Turner Sports Interactive, Inc |access-date=May 18, 2011 |archive-url=https://web.archive.org/web/20110628201955/http://www.nba.com/bobcats/release_portland_trade_110224.html |archive-date=28 June 2011 |url-status=dead }}</ref> Previously, on October 23, 2010, the Blazers acquired a 2011 first-round draft pick from the New Orleans Hornets in exchange for [[Jerryd Bayless]].<ref>{{cite web|url=http://www.nba.com/hornets/news/hornets_acquire_jarryd_bayless_2010_10_23.html |title=Hornets Acquire Jerryd Bayless from Portland |date=October 23, 2010 |work=NBA.com |publisher=Turner Sports Interactive, Inc |access-date=May 18, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20101028105520/http://www.nba.com/hornets/news/hornets_acquire_jarryd_bayless_2010_10_23.html |archive-date=October 28, 2010 }}</ref>
+*{{note label|Note6|f|f}} On July 13, 2010, the [[Minnesota Timberwolves]] acquired [[Kosta Koufos]], [[Memphis Grizzlies|Memphis]]'s 2011 first-round draft pick and Utah's 2012 conditional first-round draft pick from the Utah Jazz in exchange for [[Al Jefferson]].<ref>{{cite web|url=http://www.nba.com/timberwolves/news/Wolves_Acquire_First_Round_Draft_Picks_and_Kosta_Koufos_2010_07_13.html|title=Wolves Acquire First-Round Draft Picks and Kosta Koufos|date=July 13, 2010|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=May 18, 2011|archive-date=January 16, 2014|archive-url=https://web.archive.org/web/20140116191940/http://www.nba.com/timberwolves/news/Wolves_Acquire_First_Round_Draft_Picks_and_Kosta_Koufos_2010_07_13.html|url-status=live}}</ref> Previously, on February 18, 2010, the Jazz acquired a 2011 first-round draft pick from the Memphis Grizzlies in exchange for [[Ronnie Brewer]].<ref>{{cite web|url=http://www.nba.com/jazz/news/ronnie_brewer_to_memphis.html|title=Jazz Obtains Future First-Round Pick from Memphis|date=February 18, 2010|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=May 18, 2011|archive-date=June 16, 2020|archive-url=https://web.archive.org/web/20200616233749/https://www.nba.com/jazz/news/ronnie_brewer_to_memphis.html|url-status=live}}</ref>
+*{{note label|Note7|g|g}} On February 24, 2011, the [[Houston Rockets]] acquired [[Goran Dragić]] and [[Orlando Magic|Orlando]]'s 2011 first-round draft pick from the [[Phoenix Suns]] in exchange for [[Aaron Brooks (basketball)|Aaron Brooks]].<ref>{{cite web|url=http://www.nba.com/rockets/news/rockets_acquire_thabeet_dragi_2011_02_24.html|title=Rockets Deal For Thabeet, Dragic And Carroll|date=February 24, 2011|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=May 18, 2011|archive-date=June 5, 2013|archive-url=https://web.archive.org/web/20130605105353/http://www.nba.com/rockets/news/rockets_acquire_thabeet_dragi_2011_02_24.html|url-status=live}}</ref> Previously, on December 18, 2010, the Suns acquired [[Vince Carter]], [[Marcin Gortat]], [[Mickaël Piétrus]], a 2011 first-round draft pick and cash considerations from the Orlando Magic in exchange for [[Jason Richardson]], [[Hedo Türkoğlu]] and [[Earl Clark]].<ref>{{cite web|url=http://www.nba.com/suns/news/orlando_trade_101218.html|title=Suns, Magic Complete Six-Player Trade|date=December 18, 2010|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=May 18, 2011|archive-date=April 4, 2014|archive-url=https://web.archive.org/web/20140404193714/http://www.nba.com/suns/news/orlando_trade_101218.html|url-status=live}}</ref>
+*{{note label|Note8|h|h 1}}{{note label|Note8|h|2}} On December 15, 2010, the New Jersey Nets acquired [[Sasha Vujačić]] and a 2011 first-round draft pick from the [[Los Angeles Lakers]], while the Lakers acquired [[Joe Smith (basketball)|Joe Smith]], Golden State's 2011 and Chicago's 2012 second-round draft picks from the Nets in a three-team trade with the Lakers and the Houston Rockets.<ref>{{cite web|url=http://www.nba.com/nets/news/Vujacic_Trade_Release_101215.html|title=Nets Acquire Vujacic & Two 1st-Round Picks in 3-Team Trade|date=December 15, 2010|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=May 18, 2011| archive-url= https://web.archive.org/web/20110628203850/http://www.nba.com/nets/news/Vujacic_Trade_Release_101215.html| archive-date= 28 June 2011 | url-status= live}}</ref> Previously, the Nets acquired a 2011 second-round draft pick from the Golden State Warriors as a compensation for delaying the sending of the 2011 conditional first-round draft pick to at least 2012.<ref>{{cite web|url=https://www.sfgate.com/sports/article/Are-Warriors-going-after-big-name-3285844.php|title=Are Warriors going after big name?|first=Rusty|last=Simmons|date=September 23, 2009|work=SFGate.com|publisher=Hearst Communications Inc|access-date=June 29, 2011|archive-date=July 7, 2012|archive-url=https://archive.today/20120707000226/http://articles.sfgate.com/2009-09-23/sports/17207431_1_pick-original-trade-new-jersey|url-status=live}}</ref> In the original trade on July 22, 2008, the Nets acquired a 2011 conditional first-round draft pick on July 22, 2008, from the Golden State Warriors in exchange for [[Marcus Williams (basketball, born 1985)|Marcus Williams]].<ref>{{cite web|url=http://www.nba.com/warriors/news/warriors_acquire_marcus_williams.html|title=Warriors Acquire Guard Marcus Williams From New Jersey|date=July 22, 2008|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=June 29, 2011|archive-date=June 30, 2013|archive-url=https://web.archive.org/web/20130630050145/http://www.nba.com/warriors/news/warriors_acquire_marcus_williams.html|url-status=live}}</ref>
+*{{note label|Note9|i|i}} On July 12, 2010, the Miami Heat acquired 2011 and [[2014 NBA draft|2014]] second-round draft picks and cash considerations from the Minnesota Timberwolves in exchange for [[Michael Beasley]].<ref>{{cite web|url=http://www.nba.com/timberwolves/news/timberwolves_acquire_michael_beasley_2010_07_13.html|title=Timberwolves Acquire Michael Beasley|date=July 12, 2010|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=June 28, 2011|archive-date=September 19, 2020|archive-url=https://web.archive.org/web/20200919035235/https://www.nba.com/timberwolves/news/timberwolves_acquire_michael_beasley_2010_07_13.html|url-status=live}}</ref>
+*{{note label|Note10|j|j}} On June 15, 2007, the [[Detroit Pistons]] acquired [[2009 NBA Draft|2009]] and 2011 second-round draft picks from the Toronto Raptors in exchange for [[Carlos Delfino]].<ref>{{cite web|url=http://www.nba.com/raptors/news/release_061507.html|title=Raptors Acquire Carlos Delfino From Pistons|date=June 15, 2007|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=June 28, 2011|archive-date=February 10, 2012|archive-url=https://web.archive.org/web/20120210130219/http://www.nba.com/raptors/news/release_061507.html|url-status=live}}</ref>
+*{{note label|Note11|k|k}} On February 16, 2009, the Los Angeles Clippers acquired [[Alex Acker]] and a 2011 second-round draft pick from the Detroit Pistons in exchange for a 2013 conditional second-round draft pick.<ref>{{cite web|url=http://www.nba.com/clippers/news/acker_090216.html|title=Clippers Acquire Alex Acker From Detroit Pistons|date=February 16, 2009|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=June 28, 2011|archive-date=June 27, 2015|archive-url=https://web.archive.org/web/20150627201950/http://www.nba.com/clippers/news/acker_090216.html|url-status=live}}</ref>
+*{{note label|Note12|l|l 1}}{{note label|Note12|l|2}} On August 6, 2008, the Houston Rockets acquired the option to swap 2011 second-round draft picks from the Los Angeles Clippers in exchange for [[Steve Novak]].<ref>{{cite web|url=http://www.nba.com/clippers/news/snovak_080806.html|title=Clippers Acquire Steve Novak From Houston Rockets|date=August 6, 2008|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=June 28, 2011|archive-date=June 16, 2020|archive-url=https://web.archive.org/web/20200616233720/https://www.nba.com/clippers/news/snovak_080806.html|url-status=live}}</ref> The option to swap 2011 second-round draft picks was exercised.
+*{{note label|Note13|m|m}} On July 8, 2010, the Chicago Bulls acquired [[Carlos Boozer]] and a 2011 second-round draft pick from the Utah Jazz in exchange for a trade exception.<ref>{{cite web|url=https://www.espn.com/chicago/nba/news/story?id=5361792|title=Boozer has Bulls deal|date=July 8, 2010|work=ESPN.com|publisher=ESPN Internet Ventures|access-date=June 29, 2011|archive-date=January 30, 2016|archive-url=https://web.archive.org/web/20160130234236/http://sports.espn.go.com/chicago/nba/news/story?id=5361792|url-status=live}}</ref>
+*{{note label|Note14|n|n}} On July 22, 2010, the Golden State Warriors acquired Phoenix's 2011 second-round draft pick and a trade exception from the Chicago Bulls in exchange for [[C. J. Watson]].<ref>{{cite web|url=http://www.nba.com/warriors/news/warriors_trade_cj_watson_072210.html|title=Warriors Trade Guard C.J. Watson To Chicago|date=July 22, 2010|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=June 29, 2011|archive-date=June 16, 2020|archive-url=https://web.archive.org/web/20200616194449/https://www.nba.com/warriors/news/warriors_trade_cj_watson_072210.html|url-status=live}}</ref> Previously, on July 9, 2010, the Bulls acquired a second-round draft pick from the Phoenix Suns in exchange for [[Hakim Warrick]].<ref>{{cite web|url=http://www.nba.com/bulls/news/warrick_trade_100709.html|title=Bulls send Warrick to Phoenix via sign-and-trade deal|date=July 9, 2010|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=June 29, 2011|archive-date=June 16, 2020|archive-url=https://web.archive.org/web/20200616233729/https://www.nba.com/bulls/news/warrick_trade_100709.html|url-status=live}}</ref>
+*{{note label|Note15|o|o 1}}{{note label|Note15|o|2}} On September 29, 2010, the New Orleans Hornets acquired [[Willie Green]], [[Jason Smith (basketball, born 1986)|Jason Smith]] and the option to swap 2011 second-round draft picks from the [[Philadelphia 76ers]] in exchange for [[Darius Songaila]] and [[Craig Brackins]].<ref>{{cite web|url=http://articles.philly.com/2010-09-29/sports/24980577_1_sixers-samuel-dalembert-willie-green/2|title=Improvements coming to pass for Sixers at center|first=Kate|last=Fagan|date=September 29, 2010|work=Philly.com|publisher=The Inquirer|access-date=June 29, 2011|archive-date=May 31, 2012|archive-url=https://web.archive.org/web/20120531074103/http://articles.philly.com/2010-09-29/sports/24980577_1_sixers-samuel-dalembert-willie-green/2|url-status=dead}}</ref> The option to swap 2011 second-round draft picks was exercised.
+*{{note label|Note16|p|p}} On June 26, 2009, the Los Angeles Lakers acquired a 2011 second-round draft pick and cash considerations from the [[New York Knicks]] in exchange for the draft rights to [[Toney Douglas]].<ref>{{cite web|url=http://www.nba.com/knicks/news/090625toney_release.html|title=Knicks Acquire Draft Rights to Toney Douglas|date=June 26, 2009|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=June 29, 2011|archive-date=June 29, 2009|archive-url=https://web.archive.org/web/20090629054156/http://www.nba.com/knicks/news/090625toney_release.html|url-status=live}}</ref>
+*{{note label|Note17|q|q}} On July 13, 2009, the Detroit Pistons acquired a 2011 second-round draft pick from the [[Denver Nuggets]] in exchange for [[Arron Afflalo]], [[Walter Sharpe]] and cash considerations.<ref>{{cite web|url=http://www.nba.com/pistons/news/afflalo_sharpe_090713.html|title=Pistons Acquire Second Round Draft Choice from Denver in Exchange for Arron Afflalo, Walter Sharpe and Cash Considerations|date=July 13, 2009|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=June 29, 2011|archive-date=September 19, 2020|archive-url=https://web.archive.org/web/20200919040716/https://www.nba.com/pistons/news/afflalo_sharpe_090713.html|url-status=live}}</ref>
+*{{note label|Note18|r|r}} On July 10, 2010, the Cleveland Cavaliers acquired two first-round draft picks, New Orleans' 2012 and [[Oklahoma City Thunder|Oklahoma City]]'s second-round draft picks, the option to swap 2012 first-round draft picks and a trade exception from the Miami Heat in exchange for [[LeBron James]].<ref>{{cite web|url=http://www.nba.com/cavaliers/news/trade_100710.html|title=Cavaliers Complete Sign-and-Trade Deal with Miami|date=July 10, 2010|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=June 29, 2011|archive-date=January 21, 2021|archive-url=https://web.archive.org/web/20210121201834/https://www.nba.com/cavaliers/news/trade_100710.html|url-status=live}}</ref> Previously, on June 24, 2010, the Heat acquired a 2011 second-round pick from the Oklahoma City Thunder in exchange for the draft rights to [[Latavious Williams]].<ref>{{cite web|url=http://www.nba.com/thunder/news/team_release2_2010_06_25.html|title=Thunder Acquires Pleiss, Williams, Reid and Future First Round Pick in 2010 NBA Draft|date=June 24, 2010|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=June 29, 2011|archive-date=June 28, 2010|archive-url=https://web.archive.org/web/20100628040239/http://www.nba.com/thunder/news/team_release2_2010_06_25.html|url-status=live}}</ref>
+*{{note label|Note19|s|s}} On June 26, 2009, the Los Angeles Lakers acquired a 2011 second-round draft pick and cash considerations from the [[Miami Heat]] in exchange for the draft rights to [[Patrick Beverley]].<ref>{{cite web|url=http://www.nba.com/heat/news/HEAT_Acquire_Draft_Rights_to_P-317502-36.html|title=Heat Acquire Draft Rights to Patrick Beverley|date=June 26, 2009|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=June 29, 2011|archive-date=June 29, 2009|archive-url=https://web.archive.org/web/20090629071731/http://www.nba.com/heat/news/HEAT_Acquire_Draft_Rights_to_P-317502-36.html|url-status=live}}</ref>
+*{{note label|Note20|t|t}} On July 21, 2010, the [[Sacramento Kings]] acquired [[Darnell Jackson]] and a 2011 second-round draft pick from the [[Milwaukee Bucks]] in exchange for [[Jon Brockman]].<ref>{{cite web|url=http://www.nba.com/kings/news/press_release_2010_07_21.html|title=Kings Acquire Darnell Jackson and Future Second-Round Draft Pick|date=July 21, 2010|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=June 29, 2011|archive-date=June 16, 2020|archive-url=https://web.archive.org/web/20200616234204/https://www.nba.com/kings/news/press_release_2010_07_21.html|url-status=live}}</ref> Previously, on February 18, 2010, the Bucks acquired [[John Salmons]], the option to swap 2010 first-round draft pick, 2011 and 2012 second-round draft picks from the Chicago Bulls in exchange for [[Hakim Warrick]] and [[Joe Alexander]].<ref>{{cite web|url=http://www.nba.com/bucks/release/salmons_trade_100218.html|title=Bucks Acquire John Salmons from Bulls|date=February 18, 2010|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=June 29, 2011|archive-date=April 10, 2010|archive-url=https://web.archive.org/web/20100410042305/http://www.nba.com/bucks/release/salmons_trade_100218.html|url-status=live}}</ref>
+
+===Draft-day trades===
+The following trades involving drafted players were made on the day of the draft.<ref>{{cite web|url=http://www.nba.com/2011/news/06/23/draft-trades/index.html |title=2011 Draft Day Trade Tracker |date=June 24, 2011 |work=NBA.com |publisher=Turner Sports Interactive, Inc |access-date=June 28, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110627231015/http://www.nba.com/2011/news/06/23/draft-trades/index.html |archive-date=June 27, 2011 }}</ref><ref>{{cite web|url=https://www.espn.com/nba/draft2011/news/story?id=6692627|title=Trades during the 2011 NBA draft|date=June 24, 2011|work=ESPN.com|publisher=ESPN Internet Ventures|access-date=June 28, 2011|archive-date=January 28, 2016|archive-url=https://web.archive.org/web/20160128023701/http://sports.espn.go.com/nba/draft2011/news/story?id=6692627|url-status=live}}</ref>
+
+*{{note label|NoteA|A|A 1}}{{note label|NoteA|A|2}}{{note label|NoteA|A|3}} In a three-team trade, the [[Charlotte Bobcats]] acquired [[Corey Maggette]] from the [[Milwaukee Bucks]] and the draft rights to 7th pick [[Bismack Biyombo]] from the [[Sacramento Kings]], the Kings acquired [[John Salmons]] and the draft rights to 10th pick [[Jimmer Fredette]] from the Bucks, and the Bucks acquired [[Beno Udrih]] from the Kings, [[Stephen Jackson]], [[Shaun Livingston]] and the draft rights to 19th pick [[Tobias Harris]] from the Bobcats.<ref>{{cite web|url=http://www.nba.com/bucks/release/draft_trade_110623.html |title=Bucks acquire Jackson, Livingston, Udrih and draft rights to Tobias Harris in a three-team trade |date=June 23, 2011 |work=NBA.com |publisher=Turner Sports Interactive, Inc |access-date=June 23, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110627231238/http://www.nba.com/bucks/release/draft_trade_110623.html |archive-date=June 27, 2011 }}</ref>
+*{{note label|NoteB|B|B 1}}{{note label|NoteB|B|2}} The [[Indiana Pacers]] acquired [[George Hill (basketball)|George Hill]] from the [[San Antonio Spurs]] in exchange for the draft rights to 15th pick [[Kawhi Leonard]], 42nd pick [[Dāvis Bertāns]] and the draft rights to [[Erazem Lorbek]], the 46th pick in [[2005 NBA draft|2005]].<ref>{{cite web|url=http://www.nba.com/spurs/news/kawhi_leonard_110623|title=Spurs Obtain Draft Rights To Kawhi Leonard|date=June 23, 2011|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=June 28, 2011| archive-url= https://web.archive.org/web/20110627233737/http://www.nba.com/spurs/news/kawhi_leonard_110623| archive-date=June 27, 2011| url-status= live}}</ref>
+*{{note label|NoteC|C|C 1}}{{note label|NoteC|C|2}}{{note label|NoteC|C|3}} The [[Houston Rockets]] acquired [[Jonny Flynn]], the draft rights to 20th pick [[Donatas Motiejūnas]] and a [[2012 NBA draft|2012]] second-round draft pick from the [[Minnesota Timberwolves]] in exchange for [[Brad Miller (basketball)|Brad Miller]], the draft rights to 23rd pick [[Nikola Mirotić]], 38th pick [[Chandler Parsons]] and a future first-round draft pick. The Rockets then re-acquired the draft rights to Parsons from the Timberwolves in exchange for cash considerations.<ref name="timberwolves">{{cite web|url=http://www.nba.com/timberwolves/news/pressrelease_Wolves_Complete_Five_Draft_Night_Trades_2011_06_24.html|title=Wolves Complete Five Draft-Night Trades|date=June 24, 2011|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=June 28, 2011|archive-date=November 11, 2012|archive-url=https://web.archive.org/web/20121111025344/http://www.nba.com/timberwolves/news/pressrelease_Wolves_Complete_Five_Draft_Night_Trades_2011_06_24.html|url-status=live}}</ref>
+*{{note label|NoteD|D|D 1}}{{note label|NoteD|D|2}}{{note label|NoteD|D|3}} The [[Chicago Bulls]] acquired the draft rights to 23rd pick Nikola Mirotić from the Minnesota Timberwolves in exchange for the draft rights to 28th pick [[Norris Cole (basketball)|Norris Cole]], 43rd pick [[Malcolm Lee (basketball)|Malcolm Lee]] and cash considerations.<ref name="timberwolves"/>
+*{{note label|NoteE|E|E 1}}{{note label|NoteE|E|2}} The [[Brooklyn Nets|New Jersey Nets]] acquired the draft rights to 25th pick [[Marshon Brooks]] from the [[Boston Celtics]] in exchange for the draft rights to 27th pick [[JaJuan Johnson]] and a [[2014 NBA draft|2014]] second-round draft pick.<ref>{{cite web|url=http://www.nba.com/nets/news/2011DraftCentral_Recap_110623.html|title=Trade for Brooks, Draft Williams|first=Ben|last=Couch|date=June 23, 2011|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=June 28, 2011|archive-date=June 16, 2020|archive-url=https://web.archive.org/web/20200616233904/https://www.nba.com/nets/news/2011DraftCentral_Recap_110623.html|url-status=live}}</ref>
+*{{note label|NoteF|F|F 1}}{{note label|NoteF|F|2}} In a three-team trade, the [[Denver Nuggets]] acquired the draft rights to 26th pick [[Jordan Hamilton (basketball)|Jordan Hamilton]] from the [[Dallas Mavericks]], [[Andre Miller]] and a future second-round draft pick from the [[Portland Trail Blazers]], the Mavericks acquired [[Rudy Fernández (basketball)|Rudy Fernández]] and the draft rights to [[Petteri Koponen]], the 30th pick in [[2007 NBA draft|2007]], from the Blazers, and the Blazers acquired [[Raymond Felton]] from the Nuggets and the draft rights to 57th pick [[Tanguy Ngombo]] from the Mavericks.<ref>{{cite web|url=http://www.nba.com/nuggets/news/draft_trade_06_24_2011.html|title=Nuggets acquire Andre Miller, Jordan Hamilton, future pick|date=June 24, 2011|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=June 28, 2011|archive-date=October 26, 2015|archive-url=https://web.archive.org/web/20151026225629/http://www.nba.com/nuggets/news/draft_trade_06_24_2011.html|url-status=live}}</ref><ref>{{cite web|url=http://www.nba.com/mavericks/news/mavericks_acquire_rudy_fernandez.html|title=Mavericks Acquire Rudy Fernandez|date=June 23, 2011|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=June 28, 2011| archive-url= https://web.archive.org/web/20110627233525/http://www.nba.com/mavericks/news/mavericks_acquire_rudy_fernandez.html| archive-date=June 27, 2011| url-status= live}}</ref>
+*{{note label|NoteG|G|G 1}}{{note label|NoteG|G|2}} The [[Miami Heat]] acquired the draft rights to 28th pick Norris Cole from the Minnesota Timberwolves in exchange for the draft rights to 31st pick [[Bojan Bogdanović]], a 2014 second-round draft pick and cash considerations.<ref name="timberwolves"/><ref>{{cite web|url=http://www.nba.com/heat/news/heat_acquires_norris_cole.html|title=Heat Acquires Norris Cole|date=June 24, 2011|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=June 28, 2011| archive-url= https://web.archive.org/web/20110627233439/http://www.nba.com/heat/news/heat_acquires_norris_cole.html| archive-date=June 27, 2011| url-status= live}}</ref>
+*{{note label|NoteH|H|H}} The New Jersey Nets acquired the draft rights to 31st pick Bojan Bogdanović from the Minnesota Timberwolves in exchange for a [[2013 NBA draft|2013]] second-round draft pick and cash considerations.<ref>{{cite web|url=http://www.nba.com/nets/news/Bogdanovic_Rights_Release_110624.html|title=Nets Acquire Draft Rights to Bojan Bogdanovic|date=June 24, 2011|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=June 28, 2011| archive-url= https://web.archive.org/web/20120119053137/http://www.nba.com/nets/news/Bogdanovic_Rights_Release_110624.html| archive-date=January 19, 2012| url-status= live}}</ref>
+*{{note label|NoteI|I|I}} The [[Orlando Magic]] acquired the draft rights to 32nd pick [[Justin Harper (basketball)|Justin Harper]] from the [[Cleveland Cavaliers]] in exchange for 2013 and 2014 second-round draft picks.<ref>{{cite web|url=http://www.nba.com/cavaliers/news/cavs_draft_results_110624.html|title=Cavaliers Select Irving and Thompson with First and Fourth Overall Picks in The 2011 NBA Draft|date=June 24, 2011|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=June 28, 2011|archive-date=February 11, 2015|archive-url=https://web.archive.org/web/20150211130023/http://www.nba.com/cavaliers/news/cavs_draft_results_110624.html|url-status=live}}</ref>
+*{{note label|NoteJ|J|J}} The [[Golden State Warriors]] acquired the draft rights to 39th pick [[Jeremy Tyler]] from the Charlotte Bobcats in exchange for cash considerations.<ref>{{cite web|url=http://www.nba.com/warriors/news/draft_2011_thompson_jenkins_tyler.html|title=Warriors Select Guards Klay Thompson & Charles Jenkins In 2011 NBA Draft|date=June 23, 2011|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=June 28, 2011|archive-date=November 23, 2020|archive-url=https://web.archive.org/web/20201123162431/https://www.nba.com/warriors/news/draft_2011_thompson_jenkins_tyler.html|url-status=live}}</ref>
+*{{note label|NoteK|K|K}} The [[New York Knicks]] acquired the draft rights to 45th pick [[Josh Harrellson]] from the [[New Orleans Pelicans|New Orleans Hornets]] in exchange for cash considerations.<ref>{{cite web|url=http://www.nba.com/knicks/draft2011/knicks_acquire_draft_rights__2011_06_23.html|title=Knicks Acquire Draft Rights To Josh Harrellson|date=June 23, 2011|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=June 28, 2011|archive-date=December 5, 2011|archive-url=https://web.archive.org/web/20111205234504/http://www.nba.com/knicks/draft2011/knicks_acquire_draft_rights__2011_06_23.html|url-status=live}}</ref>
+*{{note label|NoteL|L|L}} The Denver Nuggets acquired the draft rights to 56th pick [[Chukwudiebere Maduabum]] from the [[Los Angeles Lakers]] in exchange for a future second-round draft pick.<ref>{{cite web|url=http://www.nba.com/nuggets/news/chuchu_trade_06_24_2011.html|title=Nuggets acquire rights to Nigerian forward from Lakers|date=June 23, 2011|work=NBA.com|publisher=Turner Sports Interactive, Inc|access-date=June 28, 2011|archive-date=October 28, 2014|archive-url=https://web.archive.org/web/20141028054429/http://www.nba.com/nuggets/news/chuchu_trade_06_24_2011.html|url-status=live}}</ref>
+
+==Notes==
+{{reflist|group=n}}
+
+==See also==
+* [[List of first overall NBA draft picks]]
+
+
+==References==
+;General
+{{refbegin}}
+*{{cite web|url=https://insider.espn.com/nba/draft/results/rounds?year=2011&round=1|title=2011 NBA Draft Results Round 1|work=ESPN.com|publisher=ESPN Internet Ventures|access-date=June 28, 2011|archive-date=March 5, 2016|archive-url=https://web.archive.org/web/20160305011841/http://insider.espn.go.com/nba/draft/results/rounds?year=2011&round=1|url-status=live}}
+*{{cite web|url=https://insider.espn.com/nba/draft/results/rounds?year=2011&round=2|title=2011 NBA Draft Results Round 2|work=ESPN.com|publisher=ESPN Internet Ventures|access-date=June 28, 2011|archive-date=March 4, 2016|archive-url=https://web.archive.org/web/20160304120642/http://insider.espn.go.com/nba/draft/results/rounds?year=2011&round=2|url-status=live}}
+*{{cite magazine|url=http://sportsillustrated.cnn.com/basketball/2011/draft/breakdowns/by_round/1.html|title=NBA Draft 2011&nbsp;– Round 1|magazine=Sports Illustrated|publisher=Time Warner Company|access-date=June 28, 2011|archive-date=March 13, 2013|archive-url=https://web.archive.org/web/20130313030508/http://sportsillustrated.cnn.com/basketball/2011/draft/breakdowns/by_round/1.html|url-status=dead}}
+*{{cite magazine|url=http://sportsillustrated.cnn.com/basketball/2011/draft/breakdowns/by_round/2.html|title=NBA Draft 2011&nbsp;– Round 2|magazine=Sports Illustrated|publisher=Time Warner Company|access-date=June 28, 2011|archive-date=November 4, 2012|archive-url=https://web.archive.org/web/20121104120639/http://sportsillustrated.cnn.com/basketball/2011/draft/breakdowns/by_round/2.html|url-status=dead}}
+*{{cite web|url=https://sports.yahoo.com/nba/draft;_ylt=AkVqJCnq0Kgwz2zJ5fwB_33Pgq9_?round=1|title=2011 NBA Draft&nbsp;– Round 1|work=Yahoo! Sports|publisher=Yahoo! Inc|access-date=June 28, 2011|archive-date=September 13, 2022|archive-url=https://web.archive.org/web/20220913175857/https://sports.yahoo.com/nba/draft/?round=1|url-status=live}}
+*{{cite web|url=https://sports.yahoo.com/nba/draft;_ylt=AreGkqVXEu6_XhQOUWPijeTPgq9_?round=2|title=2011 NBA Draft&nbsp;– Round 2|work=Yahoo! Sports|publisher=Yahoo! Inc|access-date=June 28, 2011|archive-date=September 13, 2022|archive-url=https://web.archive.org/web/20220913175848/https://sports.yahoo.com/nba/draft/?round=2|url-status=live}}
+{{refend}}
+
+;Specific
+{{Reflist|30em}}
+
+==External links==
+*[https://web.archive.org/web/20120525070935/http://www.nba.com/draft/2011/ NBA.com: Draft 2011]
+
+{{NBA Drafts}}
+{{NBA Draft history by team}}
+{{2011 NBA draft}}
+{{2011–12 NBA season by team}}
+{{NBA on ABC}}
+{{Portal bar|Sports}}
+
+[[Category:2011–12 NBA season|Draft]]
+[[Category:NBA draft]]
+[[Category:June 2011 sports events in the United States|NBA draft]]
+[[Category:2011 in sports in New Jersey|NBA draft]]
+[[Category:2010s in Newark, New Jersey]]
+[[Category:Organized events in Newark, New Jersey]]
+[[Category:Basketball in Newark, New Jersey]]

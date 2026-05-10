@@ -1,0 +1,1456 @@
+{{short description|Basketball player selection}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox sports draft
+| name        = 1985 NBA Draft
+| image       = 
+| caption     = 
+| logo        = 
+| logosize    = 
+| sport       = Basketball
+| date        = June 18, 1985
+| location    = [[Felt Forum]], [[Madison Square Garden]] ([[New York City]], [[New York (state)|New York]])<ref>{{cite book|last=Bradley|first=Robert D.|title=The Basketball Draft Fact Book: A History of Professional Basketball's College Drafts|year=2013|publisher=Scarecrow Press|isbn=9780810890695}}</ref>
+| network     = [[NBA on TBS|TBS Superstation]]
+| league      = NBA
+| teams       = 
+| overall     = 162
+| rounds      = 7
+| first       = [[Patrick Ewing]] ([[New York Knicks]])
+| hofnum      = {{Collapsible list
+| title = 5
+|1 = C [[Patrick Ewing]]
+|2 = SF [[Chris Mullin]]
+|3 = PF [[Karl Malone]]
+|4 = SG [[Joe Dumars]]
+|5 = C [[Arvydas Sabonis]]}}
+| prev        = [[1984 NBA draft|1984]]
+| next        = [[1986 NBA draft|1986]]
+}}
+
+The '''[[1985–86 NBA season|1985]] [[NBA draft]]''' took place on June 18, 1985. It was also the first NBA draft of the "[[NBA draft lottery|lottery]]" era. It was also around this time where the league decreased the amount of rounds the draft spent, with the previous few years lasting up to 10 rounds total. A total of 162 players were selected over seven rounds by the league's 23 teams.<ref>{{cite web|title=1985 NBA Draft|url=https://www.basketball-reference.com/draft/NBA_1985.html|publisher=Basketball-Reference.com|access-date=6 August 2011| archive-url= https://web.archive.org/web/20110704084519/http://www.basketball-reference.com/draft/NBA_1985.html| archive-date= 4 July 2011 | url-status= live}}</ref>
+
+The [[New York Knicks]] were awarded the first overall pick by winning the first-ever [[NBA draft lottery]], which was held in May of that year.  The Knicks used it on [[Georgetown University|Georgetown]]'s [[Patrick Ewing]]. In addition to Ewing, this draft also resulted in several Hall of Famers, including [[Karl Malone]] taken by the [[Utah Jazz]] at pick 13.
+
+==Draft selections==
+{|class=wikitable
+|-
+| PG || [[Point guard]]
+| SG || [[Shooting guard]]
+| SF || [[Small forward]]
+| PF || [[Power forward (basketball)|Power forward]]
+| C || [[Center (basketball)|Center]]
+|}
+{{NBA Draft legend|1=y|2=y|3=y|4=y|5=y|6=y}}
+
+[[File:Patrick Ewing ca. 1995 cropped.jpg|right|thumb|150px|[[Patrick Ewing]], the 1st pick]]
+[[File:Wayman Tisdale.jpg|right|thumb|150px|[[Wayman Tisdale]], the 2nd pick]]
+[[File:Chris Mullin.jpg|right|thumb|150px|[[Chris Mullin (basketball)|Chris Mullin]], the 7th pick]]
+[[File:Detlef Schrempf (cropped).jpg|right|thumb|150px|[[Detlef Schrempf]], the 8th pick]]
+[[File:Charles Oakley.jpg|right|thumb|150px|[[Charles Oakley]], the 9th pick]]
+[[File:Bill Wennington (crop).jpg|right|thumb|150px|[[Bill Wennington]], the 16th pick]]
+[[File:Joe Dumars.jpg|right|thumb|150px|[[Joe Dumars]], the 18th pick]]
+[[file:A. C. Green at HUD in 2004.JPG|right|thumb|150px|[[A.C. Green]], the 23rd pick]]
+[[File:Terry Porter.jpg|right|thumb|150px|[[Terry Porter]], the 24th pick]]
+[[file:Sam Mitchell (1705066) (cropped).jpg|thumb|right|150px|[[Sam Mitchell (basketball)|Sam Mitchell]], the 54th pick]]
+[[File:Mario Elie.jpg|thumb|right|150px|[[Mario Elie]], the 160th pick]]
+
+{| class="wikitable sortable"
+! width="1%"| Round
+! width="1%"| Pick
+! width="10%"| Player
+! width="1%"| Pos.
+! width="10%"| Nationality{{refn|group=n|Nationality indicates the player's national team or representative nationality. If a player has not competed at the international level, then the nationality indicates the national team which the player is eligible to represent according to [[FIBA]] rules.}}
+! width="10%"| Team
+! width="10%"| School/club team
+|-
+|align=center|1
+|align=center|1
+| bgcolor="#FFFF99"| {{sortname|Patrick|Ewing}}^~
+|C
+| {{flagu|United States}}<ref>Ewing was born in {{JAM}}, but had become a naturalized United States citizen while at Georgetown, as evidenced by his selection to the [[United States men's national basketball team|USA team]] at the [[Basketball at the 1984 Summer Olympics|1984 Olympics]].</ref>
+| [[New York Knicks]]
+| [[Georgetown Hoyas men's basketball|Georgetown]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|1
+|align=center|2
+| {{sortname|Wayman|Tisdale}}
+|PF
+| {{flagu|United States}}
+| [[Indiana Pacers]]
+| [[Oklahoma Sooners men's basketball|Oklahoma]] {{small|([[Junior (education year)|Jr.]])}}
+|-
+|align=center|1
+|align=center|3
+| {{sortname|Benoit|Benjamin}}
+|C
+| {{flagu|United States}}
+| [[Los Angeles Clippers]]
+| [[Creighton Bluejays men's basketball|Creighton]] {{small|([[Junior (education year)|Jr.]])}}
+|-
+|align=center|1
+|align=center|4
+| bgcolor="#FFCC00"| {{sortname|Xavier|McDaniel}}<sup>+</sup>
+|PF
+| {{flagu|United States}}
+| [[Seattle SuperSonics]]
+| [[Wichita State Shockers men's basketball|Wichita State]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|1
+|align=center|5
+| {{sortname|Jon|Koncak}}
+|C
+| {{flagu|United States}}
+| [[Atlanta Hawks]]
+| [[SMU Mustangs men's basketball|SMU]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|1
+|align=center|6
+| {{sortname|Joe|Kleine}}
+|C
+| {{flagu|United States}}
+| [[Sacramento Kings]]
+| [[Arkansas Razorbacks men's basketball|Arkansas]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|1
+|align=center|7
+| bgcolor="#FFFF99"| {{sortname|Chris|Mullin|dab=basketball}}^
+|SF
+| {{flagu|United States}}
+| [[Golden State Warriors]]
+| [[St. John's Red Storm men's basketball|St. John's]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|1
+|align=center|8
+| bgcolor="#FBCEB1"| {{sortname|Detlef|Schrempf}}*
+|SF/PF
+| {{FRG}}<!--This was before German reunification.-->
+| [[Dallas Mavericks]] {{small|(from [[Cleveland Cavaliers|Cleveland]])}}
+| [[Washington Huskies men's basketball|Washington]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|1
+|align=center|9
+| bgcolor="#FFCC00"| {{sortname|Charles|Oakley}}<sup>+</sup>
+|PF
+| {{flagu|United States}}
+| [[Cleveland Cavaliers]] <nowiki>*</nowiki>
+| [[Virginia Union University#Men's basketball|Virginia Union]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|1
+|align=center|10
+| {{sortname|Ed|Pinckney}}
+|PF
+| {{flagu|United States}}
+| [[Phoenix Suns]]
+| [[Villanova Wildcats men's basketball|Villanova]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|1
+|align=center|11
+| {{sortname|Keith|Lee|Keith Lee (basketball)}}
+|C
+| {{flagu|United States}}
+| [[Chicago Bulls]]
+| [[Memphis Tigers men's basketball|Memphis State]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|1
+|align=center|12
+| {{sortname|Kenny|Green|Kenny Green (basketball, born 1964)}}
+| F
+| {{flagu|United States}}
+| [[Washington Bullets]]
+| [[Wake Forest Demon Deacons men's basketball|Wake Forest]] {{small|([[Junior (education year)|Jr.]])}}
+|-
+|align=center|1
+|align=center|13
+| bgcolor="#FFFF99"| {{sortname|Karl|Malone}}^
+|PF
+| {{flagu|United States}}
+| [[Utah Jazz]]
+| [[Louisiana Tech Bulldogs basketball|Louisiana Tech]] {{small|([[Junior (education year)|Jr.]])}}
+|-
+|align=center|1
+|align=center|14
+| {{sortname|Alfredrick|Hughes}}
+|SG
+| {{flagu|United States}}
+| [[San Antonio Spurs]]
+| [[Loyola Ramblers men's basketball|Loyola (IL)]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|1
+|align=center|15
+| {{sortname|Blair|Rasmussen}}
+|C
+| {{flagu|United States}}
+| [[Denver Nuggets]] {{small|(from [[Portland Trail Blazers|Portland]])}}
+| [[Oregon Ducks men's basketball|Oregon]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|1
+|align=center|16
+| {{sortname|Bill|Wennington}}
+|C
+| {{flagu|Canada}}
+| [[Dallas Mavericks]] {{small|(from [[New Jersey Nets|New Jersey]])}}
+| [[St. John's Red Storm men's basketball|St. John's]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|1
+|align=center|17
+| {{sortname|Uwe|Blab}}
+|C
+| {{FRG}}
+| [[Dallas Mavericks]]
+| [[Indiana Hoosiers men's basketball|Indiana]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|1
+|align=center|18
+| bgcolor="#FFFF99"| {{sortname|Joe|Dumars}}^
+|SG
+| {{flagu|United States}}
+| [[Detroit Pistons]]
+| [[McNeese State Cowboys basketball|McNeese State]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|1
+|align=center|19
+| {{sortname|Steve|Harris|Steve Harris (basketball)}}
+|SG
+| {{flagu|United States}}
+| [[Houston Rockets]]
+| [[Tulsa Golden Hurricane men's basketball|Tulsa]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|1
+|align=center|20
+| {{sortname|Sam|Vincent|Sam Vincent (basketball)}}
+|SG
+| {{flagu|United States}}
+| [[Boston Celtics]] {{small|(from [[Denver Nuggets|Denver]] via [[Dallas Mavericks|Dallas]])}}
+| [[Michigan State Spartans men's basketball|Michigan State]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|1
+|align=center|21
+| {{sortname|Terry|Catledge}}
+|PF
+| {{flagu|United States}}
+| [[Philadelphia 76ers]]
+| [[South Alabama Jaguars men's basketball|South Alabama]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|1
+|align=center|22
+| {{sortname|Jerry|Reynolds|dab=basketball, born 1962}}
+|G/F
+| {{flagu|United States}}
+| [[Milwaukee Bucks]]
+| [[LSU Tigers basketball|LSU]] {{small|([[Junior (education year)|Jr.]])}}
+|-
+|align=center|1
+|align=center|23
+| bgcolor="#FFCC00"| {{sortname|A.C.|Green}}<sup>+</sup>
+|SF/PF
+| {{flagu|United States}}
+| [[Los Angeles Lakers]]
+| [[Oregon State Beavers men's basketball|Oregon State]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|1
+|align=center|24
+| bgcolor="#FFCC00"| {{sortname|Terry|Porter}}<sup>+</sup>
+|PG
+| {{flagu|United States}}
+| [[Portland Trail Blazers]] {{small|(from [[Boston Celtics|Boston]] via [[Dallas Mavericks|Dallas]])}}
+| [[Wisconsin–Stevens Point Pointers#Basketball|Wisconsin–Stevens Point]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|2
+|align=center|25
+| {{sortname|Mike|Smrek}}
+|C
+| {{flagu|Canada}}
+| [[Portland Trail Blazers]]
+| [[Canisius Golden Griffins men's basketball|Canisius]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|2
+|align=center|26
+| {{sortname|Bill|Martin|Bill Martin (basketball)}}
+|F
+| {{flagu|United States}}
+| [[Indiana Pacers]]
+| [[Georgetown Hoyas men's basketball|Georgetown]]  {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|2
+|align=center|27
+| {{sortname|Dwayne|McClain}}
+|SG
+| {{flagu|United States}}
+| [[Indiana Pacers]]
+| [[Villanova Wildcats men's basketball|Villanova]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|2
+|align=center|28
+| {{sortname|Ken|Johnson|Ken Johnson (basketball, born 1962)}}
+|F
+| {{flagu|United States}}
+| [[Chicago Bulls]]
+| [[Michigan State Spartans men's basketball|Michigan State]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|2
+|align=center|29
+| {{sortname|Mike|Brittain}}
+|C
+| {{flagu|United States}}
+| [[San Antonio Spurs]]
+| [[South Carolina Gamecocks men's basketball|South Carolina]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|2
+|align=center|30
+| bgcolor="C0C0C0" width="5%"| {{sortname|Calvin|Duncan|Calvin Duncan (basketball)}}<sup>#</sup>
+|G
+| {{flagu|United States}}
+| [[Cleveland Cavaliers]]
+| [[VCU Rams men's basketball|VCU]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|2
+|align=center|31
+| {{sortname|Manute|Bol}}
+|C
+| {{SUD}}
+| [[Washington Bullets]]
+| [[University of Bridgeport#Athletics|Bridgeport]] {{small|([[Freshman (education)|Fr.]])}}
+|-
+|align=center|2
+|align=center|32
+|  {{sortname|Nick|Vanos}}
+|C
+| {{flagu|United States}}
+| [[Phoenix Suns]]
+| [[Santa Clara Broncos men's basketball|Santa Clara]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|2
+|align=center|33
+| {{sortname|Greg|Stokes}}
+|F/C
+| {{flagu|United States}}
+| [[Philadelphia 76ers]]
+| [[Iowa Hawkeyes men's basketball|Iowa]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|2
+|align=center|34
+| bgcolor="#C0C0C0" width="5%"|{{sortname|Aubrey|Sherrod}}<sup>#</sup>
+|SG
+| {{flagu|United States}}
+| [[Chicago Bulls]]
+| [[Wichita State Shockers men's basketball|Wichita State]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|2
+|align=center|35
+| {{sortname|Tyrone|Corbin}}
+|SF/PF
+| {{flagu|United States}}
+| [[San Antonio Spurs]]
+| [[DePaul Blue Demons men's basketball|DePaul]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|2
+|align=center|36
+| {{sortname|Yvon|Joseph}}
+|C
+| {{HAI}}
+| [[New Jersey Nets]]
+| [[Georgia Tech Yellow Jackets men's basketball|Georgia Tech]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|2
+|align=center|37
+| {{sortname|Carey|Scurry}}
+|F
+| {{flagu|United States}}
+| [[Utah Jazz]]
+| [[LIU Brooklyn Blackbirds men's basketball|LIU Brooklyn]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|2
+|align=center|38
+| {{sortname|Fernando|Martín|Fernando Martín Espina}}
+|PF
+| {{flagu|Spain}}
+| [[New Jersey Nets]]
+| [[Real Madrid Baloncesto|Real Madrid]] {{small|([[Liga ACB|Spain]])}}
+|-
+|align=center|2
+|align=center|39
+| bgcolor="#C0C0C0" width="5%"|{{sortname|George|Montgomery|dab=basketball player}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Portland Trail Blazers]]
+| [[Illinois Fighting Illini men's basketball|Illinois]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|2
+|align=center|40
+| {{sortname|Mark|Acres}}
+|F/C
+| {{flagu|United States}}
+| [[Dallas Mavericks]]
+| [[Oral Roberts Golden Eagles men's basketball|Oral Roberts]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|2
+|align=center|41
+| {{sortname|Lorenzo|Charles}}
+|PF
+| {{flagu|United States}}
+| [[Atlanta Hawks]]
+| [[NC State Wolfpack men's basketball|NC State]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|2
+|align=center|42
+| bgcolor="#C0C0C0" width="5%"|{{sortname|Bobby Lee|Hurt}}<sup>#</sup>
+| C/F
+| {{flagu|United States}}
+| [[Golden State Warriors]]
+| [[Alabama Crimson Tide men's basketball|Alabama]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|2
+|align=center|43
+| {{sortname|Barry|Stevens|dab=basketball}}
+|G/F
+| {{flagu|United States}}
+| [[Denver Nuggets]]
+| [[Iowa State Cyclones men's basketball|Iowa State]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|2
+|align=center|44
+| {{sortname|Voise|Winters}}
+| SG
+| {{flagu|United States}}
+| [[Philadelphia 76ers]]
+| [[Bradley Braves men's basketball|Bradley]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|2
+|align=center|45
+| {{sortname|John "Hot Rod"|Williams}}
+|PF
+| {{flagu|United States}}
+| [[Cleveland Cavaliers]]
+| [[Tulane Green Wave men's basketball|Tulane]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|2
+|align=center|46
+| {{sortname|Adrian|Branch}}
+|SF
+| {{flagu|United States}}
+| [[Chicago Bulls]] {{small|(from [[Los Angeles Lakers|L.A. Lakers]])}}
+| [[Maryland Terrapins men's basketball|Maryland]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|2
+|align=center|47
+| {{sortname|Gerald|Wilkins}}
+|SG
+| {{flagu|United States}}
+| [[New York Knicks]] {{small|(from [[Boston Celtics|Boston]])}}
+| [[Chattanooga Mocs basketball|Chattanooga]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|3
+|align=center|48
+| bgcolor="#C0C0C0"|{{sortname|Kenny|Patterson|nolink=1}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[Indiana Pacers]]
+| [[DePaul Blue Demons men's basketball|DePaul]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|3
+|align=center|49
+|{{sortname|Brad|Wright|dab=basketball}}
+|PF
+|{{flagu|United States}}
+|[[Golden State Warriors]]
+|[[UCLA Bruins men's basketball|UCLA]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|3
+|align=center|50
+| bgcolor="#C0C0C0"|{{sortname|Leonard|Allen|nolink=1}}<sup>#</sup>
+| C
+| {{flagu|United States}}
+| [[Dallas Mavericks]]
+| [[San Diego State Aztecs men's basketball|San Diego State]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|3
+|align=center|51
+| bgcolor="#C0C0C0"|{{sortname|Charlie|Bradley|Charlie Bradley (basketball)}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[Sacramento Kings]]
+| [[South Florida Bulls men's basketball|South Florida]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|3
+|align=center|52
+| bgcolor="#C0C0C0"|{{sortname|Anicet|Lavodrama}}<sup>#</sup>
+| C
+| {{flagu|Central African Republic}}
+| [[Los Angeles Clippers]]
+| [[Houston Baptist Huskies men's basketball|Houston Baptist]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|3
+|align=center|53
+| bgcolor="#C0C0C0"|{{sortname|Rolando|Lamb|nolink=1}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[Seattle SuperSonics]]
+| [[VCU Rams men's basketball|VCU]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|3
+|align=center|54
+|{{sortname|Sam|Mitchell|dab=basketball}}
+|SF/PF
+|{{flagu|United States}}
+|[[Houston Rockets]] {{small|(from [[San Antonio Spurs|San Antonio]] via [[Atlanta Hawks|Atlanta]])****}}
+|[[Mercer Bears men's basketball|Mercer]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|3
+|align=center|55
+| bgcolor="#C0C0C0"|{{sortname|Herb|Johnson|Herb Johnson (basketball)}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Cleveland Cavaliers]]
+| [[Tulsa Golden Hurricane men's basketball|Tulsa]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|3
+|align=center|56
+| bgcolor="#C0C0C0"|{{sortname|Jerry|Everett|nolink=1}}<sup>#</sup>
+| C
+| {{flagu|United States}}
+| [[Phoenix Suns]]
+| [[Lamar Cardinals men's basketball|Lamar]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|3
+|align=center|57
+| bgcolor="#C0C0C0"|{{sortname|Michael|Payne|nolink=1}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Houston Rockets]]
+| [[Iowa Hawkeyes men's basketball|Iowa]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|3
+|align=center|58
+| bgcolor="#C0C0C0"|{{sortname|Vernon|Moore|nolink=1}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[Washington Bullets]]
+| [[Creighton Bluejays men's basketball|Creighton]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|3
+|align=center|59
+|{{sortname|Sedric|Toney}}
+|PG
+|{{flagu|United States}}
+|[[Atlanta Hawks]]**
+|[[Dayton Flyers men's basketball|Dayton]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|3
+|align=center|60
+| bgcolor="#C0C0C0"|{{sortname|Andre|Goode|nolink=1}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Detroit Pistons]]
+| [[Northwestern Wildcats men's basketball|Northwestern]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|3
+|align=center|61
+|{{sortname|Perry|Young|dab=basketball}}
+|SG
+|{{flagu|United States}}
+|[[Portland Trail Blazers]]
+|[[Virginia Tech Hokies men's basketball|Virginia Tech]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|3
+|align=center|62
+| bgcolor="#C0C0C0"|{{sortname|Nigel|Miguel}}<sup>#</sup>
+| G
+| {{flagu|Belize}}<br>{{flagu|United States}}
+| [[New Jersey Nets]]
+| [[UCLA Bruins men's basketball|UCLA]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|3
+|align=center|63
+|{{sortname|Harold|Keeling}}
+|SG
+|{{flagu|United States}}
+|[[Dallas Mavericks]]
+|[[Santa Clara Broncos men's basketball|Santa Clara]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|3
+|align=center|64
+| bgcolor="#C0C0C0"|{{sortname|Richie|Johnson|nolink=1}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Detroit Pistons]]
+| [[Evansville Purple Aces men's basketball|Evansville]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|3
+|align=center|65
+| bgcolor="#C0C0C0"|{{sortname|Kenny|Perry|nolink=1}}<sup>#</sup>
+| C
+| {{flagu|United States}}
+| [[Washington Bullets]]
+| [[Southern Illinois Salukis men's basketball|Southern Illinois]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|3
+|align=center|66
+| bgcolor="#FFCC00"|{{sortname|Michael|Adams|dab=basketball}}<sup>+</sup>
+|PG
+|{{flagu|United States}}
+|[[Sacramento Kings]] {{small|(from [[Denver Nuggets|Denver]])}}
+|[[Boston College Eagles men's basketball|Boston College]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|3
+|align=center|67
+| bgcolor="#C0C0C0"|{{sortname|Steve|Black|nolink=1}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[Philadelphia 76ers]]
+| [[La Salle Explorers men's basketball|La Salle]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|3
+|align=center|68
+| bgcolor="#C0C0C0"|{{sortname|Eugene|McDowell}}<sup>#</sup>
+| C
+| {{flagu|United States}}
+| [[Milwaukee Bucks]]
+| [[Florida Gators men's basketball|Florida]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|3
+|align=center|69
+|{{sortname|Mike|Brown|dab=basketball, born 1963}}
+|C
+|{{flagu|United States}}
+|[[Chicago Bulls]]***
+|[[George Washington Colonials men's basketball|George Washington]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|3
+|align=center|70
+| bgcolor="#C0C0C0"|{{sortname|Andre|Battle|nolink=1}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[Boston Celtics]]
+| [[Loyola Ramblers men's basketball|Loyola Chicago]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|4
+|align=center|71
+| bgcolor="#C0C0C0"|{{sortname|Luster|Goodwin|nolink=1}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[Golden State Warriors]]
+| [[UTEP Miners men's basketball|UTEP]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|4
+|align=center|72
+| bgcolor="#C0C0C0"|{{sortname|Vince|Hamilton|nolink=1}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[Indiana Pacers]]
+| [[Clemson Tigers men's basketball|Clemson]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|4
+|align=center|73
+|{{sortname|Fred|Cofield}}
+|PG
+|{{flagu|United States}}
+|[[New York Knicks]]
+|[[Eastern Michigan Eagles men's basketball|Eastern Michigan]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|4
+|align=center|74
+| bgcolor="#C0C0C0"|{{sortname|Jim|Deines}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Los Angeles Clippers]]
+| [[Arizona State Sun Devils men's basketball|Arizona State]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|4
+|align=center|75
+|{{sortname|Alex|Stivrins}}
+|F
+|{{flagu|United States}}
+|[[Seattle SuperSonics]]
+|[[Colorado Buffaloes men's basketball|Colorado]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|4
+|align=center|76
+| bgcolor="#C0C0C0"|{{sortname|Willie|Simmons|nolink=1}}<sup>#</sup>
+| C
+| {{flagu|United States}}
+| [[Sacramento Kings]]
+| [[Louisiana Tech Bulldogs basketball|Louisiana Tech]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|4
+|align=center|77
+| bgcolor="#FFFF99"| {{sortname|Arvydas|Sabonis}}^
+|C
+|{{URS}}
+|[[Atlanta Hawks]] {{small|(pick voided because Sabonis was not yet 21 at the time of the draft)}}<ref>{{cite web|last=McCallum|first=Jack|title=Hoops giant Sabonis was a mystery man with indisputable talent|url=http://sportsillustrated.cnn.com/2011/writers/jack_mccallum/08/11/arvydas.sabonis.hof/|work=SI.com|access-date=January 4, 2014|date=August 11, 2011|url-status=dead|archive-url=https://web.archive.org/web/20140104205502/http://sportsillustrated.cnn.com/2011/writers/jack_mccallum/08/11/arvydas.sabonis.hof/|archive-date=January 4, 2014}} Sabonis was subsequently selected in the first round (24th overall) of the [[1986 NBA draft]].</ref> 
+|[[BC Žalgiris|Žalgiris Kaunas]] {{small|([[USSR Premier Basketball League|Soviet Union]])}}
+|-
+|align=center|4
+|align=center|78
+| bgcolor="#C0C0C0"|{{sortname|Granger|Hall|Granger Hall (basketball)}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Phoenix Suns]]
+| [[Temple Owls men's basketball|Temple]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|4
+|align=center|79
+|{{sortname|Mark|Davis|dab=basketball, born 1963}}
+|SF
+|{{flagu|United States}}
+|[[Cleveland Cavaliers]]
+|[[Old Dominion Monarchs basketball|Old Dominion]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|4
+|align=center|80
+| bgcolor="#C0C0C0"|{{sortname|Craig|Beard|nolink=1}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[Chicago Bulls]]
+| [[Samford Bulldogs men's basketball|Samford]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|4
+|align=center|81
+| bgcolor="#C0C0C0"|{{sortname|Richie|Adams}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Washington Bullets]]
+| [[UNLV Runnin' Rebels men's basketball|UNLV]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|4
+|align=center|82
+|{{sortname|Scott|Roth}}
+|SF
+|{{flagu|United States}}
+|[[San Antonio Spurs]]
+|[[Wisconsin Badgers football|Wisconsin]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|4
+|align=center|83
+|{{sortname|Delaney|Rudd}}
+|G
+|{{flagu|United States}}
+|[[Utah Jazz]]
+|[[Wake Forest Demon Deacons men's basketball|Wake Forest]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|4
+|align=center|84
+|{{sortname|John|Battle|John Battle (basketball)}}
+|SG
+|{{flagu|United States}}
+|[[Atlanta Hawks]] {{small|(from [[New Jersey Nets|New Jersey]])}}
+|[[Rutgers Scarlet Knights men's basketball|Rutgers]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|4
+|align=center|85
+| bgcolor="#C0C0C0"|{{sortname|Joe|Atkinson|nolink=1}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Portland Trail Blazers]]
+| [[Oklahoma State Cowboys basketball|Oklahoma State]] {{small|([[Junior (education year)|Jr.]])}}
+|-
+|align=center|4
+|align=center|86
+| bgcolor="#C0C0C0"|{{sortname|Bubba|Jennings}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[Dallas Mavericks]]
+| [[Texas Tech Red Raiders men's basketball|Texas Tech]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|4
+|align=center|87
+|{{sortname|Spud|Webb}}
+|PG
+|{{flagu|United States}}
+|[[Detroit Pistons]]
+|[[NC State Wolfpack men's basketball|NC State]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|4
+|align=center|88
+| bgcolor="#C0C0C0"|{{sortname|Michael|Brooks|nolink=1}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[Houston Rockets]]
+| [[Tennessee Volunteers men's basketball|Tennessee]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|4
+|align=center|89
+|{{sortname|Pete|Williams|dab=basketball}}
+|PF
+|{{flagu|United States}}
+|[[Denver Nuggets]]
+|[[Arizona Wildcats men's basketball|Arizona]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|4
+|align=center|90
+|{{sortname|Derrick|Gervin}}
+|PF
+|{{flagu|United States}}
+|[[Philadelphia 76ers]]
+|[[UTSA Roadrunners men's basketball|UTSA]] {{small|([[Junior (education year)|Jr.]])}}
+|-
+|align=center|4
+|align=center|91
+|{{sortname|Cozell|McQueen}}
+|PF
+|{{flagu|United States}}
+|[[Milwaukee Bucks]]
+|[[NC State Wolfpack men's basketball|NC State]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|4
+|align=center|92
+|{{sortname|Dexter|Shouse}}
+|PG
+|{{flagu|United States}}
+|[[Los Angeles Lakers]]
+|[[South Alabama Jaguars men's basketball|South Alabama]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|4
+|align=center|93
+| bgcolor="#C0C0C0"|{{sortname|Cliff|Webber|nolink=1}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Boston Celtics]]
+| [[Liberty Flames men's basketball|Liberty]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|5
+|align=center|94
+| bgcolor="#C0C0C0"|{{sortname|Kelvin|Johnson|nolink=1}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[Indiana Pacers]]
+| [[Richmond Spiders men's basketball|Richmond]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|5
+|align=center|95
+| bgcolor="#C0C0C0"|{{sortname|Greg|Cavener|nolink=1}}<sup>#</sup>
+| C
+| {{flagu|United States}}
+| [[Golden State Warriors]]
+| [[Missouri Tigers men's basketball|Missouri]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|5
+|align=center|96
+| bgcolor="#C0C0C0"|{{sortname|Mike|Schlegel|nolink=1}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[New York Knicks]]
+| [[VCU Rams men's basketball|VCU]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|5
+|align=center|97
+| bgcolor="#C0C0C0"|{{sortname|Lou|Stefanovic}}<sup>#</sup>
+| F
+| {{flagu|Yugoslavia}}
+| [[Seattle SuperSonics]]
+| [[Illinois State Redbirds men's basketball|Illinois State]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|5
+|align=center|98
+| bgcolor="#C0C0C0"|{{sortname|Bob|Lojewski|nolink=1}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Sacramento Kings]]
+| [[Saint Joseph's Hawks men's basketball|Saint Joseph's]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|5
+|align=center|99
+| bgcolor="#C0C0C0"|{{sortname|Wayne|Carlander}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Los Angeles Clippers]]
+| [[USC Trojans men's basketball|USC]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|5
+|align=center|100
+| bgcolor="#C0C0C0"|{{sortname|Larry|Hampton|nolink=1}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Atlanta Hawks]]
+| [[Fairleigh Dickinson Knights men's basketball|Fairleigh Dickinson]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|5
+|align=center|101
+| bgcolor="#C0C0C0"|{{sortname|Gunther|Behnke}}<sup>#</sup>
+| C
+| {{flagu|Germany}}
+| [[Cleveland Cavaliers]]
+| [[Bayer Giants Leverkusen|Leverkusen]] {{small|([[Basketball Bundesliga|Germany]])}}
+|-
+|align=center|5
+|align=center|102
+| bgcolor="#C0C0C0"|{{sortname|Shawn|Campbell|Shawn William Campbell}}<sup>#</sup>
+| C
+| {{flagu|United States}}
+| [[Phoenix Suns]]
+| [[Weber State Wildcats men's basketball|Weber State]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|5
+|align=center|103
+| bgcolor="#C0C0C0"|{{sortname|Reid|Gettys}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Chicago Bulls]]
+| [[Houston Cougars men's basketball|Houston]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|5
+|align=center|104
+| bgcolor="#C0C0C0"|{{sortname|Dean|Shaffer|nolink=1}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[Washington Bullets]]
+| [[Florida State Seminoles men's basketball|Florida State]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|5
+|align=center|105
+| bgcolor="#C0C0C0"|{{sortname|Ray|Hall|nolink=1}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[Utah Jazz]]
+| [[Canisius Golden Griffins men's basketball|Canisius]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|5
+|align=center|106
+| bgcolor="#C0C0C0"|{{sortname|Clayton|Olivier|nolink=1}}<sup>#</sup>
+| C
+| {{flagu|United States}}
+| [[San Antonio Spurs]]
+| [[USC Trojans men's basketball|USC]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|5
+|align=center|107
+| bgcolor="#C0C0C0"|{{sortname|James|Anderson|nolink=1}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Portland Trail Blazers]]
+| [[USC Upstate Spartans men's basketball|USC Upstate]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|5
+|align=center|108
+| bgcolor="#C0C0C0"|{{sortname|Kelly|Blaine|nolink=1}}<sup>#</sup>
+| C
+| {{flagu|United States}}
+| [[New Jersey Nets]]
+| [[South Alabama Jaguars men's basketball|South Alabama]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|5
+|align=center|109
+| bgcolor="#C0C0C0"|{{sortname|Tommy|Davis|nolink=1}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[Dallas Mavericks]]
+| [[Minnesota Golden Gophers men's basketball|Minnesota]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|5
+|align=center|110
+| bgcolor="#C0C0C0"|{{sortname|Mike|Lahm|nolink=1}}<sup>#</sup>
+| C
+| {{flagu|United States}}
+| [[Detroit Pistons]]
+| [[Murray State Racers men's basketball|Murray State]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|5
+|align=center|111
+| bgcolor="#C0C0C0"|{{sortname|Ivan|Daniels}}<sup>#</sup>
+| C
+| {{flagu|United States}}
+| [[Indiana Pacers]]
+| [[UIC Flames men's basketball|UIC]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|5
+|align=center|112
+| bgcolor="#C0C0C0"|{{sortname|Kenny|Brown|nolink=1}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[Denver Nuggets]]
+| [[Texas A&M Aggies men's basketball|Texas A&M]] {{small|([[Junior (education year)|Jr.]])}}
+|-
+|align=center|5
+|align=center|113
+| bgcolor="#C0C0C0"|{{sortname|Carl|Wright|nolink=1}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[Philadelphia 76ers]]
+| [[SMU Mustangs men's basketball|SMU]] {{small|([[Junior (education year)|Jr.]])}}
+|-
+|align=center|5
+|align=center|114
+| bgcolor="#C0C0C0"|{{sortname|Ray|Knight|nolink=1}}<sup>#</sup>
+| C
+| {{flagu|United States}}
+| [[Milwaukee Bucks]]
+| [[Providence Friars men's basketball|Providence]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|5
+|align=center|115
+| bgcolor="#C0C0C0"|{{sortname|Timo|Saarelainen}}<sup>#</sup>
+| F
+| {{flagu|Finland}}
+| [[Los Angeles Lakers]]
+| [[BYU Cougars men's basketball|BYU]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|5
+|align=center|116
+| bgcolor="#C0C0C0"|{{sortname|Albert|Butts|nolink=1}}<sup>#</sup>
+| C
+| {{flagu|United States}}
+| [[Boston Celtics]]
+| [[La Salle Explorers men's basketball|La Salle]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|6
+|align=center|117
+| bgcolor="#C0C0C0"|{{sortname|Gerald|Crosby|nolink=1}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[Golden State Warriors]]
+| [[Georgia Bulldogs men's basketball|Georgia]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|6
+|align=center|118
+| bgcolor="#C0C0C0"|{{sortname|Stu|Primus|nolink=1}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[Indiana Pacers]]
+| [[Boston College Eagles men's basketball|Boston College]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|6
+|align=center|119
+| bgcolor="#C0C0C0"|{{sortname|Kent|Lockhart}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[New York Knicks]]
+| [[UTEP Miners men's basketball|UTEP]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|6
+|align=center|120
+| bgcolor="#C0C0C0"|{{sortname|Charles|Balentine|nolink=1}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Sacramento Kings]]
+| [[Arkansas Razorbacks men's basketball|Arkansas]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|6
+|align=center|121
+| bgcolor="#C0C0C0"|{{sortname|Malcolm|Thomas|Malcolm Thomas (basketball, born 1963)}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Los Angeles Clippers]]
+| [[Missouri Tigers men's basketball|Missouri]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|6
+|align=center|122
+| bgcolor="#C0C0C0"|{{sortname|Earl|Walker|nolink=1}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Seattle SuperSonics]]
+| [[Mercer Bears men's basketball|Mercer]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|6
+|align=center|123
+| bgcolor="#C0C0C0"|{{sortname|Tony|Duckett|nolink=1}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[Atlanta Hawks]]
+| [[Lafayette Leopards men's basketball|Lafayette]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|6
+|align=center|124
+| bgcolor="#C0C0C0"|{{sortname|Charles|Rayne|nolink=1}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[Phoenix Suns]]
+| [[Temple Owls men's basketball|Temple]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|6
+|align=center|125
+| bgcolor="#C0C0C0"|{{sortname|Rickie|Johnson|nolink=1}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Cleveland Cavaliers]]
+| [[Illinois State Redbirds men's basketball|Illinois State]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|6
+|align=center|126
+| bgcolor="#C0C0C0"|{{sortname|Danny|Meagher|Danny Meagher (basketball)}}<sup>#</sup>
+| F
+| {{flagu|Canada}}
+| [[Chicago Bulls]]
+| [[Duke Blue Devils men's basketball|Duke]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|6
+|align=center|127
+| bgcolor="#C0C0C0"|{{sortname|Matt|England|nolink=1}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[Washington Bullets]]
+| [[Houston Baptist Huskies men's basketball|Houston Baptist]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|6
+|align=center|128
+| bgcolor="#C0C0C0"|{{sortname|Chris|Harper|nolink=1}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[San Antonio Spurs]]
+| [[Oregon Ducks men's basketball|Oregon]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|6
+|align=center|129
+| bgcolor="#C0C0C0"|{{sortname|Jim|Miller|nolink=1}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Utah Jazz]]
+| [[Virginia Cavaliers men's basketball|Virginia]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|6
+|align=center|130
+| bgcolor="#C0C0C0"|{{sortname|George|Almones}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[New Jersey Nets]]
+| [[Louisiana Ragin' Cajuns men's basketball|Southwestern Louisiana]] {{small|([[Junior (education year)|Jr.]])}}
+|-
+|align=center|6
+|align=center|131
+| bgcolor="#C0C0C0"|{{sortname|Curtis|Moore|nolink=1}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[Portland Trail Blazers]]
+| [[Nebraska Cornhuskers men's basketball|Nebraska]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|6
+|align=center|132
+| bgcolor="#C0C0C0"|{{sortname|Carlton|Cooper|nolink=1}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Dallas Mavericks]]
+| [[Texas Longhorns men's basketball|Texas]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|6
+|align=center|133
+| bgcolor="#C0C0C0"|{{sortname|Vincent|Giles|nolink=1}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Detroit Pistons]]
+| [[Eastern Michigan Eagles men's basketball|Eastern Michigan]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|6
+|align=center|134
+| bgcolor="#C0C0C0"|{{sortname|Sam|Potter|nolink=1}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[Houston Rockets]]
+| [[Oral Roberts Golden Eagles men's basketball|Oral Roberts]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|6
+|align=center|135
+| bgcolor="#C0C0C0"|{{sortname|Joe|Carrabino}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Denver Nuggets]]
+| [[Harvard Crimson men's basketball|Harvard]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|6
+|align=center|136
+| bgcolor="#C0C0C0"|{{sortname|Daryl|Lloyd|nolink=1}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Philadelphia 76ers]]
+| [[Drake Bulldogs men's basketball|Drake]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|6
+|align=center|137
+| bgcolor="#C0C0C0"|{{sortname|Quentin|Anderson|nolink=1}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Milwaukee Bucks]]
+| [[Texas Tech Red Raiders men's basketball|Texas Tech]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|6
+|align=center|138
+| bgcolor="#C0C0C0"|{{sortname|Tony|Neal|nolink=1}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Los Angeles Lakers]]
+| [[Cal State Fullerton Titans men's basketball|Cal State Fullerton]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|6
+|align=center|139
+|{{sortname|Ralph|Lewis|dab=basketball}}
+|SG
+|{{flagu|United States}}
+|[[Boston Celtics]]
+|[[La Salle Explorers men's basketball|La Salle]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|7
+|align=center|140
+| bgcolor="#C0C0C0"|{{sortname|Jeff|Acres|nolink=1}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Indiana Pacers]]
+| [[Oral Roberts Golden Eagles men's basketball|Oral Roberts]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|7
+|align=center|141
+| bgcolor="#C0C0C0"|{{sortname|Eric|Boyd|nolink=1}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[Golden State Warriors]]
+| [[North Carolina A&T Aggies men's basketball|North Carolina A&T]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|7
+|align=center|142
+| bgcolor="#C0C0C0"|{{sortname|Ken|Bantum|Ken Bantum (basketball)}}<sup>#</sup>
+| C
+| {{flagu|United States}}
+| [[New York Knicks]]
+| [[Cornell Big Red men's basketball|Cornell]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|7
+|align=center|143
+| bgcolor="#C0C0C0"|{{sortname|Gary|Maloncon}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Los Angeles Clippers]]
+| [[UCLA Bruins men's basketball|UCLA]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|7
+|align=center|144
+|{{sortname|Mike|Phelps}}
+|SG
+|{{flagu|United States}}
+|[[Seattle SuperSonics]]
+|[[Alcorn State Braves men's basketball|Alcorn State]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|7
+|align=center|145
+| bgcolor="#C0C0C0"|{{sortname|Alton Lee|Gipson|nolink=1}}<sup>#</sup>
+| C
+| {{flagu|United States}}
+| [[Sacramento Kings]]
+| [[Florida State Seminoles men's basketball|Florida State]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|7
+|align=center|146
+| bgcolor="#C0C0C0"|{{sortname|Bob|Ferry Jr.|nolink=1}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[Atlanta Hawks]]
+| [[Harvard Crimson men's basketball|Harvard]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|7
+|align=center|147
+| bgcolor="#C0C0C0"|{{sortname|Buzz|Peterson}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[Cleveland Cavaliers]]
+| [[North Carolina Tar Heels men's basketball|North Carolina]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|7
+|align=center|148
+|{{sortname|Georgi|Glouchkov}}
+|PF
+|{{flag|Bulgaria|1971}}
+|[[Phoenix Suns]]
+|[[BC Cherno More Port Varna|Akademik Varna]] {{small|([[National Basketball League (Bulgaria)|Bulgaria]])}}
+|-
+|align=center|7
+|align=center|149
+| bgcolor="#C0C0C0"|{{sortname|Jeff|Adkins|nolink=1}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[Chicago Bulls]]
+| [[Maryland Terrapins men's basketball|Maryland]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|7
+|align=center|150
+| bgcolor="#C0C0C0"|{{sortname|Keith|Gray|nolink=1}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[Washington Bullets]]
+| [[Detroit Mercy Titans men's basketball|Detroit Mercy]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|7
+|align=center|151
+| bgcolor="#C0C0C0"|{{sortname|Mike|Wacker|nolink=1}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Utah Jazz]]
+| [[Texas Longhorns men's basketball|Texas]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|7
+|align=center|152
+| bgcolor="#C0C0C0"|{{sortname|Al|Young|nolink=1}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[San Antonio Spurs]]
+| [[Virginia Tech Hokies men's basketball|Virginia Tech]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|7
+|align=center|153
+| bgcolor="#C0C0C0"|{{sortname|Mark|Owen|nolink=1}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[Portland Trail Blazers]]
+| [[College of Idaho]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|7
+|align=center|154
+| bgcolor="#C0C0C0"|{{sortname|Gary|McLain}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[New Jersey Nets]]
+| [[Villanova Wildcats men's basketball|Villanova]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|7
+|align=center|155
+| bgcolor="#C0C0C0"|{{sortname|Ed|Catchings|nolink=1}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Dallas Mavericks]]
+| [[UNLV Runnin' Rebels men's basketball|UNLV]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|7
+|align=center|156
+| bgcolor="#C0C0C0"|{{sortname|Frank|James|nolink=1}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Detroit Pistons]]
+| [[UNLV Runnin' Rebels men's basketball|UNLV]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|7
+|align=center|157
+| bgcolor="#C0C0C0"|{{sortname|Don|Turney|nolink=1}}<sup>#</sup>
+| C
+| {{flagu|United States}}
+| [[Indiana Pacers]]
+| [[Marshall Thundering Herd men's basketball|Marshall]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|7
+|align=center|158
+| bgcolor="#C0C0C0"|{{sortname|Eddie|Smith|nolink=1}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Denver Nuggets]]
+| [[Arizona Wildcats men's basketball|Arizona]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|7
+|align=center|159
+| bgcolor="#C0C0C0"|{{sortname|Jaye|Andrews}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Philadelphia 76ers]]
+| [[Bucknell Bison men's basketball|Bucknell]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|7
+|align=center|160
+|{{sortname|Mario|Elie}}
+|SF/SG
+|{{flagu|United States}}
+|[[Milwaukee Bucks]]
+|[[American International College#Athletics|American International]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|7
+|align=center|161
+| bgcolor="#C0C0C0"|{{sortname|Keith|Cieplicki}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[Los Angeles Lakers]]
+| [[William & Mary Tribe men's basketball|William & Mary]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|align=center|7
+|align=center|162
+| bgcolor="#C0C0C0"|{{sortname|Chris|Remley|nolink=1}}<sup>#</sup>
+| F
+| {{flagu|United States}}
+| [[Boston Celtics]]
+| [[Rutgers Scarlet Knights men's basketball|Rutgers]] {{small|([[Senior (education)|Sr.]])}}
+|}
+{{reflist|group=n}}
+
+<nowiki>*</nowiki> Further compensation for draft choices previously traded away by [[Ted Stepien]].<br />
+<nowiki>**</nowiki> Compensation for the [[Utah Jazz]] signing [[Billy Paultz]]<br />
+<nowiki>***</nowiki> Compensation for the [[Los Angeles Lakers]] signing [[Larry Spriggs]]<br />
+<nowiki>****</nowiki> Compensation for the [[Atlanta Hawks]] signing Billy Paultz
+
+==Notable undrafted players==
+{{further|List of undrafted NBA players}}
+These players were not selected in the 1985 draft but played at least one game in the NBA.
+{| class="wikitable sortable sortable"
+|-
+!style="width:19%;"| Player
+!style="width:1%;"| Pos.
+!style="width:16%;"| Nationality
+!style="width:20%;"| School/club team
+|-
+| {{sortname|David|Cooke|dab=basketball}}
+| PF
+| {{flagu|United States}}
+| [[Saint Mary's Gaels men's basketball|Saint Mary's]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Dennis|Nutt}}
+| PG
+| {{flagu|United States}}
+| [[TCU Horned Frogs men's basketball|TCU]] <small>([[Senior (education)|Sr.]])</small>
+|}
+
+==Conspiracy theories about the first pick==
+Some have argued that NBA Commissioner [[David Stern]] fixed the first overall pick to help his hometown team, the struggling [[New York Knicks]]. The lottery system used in 1985 involved a random drawing of seven envelopes from a hopper, with each of the then-seven non-playoff teams having an equal chance of obtaining the first pick. Inside each of the envelopes was the logo of a non-playoff team. The team whose envelope was drawn first would get the first pick. The process was then repeated until the rest of the first seven lottery picks were determined. In the U.S., [[CBS]] had live coverage of Stern pulling the envelopes from the hopper (as opposed to NBA Draft lotteries today where the actual drawing is held behind closed doors ''before'' the results are revealed on TV).
+
+The "frozen envelope theory" suggests that the [[National Basketball Association]] rigged its 1985 draft lottery so that [[Patrick Ewing]] would join the [[New York Knicks]]. Theorists claim that a lottery envelope was chilled so that it could be identified by touch.<ref>{{cite book|last=Roeper|first=Richard|title=Debunked!: Conspiracy Theories, Urban Legends, and Evil Plots of the 21st Century|url=https://books.google.com/books?id=rEJp00sYu7AC&pg=PA80|year=2008|publisher=Chicago Review Press|isbn=978-1-55652-970-2|page=80}}</ref> A similar "hot balls theory", promoted by Scottish football manager [[David Moyes]], suggests that certain balls used in draws for [[UEFA]] and [[Asian Football Confederation|AFC]] competitions have been warmed to achieve specific outcomes.<ref>{{cite web|url=http://www1.skysports.com/football/news/11671/7590220/moyes-uefa-hot-balls-cost-us|title=Moyes – UEFA hot balls cost us|publisher=Sky Sports|access-date=6 October 2014|archive-url=https://web.archive.org/web/20140314191251/http://www1.skysports.com/football/news/11671/7590220/moyes-uefa-hot-balls-cost-us|archive-date=14 March 2014|url-status=live}}</ref><ref>{{cite news| url=https://www.usatoday.com/sports/basketball/nba/2009-05-18-3301876890_x.htm | work=USA Today | title=Griffin the big gift at lottery's 25th anniversary | date=May 18, 2009 | access-date=May 20, 2010}}</ref><ref>{{cite news| url=https://www.latimes.com/archives/la-xpm-1985-05-14-sp-19104-story.html | work=Los Angeles Times | title=NBA's New Showtime: It's Called the Lottery | first=Sam | last=McManis | date=May 14, 1985 | access-date=May 20, 2010}}</ref><ref>{{cite web|url=http://sports.espn.go.com/nbadraft/story?id=1383452 |title=NBA out to prove conspiracy theorists wrong |first=Darren |last=Rovell |date=May 16, 2002 |publisher=ESPN |access-date=April 8, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20121104101847/http://sports.espn.go.com/nbadraft/story?id=1383452 |archive-date=November 4, 2012 }}</ref>
+
+According to another theory, some claim that when an accountant from [[Ernst & Whinney]] (the same firm used by [[Gulf + Western]], then-owners of the Knicks<ref>{{Cite web|url=https://www.si.com/longform/2015/1985/ewing/index.html|title=The Ewing Conspiracy}}</ref>) inserted the seven envelopes into the glass drum, some have claimed that he banged the fourth one against the side of the drum to create a creased corner, thereby making it easier for Stern to determine which envelope to choose: the envelope containing the Knicks logo.<ref>{{cite magazine|last=Rosenberg|first=Michael|title=Viewpoint: Sports conspiracy theories|url=https://www.si.com/more-sports/2010/10/29/conspiracy-theories|magazine=Sports Illustrated|access-date=16 May 2017|date=29 October 2010|url-status=live|archive-url=https://web.archive.org/web/20180218090512/https://www.si.com/more-sports/2010/10/29/conspiracy-theories|archive-date=18 February 2018}}</ref> According to this theory, as the drum was being spun by NBA security director Jack Joyce, Stern was watching the envelopes closely. He then opened the drum, took a deep breath, reached in and selected the envelope with the bent corner and the Knicks logo. This has not been confirmed or corroborated by any official source, as most note that the spinning of the drum was far more forceful than any movement by Joyce, deliberate or otherwise.<ref>{{Cite web|url=https://www.cbssports.com/nba/news/nba-draft-lottery-2020-conspiracy-theories-that-make-us-wonder-if-the-lottery-is-rigged/|title=NBA Draft Lottery 2020: Conspiracy theories that make us wonder if the lottery is rigged by the NBA|date=August 19, 2020 }}</ref>
+
+==Early entrants==
+===College underclassmen===
+For the third year in a row and the seventh time in eight years, no college underclassman would withdraw their entry into the NBA draft. This year, however, saw a total of twelve players qualify for entry as college underclassmen, including a [[Sudan]]ese born freshman center named [[Manute Bol]], who would be considered the tallest player in NBA history at the time. The following [[college basketball]] players successfully applied for early draft entrance.<ref>{{cite web |title=1985 Underclassmen |url=https://www.thedraftreview.com/index.php?option=com_content&view=article&id=3032:1985-underclassmen&catid=136&Itemid=384 |website=The Draft Review | date=August 4, 2007 |access-date=December 13, 2022}}</ref>
+
+{{div col}}
+* {{flagicon|USA}} [[George Almones]] – G, [[Southwestern Louisiana Ragin' Cajuns men's basketball|Southwestern Louisiana]] (junior)
+* {{flagicon|USA}} Joe Atkinson – F, [[Oklahoma State Cowboys basketball|Oklahoma State]] (junior)
+* {{flagicon|USA}} [[Benoit Benjamin]] – C, [[Creighton Bluejays men's basketball|Creighton]] (junior)
+* {{flagicon|SUD}} [[Manute Bol]] – C, [[Bridgeport Purple Knights men's basketball|Bridgeport]] (freshman)
+* {{flagicon|USA}} Kenny Brown – G, [[Texas A&M Aggies men's basketball|Texas A&M]] (junior)
+* {{flagicon|USA}} [[Derrick Gervin]] – F, [[Texas–San Antonio Roadrunners men's basketball|Texas–San Antonio]] (junior)
+* {{flagicon|USA}} [[Kenny Green (basketball, born 1964)|Kenny Green]] – F, [[Wake Forest Demon Deacons men's basketball|Wake Forest]] (junior)
+* {{flagicon|USA}} [[Karl Malone]] – F, [[Louisiana Tech Bulldogs basketball|Louisiana Tech]] (junior)
+* {{flagicon|USA}} [[Jerry Reynolds (basketball, born 1962)|Jerry Reynolds]] – F, [[LSU Tigers men's basketball|LSU]] (junior)
+* {{flagicon|USA}} Reggie Roberts – G, [[Texas A&M Aggies men's basketball|Texas A&M]] (junior)
+* {{flagicon|USA}} [[Wayman Tisdale]] – F, [[Oklahoma Sooners men's basketball|Oklahoma]] (junior)
+* {{flagicon|USA}} Carl Wright – G, [[SMU Mustangs men's basketball|SMU]] (junior)
+{{div col end}}
+
+==Invited attendees==
+The 1985 NBA draft is considered to be the eighth NBA draft to have utilized what's properly considered the "green room" experience for NBA prospects. The NBA's green room is a staging area where anticipated draftees often sit with their families and representatives, waiting for their names to be called on draft night. Often being positioned either in front of or to the side of the podium (in this case, being positioned in the Madison Square Garden's [[Felt Forum]] for the first time the NBA draft used a green room there<ref name="1985Invites">https://www.thedraftreview.com/historical-draft-events/green-room/1985-green-room-invites</ref>), once a player heard his name, he would walk to the podium to shake hands and take promotional photos with the NBA commissioner. From there, the players often conducted interviews with various media outlets while backstage. However, once the NBA draft started to air nationally on TV starting with the [[1980 NBA draft]], the green room evolved from players waiting to hear their name called and then shaking hands with these select players who were often called to the hotel to take promotional pictures with the NBA commissioner a day or two after the draft concluded to having players in real-time waiting to hear their names called up and then shaking hands with [[David Stern]], the NBA's commissioner at the time.<ref>https://www.thedraftreview.com/sundry/sundry-articles/draft-broadcasts</ref> The NBA compiled its list of green room invites through collective voting by the NBA's team presidents and general managers alike, which in this year's case belonged to only what they believed were the top 13 prospects at the time.<ref>https://www.thedraftreview.com/historical-draft-events/green-room</ref> However, for the fourth year in a row, one invite in [[Dwayne McClain]] would end up staying in the green room beyond the first round of the draft. Even so, the following players were invited to attend this year's draft festivities live and in person.<ref name="1985Invites" />
+
+{{div col}}
+*{{flagicon|USA}} [[Benoit Benjamin]] – C, [[Creighton Bluejays men's basketball|Creighton]]
+*{{flagicon|USA}} [[Joe Dumars]] – SG, [[McNeese State Cowboys basketball|McNeese State]]
+*{{flagicon|JAM}}/{{flagicon|USA}} [[Patrick Ewing]] – C, [[Georgetown Hoyas men's basketball|Georgetown]]
+*{{flagicon|USA}} [[Joe Kleine]] – C, [[Arkansas Razorbacks men's basketball|Arkansas]]
+*{{flagicon|USA}} [[Jon Koncak]] – C, [[SMU Mustangs men's basketball|Southern Methodist]]
+*{{flagicon|USA}} [[Keith Lee (basketball)|Keith Lee]] – C, [[Memphis Tigers men's basketball|Memphis State]]
+*{{flagicon|USA}} [[Karl Malone]] – PF, [[Louisiana Tech Bulldogs basketball|Louisiana Tech]]
+*{{flagicon|USA}} [[Dwayne McClain]] – SG, [[Villanova Wildcats men's basketball|Villanova]]
+*{{flagicon|USA}} [[Xavier McDaniel]] – PF, [[Wichita State Shockers men's basketball|Wichita State]]
+*{{flagicon|USA}} [[Chris Mullin]] – SF, [[St. John's Red Storm men's basketball|St. John's]]
+*{{flagicon|FRG}}<!--Period is from before German reunification.--> [[Detlef Schrempf]] – SF/PF, [[Washington Huskies men's basketball|Washington]]
+*{{flagicon|USA}} [[Wayman Tisdale]] – PF, [[Oklahoma Sooners men's basketball|Oklahoma]]
+*{{flagicon|CAN}} [[Bill Wennington]] – C [[St. John's Red Storm men's basketball|St. John's]]
+{{div col end}}
+
+==See also==
+* [[NBA draft conspiracy]]
+* [[List of first overall NBA draft picks]]
+
+
+==References==
+{{reflist}}
+
+{{NBA Drafts}}
+{{NBA Draft history by team}}
+{{1985 NBA draft}}
+{{1985–86 NBA season by team}}
+{{NBA on TBS}}
+
+[[Category:1985–86 NBA season|Draft]]
+[[Category:NBA draft]]
+[[Category:NBA controversies]]
+[[Category:June 1985 sports events in the United States|NBA draft]]
+[[Category:1985 in sports in New York City|NBA draft]]
+[[Category:1980s in Manhattan]]
+[[Category:Basketball in New York City]]
+[[Category:Sporting events in New York City]]
+[[Category:Sports in Manhattan]]

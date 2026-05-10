@@ -1,0 +1,894 @@
+{{short description|Basketball player selection}}
+{{Use mdy dates|date=September 2020}}
+{{Infobox sports draft
+| name        = 2006 NBA draft
+| image       = 2006 NBA Draft.jpg
+| caption     = 
+| logo        = 2006 NBA Draft logo.png
+| logosize    = 180px
+| sport       = Basketball
+| date        = June 28, 2006
+| location    = [[The Theater at Madison Square Garden]] ([[New York City, New York]])
+| network     = [[NBA on ESPN|ESPN]]
+| league      = NBA
+| teams       = 
+| overall     = 60
+| rounds      = 2
+| first       = [[Andrea Bargnani]] ([[Toronto Raptors]])
+| prev        = [[2005 NBA draft|2005]]
+| next        = [[2007 NBA draft|2007]]
+}}
+The '''2006 NBA draft''' was held on June 28, 2006, at [[Madison Square Garden#Other events|The Theater]] at [[Madison Square Garden]] in New York City and was broadcast in the United States on [[ESPN]]. In this [[Draft (sports)|draft]], [[National Basketball Association]] (NBA) teams took turns selecting amateur U.S. [[college basketball]] players and other eligible players, including international players. This was also the only time the [[New Orleans Hornets]] would draft under the temporary name of the [[New Orleans/Oklahoma City Hornets]] as the city of New Orleans was still recovering from the events of [[Hurricane Katrina]] after the [[2005-06 NBA season]].
+
+Italian [[Andrea Bargnani]] was selected [[List of first overall NBA draft picks|first overall]] by the [[Toronto Raptors]], who won the [[NBA draft lottery|draft lottery]].<ref>{{cite web|url=http://www.nba.com/draft2006/numberone_060628.html|title=The Long Journey for No. 1|publisher=Turner Sports Interactive, Inc|work=NBA.com|date=June 28, 2006|access-date=May 6, 2009|archive-url=https://web.archive.org/web/20090620005838/http://www.nba.com/draft2006/numberone_060628.html|archive-date=20 June 2009|url-status=dead}}</ref> Bargnani became the second player without competitive experience in the United States to be drafted first overall, after [[Yao Ming]] was picked first overall in the [[2002 NBA draft]]. Prior to the draft, Bargnani was playing with Italian club [[Pallacanestro Treviso|Benetton Treviso]] for 3 years.<ref>{{cite web|url=http://www.nba.com/draft2006/profiles/AndreaBargnani.html|title=NBA.com: Andrea Bargnani Prospect Profile|publisher=Turner Sports Interactive, Inc|work=NBA.com|access-date=May 6, 2009|archive-date=March 8, 2009|archive-url=https://web.archive.org/web/20090308083753/http://www.nba.com/draft2006/profiles/AndreaBargnani.html|url-status=live}}</ref> Sixth-overall pick [[Brandon Roy]] from [[Washington Huskies men's basketball|University of Washington]] was named [[NBA Rookie of the Year Award|Rookie of the Year]] for the [[2006–07 NBA season|2006–07 season]].<ref>{{cite web|title=Trail Blazers' Brandon Roy Named 2006-07 T-Mobile NBA Rookie of the Year|url=http://www.nba.com/news/awards2007_rookie.html|publisher=Turner Sports Interactive, Inc|work=NBA.com|date=May 3, 2007|access-date=May 6, 2009|archive-url=https://web.archive.org/web/20090429004755/http://www.nba.com/news/awards2007_rookie.html|archive-date=29 April 2009|url-status=dead}}</ref> Roy was originally drafted by the [[Minnesota Timberwolves]] but his draft rights were traded to the [[Portland Trail Blazers]] on draft day. Portland also acquired the draft rights to the second-overall pick from the [[Texas Longhorns men's basketball|University of Texas]], [[LaMarcus Aldridge]] from the [[Chicago Bulls]] on draft day.<ref name="blazers"/>
+
+The [[Connecticut Huskies men's basketball|University of Connecticut]] had four players selected in the first round, tying the record set by [[Duke Blue Devils men's basketball|Duke University]] in [[1999 NBA Draft|1999]] and the [[North Carolina Tar Heels men's basketball|University of North Carolina]] in [[2005 NBA Draft|2005]].<ref>{{cite web|title=UConn ties draft record with four first-round picks|url=https://www.espn.com/nba/draft2006/news/story?id=2503859|publisher=ESPN Internet Ventures|work=ESPN.com|date=June 29, 2006|access-date=August 22, 2009|archive-date=May 25, 2010|archive-url=https://web.archive.org/web/20100525144640/http://sports.espn.go.com/nba/draft2006/news/story?id=2503859|url-status=live}}</ref> These players were [[Rudy Gay]], [[Hilton Armstrong]], [[Marcus Williams (basketball, born 1985)|Marcus Williams]], and [[Josh Boone (basketball)|Josh Boone]]. With [[Denham Brown]] also selected in the second round, Connecticut became the first school ever to have five players selected in a two-round draft.<ref>{{cite web|url=http://www.post-gazette.com/pg/07016/754078-175.stm |title=Pitt-UConn the beast of Big East rivalries |publisher=PG Publishing Co., Inc |work=Pittsburgh Post-Gazette |date=January 16, 2007 |access-date=May 6, 2009 |archive-url=https://web.archive.org/web/20070211143255/http://www.post-gazette.com/pg/07016/754078-175.stm |archive-date=February 11, 2007 |url-status=live |first=Ray |last=Fittipaldo }}</ref> Connecticut joined eight other schools that had five players selected in a single draft, second only to [[UNLV Runnin' Rebels basketball|UNLV]], who had six players selected in the eight-round [[1977 NBA Draft|1977 draft]].<ref>{{cite web|title=First round awaits Gators after second collegiate title|url=https://www.usatoday.com/sports/basketball/nba/2007-06-28-gators-cover_N.htm|publisher=Gannett Co. Inc|work=USA Today|date=June 28, 2007|access-date=August 6, 2009|first=Jack|last=Carey|archive-date=January 22, 2011|archive-url=https://web.archive.org/web/20110122175102/http://www.usatoday.com/sports/basketball/nba/2007-06-28-gators-cover_N.htm|url-status=live}}</ref> As of 2026, [[Kyle Lowry]] is the only remaining active NBA player from this draft class.
+
+==Draft selections==
+{|class=wikitable
+|-
+| PG||[[Point guard]]
+| SG||[[Shooting guard]]
+| SF||[[Small forward]]
+| PF||[[Power forward (basketball)|Power forward]]
+| C||[[Center (basketball)|Center]]
+|}
+{{NBA Draft legend|2=y|3=y|5=y|6=y}}
+{{stack|
+
+[[File:Andrea Bargnani.JPG|right|thumb|150px|[[Andrea Bargnani]] was the first Italian-born player to be selected as the #1 overall pick. He was selected by the [[Toronto Raptors]].]]
+[[File:LaMarcus Aldridge1.jpg|right|thumb|150px|[[LaMarcus Aldridge]], was picked 2nd overall by the [[Chicago Bulls]]. His draft rights were traded to the [[Portland Trail Blazers]].]]
+[[File:Brandon Roy Wizards.jpg|right|thumb|150px|[[Brandon Roy]] was selected 6th by the [[Minnesota Timberwolves]]. His draft rights were traded to the [[Portland Trail Blazers]].]]
+[[File:Rudy Gay Kings.jpg|right|thumb|150px|[[Rudy Gay]] was picked 8th by the [[Houston Rockets]]. His draft rights were later traded to the [[Memphis Grizzlies]].]]
+[[File:J.J. Redick 20131118 Clippers v Grizzles.jpg|right|thumb|150px|[[JJ Redick]] was picked 11th overall by the [[Orlando Magic]].]]
+[[File:Rajon Rondo Media Day.jpg|right|thumb|150px|[[Rajon Rondo]] was picked 21st by the [[Phoenix Suns]]. His draft rights were later traded to the [[Boston Celtics]].]]
+[[File:Kyle_Lowry_(17283761882).jpg|right|thumb|150px|[[Kyle Lowry]] was picked 24th by the [[Memphis Grizzlies]].]]
+[[File:Paul Millsap (34136384782).jpg|right|thumb|150px|[[Paul Millsap]] was picked 47th by the [[Utah Jazz]].]]
+}}
+{| class="wikitable sortable sortable"
+! width="1%"| Round
+! width="1%"| Pick
+! width="19%"| Player
+! width="1%"| Position
+! width="16%"| Nationality{{refn|group=n|Nationality indicates the player's national team or representative nationality. If a player has not competed at the international level, then the nationality indicates the national team which the player is eligible to represent according to [[FIBA]] rules.}}
+! width="35%"| Team
+! width="20%"| School/club team
+|-
+|align=center| 1
+|align=center| 1
+| {{sortname|Andrea|Bargnani}}
+|PF
+| {{flag|Italy|2003}}
+| [[Toronto Raptors]]
+| [[Pallacanestro Treviso|Benetton Treviso]] <small>([[Serie A (basketball)|Italy]])</small>
+|-
+|align=center| 1
+|align=center| 2
+| bgcolor="#FBCEB1"| {{sortname|LaMarcus|Aldridge}}*
+| PF
+| {{USA}}
+| [[Chicago Bulls]] <small>(from [[New York Knicks|New York]], traded to [[Portland Trail Blazers|Portland]])</small>{{ref label|Note15|o|2}}{{ref label|Note1|a|a 1}}
+| [[Texas Longhorns men's basketball|Texas]] <small>([[College sophomore|So.]])</small>
+|-
+|align=center| 1
+|align=center| 3
+| {{sortname|Adam|Morrison}}
+|SF
+| {{flagu|United States}}
+| [[Charlotte Bobcats]]
+| [[Gonzaga Bulldogs men's basketball|Gonzaga]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 1
+|align=center| 4
+| {{sortname|Tyrus|Thomas}}
+|PF
+| {{flagu|United States}}
+| [[Portland Trail Blazers]] <small>(traded to [[Chicago Bulls|Chicago]])</small>{{ref label|Note1|a|2}}
+| [[LSU Tigers basketball|LSU]] <small>([[Freshman|Fr.]])</small>
+|-
+|align=center| 1
+|align=center| 5
+| {{sortname|Shelden|Williams}}
+|PF
+| {{flagu|United States}}
+| [[Atlanta Hawks]]
+| [[Duke Blue Devils men's basketball|Duke]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 1
+|align=center| 6
+|bgcolor="#FBCEB1" | {{sortname|Brandon|Roy}}<sup>*~</sup>
+| SG
+| {{flagu|United States}}
+| [[Minnesota Timberwolves]] <small>(traded to [[Portland Trail Blazers|Portland]])</small>{{ref label|Note2|b|b 1}}
+| [[Washington Huskies men's basketball|Washington]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 1
+|align=center| 7
+| {{sortname|Randy|Foye}}
+|SG
+| {{flagu|United States}}
+| [[Boston Celtics]] <small>(traded to [[Minnesota Timberwolves|Minnesota]] via [[Portland Trail Blazers|Portland]])</small>{{ref label|Note2|b|2}}
+| [[Villanova Wildcats men's basketball|Villanova]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 1
+|align=center| 8
+| {{sortname|Rudy|Gay}}
+| SF
+| {{flagu|United States}}
+| [[Houston Rockets]] <small>(traded to [[Memphis Grizzlies|Memphis]])</small>{{ref label|Note3|c|c}}
+| [[Connecticut Huskies men's basketball|Connecticut]] <small>([[College sophomore|So.]])</small>
+|-
+|align=center| 1
+|align=center| 9
+| {{sortname|Patrick|O'Bryant}}
+| C
+| {{flagu|United States}}
+| [[Golden State Warriors]]
+| [[Bradley Braves|Bradley]] <small>([[College sophomore|So.]])</small>
+|-
+|align=center| 1
+|align=center| 10
+| {{sortname|Mouhamed|Sene}}
+| C
+| {{SEN}}
+| [[Seattle SuperSonics]]
+| [[RBC Verviers-Pepinster|Verviers-Pepinster]] <small>([[Basketball League Belgium Division I|Belgium]])</small>
+|-
+|align=center| 1
+|align=center| 11
+| {{sortname|JJ|Redick}}
+| SG
+| {{flagu|United States}}
+| [[Orlando Magic]]
+| [[Duke Blue Devils men's basketball|Duke]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 1
+|align=center| 12
+| {{sortname|Hilton|Armstrong}}
+| C
+| {{flagu|United States}}
+| [[New Orleans Hornets|New Orleans/Oklahoma City Hornets]]
+| [[Connecticut Huskies men's basketball|Connecticut]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 1
+|align=center| 13
+| {{sortname|Thabo|Sefolosha}}
+| SG
+| {{CHE}}
+| [[Philadelphia 76ers]] <small>(traded to [[Chicago Bulls|Chicago]])</small>{{ref label|Note4|d|d 1}}
+| [[Pallacanestro Biella|Angelico Biella]] <small>([[Serie A (basketball)|Italy]])</small>
+|-
+|align=center| 1
+|align=center| 14
+| {{sortname|Ronnie|Brewer}}
+|SG
+| {{flagu|United States}}
+| [[Utah Jazz]]
+| [[Arkansas Razorbacks men's basketball|Arkansas]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 1
+|align=center| 15
+| {{sortname|Cedric|Simmons}}
+|SF
+| {{flagu|United States}}
+| [[New Orleans Hornets|New Orleans/Oklahoma City Hornets]] <small>(from [[Milwaukee Bucks|Milwaukee]])</small>{{ref label|Note16|p|p}}
+| [[NC State Wolfpack men's basketball|NC State]] <small>([[College sophomore|So.]])</small>
+|-
+|align=center| 1
+|align=center| 16
+| {{sortname|Rodney|Carney}}
+|SF
+| {{flagu|United States}}
+| [[Chicago Bulls]] <small>(traded to [[Philadelphia 76ers|Philadelphia]])</small>{{ref label|Note4|d|2}}
+| [[Memphis Tigers men's basketball|Memphis]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 1
+|align=center| 17
+| {{sortname|Shawne|Williams}}
+|PF
+| {{flagu|United States}}
+| [[Indiana Pacers]]
+| [[Memphis Tigers men's basketball|Memphis]] <small>([[Freshman|Fr.]])</small>
+|-
+|align=center| 1
+|align=center| 18
+| {{sortname|Oleksiy|Pecherov}}
+| C
+| {{UKR}}
+| [[Washington Wizards]]
+| [[BC Kyiv]]<small> ([[Ukrainian Basketball Super League|Ukraine]])</small>
+|-
+|align=center| 1
+|align=center| 19
+| {{sortname|Quincy|Douby}}
+| G
+| {{flagu|United States}}
+| [[Sacramento Kings]]
+| [[Rutgers Scarlet Knights|Rutgers]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 1
+|align=center| 20
+| {{sortname|Renaldo|Balkman}}
+| F
+|  {{PUR}}
+| [[New York Knicks]] <small>(from [[Denver Nuggets|Denver]] via [[New Jersey Nets|New Jersey]] and [[Toronto Raptors|Toronto]])</small>{{ref label|Note17|q|q}}
+| [[South Carolina Gamecocks men's basketball|South Carolina]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 1
+|align=center| 21
+| bgcolor="#FBCEB1"|{{sortname|Rajon|Rondo}}<sup>*</sup>
+| PG
+| {{flagu|United States}}
+| [[Phoenix Suns]] <small>(from [[Los Angeles Lakers|L.A. Lakers]] via [[Boston Celtics|Boston]] and [[Atlanta Hawks|Atlanta]], traded to [[Boston Celtics|Boston]])</small>{{ref label|Note18|r|r}}{{ref label|Note5|e|e}}
+| [[Kentucky Wildcats men's basketball|Kentucky]] <small>([[College sophomore|So.]])</small>
+|-
+|align=center| 1
+|align=center| 22
+| {{sortname|Marcus|Williams|Marcus Williams (basketball, born 1985)}}
+| G
+| {{flagu|United States}}
+| [[New Jersey Nets]] <small>(from [[Los Angeles Clippers|L.A. Clippers]] via [[Orlando Magic|Orlando]] and [[Denver Nuggets|Denver]])</small>{{ref label|Note19|s|s}}
+| [[Connecticut Huskies men's basketball|Connecticut]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 1
+|align=center| 23
+| {{sortname|Josh|Boone|Josh Boone (basketball)}}
+| F
+| {{flagu|United States}}
+| [[New Jersey Nets]]
+| [[Connecticut Huskies men's basketball|Connecticut]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 1
+|align=center| 24
+|  bgcolor="#FBCEB1"| {{sortname|Kyle|Lowry}}<sup>*</sup>
+| PG
+| {{flagu|United States}}
+| [[Memphis Grizzlies]]
+| [[Villanova Wildcats men's basketball|Villanova]] <small>([[College sophomore|So.]])</small>
+|-
+|align=center| 1
+|align=center| 25
+| {{sortname|Shannon|Brown}}
+| G
+| {{flagu|United States}}
+| [[Cleveland Cavaliers]]
+| [[Michigan State Spartans men's basketball|Michigan State]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 1
+|align=center| 26
+| {{sortname|Jordan|Farmar}}
+| G
+| {{flagu|United States}}
+| [[Los Angeles Lakers]] <small>(from [[Miami Heat|Miami]])</small>{{ref label|Note20|t|t}}
+| [[UCLA Bruins men's basketball|UCLA]] <small>([[College sophomore|So.]])</small>
+|-
+|align=center| 1
+|align=center| 27
+| {{sortname|Sergio|Rodríguez}}
+| G
+| {{ESP}}
+| [[Phoenix Suns]] <small>(traded to [[Portland Trail Blazers|Portland]])</small>{{ref label|Note6|f|f}}
+| [[CB Estudiantes|Adecco Estudiantes]]<small> ([[Liga ACB|Spain]])</small>
+|-
+|align=center| 1
+|align=center| 28
+| {{sortname|Maurice|Ager}}
+| G
+| {{flagu|United States}}
+| [[Dallas Mavericks]]
+| [[Michigan State Spartans men's basketball|Michigan State]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 1
+|align=center| 29
+| {{sortname|Mardy|Collins}}
+| G
+| {{flagu|United States}}
+| [[New York Knicks]] <small>(from [[San Antonio Spurs|San Antonio]])</small>{{ref label|Note21|u|u}}
+| [[Temple Owls|Temple]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 1
+|align=center| 30
+| {{sortname|Joel|Freeland}}
+| C
+| {{GBR}}
+| [[Portland Trail Blazers]] <small>(from [[Detroit Pistons|Detroit]] via [[Utah Jazz|Utah]])</small>{{ref label|Note22|v|v}}
+| [[CB Gran Canaria|Gran Canaria]]<small> ([[Liga ACB|Spain]])</small>
+|-
+|align=center| 2
+|align=center| 31
+| {{sortname|James|White|James White (basketball)}}
+| G
+| {{flagu|United States}}
+| [[Portland Trail Blazers]] <small>(traded to [[Indiana Pacers|Indiana]])</small>{{ref label|Note7|g|g 1}}
+| [[Cincinnati Bearcats men's basketball|Cincinnati]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 32
+| {{sortname|Steve|Novak}}
+| SF
+| {{flagu|United States}}
+| [[Houston Rockets]] <small>(from [[New York Knicks|New York]])</small>{{ref label|Note23|w|w}}
+| [[Marquette Golden Eagles men's basketball|Marquette]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 33
+| {{sortname|Solomon|Jones|Solomon Jones (basketball)}}
+| F
+| {{flagu|United States}}
+| [[Atlanta Hawks]]
+| [[University of South Florida|South Florida]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 34
+| {{sortname|Paul|Davis|Paul Davis (basketball)}}
+| C
+| {{flagu|United States}}
+| [[Los Angeles Clippers]] <small>(from [[Charlotte Bobcats|Charlotte]])</small>{{ref label|Note24|x|x}}
+| [[Michigan State Spartans men's basketball|Michigan State]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 35
+| {{sortname|P. J.|Tucker}}
+| F
+| {{flagu|United States}}
+| [[Toronto Raptors]]
+| [[Texas Longhorns men's basketball|Texas]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 2
+|align=center| 36
+| {{sortname|Craig|Smith|Craig Smith (basketball, born 1983)}}
+| F
+| {{flagu|United States}}
+| [[Minnesota Timberwolves]] <small>(from [[Boston Celtics|Boston]])</small>{{ref label|Note25|y|y}}
+| [[Boston College Eagles men's basketball|Boston College]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 37
+| {{sortname|Bobby|Jones|Bobby Jones (basketball, born 1984)}}
+| F
+| {{flagu|United States}}
+| [[Minnesota Timberwolves]] <small>(traded to [[Philadelphia 76ers|Philadelphia]])</small>{{ref label|Note8|h|h}}
+| [[Washington Huskies men's basketball|Washington]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 38
+| {{sortname|Kosta|Perović}}
+| C
+| {{flag|Serbia|2004}}
+| [[Golden State Warriors]]
+| [[KK Partizan|Partizan Belgrade]] <small>([[Naša Sinalko Liga|Serbia]])</small>
+|-
+|align=center| 2
+|align=center| 39
+| {{sortname|David|Noel}}
+| F
+| {{flagu|United States}}
+| [[Milwaukee Bucks]] <small>(from [[Houston Rockets|Houston]])</small>{{ref label|Note26|z|z}}
+| [[North Carolina Tar Heels men's basketball|North Carolina]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 40
+| bgcolor="#C0C0C0"| {{sortname|Denham|Brown}}<sup>#</sup>
+| G
+| {{CAN}}
+| [[Seattle SuperSonics]]
+| [[Connecticut Huskies men's basketball|Connecticut]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 41
+| {{sortname|James|Augustine}}
+| F
+| {{flagu|United States}}
+| [[Orlando Magic]]
+| [[Illinois Fighting Illini men's basketball|Illinois]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 42
+| {{sortname|Daniel|Gibson}}
+| G
+| {{flagu|United States}}
+| [[Cleveland Cavaliers]] <small>(from [[Philadelphia 76ers|Philadelphia]])</small>{{ref label|Note27|aa|aa}}
+| [[Texas Longhorns men's basketball|Texas]] <small>([[College sophomore|So.]])</small>
+|-
+|align=center| 2
+|align=center| 43
+| {{sortname|Marcus|Vinicius|Marcus Vinicius (basketball)}}
+| F
+| {{BRA}}
+| [[New Orleans Hornets|New Orleans/Oklahoma City Hornets]]
+| [[São Carlos Clube Basquete|Objetivo São Carlos]] <small>([[Campeonato Brasileiro de Basquete|Brazil]])</small>
+|-
+|align=center| 2
+|align=center| 44
+|  bgcolor="#C0C0C0"|{{sortname|Lior|Eliyahu}}<sup>#</sup>
+| F
+| {{ISR}}
+| [[Orlando Magic]] <small>(from [[Milwaukee Bucks|Milwaukee]] via [[Cleveland Cavaliers|Cleveland]], traded to [[Houston Rockets|Houston]])</small>{{ref label|Note28|ab|ab}}{{ref label|Note9|i|i}}
+| [[Hapoel Galil Elyon]] <small>([[Israeli Basketball Super League|Israel]])</small>
+|-
+|align=center| 2
+|align=center| 45
+| {{sortname|Alexander|Johnson|Alexander Johnson (basketball)}}
+| F
+| {{flagu|United States}}
+| [[Indiana Pacers]] <small>(traded to [[Memphis Grizzlies|Memphis]] via [[Portland Trail Blazers|Portland]])</small>{{ref label|Note7|g|2}}
+| [[Florida State Seminoles men's basketball|Florida State]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 2
+|align=center| 46
+| {{sortname|Dee|Brown|Dee Brown (basketball, born 1984)}}
+| G
+| {{flagu|United States}}
+| [[Utah Jazz]] <small>(from [[Chicago Bulls|Chicago]] via [[Houston Rockets|Houston]])</small>{{ref label|Note29|ac|ac}}
+| [[Illinois Fighting Illini men's basketball|Illinois]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 47
+|  style="background:#FFCC00;"| {{sortname|Paul|Millsap}}<sup>+</sup>
+| PF
+| {{flagu|United States}}
+| [[Utah Jazz]]
+| [[Louisiana Tech Bulldogs basketball|Louisiana Tech]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 2
+|align=center| 48
+| bgcolor="#C0C0C0"| {{sortname|Vladimir|Veremeenko}}<sup>#</sup>
+| F
+| {{BLR}}
+| [[Washington Wizards]]
+| [[BC Dynamo Saint Petersburg|Dynamo St. Petersburg]] <small>([[Russian Basketball Super League|Russia]])</small>
+|-
+|align=center| 2
+|align=center| 49
+| {{sortname|Leon|Powe}}
+| F
+| {{flagu|United States}}
+| [[Denver Nuggets]] <small>(traded to [[Boston Celtics|Boston]])</small>{{ref label|Note10|j|j}}
+| [[California Golden Bears|California]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 2
+|align=center| 50
+| {{sortname|Ryan|Hollins}}
+| C
+| {{flagu|United States}}
+| [[Charlotte Bobcats]] <small>(from [[Sacramento Kings|Sacramento]])</small>{{ref label|Note30|ad|ad}}
+| [[UCLA Bruins men's basketball|UCLA]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 51
+| {{sortname|Cheikh|Samb}}
+| C
+| {{flagu|Senegal}}
+| [[Los Angeles Lakers]] <small>(traded to [[Detroit Pistons|Detroit]])</small>{{ref label|Note11|k|k}}
+| [[CB Cornellà|WTC Cornellà]] <small>([[Liga Española de Baloncesto|Spain]])</small>
+|-
+|align=center| 2
+|align=center| 52
+| {{sortname|Guillermo|Diaz|Guillermo Diaz (basketball)}}
+| G
+| {{flagu|Puerto Rico}}
+| [[Los Angeles Clippers]]
+| [[Miami Hurricanes|Miami (FL)]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 2
+|align=center| 53
+| bgcolor="#C0C0C0"|{{sortname|Yotam|Halperin}}<sup>#</sup>
+| G
+| {{flagu|Israel}}
+| [[Seattle SuperSonics]] <small>(from [[Memphis Grizzlies|Memphis]])</small>{{ref label|Note31|ae|ae}}
+| [[KK Union Olimpija|Union Olimpija]] <small>([[Premier A Slovenian Basketball League|Slovenia]])</small>
+|-
+|align=center| 2
+|align=center| 54
+| {{sortname|Hassan|Adams}}
+| G
+| {{flagu|United States}}
+| [[New Jersey Nets]]
+| [[Arizona Wildcats men's basketball|Arizona]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 55
+| bgcolor="#C0C0C0"| {{sortname|Ejike|Ugboaja}}<sup>#</sup>
+| F
+| {{NGA}}
+| [[Cleveland Cavaliers]]
+| [[Union Bank Basketball Club|Union Bank Lagos]] <small>([[Nigerian Premier League (basketball)|Nigeria]])</small>
+|-
+|align=center| 2
+|align=center| 56
+| bgcolor="#C0C0C0"|  {{sortname|Edin|Bavčić}}<sup>#</sup>
+| F
+| {{BIH}}
+| [[Toronto Raptors]] <small>(from [[Miami Heat|Miami]] via [[Boston Celtics|Boston]] and [[New Orleans Hornets|New Orleans/Oklahoma City]], traded to [[Philadelphia 76ers|Philadelphia]])</small>{{ref label|Note32|af|af}}{{ref label|Note12|l|l}}
+| [[KK Bosna|ASA BH Telecom]] <small>([[Basketball Championship of Bosnia and Herzegovina|Bosnia and Herzegovina]])</small>
+|-
+|align=center| 2
+|align=center| 57
+| bgcolor="#C0C0C0"|  {{sortname|Loukas|Mavrokefalidis}}<sup>#</sup>
+| C
+| {{GRE}}
+| [[Minnesota Timberwolves]] <small>(from [[Phoenix Suns|Phoenix]])</small>{{ref label|Note33|ag|ag}}
+| [[PAOK Thessaloniki B.C.|PAOK]] <small>([[A1 Ethniki|Greece]])</small>
+|-
+|align=center| 2
+|align=center| 58
+| bgcolor="#C0C0C0"|  {{sortname|J. R.|Pinnock}}<sup>#</sup>
+| G
+| {{flagu|United States}}
+| [[Dallas Mavericks]] <small>(traded to [[Los Angeles Lakers|L.A. Lakers]])</small>{{ref label|Note13|m|m}}
+| [[George Washington Colonials men's basketball|George Washington]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 2
+|align=center| 59
+| {{sortname|Damir|Markota}}
+| F
+| {{CRO}}
+| [[San Antonio Spurs]] <small>(traded to [[Milwaukee Bucks|Milwaukee]])</small>{{ref label|Note14|n|n}}
+| [[KK Cibona|Cibona Zagreb]] <small>([[A1 Liga|Croatia]])</small>
+|-
+|align=center| 2
+|align=center| 60
+| {{sortname|Will|Blalock}}
+| G
+| {{flagu|United States}}
+| [[Detroit Pistons]]
+| [[Iowa State Cyclones men's basketball|Iowa State]] <small>([[Junior (education year)|Jr.]])</small>
+|}
+{{reflist|group=n}}
+
+==Notable undrafted players==
+{{further|List of undrafted NBA players}}
+Some of these players not selected in this year's draft have played in the NBA.
+{| class="wikitable sortable sortable"
+|-
+! style="width:19%;"| Player
+! style="width:1%;"| Position
+! style="width:16%;"| Nationality
+! style="width:20%;"| School/club team
+|-
+|{{sortname|Louis|Amundson}}
+|F
+|{{flagu|United States}}
+|[[UNLV Runnin' Rebels basketball|UNLV]] (Sr.)
+|-
+|{{sortname|José Juan|Barea}}
+|PG
+|{{flagu|Puerto Rico}}
+|[[Northeastern Huskies men's basketball|Northeastern]] (Sr.)
+|-
+|{{sortname|Cedric|Bozeman}}
+|G/F
+|{{flagu|United States}}
+|[[UCLA Bruins men's basketball|UCLA]] (Sr.)
+|-
+|{{sortname|Chris|Copeland}}
+|SF
+|{{flagu|United States}}
+|[[Colorado Buffaloes men's basketball|Colorado]] (Sr.)
+|-
+|{{sortname|Thomas|Gardner|Thomas Gardner (basketball)}}
+|SG
+|{{flagu|United States}}
+|[[Missouri Tigers men's basketball|Missouri]] (Jr.)
+|-
+|{{sortname|Mike|Hall|dab=basketball}}
+|SF
+|{{flagu|United States}}
+|[[George Washington Colonials men's basketball|George Washington]] (Sr.)
+|-
+|{{sortname|Robert|Hite}}
+|PG/SG
+|{{flagu|United States}}
+|[[Miami Hurricanes men's basketball|Miami (Florida)]] (Sr.)
+|-
+|{{sortname|Chris|Hunter|Chris Hunter (basketball)}}
+|C
+|{{flagu|United States}}
+|[[Michigan Wolverines men's basketball|Michigan]] (Jr.)
+|-
+|{{sortname|Dontell|Jefferson}}
+|SG
+|{{flagu|United States}}
+|[[Arkansas Razorbacks men's basketball|Arkansas]] (Sr.)
+|-
+|{{sortname|Eugene|Jeter}}
+|PG
+|{{flagu|United States}}<br/>{{flagu|Ukraine}}
+|[[Portland Pilots men's basketball|Portland]] (Sr.)
+|-
+|{{sortname|Carldell|Johnson}}
+|PG
+|{{flagu|United States}}
+|[[UAB Blazers men's basketball|UAB]] (Sr.)
+|-
+|{{sortname|Tarence|Kinsey}}
+|SG
+|{{flagu|United States}}
+|[[South Carolina Gamecocks men's basketball|South Carolina]] (Sr.)
+|-
+|{{sortname|Chris|McCray}}
+|SG
+|{{flagu|United States}}
+|[[Maryland Terrapins men's basketball|Maryland]] (Sr.)
+|-
+|{{sortname|Pops|Mensah-Bonsu}}
+|PF
+|{{flagu|United Kingdom}}
+|[[George Washington Colonials men's basketball|George Washington]] (Sr.)
+|-
+|{{sortname|Larry|Owens|dab=basketball}}
+|SF/SG
+|{{flagu|United States}}
+|[[Oral Roberts Golden Eagles men's basketball|Oral Roberts]] (Sr.)
+|-
+|{{sortname|Chris|Quinn}}
+|PG
+|{{flagu|United States}}
+|[[Notre Dame Fighting Irish men's basketball|Notre Dame]] (Sr.)
+|-
+|{{sortname|Allan|Ray}}
+|SG/PG
+|{{flagu|United States}}
+|[[Villanova Wildcats men's basketball|Villanova]] (Sr.)
+|-
+|{{sortname|Jeremy|Richardson}}
+|SG/SF
+|{{flagu|United States}}
+|[[Delta State Statesmen and Lady Statesmen|Delta State]] (Sr.)
+|-
+|{{sortname|Walker|Russell Jr.}}
+|PG
+|{{flagu|United States}}
+|[[Jacksonville State Gamecocks men's basketball|Jacksonville State]] (Sr.)
+|-
+|{{sortname|Steven|Smith|dab=basketball}}
+|SF/PF
+|{{flagu|United States}}
+|[[La Salle Explorers men's basketball|La Salle]] (Sr.)
+|-
+|{{sortname|Darius|Washington Jr.}}
+|PG/SG
+|{{flagu|United States}}<br>{{flagcountry|Macedonia}}
+|[[Memphis Tigers men's basketball|Memphis]] (So.)
+|-
+|{{sortname|C. J.|Watson}}
+|G
+|{{flagu|United States}}
+|[[Tennessee Volunteers basketball|Tennessee]] (Sr.)
+|-
+|{{sortname|Justin|Williams|dab=basketball}}
+|PF/C
+|{{flagu|United States}}
+|[[Wyoming Cowboys basketball|Wyoming]] (Sr.)
+|-
+|}
+
+==Eligibility==
+{{further|Eligibility for the NBA draft}}
+The new [[Collective bargaining|collective bargaining agreement]] between the NBA and the [[National Basketball Players Association]] (NBPA) took into effect starting in this year's draft. Under the new agreement, high school players were ''not'' eligible for selection. The new rules stated that high school players must wait one year after their high school class graduates and must be at least 19 years old to be eligible for the draft.<ref>{{cite web|title=Last high school class off to slow NBA start|url=https://www.usatoday.com/sports/basketball/nba/2006-04-12-prep-class_x.htm|publisher=Gannett Co. Inc|work=USA Today|date=April 13, 2006|access-date=August 22, 2009|first=Roscoe|last=Nance|archive-date=May 14, 2010|archive-url=https://web.archive.org/web/20100514184722/http://www.usatoday.com/sports/basketball/nba/2006-04-12-prep-class_x.htm|url-status=live}}</ref><ref name="CBA">{{cite web|url=http://www.nbpa.com/cba_articles/article-X.php |title=2005 NBA Collective Bargaining Agreement: Article X, Section 1(b)(i) |work=NBPA.com |publisher=National Basketball Players Association |access-date=April 17, 2008 |archive-url=https://web.archive.org/web/20080227065646/http://www.nbpa.com/cba_articles/article-X.php |archive-date=February 27, 2008 |url-status=dead }}</ref>
+
+The basic requirements for draft eligibility are:
+* All drafted players must be at least 19 years of age during the calendar year of the draft (i.e. born on or before December 31, 1987, for the 2006 draft).<ref name="CBA"/>
+* Any player who is not an "international player", as defined in the [[Collective bargaining|Collective Bargaining Agreement]] (CBA), must be at least one year removed from the graduation of his high school class.<ref name="CBA"/>
+
+The CBA defines "international players" as players who permanently resided outside the U.S. for three years before the draft, did not complete high school in the U.S., and have never enrolled at a U.S. college or university.<ref>{{cite web|url=http://www.nbpa.com/cba_articles/article-X.php |title=2005 NBA Collective Bargaining Agreement: Article X, Section 1(c) |work=NBPA.com |publisher=National Basketball Players Association |access-date=April 17, 2008 |archive-url=https://web.archive.org/web/20080227065646/http://www.nbpa.com/cba_articles/article-X.php |archive-date=February 27, 2008 |url-status=dead }}</ref>
+
+The basic requirement for automatic eligibility for a U.S. player is the completion of his college eligibility.<ref>{{cite web|url=http://www.nbpa.com/cba_articles/article-X.php |title=2005 NBA Collective Bargaining Agreement: Article X, Section 1(b)(ii) |work=NBPA.com |publisher=National Basketball Players Association |access-date=April 17, 2008 |archive-url=https://web.archive.org/web/20080227065646/http://www.nbpa.com/cba_articles/article-X.php |archive-date=February 27, 2008 |url-status=dead }}</ref> Players who meet the CBA definition of "international players" are automatically eligible if their 22nd birthday falls during or before the calendar year of the draft (i.e., born on or before December 31, 1984, for the 2006 draft).<ref>{{cite web|url=http://www.nbpa.com/cba_articles/article-X.php |title=2005 NBA Collective Bargaining Agreement: Article X, Section 1(b)(ii)(G)(1) |work=NBPA.com |publisher=National Basketball Players Association |access-date=April 17, 2008 |archive-url=https://web.archive.org/web/20080227065646/http://www.nbpa.com/cba_articles/article-X.php |archive-date=February 27, 2008 |url-status=dead }}</ref>
+
+A player who is not automatically eligible must declare his eligibility for the draft by notifying the NBA offices in writing no later than 60 days before the draft.<ref>[https://www.espn.com/nba/draft2006/insider/columns/story?columnist=ford_chad&id=2390446 Who's in and who's out of the 2006 NBA Draft?], ESPN, Chad Ford, April 29, 2006.</ref><ref>{{cite web|url=http://www.nbpa.com/cba_articles/article-X.php |title=2005 NBA Collective Bargaining Agreement: Article X, Section 1(b)(ii)(F) |work=NBPA.com |publisher=National Basketball Players Association |access-date=April 17, 2008 |archive-url=https://web.archive.org/web/20080227065646/http://www.nbpa.com/cba_articles/article-X.php |archive-date=February 27, 2008 |url-status=dead }}</ref><ref>{{cite web|url=http://www.nbpa.com/cba_articles/article-X.php |title=2005 NBA Collective Bargaining Agreement: Article X, Section 1(b)(ii)(G)(3) |work=NBPA.com |publisher=National Basketball Players Association |access-date=April 17, 2008 |archive-url=https://web.archive.org/web/20080227065646/http://www.nbpa.com/cba_articles/article-X.php |archive-date=February 27, 2008 |url-status=dead }}</ref> An early entry candidate is allowed to withdraw his eligibility for the draft by notifying the NBA offices in writing no later than 10 days before the draft.<ref>{{cite web|url=http://www.nbpa.com/cba_articles/article-X.php |title=2005 NBA Collective Bargaining Agreement: Article X, Section 8(c) |work=NBPA.com |publisher=National Basketball Players Association |access-date=April 17, 2008 |archive-url=https://web.archive.org/web/20080227065646/http://www.nbpa.com/cba_articles/article-X.php |archive-date=February 27, 2008 |url-status=dead }}</ref> On June 19, 2006, NBA announced that 37 college players and 10 international players had filed as early-entry candidates for the 2006 Draft, while 47 players who had previously declared as early entry candidates had withdrawn from the draft.<ref name="earlyentrant">{{cite web|url=http://www.nba.com/news/candidates_070619.html|title=Final Early Entry Candidates for 2007 NBA Draft|publisher=Turner Sports Interactive, Inc|work=NBA.com|date=June 21, 2007|access-date=May 3, 2009|archive-url=https://web.archive.org/web/20090517130501/http://www.nba.com/news/candidates_070619.html|archive-date=17 May 2009|url-status=dead}}</ref>
+
+===Early entrants===
+This year would mark the very first year where the NBA would not allow for high school prospects to enter the NBA draft after previously allowing it since [[1995 NBA draft|1995]].
+====College underclassmen====
+This year would mark a step down from the number of underclassmen expressing their interest in joining the NBA draft. After previously having over 100 players expressing their interest last year, this year only saw 92 total underclassmen from college or overseas play express interest in entering the NBA draft. However 46 of these players would later withdraw their entries into the draft, leaving only 46 total underclassmen from college or overseas areas officially entering the draft this year. The following [[college basketball]] players successfully applied for early draft entrance.<ref name=tdr>{{cite web |title=2006 Underclassmen |url=https://www.thedraftreview.com/index.php?option=com_content&view=article&id=3053:2006-underclassmen&catid=136&Itemid=384 |website=The Draft Review | date=August 4, 2007 |access-date=January 24, 2023}}</ref>
+
+{{div col}}
+* {{flagicon|USA}} [[LaMarcus Aldridge]] – F, [[Texas Longhorns men's basketball|Texas]] (sophomore)
+* {{flagicon|USA}} [[Renaldo Balkman]] – F, [[South Carolina Gamecocks men's basketball|South Carolina]] (junior)
+* {{flagicon|USA}} [[Will Blalock]] – G, [[Iowa State Cyclones men's basketball|Iowa State]] (junior)
+* {{flagicon|USA}} [[Josh Boone (basketball)|Josh Boone]] – F, [[Connecticut Huskies men's basketball|Connecticut]] (junior)
+* {{flagicon|USA}} [[Ronnie Brewer]] – G, [[Arkansas Razorbacks men's basketball|Arkansas]] (junior)
+* {{flagicon|USA}} [[Shannon Brown]] – G, [[Michigan State Spartans men's basketball|Michigan State]] (junior)
+* {{flagicon|USA}} Derek Burditt – F, [[Blinn College#Athletics|Blinn]] (sophomore)
+* {{flagicon|USA}} Travis DeGroot – G, [[Delta State Statesmen basketball|Delta State]] (junior)
+* {{flagicon|PRI}} [[Guillermo Diaz (basketball)|Guillermo Diaz]] – G, [[Miami Hurricanes men's basketball|Miami (Florida)]] (junior)
+* {{flagicon|USA}} [[Quincy Douby]] – G, [[Rutgers Scarlet Knights men's basketball|Rutgers]] (junior)
+* {{flagicon|USA}} [[Michael Efevberha]] – G, [[Cal State Northridge Matadors men's basketball|Cal State Northridge]] (junior)
+* {{flagicon|USA}} [[Jordan Farmar]] – G, [[UCLA Bruins men's basketball|UCLA]] (sophomore)
+* {{flagicon|USA}} [[Thomas Gardner (basketball)|Thomas Gardner]] – G, [[Missouri Tigers men's basketball|Missouri]] (junior)
+* {{flagicon|USA}} [[Rudy Gay]] – F, [[Connecticut Huskies men's basketball|Connecticut]] (sophomore)
+* {{flagicon|USA}} [[Daniel Gibson]] – G, [[Texas Longhorns men's basketball|Texas]] (sophomore)
+* {{flagicon|USA}} LeShawn Hammett – G, [[Saint Francis Red Flash men's basketball|Saint Francis (PA)]] (junior)
+* {{flagicon|USA}} Tedric Hill – F, [[Gulf Coast State College|Gulf Coast State]] (sophomore)
+* {{flagicon|USA}} Donald Jeffes – G, [[Roxbury Community College|Roxbury CC]] (sophomore)
+* {{flagicon|USA}} [[Alexander Johnson (basketball)|Alexander Johnson]] – F, [[Florida State Seminoles men's basketball|Florida State]] (junior)
+* {{flagicon|USA}} Dave Johnson – F, [[Clinton College (South Carolina)|Clinton JC]] (sophomore)
+* {{flagicon|USA}} Mark Konecny – F, [[Lambuth Eagles|Lambuth]] (junior)
+* {{flagicon|USA}} [[Kyle Lowry]] – G, [[Villanova Wildcats men's basketball|Villanova]] (sophomore)
+* {{flagicon|USA}} [[Paul Millsap]] – F, [[Louisiana Tech Bulldogs basketball|Louisiana Tech]] (junior)
+* {{flagicon|USA}} Matt Mitchell – G, [[Southern–New Orleans Knights and Lady Knights|Southern–New Orleans]] (junior)
+* {{flagicon|USA}} [[Adam Morrison]] – F, [[Gonzaga Bulldogs men's basketball|Gonzaga]] (junior)
+* {{flagicon|USA}} [[Patrick O'Bryant]] – C, [[Bradley Braves men's basketball|Bradley]] (sophomore)
+* {{flagicon|USA}} [[J. R. Pinnock]] – G, [[George Washington Colonials men's basketball|George Washington]] (junior)
+* {{flagicon|USA}} [[Leon Powe]] – F, [[California Golden Bears men's basketball|California]] (sophomore)
+* {{flagicon|USA}} [[Rajon Rondo]] – G, [[Kentucky Wildcats men's basketball|Kentucky]] (sophomore)
+* {{flagicon|USA}} [[Cedric Simmons]] – F, [[NC State Wolfpack men's basketball|NC State]] (sophomore)
+* {{flagicon|USA}} [[Marcus Slaughter]] – F, [[San Diego State Aztecs men's basketball|San Diego State]] (junior)
+* {{flagicon|USA}} [[Curtis Stinson]] – G, [[Iowa State Cyclones men's basketball|Iowa State]] (junior)
+* {{flagicon|USA}} [[Tyrus Thomas]] – F, [[LSU Tigers men's basketball|LSU]] (freshman)
+* {{flagicon|USA}} [[P. J. Tucker]] – F/G, [[Texas Longhorns men's basketball|Texas]] (junior)
+* {{flagicon|USA}} [[Darius Washington Jr.]] – G, [[Memphis Tigers men's basketball|Memphis]] (sophomore)
+* {{flagicon|USA}} [[Marcus Williams (basketball, born 1985)|Marcus Williams]] – G, [[Connecticut Huskies men's basketball|Connecticut]] (junior)
+* {{flagicon|USA}} [[Shawne Williams]] – F, [[Memphis Tigers men's basketball|Memphis]] (freshman)
+{{div col end}}
+
+====International players====
+The following international players successfully applied for early draft entrance.<ref name=tdr />
+
+{{div col}}
+* {{flagicon|FRA}} [[Pape-Philippe Amagou]] – G, [[Le Mans Sarthe Basket|Le Mans]] ([[LNB Pro A|France]])
+* {{flagicon|ITA}} [[Andrea Bargnani]] – F, [[Pallacanestro Treviso|Benetton Treviso]] ([[Lega Basket|Italy]])
+* {{flagicon|ISR}} [[Lior Eliyahu]] – F, [[Hapoel Galil Elyon]] ([[Israeli Basketball Premier League|Israel]])
+* {{flagicon|CRO}} [[Damir Markota]] – F, [[KK Cibona|Cibona Zagreb]] ([[HT Premijer liga|Croatia]])
+* {{flagicon|UKR}} [[Oleksiy Pecherov]] – F, [[BC Kyiv]] ([[Ukrainian Basketball SuperLeague|Ukraine]])
+* {{flagicon|SER}} [[Kosta Perović]] – C, [[KK Partizan|Partizan Belgrade]] ([[Basketball League of Serbia|Serbia]])
+* {{flagicon|SPA}} [[Sergio Rodríguez]] – G, [[CB Estudiantes|Adecco Estudiantes]] ([[Liga ACB|Spain]])
+* {{flagicon|SEN}} [[Mouhamed Sene]] – C, [[RBC Pepinster|Verviers-Pepinster]] ([[Pro Basketball League|Belgium]])
+* {{flagicon|NGR}} [[Ejike Ugboaja]] – F, [[Union Bank B.C.|Union Bank Lagos]] ([[Nigerian Premier League (basketball)|Nigeria]])
+{{div col end}}
+
+===Automatically eligible entrants===
+Players who do not meet the criteria for "international" players are automatically eligible if they meet any of the following criteria:
+*They have no remaining college eligibility.
+*If they graduated from high school in the U.S., but did not enroll in a U.S. college or university, four years have passed since their high school class graduated.
+*They have signed a contract with a professional basketball team not in the NBA, anywhere in the world, and have played under the contract.
+
+Players who meet the criteria for "international" players are automatically eligible if they meet any of the following criteria:
+*They are at least 22 years old during the calendar year of the draft. In term of dates players born on or before December 31, 1984, are automatically eligible for the 2006 draft.
+*They have signed a contract with a professional basketball team not in the NBA ''within the United States'', and have played under that contract.
+
+{| class="wikitable sortable plainrowheaders" style="text-align:left; font-size:95%"
+|+ Other automatically eligible players
+|-
+! Player !! {{tooltip|Team|Most recent team played for before the draft}} !!class=unsortable| Note !!class=unsortable| Ref.
+|-
+!scope="row"|{{flagicon|AUS}} [[Ian Crosswhite]]
+| [[Sydney Kings]] ([[National Basketball League (Australia)|Australia]]) || Left [[Oregon Ducks men's basketball|Oregon]] in 2005; playing professionally since the 2005–06 season ||align=center|<ref>{{cite web |title=Kings snap up Crosswhite |url=https://www.abc.net.au/news/2005-09-30/kings-snap-up-crosswhite/2115798 |website=ABC News |access-date=May 20, 2023 |date=September 30, 2005}}</ref>
+|}
+
+==Draft lottery==
+{{further|NBA draft lottery}}
+The first 14 picks in the draft belonged to teams that had missed the [[2005 NBA Playoffs|playoffs]]; the order was determined through a lottery. The lottery would determine the three teams that would obtain the first three picks on the draft. The remaining first-round picks and the second-round picks were assigned to teams in reverse order of their win–loss record in the [[2005–06 NBA season|previous season]]. On April 20, 2007, the NBA performed a tie-breaker to determine the order of the picks for teams with identical win–loss record.<ref>{{cite web|url=http://www.nba.com/news/lotteryties_060421.html|title=Ties Broken for NBA Draft 2006 Order of Selection|date=April 21, 2006|publisher=Turner Sports Interactive, Inc|work=NBA.com|access-date=May 6, 2009|archive-date=January 3, 2009|archive-url=https://web.archive.org/web/20090103114230/http://www.nba.com/news/lotteryties_060421.html|url-status=live}}</ref>
+
+The 2006 Draft Lottery was held on May 23, 2006, in [[Secaucus, New Jersey]]. The [[Toronto Raptors]], who had the fifth-worst record, won the lottery with just 8.8% chance to win. The [[Chicago Bulls]], who acquired the [[New York Knicks]]' first-round draft pick from a previous trade, landed the second overall pick. The [[Portland Trail Blazers]] who had the best chance to land the top pick fell out of the top three and had to settle with 4th pick. Portland's 4th pick was the lowest possible pick that Portland could obtained through the lottery.<ref>{{cite web|url=http://www.nba.com/features/lottery2006room_060523.html|title=Ping-Pong Balls, Raptors Rise|date=May 23, 2006|publisher=Turner Sports Interactive, Inc|work=NBA.com|access-date=May 6, 2009| archive-url= https://web.archive.org/web/20090502030437/http://www.nba.com/features/lottery2006room_060523.html| archive-date= 2 May 2009 | url-status= live}}</ref>
+
+Below were the chances for each team to get specific picks in the 2006 draft lottery, rounded to three decimal places:<ref>{{cite web|url=http://www.nba.com/news/draft_lottery_results_060523.html|title=Results of 2006 NBA Draft Lottery|date=May 23, 2006|publisher=Turner Sports Interactive, Inc|work=NBA.com|access-date=May 6, 2009|archive-date=September 5, 2008|archive-url=https://web.archive.org/web/20080905171008/http://www.nba.com/news/draft_lottery_results_060523.html|url-status=live}}</ref><ref>{{cite web|title=NBA Draft Lottery – Probabilities for the 2007 Draft Lottery|publisher=Turner Sports Interactive, Inc|work=NBA.com/Raptors|url=http://www.nba.com/media/raptors/NBA_lottery_Probabilities_2006.pdf|date=May 3, 2006|access-date=August 22, 2009|archive-date=November 6, 2012|archive-url=https://web.archive.org/web/20121106115629/http://www.nba.com/media/raptors/NBA_lottery_Probabilities_2006.pdf|url-status=live}}</ref>
+{| class="wikitable"
+|-
+| style="background-color:#FFFF99; border:1px solid #aaaaaa; width:2em"| ^
+|Denotes the actual lottery results
+|}
+{|class="wikitable" style="text-align:right"
+!rowspan="2" align="left"|Team||rowspan="2"|[[2005–06 NBA season|2005–06<br>record]]||rowspan="2"|Lottery<br>chances||colspan="14"|Pick
+|-
+!1st||2nd||3rd||4th||5th||6th||7th||8th||9th||10th||11th||12th||13th||14th
+|-
+|align="left"|[[Portland Trail Blazers]]||21–61
+|250|| .250|| .215|| .177|| style="background-color:#FFFF99"|.358^|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—
+|-
+|align="left"|[[New York Knicks]]{{Cref|a}}||23–59
+|199|| .199|| style="background-color:#FFFF99"|.188^|| .171|| .319|| .124|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—
+|-
+|align="left"|[[Charlotte Bobcats]]||26–56
+|138|| .138|| .142|| style="background-color:#FFFF99"|.145^|| .238|| .290|| .045|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—
+|-
+|align="left"|[[Atlanta Hawks]]||26–56
+|137|| .137|| .142|| .145|| .085|| style="background-color:#FFFF99"|.323^|| .156|| .013|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—
+|-
+|align="left"|[[Toronto Raptors]]||27–55
+| 88|| style="background-color:#FFFF99"|.088^|| .096|| .106|| align="center"|—|| .262|| .359|| .084|| .004|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—
+|-
+|align="left"|[[Minnesota Timberwolves]]||33–49
+| 53|| .053|| .060|| .070|| align="center"|—|| align="center"|—|| style="background-color:#FFFF99"|.440^|| .330|| .045|| .001|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—
+|-
+|align="left"|[[Boston Celtics]]||33–49
+| 53|| .053|| .060|| .070|| align="center"|—|| align="center"|—|| align="center"|—|| style="background-color:#FFFF99"|.573^|| .226|| .018|| .000|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—
+|-
+|align="left"|[[Houston Rockets]]||34–48
+| 23|| .023|| .027|| .032|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| style="background-color:#FFFF99"|.725^|| .184|| .009|| .000|| align="center"|—|| align="center"|—|| align="center"|—
+|-
+|align="left"|[[Golden State Warriors]]||34–48
+| 22|| .022|| .026|| .031|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| style="background-color:#FFFF99"|.797^|| .121|| .004|| .000|| align="center"|—|| align="center"|—
+|-
+|align="left"|[[Seattle SuperSonics]]||35–47
+| 11|| .011|| .013|| .016|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| style="background-color:#FFFF99"|.870^|| .089|| .002|| .000|| align="center"|—
+|-
+|align="left"|[[Orlando Magic]]||36–46
+|  8|| .008|| .009|| .012|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| style="background-color:#FFFF99"|.908^|| .063|| .001|| .000
+|-
+|align="left"|[[New Orleans Hornets|New Orleans/Oklahoma City Hornets]]||38–44
+|  7|| .007|| .008|| .010|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| style="background-color:#FFFF99"|.935^|| .039|| .000
+|-
+|align="left"|[[Philadelphia 76ers]]||38–44
+|  6|| .006|| .007|| .009|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| style="background-color:#FFFF99"|.960^|| .018
+|-
+|align="left"|[[Utah Jazz]]||41–41
+|  5|| .005|| .006|| .007|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| align="center"|—|| style="background-color:#FFFF99"|.982^
+|}
+{{Cnote|a|New York Knicks' pick was conveyed to the [[Chicago Bulls]].{{ref label|Note15|o|o 1}}}}
+
+==Trades involving draft picks==
+
+===Draft-day trades===
+[[File:Rajon Rondo Media Day.jpg|right|thumb|upright=0.7|[[Rajon Rondo]], the 21st pick of the Phoenix Suns, and was traded to the Boston Celtics.]]
+The following trades involving drafted players were made on the day of the draft.
+*{{note label|Note1|a|a 1}}{{note label|Note1|a|2}} [[Portland Trail Blazers|Portland]] acquired the draft rights to 2nd pick [[LaMarcus Aldridge]] and a 2007 second-round draft pick from [[Chicago Bulls|Chicago]] in exchange for the draft rights to 4th pick [[Tyrus Thomas]] and [[Viktor Khryapa]].<ref name="blazers">{{cite web|url=http://www.nba.com/blazers/news/Trail_Blazers_Land_Brandon_Roy-183312-1177.html|title=Trail Blazers Land Brandon Roy and LaMarcus Aldridge|publisher=Turner Sports Interactive, Inc|work=NBA.com/Blazers|access-date=May 6, 2009|date=June 28, 2006|archive-date=December 28, 2007|archive-url=https://web.archive.org/web/20071228041019/http://www.nba.com/blazers/news/Trail_Blazers_Land_Brandon_Roy-183312-1177.html|url-status=live}}</ref>
+*{{note label|Note2|b|b 1}}{{note label|Note2|b|2}} [[Portland Trail Blazers|Portland]] acquired the draft rights to 6th pick [[Brandon Roy]] from [[Minnesota Timberwolves|Minnesota]] in exchange for the draft rights to 7th pick [[Randy Foye]]. Previously, Portland acquired the draft rights to 7th pick [[Randy Foye]], [[Raef LaFrentz]] and [[Dan Dickau]] from [[Boston Celtics|Boston]] in exchange for [[Sebastian Telfair]], [[Theo Ratliff]] and a 2008 second-round draft pick.<ref name="blazers"/>
+*{{note label|Note3|c|c}} [[Memphis Grizzlies|Memphis]] acquired the draft rights to 8th pick [[Rudy Gay]] and [[Stromile Swift]] from [[Houston Rockets|Houston]] in exchange for [[Shane Battier]].<ref name="drafttrade">{{cite web|url=https://proxy.espn.com/nba/draft2006/news/story?id=2503390|title=NBA Draft trade roundup|publisher=ESPN Internet Ventures|work=ESPN.com|access-date=May 6, 2009|date=June 29, 2006|archive-date=June 5, 2011|archive-url=https://web.archive.org/web/20110605103652/http://proxy.espn.go.com/nba/draft2006/news/story?id=2503390|url-status=live}}</ref> The trade was finalized on July 12, 2006.<ref>{{cite web|url=http://www.nba.com/grizzlies/news/gay_swift_release-060712.html|title=Grizzlies Trade Shane Battier to Houston in Exchange for Forward Stromile Swift and Draft Rights to Rudy Gay|publisher=Turner Sports Interactive, Inc|work=NBA.com/Grizzlies|access-date=May 6, 2009|date=July 12, 2006|archive-date=June 5, 2019|archive-url=https://web.archive.org/web/20190605145410/https://www.nba.com/grizzlies/news/gay_swift_release-060712.html|url-status=live}}</ref>
+*{{note label|Note4|d|d 1}}{{note label|Note4|d|2}} [[Chicago Bulls|Chicago]] acquired the draft rights to 13th pick [[Thabo Sefolosha]] from [[Philadelphia 76ers|Philadelphia]] in exchange for the draft rights to 16th pick [[Rodney Carney]], a 2007 second-round draft pick and cash considerations.<ref name="sixers">{{cite web|url=http://www.nba.com/sixers/draft/draft_release_060628.html|title=76ers Acquire Rodney Carney from Chicago in a Draft-Night Trade|publisher=Turner Sports Interactive, Inc|work=NBA.com/Sixers|access-date=May 6, 2009|date=June 28, 2006|archive-url=https://web.archive.org/web/20090211100735/http://www.nba.com/sixers/draft/draft_release_060628.html|archive-date=2009-02-11|url-status=dead}}</ref>
+*{{note label|Note5|e|e}} [[Boston Celtics|Boston]] acquired the draft rights to 21st pick [[Rajon Rondo]], [[Brian Grant]] and cash considerations from [[Phoenix Suns|Phoenix]] in exchange for a 2007 first-round draft pick.<ref>{{cite web|url=http://www.nba.com/celtics/news/draft-central/press062806-draft-rondo.html|title=Celtics Acquire Draft Rights to Rajon Rondo and Brian Grant|publisher=Turner Sports Interactive, Inc|work=NBA.com/Celtics|access-date=May 6, 2009|date=June 28, 2006| archive-url= https://web.archive.org/web/20090614023004/http://www.nba.com/celtics/news/draft-central/press062806-draft-rondo.html| archive-date= 14 June 2009 | url-status= live}}</ref>
+*{{note label|Note6|f|f}} [[Portland Trail Blazers|Portland]] acquired the draft rights to 27th pick [[Sergio Rodríguez]] from [[Phoenix Suns|Phoenix]] in exchange for cash considerations.<ref name="blazers"/>
+*{{note label|Note7|g|g 1}}{{note label|Note7|g|2}} [[Memphis Grizzlies|Memphis]] acquired the draft rights to 45th pick [[Alexander Johnson (basketball)|Alexander Johnson]] from [[Portland Trail Blazers|Portland]] in exchange for a 2008 second-round draft pick. Previously, Portland acquired the draft rights to 45<small>th</small> pick Alexander Johnson, 2007 and 2008 second-round draft picks from [[Indiana Pacers|Indiana]] in exchange for the draft rights to 31st pick [[James White (basketball)|James White]].<ref name="blazers"/>
+*{{note label|Note8|h|h}} [[Philadelphia 76ers|Philadelphia]] acquired the draft rights to 37th pick [[Bobby Jones (basketball, born 1984)|Bobby Jones]] from [[Minnesota Timberwolves|Minnesota]] in exchange for a 2007 second-round draft pick and cash considerations.<ref name="sixers"/>
+*{{note label|Note9|i|i}} [[Houston Rockets|Houston]] acquired the draft rights to 44th pick [[Lior Eliyahu]] from [[Orlando Magic|Orlando]] in exchange for cash considerations.<ref>{{cite web|url=http://www.nba.com/magic/news/Magic_Seect_James_Augustine_W-183340-800.html|title=Magic Select James Augustine With 2006 Second Round Pick|publisher=Turner Sports Interactive, Inc|work=NBA.com/Magic|access-date=May 6, 2009|date=June 28, 2006|archive-date=March 9, 2009|archive-url=https://web.archive.org/web/20090309030713/http://www.nba.com/magic/news/Magic_Seect_James_Augustine_W-183340-800.html|url-status=live}}</ref>
+*{{note label|Note10|j|j}} [[Boston Celtics|Boston]] acquired the draft rights to 49th pick [[Leon Powe]] from [[Denver Nuggets|Denver]] in exchange for a 2007 second-round draft pick.<ref>{{cite web|url=http://www.nba.com/celtics/news/draft-central/press062806-draft-rights-powe.html|title=Celtics Acquire Draft Rights to Leon Powe|publisher=Turner Sports Interactive, Inc|work=NBA.com/Celtics|access-date=May 6, 2009|date=June 28, 2006| archive-url= https://web.archive.org/web/20090503174907/http://www.nba.com/celtics/news/draft-central/press062806-draft-rights-powe.html| archive-date= 3 May 2009 | url-status= live}}</ref>
+*{{note label|Note11|k|k}} [[Detroit Pistons|Detroit]] acquired the draft rights to 51st pick [[Cheikh Samb]] from the [[Los Angeles Lakers|L.A. Lakers]] in exchange for [[Maurice Evans (basketball)|Maurice Evans]].<ref>{{cite web|url=http://www.nba.com/pistons/news/draft_060629.html|title=Pistons Acquire the Draft Rights to Cheikh Samb From the Los Angeles Lakers in Exchange for Maurice Evans|publisher=Turner Sports Interactive, Inc|work=NBA.com/Pistons|access-date=May 6, 2009|date=June 28, 2006|archive-date=August 9, 2009|archive-url=https://web.archive.org/web/20090809164433/http://www.nba.com/pistons/news/draft_060629.html|url-status=live}}</ref>
+*{{note label|Note12|l|l}} [[Philadelphia 76ers|Philadelphia]] acquired the draft rights to 56th pick [[Edin Bavčić]] from [[Toronto Raptors|Toronto]] in exchange for cash considerations.<ref name="sixers"/>
+*{{note label|Note13|m|m}} The [[Los Angeles Lakers|L.A. Lakers]] acquired the draft rights to 58th pick [[J. R. Pinnock]] from [[Dallas Mavericks|Dallas]] in exchange for a 2007 second-round draft pick.<ref>{{cite web|url=http://www.nba.com/lakers/news/pinnock_signs_060906.html|title=Lakers Sign J.R. Pinnock|publisher=Turner Sports Interactive, Inc|work=NBA.com/Lakers|access-date=May 6, 2009|date=September 6, 2006|archive-date=February 11, 2009|archive-url=https://web.archive.org/web/20090211100652/http://www.nba.com/lakers/news/pinnock_signs_060906.html|url-status=live}}</ref>
+*{{note label|Note14|n|n}} [[Milwaukee Bucks|Milwaukee]] acquired the draft rights to 59th pick [[Damir Markota]] from [[San Antonio Spurs|San Antonio]] in exchange for a 2007 second-round draft pick.<ref>{{cite web|url=http://www.nba.com/bucks/news/Markota_Trade_060628.html|title=Bucks Acquire Damir Markota In Draft Night Trade|publisher=Turner Sports Interactive, Inc|work=NBA.com/Bucks|access-date=May 6, 2009|date=June 28, 2006|archive-date=March 8, 2009|archive-url=https://web.archive.org/web/20090308104007/http://www.nba.com/bucks/news/Markota_Trade_060628.html|url-status=live}}</ref>
+
+===Pre-draft trades===
+Prior to the day of the draft, the following trades were made and resulted in exchanges of draft picks between the teams.
+*{{note label|Note15|o|o 1}}{{note label|Note15|o|2}} On October 4, 2005, [[Chicago Bulls|Chicago]] acquired a 2006 first-round draft pick, an option to exchange 2007 first-round draft picks, 2007 and 2009 second-round draft picks, [[Tim Thomas (basketball)|Tim Thomas]], [[Michael Sweetney]] and [[Jermaine Jackson (basketball)|Jermaine Jackson]] from [[New York Knicks|New York]] in exchange for [[Eddy Curry]] and [[Antonio Davis]].<ref name="eddycurry">{{cite web|url=http://www.nba.com/bulls/news/curry_traded_051004.html|title=Bulls Re-Sign Curry, Complete Sign-and-Trade with Knicks|publisher=Turner Sports Interactive, Inc|work=NBA.com/Bulls|access-date=May 6, 2009|date=October 4, 2005|archive-date=March 7, 2009|archive-url=https://web.archive.org/web/20090307012906/http://www.nba.com/bulls/news/curry_traded_051004.html|url-status=live}}</ref> Chicago used the 2nd pick to draft [[LaMarcus Aldridge]].
+*{{note label|Note16|p|p}} On October 26, 2005, [[New Orleans Hornets|New Orleans/Oklahoma City]] acquired a 2006 first-round draft pick, [[Desmond Mason]] and cash considerations from [[Milwaukee Bucks|Milwaukee]] in exchange for [[Jamaal Magloire]].<ref>{{cite web|url=http://www.nba.com/bucks/news/Magloire_Trade_051026.html|title=Bucks Acquire Magloire In Trade With Hornets|publisher=Turner Sports Interactive, Inc|work=NBA.com/Bucks|access-date=May 6, 2009|date=October 26, 2005| archive-url= https://web.archive.org/web/20090429081916/http://www.nba.com/bucks/news/Magloire_Trade_051026.html| archive-date= 29 April 2009 | url-status= live}}</ref> New Orleans/Oklahoma City used the 15th pick to draft [[Cedric Simmons]].
+*{{note label|Note17|q|q}} On February 3, 2006, [[New York Knicks|New York]] acquired Denver's 2006 first-round draft pick and [[Jalen Rose]] from [[Toronto Raptors|Toronto]] in exchange for [[Antonio Davis]].<ref>{{cite web|url=http://www.nba.com/knicks/news/rose_060203.html|title=Knicks Acquire Jalen Rose & First-Round Draft Choice|publisher=Turner Sports Interactive, Inc|work=NBA.com/Knicks|access-date=May 6, 2009|date=February 3, 2006|archive-date=March 27, 2008|archive-url=https://web.archive.org/web/20080327185149/http://www.nba.com/knicks/news/rose_060203.html|url-status=live}}</ref> Previously, Toronto acquired Philadelphia's 2005 and Denver's 2006 first-round draft picks, [[Alonzo Mourning]], [[Eric Williams (basketball, born 1972)|Eric Williams]], [[Aaron Williams (basketball)|Aaron Williams]] on December 17, 2004, from [[New Jersey Nets|New Jersey]] in exchange for [[Vince Carter]].<ref>{{cite web|url=http://www.nba.com/raptors/news/PR_carter_traded_041217.html|title=Raptors Trade Carter To Nets|publisher=Turner Sports Interactive, Inc|work=NBA.com/Raptors|access-date=May 6, 2009|date=December 17, 2004|archive-date=May 11, 2008|archive-url=https://web.archive.org/web/20080511182138/http://www.nba.com/raptors/news/PR_carter_traded_041217.html|url-status=live}}</ref> Previously, New Jersey acquired Philadelphia's 2005, Denver's 2006 and L.A. Clippers' 2006 first-round draft picks on July 15, 2004, from [[Denver Nuggets|Denver]] in exchange for [[Kenyon Martin]].<ref name="kenyonmartin">{{cite web|url=http://www.nba.com/nets/news/kenyon_040715.html|title=Nets Trade Kenyon Martin to Nuggets|publisher=Turner Sports Interactive, Inc|work=NBA.com/Nets|access-date=May 6, 2009|date=July 15, 2004| archive-url= https://web.archive.org/web/20090429075904/http://www.nba.com/nets/news/kenyon_040715.html| archive-date= 29 April 2009 | url-status= live}}</ref> New York used the 20th pick to draft [[Renaldo Balkman]].
+*{{note label|Note18|r|r}} On August 19, 2005, [[Phoenix Suns|Phoenix]] acquired L.A. Lakers' 2006 and Atlanta's 2007 first-round draft picks and [[Boris Diaw]] from [[Atlanta Hawks|Atlanta]] in exchange for [[Joe Johnson (basketball)|Joe Johnson]].<ref>{{cite web|url=http://www.nba.com/suns/news/johnson_traded_050819.html|title=Johnson Trade to Atlanta Completed|publisher=Turner Sports Interactive, Inc|work=NBA.com/Suns|access-date=May 6, 2009|date=August 19, 2005| archive-url= https://web.archive.org/web/20090501063835/http://www.nba.com/suns/news/johnson_traded_050819.html| archive-date= 1 May 2009 | url-status= live}}</ref> Previously, Atlanta acquired L.A. Lakers' 2006 first-round draft pick, [[Gary Payton]], [[Tom Gugliotta]] and [[Michael Stewart (basketball)|Michael Stewart]] on February 24, 2005, from [[Boston Celtics|Boston]] in exchange for [[Antoine Walker]].<ref>{{cite web|url=http://www.nba.com/hawks/news/Press_Release_022405.html|title=Hawks Acquire First-Round Draft Pick, Gary Payton, Tom Gugliotta and Michael Stewart from Celtics|publisher=Turner Sports Interactive, Inc|work=NBA.com/Hawks|access-date=May 6, 2009|date=February 24, 2005| archive-url= https://web.archive.org/web/20090429062154/http://www.nba.com/hawks/news/Press_Release_022405.html| archive-date= 29 April 2009 | url-status= live}}</ref> Previously, Boston acquired a 2006 first-round draft pick, [[Gary Payton]], [[Rick Fox]] and cash considerations on August 13, 2004, from the [[Los Angeles Lakers|L.A. Lakers]] in exchange for [[Chris Mihm]], [[Chucky Atkins]] and [[Jumaine Jones]].<ref>{{cite web|url=http://www.nba.com/celtics/news/c-116079-25.html|title=Trade of August 6th with Lakers Has Been Amended|publisher=Turner Sports Interactive, Inc|work=NBA.com/Celtics|access-date=May 6, 2009|date=August 6, 2004|archive-date=March 9, 2009|archive-url=https://web.archive.org/web/20090309172717/http://www.nba.com/celtics/news/c-116079-25.html|url-status=live}}</ref><ref>{{cite web|url=http://www.nba.com/celtics/news/CelticsAcquirePaytonPress2.html|title=Celtics Acquire Nine-Time NBA All-Star Gary Payton|publisher=Turner Sports Interactive, Inc|work=NBA.com/Celtics|access-date=May 6, 2009|date=August 13, 2004|archive-date=March 9, 2009|archive-url=https://web.archive.org/web/20090309174401/http://www.nba.com/celtics/news/CelticsAcquirePaytonPress2.html|url-status=live}}</ref> Phoenix used the 21st pick to draft [[Rajon Rondo]].
+*{{note label|Note19|s|s}} On July 15, 2005, [[New Jersey Nets|New Jersey]] acquired Philadelphia's 2005, Denver's 2006 and L.A. Clippers' 2006 first-round draft picks from [[Denver Nuggets|Denver]] in exchange for [[Kenyon Martin]].<ref name="kenyonmartin"/> Previously, Denver acquired L.A. Clippers' 2006 first-round draft pick and [[Don Reid (basketball)|Don Reid]] on August 1, 2002, from [[Orlando Magic|Orlando]] in exchange for a 2004 second-round draft pick.<ref name="magic">{{cite web|url=http://www.nba.com/magic/news/AllTime_Transactions-155422-808.html|title=All-Time Transactions|publisher=Turner Sports Interactive, Inc|work=NBA.com/Magic|access-date=May 6, 2009|archive-date=February 3, 2012|archive-url=https://web.archive.org/web/20120203235755/http://www.nba.com/magic/news/AllTime_Transactions-155422-808.html|url-status=live}}</ref> Previously, Orlando acquired a first-round draft pick on June 28, 2006, from the [[Los Angeles Clippers|L.A. Clippers]] in exchange for [[Corey Maggette]], [[Derek Strong]], the draft rights to [[Keyon Dooling]], a 2000 second-round draft pick and cash considerations.<ref name="magic"/> New Jersey used the 22nd pick to draft [[Marcus Williams (basketball, born 1985)|Marcus Williams]].
+*{{note label|Note20|t|t}} On July 14, 2004, the [[Los Angeles Lakers|L.A. Lakers]] acquired a 2006 first-round draft pick, [[Lamar Odom]], [[Caron Butler]] and [[Brian Grant]] from [[Miami Heat|Miami]] in exchange for [[Shaquille O'Neal]].<ref>{{cite web|url=http://www.nba.com/lakers/news/odom_shaq_trade_040714.html|title=Lakers Acquire Odom, Butler, Grant and a Future First Rounder for Shaq|publisher=Turner Sports Interactive, Inc|work=NBA.com/Lakers|access-date=May 6, 2009|date=July 14, 2004|archive-date=October 9, 2013|archive-url=https://web.archive.org/web/20131009044438/http://www.nba.com/lakers/news/odom_shaq_trade_040714.html|url-status=live}}</ref> The L.A. Lakers used the 26th pick to draft [[Jordan Farmar]].
+*{{note label|Note21|u|u}} On February 25, 2005, [[New York Knicks|New York]] acquired Phoenix's 2005 and San Antonio's 2006 first-round draft picks and [[Malik Rose]] from [[San Antonio Spurs|San Antonio]] in exchange for [[Nazr Mohammed]] and [[Jamison Brewer]].<ref>{{cite web|url=http://www.nba.com/knicks/news/rose_050224.html|title=Knicks Acquire Malik Rose & Two First-Round Picks|publisher=Turner Sports Interactive, Inc|work=NBA.com/Knicks|access-date=May 6, 2009|date=February 25, 2005| archive-url= https://web.archive.org/web/20090425161348/http://www.nba.com/knicks/news/rose_050224.html| archive-date= 25 April 2009 | url-status= live}}</ref> New York used the 29th pick to draft [[Mardy Collins]].
+*{{note label|Note22|v|v}} On June 28, 2005, [[Portland Trail Blazers|Portland]] acquired Detroit's 2006 first-round draft pick, the 6th and 27th pick in [[2005 NBA Draft|2005]] from [[Utah Jazz|Utah]] in exchange for the 3rd pick in 2005.<ref>{{cite web|url=http://www.nba.com/jazz/news/drafttrade_062805.html|title=Jazz Acquire 3rd Pick|publisher=Turner Sports Interactive, Inc|work=NBA.com/Jazz|access-date=May 6, 2009|date=June 28, 2005|archive-date=March 8, 2009|archive-url=https://web.archive.org/web/20090308081746/http://www.nba.com/jazz/news/drafttrade_062805.html|url-status=live}}</ref> Previously, Utah acquired a 2006 first-round draft pick and [[Elden Campbell]] on January 21, 2005, from [[Detroit Pistons|Detroit]] in exchange for [[Carlos Arroyo]].<ref>{{cite web|url=http://www.nba.com/jazz/news/arroyo_trade.html|title=Arroyo Trade|publisher=Turner Sports Interactive, Inc|work=NBA.com/Jazz|access-date=May 6, 2009|date=January 21, 2005| archive-url= https://web.archive.org/web/20090429065016/http://www.nba.com/jazz/news/arroyo_trade.html| archive-date= 29 April 2009 | url-status= live}}</ref> Portland used the 30th pick to draft [[Joel Freeland]].
+*{{note label|Note23|w|w}} On February 24, 2005, [[Houston Rockets|Houston]] acquired a 2006 second-round draft pick, [[Moochie Norris]] and [[Vin Baker]] from [[New York Knicks]] in exchange for [[Maurice Taylor]].<ref>{{cite web|url=http://www.nba.com/knicks/news/taylor_050224.html|title=Knicks Acquire Maurice Taylor|publisher=Turner Sports Interactive, Inc|work=NBA.com/Knicks|access-date=May 6, 2009|date=February 24, 2005| archive-url= https://web.archive.org/web/20090425155907/http://www.nba.com/knicks/news/taylor_050224.html| archive-date= 25 April 2009 | url-status= live}}</ref> Houston used the 32nd pick to draft [[Steve Novak]].
+*{{note label|Note24|x|x}} On July 14, 2005, the [[Los Angeles Clippers|L.A. Clippers]] acquired 2005 and 2006 second-round draft picks from [[Charlotte Bobcats|Charlotte]] in exchange for [[Eddie House]] and [[Melvin Ely]].<ref>{{cite web|url=http://www.nba.com/bobcats/news/ely_house_release_040714.html|title=Melvin Ely, Eddie House Acquired From Clippers In Exchange For Future Draft Picks|publisher=Turner Sports Interactive, Inc|work=NBA.com/Bobcats|access-date=May 6, 2009|date=July 14, 2005|archive-url=https://web.archive.org/web/20091231152131/http://www.nba.com/bobcats/news/ely_house_release_040714.html|archive-date=December 31, 2009|url-status=dead|df=mdy-all}}</ref> The L.A. Clippers used the 34th pick to draft [[Paul Davis (basketball)|Paul Davis]].
+*{{note label|Note25|y|y}} On January 26, 2006, [[Minnesota Timberwolves|Minnesota]] acquired 2006 and 2008 second-round draft picks, [[Ricky Davis]], [[Marcus Banks]], [[Justin Reed]] and [[Mark Blount]] from [[Boston Celtics|Boston]] in exchange for [[Wally Szczerbiak]], [[Michael Olowokandi]], [[Dwayne Jones (basketball player)|Dwayne Jones]] and a future first-round draft pick.<ref>{{cite web|url=http://www.nba.com/timberwolves/news/wolves_trade_06.html|title=Wolves Acquire Ricky Davis from Boston, Szczerbiak, Olowokandi & Jones to Celtics|publisher=Turner Sports Interactive, Inc|work=NBA.com/Timberwolves|access-date=May 6, 2009|date=January 26, 2006| archive-url= https://web.archive.org/web/20090502000307/http://www.nba.com/timberwolves/news/wolves_trade_06.html| archive-date= 2 May 2009 | url-status= live}}</ref> Minnesota used the 36th pick to draft [[Craig Smith (basketball, born 1983)|Craig Smith]].
+*{{note label|Note26|z|z}} On February 24, 2005, [[Milwaukee Bucks|Milwaukee]] acquired 2006 and 2007 second-round draft picks and [[Reece Gaines]] from [[Houston Rockets|Houston]] in exchange for [[Mike James (basketball, born 1975)|Mike James]] and [[Zendon Hamilton]].<ref>{{cite web|url=http://www.nba.com/rockets/news/Houston_Rockets_Acquire_James_-133339-822.html|title=Houston Rockets Acquire James and Hamilton|publisher=Turner Sports Interactive, Inc|work=NBA.com/Rockets|access-date=May 6, 2009|date=February 24, 2005|archive-date=March 7, 2009|archive-url=https://web.archive.org/web/20090307033136/http://www.nba.com/rockets/news/Houston_Rockets_Acquire_James_-133339-822.html|url-status=live}}</ref> Milwaukee used the 39th pick to draft [[David Noel]].
+*{{note label|Note27|aa|aa}} On February 23, 2006, [[Cleveland Cavaliers|Cleveland]] acquired a 2006 second-round draft pick and [[Lee Nailon]] from [[Philadelphia 76ers|Philadelphia]] in exchange for a conditional 2006 second-round draft pick.<ref>{{cite web|url=http://www.nba.com/sixers/news/nailon_060223.html|title=76ers Acquire a Second Round Draft Pick From Cleveland in Exchange for Lee Nailon and a Second Round Pick|publisher=Turner Sports Interactive, Inc|work=NBA.com/Sixers|access-date=May 13, 2009|date=February 23, 2006|archive-date=May 11, 2008|archive-url=https://web.archive.org/web/20080511185109/http://www.nba.com/sixers/news/nailon_060223.html|url-status=live}}</ref> The conditional 2006 second-round draft pick was not exercised by Philadelphia. Cleveland used the 42nd pick to draft [[Daniel Gibson]].
+*{{note label|Note28|ab|ab}} On June 28, 2005, [[Orlando Magic|Orlando]] acquired Milwaukee's 2006 second-round draft pick from [[Cleveland Cavaliers|Cleveland]] in exchange for the draft rights to [[Martynas Andriuškevičius]].<ref>{{cite web|url=http://www.nba.com/cavaliers/news/martynas_050628.html|title=Cavaliers Acquire Rights to Martynas Andriuskevicius|publisher=Turner Sports Interactive, Inc|work=NBA.com/Cavaliers|access-date=May 13, 2009|date=June 28, 2005|archive-date=January 14, 2009|archive-url=https://web.archive.org/web/20090114043854/http://www.nba.com/cavaliers/news/martynas_050628.html|url-status=live}}</ref> Previously, Cleveland acquired a 2006 second-round draft pick from [[Milwaukee Bucks|Milwaukee]] in exchange for [[Jiri Welsch]].<ref>{{cite web|url=http://www.nba.com/bucks/news/Jiri_Welsch_050628.html|title=Bucks Acquire Jiri Welsch For 2006 Second Round Pick|publisher=Turner Sports Interactive, Inc|work=NBA.com/Bucks|access-date=May 13, 2009|date=June 28, 2005| archive-url= https://web.archive.org/web/20090505034023/http://www.nba.com/bucks/news/Jiri_Welsch_050628.html| archive-date= 5 May 2009 | url-status= live}}</ref> Orlando used the 44th pick to draft [[Lior Eliyahu]].
+*{{note label|Note29|ac|ac}} On September 30, 2003, [[Utah Jazz|Utah]] acquired Houston's 2004 first-round draft pick, Chicago's 2005 and 2006 second-round draft picks, [[Glen Rice]] and cash considerations from [[Houston Rockets|Houston]] in exchange for [[John Amaechi]] and Sacramento's 2004 second-round draft pick.<ref>{{cite web|url=http://www.nba.com/jazz/news/amaechi_093003.html|title=Jazz trade John Amaechi|publisher=Turner Sports Interactive, Inc|work=NBA.com/Jazz|access-date=May 13, 2009|date=September 30, 2003| archive-url= https://web.archive.org/web/20090425160029/http://www.nba.com/jazz/news/amaechi_093003.html| archive-date= 25 April 2009 | url-status= live}}</ref> Previously, Houston acquired 2005 and 2006 second-round draft picks on September 28, 2000, from [[Chicago Bulls|Chicago]] in exchange for [[Bryce Drew]]. Utah used the 46th pick to draft [[Dee Brown (basketball, born 1984)|Dee Brown]].
+*{{note label|Note30|ad|ad}} On August 2, 2005, [[Charlotte Bobcats|Charlotte]] acquired a 2006 second-round draft pick from [[Sacramento Kings|Sacramento]] in exchange for [[Jason Hart (basketball)|Jason Hart]].<ref>{{cite web|url=http://www.nba.com/kings/news/Kings_Acquire_Jason_Hart-148029-58.html|title=Kings Acquire Jason Hart from Charlotte|publisher=Turner Sports Interactive, Inc|work=NBA.com/Kings|access-date=May 13, 2009|date=August 2, 2005|archive-date=January 22, 2010|archive-url=https://web.archive.org/web/20100122033620/http://www.nba.com/kings/news/Kings_Acquire_Jason_Hart-148029-58.html|url-status=live}}</ref> Charlotte used the 50th pick to draft [[Ryan Hollins]].
+*{{note label|Note31|ae|ae}} On June 28, 2005, [[Seattle SuperSonics|Seattle]] acquired 2006 and 2007 second-round draft picks from [[Memphis Grizzlies|Memphis]] in exchange for the draft rights to [[Lawrence Roberts (basketball)|Lawrence Roberts]].<ref>{{cite web|url=http://www.nba.com/grizzlies/news/grizzlies_acquire_roberts-050628.html|title=Grizzlies Acquire Draft Rights to Lawrence Roberts from Seattle for Two Future Second Round Picks and Cash Considerations|publisher=Turner Sports Interactive, Inc|work=NBA.com/Grizzlies|access-date=May 13, 2009|date=June 28, 2005|archive-date=June 17, 2015|archive-url=https://web.archive.org/web/20150617090203/http://www.nba.com/grizzlies/news/grizzlies_acquire_roberts-050628.html|url-status=live}}</ref> Seattle used the 53rd pick to draft [[Yotam Halperin]].
+*{{note label|Note32|af|af}} On January 31, 2006, [[Toronto Raptors|Toronto]] acquired Miami's 2006 second-round draft pick and New Orleans's 2009 second-round draft pick  from [[New Orleans Hornets|New Orleans/Oklahoma City]] in exchange for [[Aaron Williams (basketball)|Aaron Williams]].<ref>{{cite web |url=http://www.nba.com/raptors/news/pressrelease_060131.html |title=Raptors Trade Aaron Williams |publisher=Turner Sports Interactive, Inc |work=NBA.com/Raptors |access-date=May 13, 2009 |date=January 31, 2006 |archive-date=June 30, 2009 |archive-url=https://web.archive.org/web/20090630012138/http://www.nba.com/raptors/news/pressrelease_060131.html |url-status=live }}</ref> Previously, New Orleans/Oklahoma City acquired Miami's 2006 second-round draft pick on September 30, 2005, from [[Boston Celtics|Boston]] in exchange for [[Dan Dickau]].<ref>{{cite web|url=http://www.nba.com/celtics/roster/DickauSign.html|title=Celtics Acquire Point Guard Dan Dickau|publisher=Turner Sports Interactive, Inc|work=NBA.com/Celtics|access-date=May 13, 2009|date=September 30, 2005|archive-date=March 9, 2009|archive-url=https://web.archive.org/web/20090309172903/http://www.nba.com/celtics/roster/DickauSign.html|url-status=live}}</ref> Previously, Boston acquired 2006 and 2008 second-round draft picks, [[Qyntel Woods]] and the draft rights to [[Albert Miralles]] on August 8, 2005, from [[Miami Heat|Miami]] in a five-team trade with Miami, [[Memphis Grizzlies|Memphis]], [[New Orleans Hornets|New Orleans/Oklahoma City]] and [[Utah Jazz|Utah]].<ref>{{cite web|url=http://www.nba.com/heat/news/heat_acquire_walkerwilliamsposey_050803.html|title=Heat Acquire Antoine Walker, Jason Williams & James Posey|publisher=Turner Sports Interactive, Inc|work=NBA.com/Heat|access-date=May 13, 2009|date=August 8, 2005|archive-date=September 24, 2019|archive-url=https://web.archive.org/web/20190924084914/https://www.nba.com/heat/news/heatacquirewalkerwilliamsposey050803html|url-status=live}}</ref> Toronto used the 56th pick to draft [[Edin Bavčić]].
+*{{note label|Note33|ag|ag}} On January 26, 2006, [[Minnesota Timberwolves|Minnesota]] acquired a 2006 second-round draft pick from [[Phoenix Suns|Phoenix]] in exchange for [[Nikoloz Tskitishvili]].<ref>{{cite web|url=http://www.nba.com/suns/news/release_060126.html|title=Suns Acquire Nikoloz Tskitishvili|publisher=Turner Sports Interactive, Inc|work=NBA.com/Suns|access-date=May 13, 2009|date=January 26, 2006|archive-date=July 8, 2009|archive-url=https://web.archive.org/web/20090708165516/http://www.nba.com/suns/news/release_060126.html|url-status=live}}</ref> Minnesota used the 57th pick to draft [[Loukas Mavrokefalidis]].
+
+==See also==
+* [[List of first overall NBA draft picks]]
+
+
+==References==
+;General
+{{refbegin}}
+*{{cite web|url=https://www.basketball-reference.com/draft/NBA_2006.html|title=2006 NBA Draft|publisher=Sports Reference LLC|work=basketball-reference.com|access-date=August 22, 2009|archive-date=December 5, 2010|archive-url=https://web.archive.org/web/20101205055742/http://www.basketball-reference.com/draft/NBA_2006.html|url-status=live}}
+*{{cite web|url=http://www.nba.com/draft2006/board.html|title=2006 Draft Board|publisher=Turner Sports Interactive, Inc|work=NBA.com|access-date=August 22, 2009|archive-url=https://web.archive.org/web/20100619163928/http://www.nba.com/draft2006/board.html|archive-date=June 19, 2010|url-status=dead}}
+{{refend}}
+
+;Specific
+{{Reflist|30em}}
+
+==External links==
+*[http://www.nba.com/draft2006/index.html NBA.com: Draft 2006]
+*[https://web.archive.org/web/20070112132458/http://www.nba.com/features/lottery2006_index.html NBA.com: NBA Draft Lottery 2006]
+*[https://www.basketball-reference.com/draft/NBA_2006.html 2006 NBA Draft – Basketball – Reference.com]
+
+{{NBA Drafts}}
+{{NBA Draft history by team}}
+{{2006 NBA draft}}
+{{2006-07 NBA season by team}}
+{{NBA on ABC}}
+
+[[Category:2006–07 NBA season|Draft]]
+[[Category:NBA draft]]
+[[Category:June 2006 sports events in the United States|NBA draft]]
+[[Category:2006 in sports in New York City|NBA draft]]
+[[Category:2000s in Manhattan]]
+[[Category:Basketball in New York City]]
+[[Category:Sporting events in New York City]]
+[[Category:Sports in Manhattan]]

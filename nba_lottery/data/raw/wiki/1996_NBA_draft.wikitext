@@ -1,0 +1,734 @@
+{{short description|Basketball player selection}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox sports draft
+| name        = 1996 NBA draft
+| image       = 
+| caption     = 
+| logo        = 
+| logosize    = 
+| sport       = Basketball
+| date        = June 26, 1996
+| location    = [[Continental Airlines Arena]] ([[East Rutherford]], [[New Jersey]])
+| network     = [[NBA on TNT|TNT]]
+| league      = NBA
+| teams       = 
+| overall     = 58
+| rounds      = 2
+| first       = [[Allen Iverson]] ([[Philadelphia 76ers]])
+| hofnum   = {{Collapsible list
+| title = 5
+|1 = SG [[Allen Iverson]]
+|2 = SG [[Ray Allen]]
+|3 = SG [[Kobe Bryant]]
+|4 = PG [[Steve Nash]]
+|5 = C [[Ben Wallace (basketball)|Ben Wallace]]}}
+| prev        = [[1995 NBA draft|1995]]
+| next        = [[1997 NBA draft|1997]]
+}}
+The '''1996 NBA draft''' was the 50th [[NBA draft|draft]] in the [[National Basketball Association]] (NBA). It was held on June 26, [[1996–97 NBA season|1996]], at [[Continental Airlines Arena]] in [[East Rutherford, New Jersey]]. In this draft, NBA teams took turns selecting college basketball players and other first-time eligible players, such as players from high schools and non-North American leagues. The [[1996–97 Vancouver Grizzlies season|Vancouver Grizzlies]] had the highest probability to win the [[NBA draft lottery]], but since they were an expansion team along with the [[1996–97 Toronto Raptors season|Toronto Raptors]], they were not allowed to select first in this draft.<ref>{{cite web|title=Year-by-Year Lottery Probabilities|url=http://www.nba.com/history/lottery_probabilities.html|work=Turner Sports & Entertainment Digital Network|publisher=NBA|access-date=April 15, 2011|archive-url=https://web.archive.org/web/20080724134422/http://www.nba.com/history/lottery_probabilities.html|archive-date=July 24, 2008|url-status=dead}}</ref> The team with the second-highest probability, the [[1996–97 Philadelphia 76ers season|Philadelphia 76ers]], won the lottery and obtained the first selection. The Toronto Raptors and the Vancouver Grizzlies were second and third, respectively. The Raptors won the first overall pick in 1996, but they had to give that up due to the expansion agreement with the league.<ref>{{cite web |date=2006-05-26 |title=Raptors To Pick First After Winning Lottery |url=http://www.nba.com/raptors/news/pr_0600523.html |access-date=2008-06-03 |work=NBA.com}}</ref>
+
+It is widely considered to be one of the deepest and most talented [[NBA draft]]s in history, with one-third of the first-round picks later becoming [[NBA All-Star Game|NBA All-Stars]]. The draft class produced three players who won a combined four NBA MVP awards ([[Kobe Bryant]], [[Allen Iverson]], [[Steve Nash]]), seven other drafted players who became All-Stars ([[Shareef Abdur-Rahim]], [[Ray Allen]], [[Žydrūnas Ilgauskas]], [[Stephon Marbury]], [[Jermaine O'Neal]], [[Peja Stojaković]], [[Antoine Walker]]), and one undrafted All-Star ([[Ben Wallace (basketball)|Ben Wallace]]), for a grand total of 11 All-Stars. Moreover, eight players from this draft class have been named to at least one [[All-NBA Team]], the most among any draft. The draft class also produced three players who have been named to the NBA's all-defensive first team: Bryant, [[Marcus Camby]], and Wallace. Camby won the [[NBA Defensive Player of the Year Award|Defensive Player of the Year Award]] in 2007, while Wallace earned the same award in 2002, 2003, 2005, and 2006. Five-time NBA champion [[Derek Fisher]] was also selected in the draft.
+
+The 76ers selected two future Major League Baseball players, [[Mark Hendrickson]] and [[Ryan Minor]], with their second-round picks.
+
+Most experts rate it along with the [[1984 NBA draft]] and the [[2003 NBA draft]] as one of the best drafts in history. ''[[Sports Illustrated]]'' named it the second-best, behind the 1984 draft, which included a draft class of [[Hakeem Olajuwon]], [[Michael Jordan]], [[Charles Barkley]], [[Alvin Robertson]], and [[John Stockton]].<ref>{{cite news|title=NBA's Best Draft Classes|url=http://sportsillustrated.cnn.com/multimedia/photo_gallery/0903/nba.best.draft.classes/content.2.html|work=Turner Sports & Entertainment Digital Network|access-date=April 15, 2011|archive-date=May 28, 2011|archive-url=https://web.archive.org/web/20110528111149/http://sportsillustrated.cnn.com/multimedia/photo_gallery/0903/nba.best.draft.classes/content.2.html|url-status=dead}}</ref>
+
+==Key==
+{|class=wikitable
+|-
+| PG||[[Point guard]]
+| SG||[[Shooting guard]]
+| SF||[[Small forward]]
+| PF||[[Power forward (basketball)|Power forward]]
+| C||[[Center (basketball)|Center]]
+|}
+{{NBA Draft legend|1=y|2=y|3=y|4=y|5=y|6=y}}
+
+==Draft selections==
+[[File:Allen Iverson Lipofsky.jpg|thumb|upright|[[Allen Iverson]] was selected 1st overall by the [[Philadelphia 76ers]].]]
+[[File:Marcus Camby Clippers cropped2.jpg|thumb|upright|[[Marcus Camby]] was selected 2nd overall by the [[Toronto Raptors]].]]     
+[[File:Shareef Abdur-Rahim 12-2006.jpg|thumb|upright|[[Shareef Abdur-Rahim]] was selected 3rd overall by the [[Vancouver Grizzlies]].]]                             
+[[File:Stephon Marbury.jpg|thumb|upright|[[Stephon Marbury]] was selected 4th overall by the [[Milwaukee Bucks]] (traded to the [[Minnesota Timberwolves]]).]]
+[[File:Ray Allen 2008-01-13.jpg|thumb|upright|[[Ray Allen]] was selected 5th overall by the [[Minnesota Timberwolves]] (traded to the [[Milwaukee Bucks]]).]]   
+[[File:Antoine Walker Miami Heat.jpg|thumb|upright|[[Antoine Walker]] was selected 6th overall by the [[Boston Celtics]].]]   
+[[File:Lipofsky Kobe.jpg|right|thumb|upright|[[Kobe Bryant]] was selected 13th overall by the [[Charlotte Hornets]] (traded to the [[Los Angeles Lakers]]).]]
+[[File:Peja_Stojakovic_Mavs_cropped.jpg|thumb|upright|[[Peja Stojaković]] was selected 14th overall by the [[Sacramento Kings]].]]
+[[File:Steve Nash 2.jpg|thumb|upright|[[Steve Nash]] was selected 15th overall by the [[Phoenix Suns]].]]
+[[File:J O'Neal - Wizards vs Heat 2009-04-04.jpg|thumb|upright|[[Jermaine O'Neal]] was selected 17th overall by the [[Portland Trail Blazers]].]]
+[[File:Žydrūnas Ilgauskas 2007.jpg|thumb|upright|[[Žydrūnas Ilgauskas]] was selected 20th overall by the [[Cleveland Cavaliers]].]]
+{| class="wikitable sortable"
+! width="1%"| Round
+! width="1%"| Pick
+! width="20%"| Player
+! width="1%"| Pos.
+! width="20%"| Nationality{{refn|group=n|Nationality indicates the player's national team or representative nationality. If a player has not competed at the international level, then the nationality indicates the national team which the player is eligible to represent according to [[FIBA]] rules.}}
+! width="35%"| NBA team
+! width="25%"| School/Club team
+|-
+|align=center| 1
+|align=center| 1
+| bgcolor="#FFFF99"| {{sortname|Allen|Iverson}}^~
+| SG/PG
+| {{Flagu|United States}}
+| [[1996–97 Philadelphia 76ers season|Philadelphia 76ers]]
+| [[Georgetown Hoyas men's basketball|Georgetown]] <small>([[Sophomore year|So.]])</small>
+|-
+|align=center| 1
+|align=center| 2
+|{{sortname|Marcus|Camby}}
+| C
+| {{Flagu|United States}}
+| [[1996–97 Toronto Raptors season|Toronto Raptors]]
+| [[UMass Minutemen basketball|Massachusetts]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 1
+|align=center| 3
+| bgcolor="#FFCC00"|{{sortname|Shareef|Abdur-Rahim}}<sup>+</sup>
+| F
+| {{Flagu|United States}}
+| [[1996–97 Vancouver Grizzlies season|Vancouver Grizzlies]]
+| [[California Golden Bears men's basketball|California]] <small>([[Freshman|Fr.]])</small>
+|-
+|align=center| 1
+|align=center| 4
+| bgcolor="#FBCEB1"| {{sortname|Stephon|Marbury}}*
+| G
+| {{Flagu|United States}}
+| [[1996–97 Milwaukee Bucks season|Milwaukee Bucks]] <small>(traded to [[1996–97 Minnesota Timberwolves season|Minnesota]])</small><ref name="AllenMarbury">The Bucks traded the draft rights of Stephon Marbury to the Timberwolves for Ray Allen and a future first-round pick on June 26, 1996.<br>{{cite news |first=Ian |last=O'Connor |title=Marbury Learns Like A Pro |work=New York Daily News | page = 88 |date=June 27, 1996}}</ref>
+| [[Georgia Tech Yellow Jackets men's basketball|Georgia Tech]] <small>([[Freshman|Fr.]])</small>
+|-
+|align=center| 1
+|align=center| 5
+| bgcolor="#FFFF99"| {{sortname|Ray|Allen}}^
+| SG
+| {{Flagu|United States}}
+| [[1996–97 Minnesota Timberwolves season|Minnesota Timberwolves]] <small>(traded to [[1996–97 Milwaukee Bucks season|Milwaukee]])</small><ref name="AllenMarbury" />
+| [[Connecticut Huskies men's basketball|Connecticut]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 1
+|align=center| 6
+| bgcolor="#FFCC00"| {{sortname|Antoine|Walker}}<sup>+</sup>
+| F
+| {{Flagu|United States}}
+| [[1996–97 Boston Celtics season|Boston Celtics]] <small>(from [[1996–97 Dallas Mavericks season|Dallas]])</small><ref name="Walker">The Mavericks traded the No. 6 pick and a future pick (#6 pick in [[1997 NBA draft]]) to the Celtics for [[Eric Montross]] and a No. 9 pick on June 21, 1996.<br>{{cite news |first=Peter |last=May |title=Montross shipped to Dallas for the No. 6 pick |work=The Boston Globe | page = 67 |date=June 22, 1996}}</ref>
+|[[Kentucky Wildcats men's basketball|Kentucky]] <small>([[College sophomore|So.]])</small>
+|-
+|align=center| 1
+|align=center| 7
+| {{sortname|Lorenzen|Wright}}
+| C
+| {{Flagu|United States}}
+| [[1996–97 Los Angeles Clippers season|Los Angeles Clippers]]
+| [[Memphis Tigers men's basketball|Memphis]] <small>([[College sophomore|So.]])</small>
+|-
+|align=center| 1
+|align=center| 8
+| {{sortname|Kerry|Kittles}}
+| SG
+| {{Flagu|United States}}
+| [[1996–97 New Jersey Nets season|New Jersey Nets]]
+| [[Villanova Wildcats men's basketball|Villanova]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 1
+|align=center| 9
+| {{sortname|Samaki|Walker}}
+| F
+| {{Flagu|United States}}
+| [[1996–97 Dallas Mavericks season|Dallas Mavericks]] <small>(from [[Boston Celtics|Boston]])</small><ref name="Walker" />
+| [[Louisville Cardinals men's basketball|Louisville]] <small>([[College sophomore|So.]])</small>
+|-
+|align=center| 1
+|align=center| 10
+| {{sortname|Erick|Dampier}}
+| C
+| {{Flagu|United States}}
+| [[1996–97 Indiana Pacers season|Indiana Pacers]] <small>(from [[Denver Nuggets|Denver]])</small><ref name="nugpacers">The Pacers traded No. 23 pick along with [[Mark Jackson (basketball)|Mark Jackson]] and [[Ricky Pierce]] to the Nuggets for No. 10 pick along with [[Jalen Rose]] and [[Reggie Williams (basketball, born 1964)|Reggie Williams]] on June 13, 1996.<br>{{cite news |first=Greg |last=Boeck |title=Nuggets begin overhaul, make two trades |work=USA Today | page = 12C |date=June 14, 1996}}</ref>
+| [[Mississippi State Bulldogs men's basketball|Mississippi State]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 1
+|align=center| 11
+| {{sortname|Todd|Fuller}}
+| C
+| {{Flagu|United States}}
+| [[1996–97 Golden State Warriors season|Golden State Warriors]] <small>(from [[1996–97 Golden State Warriors season|Golden State]] via [[1996–97 Orlando Magic season|Orlando]]</small><ref name="Bulgics">The Magic traded No. 11 pick and [[Scott Skiles]] to the Bullets for No. 42 pick on July 29, 1994. <br />{{cite news |first=Bart |last=Hubbuch |title=Bullets make point, get Skiles |work=The Washington Times |page=C1 |date=July 30, 1994}}</ref> <small>and [[1996–97 Washington Bullets season|Washington]])</small><ref>The Bullets traded No. 11 pick along with [[Tom Gugliotta]], No. 13 pick in the [[1998 NBA draft]], and No. 7 pick in the [[2000 NBA draft]] to the Warriors for [[Chris Webber]] on November 17, 1994.<br>{{cite news |url=https://query.nytimes.com/gst/fullpage.html?res=9D07E3DE1031F93BA25752C1A962958260&scp=1&sq=+Sign+Him%2C+Trade+Him%3A+Webber+Becomes+Bullet+&st=nyt |first=Clifton |last=Brown |title=Sign Him, Trade Him: Webber Becomes Bullet |work=The New York Times |date=November 18, 1994 |access-date=February 25, 2008 }}</ref>
+| [[NC State Wolfpack men's basketball|NC State]]  <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 1
+|align=center| 12
+| {{sortname|Vitaly|Potapenko}}
+| C
+| {{Flagu|Ukraine}}
+| [[1996–97 Cleveland Cavaliers season|Cleveland Cavaliers]] <small>(from [[1996–97 Washington Bullets season|Washington]])</small><ref>The Cavaliers traded [[Mark Price]] to the Wizards(then Bullets) for No. 12 pick on September 27, 1995.<br>{{cite news |first=Frank |last=Hughes |title=Bullets on the Mark with Price ; Club trades No. 1 pick to Cavs; Wallace signs |work=The Washington Times | page = B1 |date= September 28, 1995}}</ref>
+| [[Wright State Raiders men's basketball|Wright State]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 1
+|align=center| 13
+| bgcolor="#FFFF99"| {{sortname|Kobe|Bryant}}^
+| SG
+| {{Flagu|United States}}
+| [[1996–97 Charlotte Hornets season|Charlotte Hornets]] <small>(traded to [[1996–97 Los Angeles Lakers season|L.A. Lakers]])</small><ref>The Hornets traded the draft rights of Kobe Bryant to the Lakers for center [[Vlade Divac]] on July 1, 1996.<br>{{cite news |first=Joe |last=Macenka |title=Divac Agrees to Charlotte Trade |agency=Associated Press |date=July 1, 1996}}</ref> 
+| [[Lower Merion High School|Lower Merion HS]] <small>([[Lower Merion Township, Pennsylvania|Lower Merion, Pennsylvania]])</small>
+|-
+|align=center| 1
+|align=center| 14
+| bgcolor="#FBCEB1"| {{sortname|Peja|Stojaković|}}*
+| F
+| {{Flagu|FR Yugoslavia}}
+| [[1996–97 Sacramento Kings season|Sacramento Kings]]
+| [[P.A.O.K. B.C.|P.A.O.K.]] <small>([[Greek Basket League|Greece]])</small>
+|-
+|align=center| 1
+|align=center| 15
+| bgcolor="#FFFF99"| {{sortname|Steve|Nash}}^
+| PG
+| {{Flagu|Canada}}
+| [[1996–97 Phoenix Suns season|Phoenix Suns]]
+| [[Santa Clara Broncos men's basketball|Santa Clara]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 1
+|align=center| 16
+| {{sortname|Tony|Delk}}
+| G
+| {{Flagu|United States}}
+| [[1996–97 Charlotte Hornets season|Charlotte Hornets]] <small>(from [[Miami Heat|Miami]])</small><ref>The Heat traded No. 16 pick along with [[Glen Rice]], [[Khalid Reeves]], and [[Matt Geiger]] for [[Alonzo Mourning]], [[Pete Myers]] and [[LeRon Ellis]] on November 3, 1995.<br>{{cite news |first=David |last=Nielsen |title=Heat get Mourning from the Hornets |work=The Washington Times | page = D1 |date=November 4, 1995}}</ref>
+| [[Kentucky Wildcats men's basketball|Kentucky]]  <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 1
+|align=center| 17
+| bgcolor="#FBCEB1"| {{sortname|Jermaine|O'Neal}}*
+| F/C
+| {{Flagu|United States}}
+| [[1996–97 Portland Trail Blazers season|Portland Trail Blazers]]
+| Eau Claire HS <small>([[Columbia, South Carolina]])</small>
+|-
+|align=center| 1
+|align=center| 18
+| {{sortname|John|Wallace|dab=basketball}}
+| F
+| {{Flagu|United States}}
+| [[1996–97 New York Knicks season|New York Knicks]] <small>(from [[1996–97 Detroit Pistons season|Detroit]]</small><ref name="Pisturs">The Pistons traded the No. 18 pick along with [[Dennis Rodman]] to the Spurs for the No. 26 pick along with [[Sean Elliott]] and [[David Wood (basketball)|David Wood]] on October 1, 1993.{{cite news |first=Alan L. |last=Adler |title=Sports News |agency=Associated Press |date=October 2, 1993}}</ref> <small>via [[San Antonio Spurs|San Antonio]])</small><ref>The Spurs traded No. 18 pick along with [[J.R. Reid]] and [[Brad Lohaus]] to the Knicks for [[Charles D. Smith|Charles Smith]] and [[Monty Williams]] on February 8, 1996.<br />{{cite news |first=Graig |last=Daniels |title=Spurs put boots to deal |work=[[Financial Post]] | page = 43 |date=February 9, 1996}}</ref>
+| [[Syracuse Orange men's basketball|Syracuse]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 1
+|align=center| 19
+| {{sortname|Walter|McCarty}}
+| F
+| {{Flagu|United States}}
+| [[1996–97 New York Knicks season|New York Knicks]] <small>(from [[Atlanta Hawks|Atlanta]]</small><ref name="Hawet">The Hawks traded No. 19 pick along with [[Kevin Willis]] to the Heat for No. 45 pick along with [[Steve Smith (basketball)|Steve Smith]] and [[Grant Long]] on November 7, 1994.{{cite news |title=Atlanta trades Willis to Heat |work=Financial Post |page=53 |date=November 8, 1994}}</ref> <small>via [[Miami Heat|Miami]])</small><ref>The Heat sent No. 19 pick and $1 million to the Knicks for a right to pursue hiring [[Pat Riley]] on September 1, 1995.<br />{{cite news |title=Knicks, Heat arrange deal in Riley case |work=Toronto Star | page = F8 |date=September 2, 1995}}</ref>
+| [[Kentucky Wildcats men's basketball|Kentucky]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 1
+|align=center| 20
+| bgcolor="#FFCC00"| {{sortname|Žydrūnas|Ilgauskas|Zydrunas Ilgauskas}}<sup>+</sup>
+| C
+| {{flagcountry|LTU|1988}}
+| [[1996–97 Cleveland Cavaliers season|Cleveland Cavaliers]]
+| [[LSU-Atletas|Atletas Kaunas]] <small>([[Lietuvos krepšinio lyga|Lithuania]])</small>
+|-
+|align=center| 1
+|align=center| 21
+| {{sortname|Dontae'|Jones}}
+| F
+| {{Flagu|United States}}
+| [[1996–97 New York Knicks season|New York Knicks]]
+| [[Mississippi State Bulldogs men's basketball|Mississippi State]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 1
+|align=center| 22
+| {{sortname|Roy|Rogers|dab=basketball}}
+| F
+| {{Flagu|United States}}
+| [[1996–97 Vancouver Grizzlies season|Vancouver Grizzlies]] <small>(from [[1996–97 Houston Rockets season|Houston]])</small><ref name="Rocklies">The Rockets traded No. 22 and No. 51 picks along with [[Pete Chilcutt]], [[Tim Breaux]] and the No. 53 pick in the [[1997 NBA draft]] to the Grizzlies for No. 30 and No. 42 picks along with No. 30 pick in the 1997 NBA Draft on June 19, 1996.<br />{{cite news |first=Bill |last=Harris |title=Grizzlies Deal For Another First-round Pick |work=The Toronto Sun | page = 115 |date=June 20, 1996}}</ref>
+| [[Alabama Crimson Tide men's basketball|Alabama]]  <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 1
+|align=center| 23
+| {{sortname|Efthimios|Rentzias}}
+| C
+| {{Flagu|Greece}}
+| [[1996–97 Denver Nuggets season|Denver Nuggets]] <small>(from [[Indiana Pacers|Indiana]])</small><ref name="nugpacers" />
+| [[P.A.O.K. B.C.|PAOK]] <small>([[Greek Basket League|Greece]])</small>
+|-
+|align=center| 1
+|align=center| 24
+| {{sortname|Derek|Fisher}}
+| G
+| {{Flagu|United States}}
+| [[1996–97 Los Angeles Lakers season|Los Angeles Lakers]]
+| [[Little Rock Trojans men's basketball|Arkansas-Little Rock]]<!--UALR didn't brand its athletic program as "Little Rock" until 2015.--> <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 1
+|align=center| 25
+| {{sortname|Martin|Müürsepp}}
+| F
+| {{Flagu|Estonia}}
+| [[1996–97 Utah Jazz season|Utah Jazz]] <small>(traded to [[Miami Heat|Miami]])</small><ref>The Jazz traded the draft rights of Martin Müürsepp to the Heat for a future draft pick (#23 in [[2000 NBA draft]]) on June 26, 1996.<br />{{cite news |first=Barry |last=Jackson |title=Riley Finds New Forward in Estonia |work=[[The Miami Herald]] |date=June 27, 1996}}</ref>
+| [[KK Kalev|Kalev]] <small>([[Korvpalli Meistriliiga|Estonia]])</small>
+|-
+|align=center| 1
+|align=center| 26
+| {{sortname|Jerome|Williams|dab=basketball}}
+| F
+| {{Flagu|United States}}
+| [[1996–97 Detroit Pistons season|Detroit Pistons]] <small>(from [[San Antonio Spurs|San Antonio]])</small><ref name="Pisturs" />
+| [[Georgetown Hoyas men's basketball|Georgetown]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 1
+|align=center| 27
+| {{sortname|Brian|Evans|dab=basketball}}
+| F
+| {{Flagu|United States}}
+| [[1996–97 Orlando Magic season|Orlando Magic]]
+| [[Indiana Hoosiers men's basketball|Indiana]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 1
+|align=center| 28
+| {{sortname|Priest|Lauderdale}}
+| C
+| {{Flagu|United States}}
+| [[1996–97 Atlanta Hawks season|Atlanta Hawks]] <small>(from [[Seattle SuperSonics|Seattle]])</small><ref name="Hawksonics">The Hawks traded No. 45 and No. 47 picks to the Supersonics for No. 28 pick on June 25, 1996.<br />{{cite news |title=Hawks Regain First-Round Draft Pick in Sonics Trade |agency=Associated Press | page = D1 |date=June 25, 1996}}</ref>
+| [[Peristeri B.C.|Peristeri]] <small>([[Greek Basket League|Greece]])</small>
+|-
+|align=center| 1
+|align=center| 29
+| {{sortname|Travis|Knight|dab=basketball}}
+| C
+| {{Flagu|United States}}
+| [[1996–97 Chicago Bulls season|Chicago Bulls]]<ref>The Chicago Bulls renounced the draft rights to [[Travis Knight (basketball)|Travis Knight]] on July 12, 1996.</ref>
+| [[Connecticut Huskies men's basketball|Connecticut]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 30
+| {{sortname|Othella|Harrington}}
+| F/C
+| {{Flagu|United States}}
+| [[1996–97 Houston Rockets season|Houston Rockets]] <small>(from [[Memphis Grizzlies|Vancouver]])</small><ref name="Rocklies" />
+| [[Georgetown Hoyas men's basketball|Georgetown]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 31
+| {{sortname|Mark|Hendrickson}}
+| G
+| {{Flagu|United States}}
+| [[1996–97 Philadelphia 76ers season|Philadelphia 76ers]]
+| [[Washington State Cougars men's basketball|Washington State]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 32
+| bgcolor="#C0C0C0"|  {{sortname|Ryan|Minor}}<sup>#</sup>
+| G
+| {{Flagu|United States}}
+| [[1996–97 Philadelphia 76ers season|Philadelphia 76ers]] <small>(from [[Toronto Raptors|Toronto]])</small><ref name="Rap76ers">The Raptors traded No. 32 pick along with No. 37 pick in the 1997 NBA Draft, [[Tony Massenburg]] and [[Ed Pinckney]] to the 76ers for [[Sharone Wright]] on February 22, 1996.<br />{{cite news |title=Raptors swing deal with Philly |work=[[Financial Post]] |page=64 |date=February 23, 1996}}</ref>
+| [[Oklahoma Sooners men's basketball|Oklahoma]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 33
+| {{sortname|Moochie|Norris}}
+| G
+| {{Flagu|United States}}
+| [[1996–97 Milwaukee Bucks season|Milwaukee Bucks]]
+| [[West Florida Argonauts men's basketball|West Florida]] <small>([[College sophomore|So.]])</small>
+|-
+|align=center| 2
+|align=center| 34
+| bgcolor="#C0C0C0"| {{sortname|Shawn|Harvey|dab=basketball}}<sup>#</sup>
+| G
+| {{Flagu|United States}}
+| [[1996–97 Dallas Mavericks season|Dallas Mavericks]]
+| [[West Virginia State Yellow Jackets|West Virginia State]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 35
+| bgcolor="#C0C0C0"| {{sortname|Joseph|Blair}}<sup>#</sup>
+| C
+| {{Flagu|United States}}
+| [[1996–97 Seattle SuperSonics season|Seattle SuperSonics]] <small>(from [[1996–97 Minnesota Timberwolves season|Minnesota]])</small><ref>The Timberwolves traded No. 35 pick to the SuperSonics for [[Željko Rebrača]] on June 29, 1994.<br />{{cite news |first=Jim |last=Cour |title=The Associated Press report |agency=Associated Press |date=June 30, 1994}}</ref>
+| [[Arizona Wildcats men's basketball|Arizona]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 36
+| bgcolor="#C0C0C0"| {{sortname|Doron|Sheffer}}<sup>#</sup>
+| G
+| {{Flagu|Israel}}
+| [[1996–97 Los Angeles Clippers season|Los Angeles Clippers]]
+| [[Connecticut Huskies men's basketball|Connecticut]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 37
+| {{sortname|Jeff|McInnis}}
+| G
+| {{Flagu|United States}}
+| [[1996–97 Denver Nuggets season|Denver Nuggets]] <small>(from [[New Jersey Nets|New Jersey]]</small><ref>The Nets traded No. 37 pick along with No. 31 pick in the [[1991 NBA draft]] to the Kings for [[Mike McGee (basketball)|Mike McGee]] on October 31, 1988.<br />{{cite news |title=Nets Acquire Kings' McGee |work=The New York Times |page=D30 |date=November 1, 1988}}</ref> <small>via [[Sacramento Kings|Sacramento]])</small><ref>The Kings traded No. 37 pick along with [[Šarūnas Marčiulionis]] to the Nuggets for [[Mahmoud Abdul-Rauf]] on June 13, 1996.<br />{{cite news |first=Michael |last=Farine |title=Nuggets trade Abdul-Rauf to Kings |work=The Washington Times |page=B3 |date=June 14, 1996}}</ref>
+| [[North Carolina Tar Heels men's basketball|North Carolina]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 2
+|align=center| 38
+|  {{sortname|Steve|Hamer}}
+| C
+| {{Flagu|United States}}
+| [[1996–97 Boston Celtics season|Boston Celtics]]
+| [[Tennessee Volunteers basketball|Tennessee]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 39
+| bgcolor="#C0C0C0"| {{sortname|Russ|Millard}}<sup>#</sup>
+| F
+| {{Flagu|United States}}
+| [[1996–97 Phoenix Suns season|Phoenix Suns]] <small>(from [[Denver Nuggets|Denver]],</small><ref>The Nuggets traded No. 39 pick to the Clippers for [[Winston Garland]] on June 26, 1991.<br />{{cite news |title=Clippers pull off two trades |work=[[St. Petersburg Times]] |page=3C |date=June 27, 1991}}</ref> <small>via [[Los Angeles Clippers|L.A. Clippers]]<ref>The Clippers traded No. 39 pick along with No. 41 pick in the [[1997 NBA draft]] and [[Olden Polynice]] to the Pistons for [[William Bedford (basketball)|William Bedford]] and draft rights to [[Don MacLean (basketball)|Don MacLean]] on June 24, 1992.<br />{{cite news |title=Knicks get Blackman in top NBA trade |work=The Washington Times |page=D3 |date=June 25, 1992}}</ref> and [[1996–97 Detroit Pistons season|Detroit]])</small><ref>The Pistons traded No. 39 pick along with a No. 49 pick in the [[1999 NBA draft]] to the Suns for [[Mark West (basketball)|Mark West]] on August 1, 1994.<br />{{cite news |title=SPORTS PEOPLE: BASKETBALL |work=The New York Times |page=B8 |date=August 2, 1994}}</ref>
+| [[Iowa Hawkeyes men's basketball|Iowa]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 40
+| bgcolor="#C0C0C0"| {{sortname|Marcus|Mann|dab=basketball}}<sup>#</sup>
+| F
+| {{Flagu|United States}}
+| [[1996–97 Golden State Warriors season|Golden State Warriors]]
+| [[Mississippi Valley State Delta Devils basketball|Mississippi Valley State]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 41
+| {{sortname|Jason|Sasser}}
+| F
+| {{Flagu|United States}}
+| [[1996–97 Sacramento Kings season|Sacramento Kings]]
+| [[Texas Tech Red Raiders basketball|Texas Tech]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 42
+| {{sortname|Randy|Livingston}}
+| G
+| {{Flagu|United States}}
+| [[1996–97 Houston Rockets season|Houston Rockets]] <small>(from [[1996–97 Vancouver Grizzlies season|Vancouver]]</small><ref name="Rocklies" /> <small>via [[Washington Bullets|Washington]]</small><ref name="Bulgics" /> <small>and [[Orlando Magic|Orlando]])</small><ref>The Magic traded No. 42 pick along with [[Kenny Gattison]] to the Grizzlies for [[Jeff Turner]] on February 22, 1996.<br />{{cite news |title=Gattison, Turner Swapped |agency=Associated Press |date=February 22, 1996}}</ref>
+| [[LSU Tigers basketball|LSU]] <small>([[College sophomore|So.]])</small>
+|-
+|align=center| 2
+|align=center| 43
+|  {{sortname|Ben|Davis|dab=basketball}}
+| F
+| {{Flagu|United States}}
+| [[1996–97 Phoenix Suns season|Phoenix Suns]]
+| [[Arizona Wildcats men's basketball|Arizona]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 44
+| {{sortname|Malik|Rose}}
+| F
+| {{Flagu|United States}}
+| [[1996–97 Charlotte Hornets season|Charlotte Hornets]]
+| [[Drexel Dragons men's basketball|Drexel]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 45
+| bgcolor="#C0C0C0"| {{sortname|Joe|Vogel|dab=basketball}}<sup>#</sup>
+| C
+| {{Flagu|United States}}<ref>Vogel represented Lebanon in international competitions later in his career.</ref>
+| [[1996–97 Seattle SuperSonics season|Seattle SuperSonics]] <small>(from [[Miami Heat|Miami]]</small><ref name="Hawet" /> <small>via [[Atlanta Hawks|Atlanta]])</small><ref name="Hawksonics" />
+| [[Colorado State Rams men's basketball|Colorado State]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 46
+| {{sortname|Marcus|Brown}}
+| G
+| {{Flagu|United States}}
+| [[1996–97 Portland Trail Blazers season|Portland Trail Blazers]]
+| [[Murray State Racers men's basketball|Murray State]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 47
+| bgcolor="#C0C0C0"| {{sortname|Ron|Riley|dab=basketball, born 1973}}<sup>#</sup>
+| G/F
+| {{Flagu|United States}}
+| [[1996–97 Seattle SuperSonics season|Seattle SuperSonics]] <small>(from [[Atlanta Hawks|Atlanta]])</small><ref name="Hawksonics" />
+| [[Arizona State Sun Devils men's basketball|Arizona State]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 48
+| {{sortname|Jamie|Feick}}
+| F
+| {{Flagu|United States}}
+| [[1996–97 Philadelphia 76ers season|Philadelphia 76ers]] <small>(from [[1996–97 Detroit Pistons season|Detroit]])</small><ref>The Pistons traded No. 48 pick to the 76ers for [[Eric Leckner]] on July 25, 1994.<br />{{cite news |title=TRANSACTIONS |work=The New York Times |page=B12 |date=July 26, 1994}}</ref>
+| [[Michigan State Spartans men's basketball|Michigan State]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 49
+| {{sortname|Amal|McCaskill}}
+| C
+| {{Flagu|United States}}
+| [[1996–97 Orlando Magic season|Orlando Magic]] <small>(from [[1996–97 New York Knicks season|New York]] via [[1996–97 Minnesota Timberwolves season|Minnesota]] and [[1996–97 Vancouver Grizzlies season|Vancouver]])</small>
+| [[Marquette Golden Eagles men's basketball|Marquette]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 50
+| bgcolor="#C0C0C0"| {{sortname|Terrell|Bell}}<sup>#</sup>
+| C
+| {{Flagu|United States}}
+| [[1996–97 Houston Rockets season|Houston Rockets]] <small>(from [[1996–97 Cleveland Cavaliers season|Cleveland]])</small><ref>The Cavaliers traded No. 50 pick to the Rockets for [[Keith Hughes (basketball)|Keith Hughes]] on June 26, 1991.<br />{{cite news |title=PICKS BY TEAM |newspaper=The Washington Post |page=B6 |date= June 27, 1991}}</ref>
+| [[Georgia Bulldogs men's basketball|Georgia]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 51
+| {{sortname|Chris|Robinson|dab=basketball}}
+| G
+| {{Flagu|United States}}
+| [[1996–97 Vancouver Grizzlies season|Vancouver Grizzlies]] <small>(from [[Houston Rockets|Houston]])</small><ref name="Rocklies" />
+| [[Western Kentucky Hilltoppers basketball|Western Kentucky]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 52
+| {{sortname|Mark|Pope}}
+| F
+| {{Flagu|United States}}
+| [[1996–97 Indiana Pacers season|Indiana Pacers]]
+| [[Kentucky Wildcats men's basketball|Kentucky]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 53
+| {{sortname|Jeff|Nordgaard}}
+| F
+| {{Flagu|United States}}<ref>Nordgaard would later represent Poland in international competitions.</ref>
+| [[1996–97 Milwaukee Bucks season|Milwaukee Bucks]] <small>(from [[1996–97 Los Angeles Lakers season|L.A. Lakers]]</small><ref>The Lakers traded No. 53 pick along with No. 37 pick in the [[1994 NBA draft]] and No. 50 pick in the [[1995 NBA draft]] to the SuperSonics for [[Sedale Threatt]] on October 2, 1991.<br />{{cite news |title=Lakers Get Threatt From Seattle |work=The New York Times |page=B10 |date=October 3, 1991}}</ref> <small>via [[Seattle SuperSonics|Seattle]])</small><ref>The SuperSonics traded No. 53 pick along with [[Eurelijus Žukauskas]] to the Bucks for [[Eric Snow]] on June 28, 1995.<br />{{cite news |title=Wednesday's Sports Transactions |agency=Associated Press |date=June 29, 1995}}</ref>
+| [[Green Bay Phoenix men's basketball|Wisconsin–Green Bay]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 54
+| {{sortname|Shandon|Anderson}}
+| F
+| {{Flagu|United States}}
+| [[1996–97 Utah Jazz season|Utah Jazz]]
+| [[Georgia Bulldogs men's basketball|Georgia]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 55
+| bgcolor="#C0C0C0"| {{sortname|Ronnie|Henderson}}<sup>#</sup>
+| G
+| {{Flagu|United States}}
+| [[1996–97 Washington Bullets season|Washington Bullets]] <small>(from [[San Antonio Spurs|San Antonio]]</small><ref>The Hornets traded J.R. Reid to the Spurs for Sidney Green, a 1993 first-round pick (#20 overall), and a 1996 second-round pick (#55 overall) on December 9, 1992.<br />{{cite web|url=http://www.nba.com/media/hornets/0708mediaguide_Team%20History.pdf |title=2007–08 Media Guide: All-time Transactions |work=New Orleans Hornets |publisher=NBA |page=129 |access-date=April 11, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20081225104708/http://www.nba.com/media/hornets/0708mediaguide_Team%20History.pdf |archive-date=December 25, 2008 }}</ref> via [[1996–97 Charlotte Hornets season|Charlotte]])<ref>The Hornets traded a 1996 second-round pick (#55 overall), and a 1997 second-round pick (#48 overall) to the Wizards for [[Michael Adams (basketball)|Michael Adams]] on August 2, 1994.<br />{{cite web|url=https://www.basketball-reference.com/players/d/drobnpr01.html|title=Predrag Drobnjak |work=basketball-reference.com|access-date=April 11, 2011}}</ref>
+| [[LSU Tigers basketball|LSU]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|align=center| 2
+|align=center| 56
+| {{sortname|Reggie|Geary}}
+| G
+| {{Flagu|United States}}
+| [[1996–97 Cleveland Cavaliers season|Cleveland Cavaliers]] <small>(from [[Orlando Magic|Orlando]])</small><ref>The Magic traded No. 56 pick to the Cavaliers for [[Steve Kerr]] on December 3, 1992.<br />{{cite news |title=PEOPLE TRANSACTIONS |work=[[The Gazette (Montreal)|The Gazette]] |page=C4 |date=December 4, 1992}}</ref>
+| [[Arizona Wildcats men's basketball|Arizona]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 57
+| {{sortname|Drew|Barry}}
+| G
+| {{Flagu|United States}}
+| [[1996–97 Seattle SuperSonics season|Seattle SuperSonics]]
+| [[Georgia Tech Yellow Jackets men's basketball|Georgia Tech]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|align=center| 2
+|align=center| 58
+| bgcolor="#C0C0C0"| {{sortname|Darnell|Robinson}}<sup>#</sup>
+| F
+| {{Flagu|United States}}
+| [[1996–97 Dallas Mavericks season|Dallas Mavericks]] <small>(from [[Chicago Bulls|Chicago]])</small><ref>The Mavericks traded [[Rodney McCray (basketball)|Rodney McCray]] in a 3-team trade with the Bulls and the Warriors for a No. 19 pick in the 1994 draft, No. 58 pick in the 1996 draft on September 18, 1992.<br />{{cite web|url=https://www.basketball-reference.com/players/h/houstby01.html|title=Byron Houston |work=basketball-reference.com|access-date=April 13, 2011}}</ref>
+| [[Arkansas Razorbacks men's basketball|Arkansas]] <small>([[Junior (education year)|Jr.]])</small>
+|}
+{{reflist|group=n}}
+
+==Notable undrafted players==
+[[File:BenWallaceCloseup (cropped).jpg|thumb|upright|[[Ben Wallace (basketball)|Ben Wallace]], not selected in the draft, had a successful career including 4 [[NBA All-Star Game|All-Star]] selections, and became the first undrafted NBA player of the modern era to be elected to the Hall of Fame.]]
+{{further|List of undrafted NBA players}}
+The following are undrafted players of the 1996 NBA Draft but later played in the NBA.
+{| class="wikitable sortable"
+! width="20%"| Player
+! width="1%"| Pos.
+! width="20%"| Nationality
+! width="25%"| School/Club team
+|-
+| {{sortname|Chucky|Atkins}}
+| G
+| {{flagu|United States}}
+| [[South Florida Bulls men's basketball|South Florida]] <small>(Sr.)</small>
+|-
+| {{sortname|Ira|Bowman}}
+| G
+| {{flagu|United States}}
+| [[Penn Quakers men's basketball|Penn]] <small>(Sr.)</small>
+|-
+| {{sortname|William|Cunningham|dab=basketball}}
+| C
+| {{flagu|United States}}
+| [[Temple Owls men's basketball|Temple]] <small>(Sr.)</small>
+|-
+| {{sortname|Adrian|Griffin}}
+| F/G
+| {{flagu|United States}}
+| [[Seton Hall Pirates men's basketball|Seton Hall]] <small>(Sr.)</small>
+|-
+| {{sortname|Darvin|Ham}}
+| F
+| {{flagu|United States}}
+| [[Texas Tech Red Raiders basketball|Texas Tech]] <small>(Sr.)</small>
+|-
+| {{sortname|Ben|Handlogten}}
+| C
+| {{flagu|United States}}
+| [[Western Michigan Broncos men's basketball|Western Michigan]] <small>(Sr.)</small>
+|-
+| {{sortname|Juaquin|Hawkins}}
+| F
+| {{flagu|United States}}
+| [[Long Beach State Beach men's basketball|Long Beach State]] <small>(Sr.)</small>
+|-
+| {{sortname|Rick|Hughes}}
+| F/C
+| {{flagu|United States}}
+| [[Thomas More University|Thomas More]] <small>(Sr.)</small>
+|-
+| {{sortname|İbrahim|Kutluay}}
+| G
+| {{TUR}}
+| [[Fenerbahçe S.K. (basketball)|Fenerbahçe]] <small>([[Basketbol Süper Ligi|Turkey]])</small>
+|-
+| {{sortname|Rusty|LaRue}}
+| G
+| {{flagu|United States}}
+| [[Wake Forest Demon Deacons men's basketball|Wake Forest]] <small>(Sr.)</small>
+|-
+| {{sortname|Horacio|Llamas}}
+| C
+| {{MEX}}
+| [[Grand Canyon Antelopes men's basketball|Grand Canyon]] <small>(Sr.)</small>
+|-
+| {{sortname|Art|Long}}
+| F
+| {{flagu|United States}}
+| [[Cincinnati Bearcats men's basketball|Cincinnati]] <small>(Sr.)</small>
+|-
+| {{sortname|Joe|Stephens|dab=basketball}}
+| F
+| {{flagu|United States}}
+| [[Little Rock Trojans men's basketball|Little Rock]] <small>(Sr.)</small>
+|-
+| {{sortname|Erick|Strickland}}
+| G
+| {{flagu|United States}}
+| [[Nebraska Cornhuskers men's basketball|Nebraska]] <small>(Sr.)</small>
+|-
+| bgcolor="#FFFF99"| {{sortname|Ben|Wallace|dab=basketball}}^
+| C/F
+| {{flagu|United States}}
+| [[Virginia Union Panthers men's basketball|Virginia Union]] <small>(Sr.)</small>
+|-
+| {{sortname|Brandon|Williams|dab=basketball, born 1975}}
+| G/F
+| {{flagu|United States}}
+| [[Davidson Wildcats men's basketball|Davidson]] <small>(Sr.)</small>
+|}
+
+==Early entrants==
+===College underclassmen===
+This year would officially see a steep climb up of the number of underclassmen declaring their entry into the NBA. While previous years starting in [[1971 NBA draft|1971]] would see a relatively small amount of college underclassmen alongside overseas and even high school players not only officially declare their entry to the draft, but also sticking with it, this year saw an official total of 42 different players that qualified as underclassmen see an initial entry into the NBA draft. However, six of these players (those being the [[Nigeria]]n born [[Sunday Adebayo]] from the [[Arkansas Razorbacks men's basketball|University of Arkansas]], [[Carlos Knox]] from [[IU Indy Jaguars men's basketball|IUPUI]], [[Terquin Mott]] from [[Coppin State Eagles men's basketball|Coppin State University]], [[Mark Sanford (basketball)|Mark Sanford]] from the [[Washington Huskies men's basketball|University of Washington]], Jess Settles from the [[Iowa Hawkeyes men's basketball|University of Iowa]], and [[Kebu Stewart]] from [[Cal State Bakersfield Roadrunners men's basketball|Cal State Bakersfield]]) would ultimately withdraw their initial entry into this year's NBA draft, leaving 29 players that declared for the NBA draft as proper college underclassmen, three high school players (including [[Kobe Bryant]] and [[Jermaine O'Neal]]) entering the NBA draft as high school seniors, three proper international players (including the first two teammates from the same team) entering directly from overseas play, and one player named [[Priest Lauderdale]] previously leaving [[Central State Marauders men's basketball|Central State University]] to play for the [[Peristeri B.C.]] in [[Greece]] for a grand total of 36 players that would qualify as underclassmen. That being said, the following [[college basketball]] players successfully applied for early draft entrance.<ref name=tdr>{{cite web |title=1996 Underclassmen |url=https://www.thedraftreview.com/index.php?option=com_content&view=article&id=3043:1996-underclassmen&catid=136&Itemid=384 |website=The Draft Review | date=August 4, 2007 |access-date=December 15, 2022}}</ref>
+
+{{div col}}
+*{{flagicon|USA}} [[Shareef Abdur-Rahim]] – F, [[California Golden Bears men's basketball|California]] (freshman)
+*{{flagicon|USA}} [[Ray Allen]] – G, [[Connecticut Huskies men's basketball|Connecticut]] (junior)
+*{{flagicon|USA}} [[Marcus Camby]] – C, [[Massachusetts Minutemen basketball|Massachusetts]] (junior)
+*{{flagicon|USA}} [[Erick Dampier]] – C, [[Mississippi State Bulldogs men's basketball|Mississippi State]] (junior)
+*{{flagicon|USA}} Randy Edney – C, [[Mount St. Mary's Mountaineers men's basketball|Mount St. Mary's]] (junior)
+*{{flagicon|USA}} Eric Gingold – C, [[Williams Ephs|Williams]] (junior)
+*{{flagicon|USA}} LeMarcus Golden – G, [[Memphis Tigers men's basketball|Memphis]] (junior)
+*{{flagicon|USA}} [[Ronnie Henderson]] – G, [[LSU Tigers men's basketball|LSU]] (junior)
+*{{flagicon|USA}} [[Allen Iverson]] – G, [[Georgetown Hoyas men's basketball|Georgetown]] (sophomore)
+*{{flagicon|USA}} Willie Jackson – F, [[Lawson State Community College|Lawson CC]] (freshman)
+*{{flagicon|USA}} [[Dontae' Jones]] – F, [[Mississippi State Bulldogs men's basketball|Mississippi State]] (junior)
+*{{flagicon|USA}} [[Chris Kingsbury]] – G, [[Iowa Hawkeyes men's basketball|Iowa]] (junior)
+*{{flagicon|USA}} Idris Lee – G, [[Mount Senario College#Athletics|Mount Senario]] (junior)
+*{{flagicon|USA}} [[Randy Livingston]] – G, [[LSU Tigers men's basketball|LSU]] (sophomore)
+*{{flagicon|USA}} Michael Lloyd – G, [[Auburn Montgomery Warhawks|Auburn Montgomery]] (junior)
+*{{flagicon|USA}} [[Stephon Marbury]] – G, [[Georgia Tech Yellow Jackets men's basketball|Georgia Tech]] (freshman)
+*{{flagicon|CUB}} Richard Matienzo – F, [[Miami Dade College|Miami Dade]] (freshman)
+*{{flagicon|SUD}} Dut Mayar Madut – C, [[Frank Phillips College|Frank Phillips]] (freshman)
+*{{flagicon|USA}} [[Jeff McInnis]] – G, [[North Carolina Tar Heels men's basketball|North Carolina]] (junior)
+*{{flagicon|USA}} Chris Nurse – F, [[Delaware State Hornets men's basketball|Delaware State]] (junior)
+*{{flagicon|USA}} Jason Osborne – F, [[Louisville Cardinals men's basketball|Louisville]] (junior)
+*{{flagicon|USA}} Jessie Pate – G, [[Arkansas Razorbacks men's basketball|Arkansas]] (junior)
+*{{flagicon|UKR}} [[Vitaly Potapenko]] – F/C, [[Wright State Raiders men's basketball|Wright State]] (junior)
+*{{flagicon|USA}} [[Darnell Robinson]] – F/C, [[Arkansas Razorbacks men's basketball|Arkansas]] (junior)
+*{{flagicon|USA}} Greg Simpson – G, [[West Virginia Mountaineers men's basketball|West Virginia]] (junior)
+*{{flagicon|USA}} Kevin Simpson – G, [[Utah Tech University|Dixie]] (sophomore)
+*{{flagicon|USA}} [[Antoine Walker]] – F, [[Kentucky Wildcats men's basketball|Kentucky]] (sophomore)
+*{{flagicon|USA}} [[Samaki Walker]] – F, [[Louisville Cardinals men's basketball|Louisville]] (sophomore)
+*{{flagicon|USA}} [[Lorenzen Wright]] – F, [[Memphis Tigers men's basketball|Memphis]] (sophomore)
+{{div col end}}
+
+===High school players===
+This year marked the second year in a row where high school players would be allowed entry into the NBA directly from high school after previously not allowing high schoolers to enter the NBA draft directly since [[1975 NBA draft|1975]]. The following high school players successfully applied for early draft entrance.<ref name=tdr />
+
+{{div col}}
+*{{flagicon|USA}} [[Kobe Bryant]] – G, [[Lower Merion High School|Lower Merion HS]] ([[Lower Merion Township, Pennsylvania|Lower Merion]], [[Pennsylvania]])
+*{{flagicon|USA}} Taj McDavid – G, [[Palmetto High School (South Carolina)|Palmetto HS]] ([[Williamston, South Carolina]])
+*{{flagicon|USA}} [[Jermaine O'Neal]] – F, [[Eau Claire High School (South Carolina)|Eau Claire HS]] ([[Columbia, South Carolina]])
+{{div col end}}
+
+===International players===
+This year marked the first time that international teammates would declare their entry into the NBA draft simultaneously. The following international players successfully applied for early draft entrance.<ref name=tdr />
+
+{{div col}}
+*{{flagicon|LIT}} [[Zydrunas Ilgauskas]] – C, [[LSU-Atletas|Atletas Kaunas]] ([[Lietuvos krepšinio lyga|Lithuania]])
+*{{flagicon|GRE}} [[Efthimios Rentzias]] – F/C, [[P.A.O.K. BC|P.A.O.K. B.C.]] ([[Greek Basket League|Greece]])
+*{{flagicon|FRY}} [[Peja Stojaković]] – F, [[P.A.O.K. BC|P.A.O.K. B.C.]] ([[Greek Basket League|Greece]])
+{{div col end}}
+
+===Other eligible players===
+{| class="wikitable sortable plainrowheaders" style="text-align:left; font-size:95%"
+! Player !! {{tooltip|Team|Most recent team played for before the draft}} !!class=unsortable| Note !!class=unsortable| Ref.
+|-
+!scope="row"|{{flagicon|USA}} [[Priest Lauderdale]]
+| [[Peristeri B.C.]] ([[Greek Basket League|Greece]]) || Left [[Central State Marauders and Lady Marauders|Central State]] in 1995; playing professionally since the 1995–96 season ||align=center|<ref>{{cite web |title=Priest Lauderdale |url=https://www.thedraftreview.com/index.php?option=com_content&view=article&id=1936&Itemid=33 |website=The Draft Review | date=June 3, 2007 |access-date=December 15, 2022}}</ref>
+|}
+
+==Invited attendees==
+The 1996 NBA draft is considered to be the nineteenth NBA draft to have utilized what's properly considered the "green room" experience for NBA prospects. The NBA's green room is a staging area where anticipated draftees often sit with their families and representatives, waiting for their names to be called on draft night. Often being positioned either in front of or to the side of the podium (in this case, being positioned somewhere within the Continental Airlines Arena<ref name="1996Invites">{{cite web | title=1996 Green Room Invites - the Draft Review | access-date=December 29, 2025 | url=https://www.thedraftreview.com/historical-draft-events/green-room/1996-green-room-invites }}</ref>), once a player heard his name, he would walk to the podium to shake hands and take promotional photos with the NBA commissioner. From there, the players often conducted interviews with various media outlets while backstage. From there, the players often conducted interviews with various media outlets while backstage. However, once the NBA draft started to air nationally on TV starting with the [[1980 NBA draft]], the green room evolved from players waiting to hear their name called and then shaking hands with these select players who were often called to the hotel to take promotional pictures with the NBA commissioner a day or two after the draft concluded to having players in real-time waiting to hear their names called up and then shaking hands with [[David Stern]], the NBA's commissioner at the time.<ref>{{Cite web |last=Maurer |first=Matthew |date=2024-02-18 |title=Draft Broadcasts - The Draft Review |url=https://www.thedraftreview.com/sundry/sundry-articles/draft-broadcasts |access-date=2025-12-29 |website=The Draft Review |language=en-us}}</ref> The NBA compiled its list of green room invites through collective voting by the NBA's team presidents and general managers alike, which in this year's case belonged to only what they believed were the top 19 prospects at the time.<ref>{{Cite web |title=Green Room - The Draft Review |url=https://www.thedraftreview.com/historical-draft-events/green-room |access-date=2025-12-29 |website=The Draft Review |language=en-us}}</ref> Despite the high number of invites and successful draft prospects involved for this year's draft, there would still be some notable absences to not be invited for this year's draft in [[Shareef Abdur-Rahim]] from the [[California Golden Bears men's basketball|University of California]], [[Jermaine O'Neal]] from Eau Claire High School in [[South Carolina]], and arguably [[Ben Wallace (basketball)|Ben Wallace]] from [[Virginia Union University]]. With that in mind, the following players were invited to attend this year's draft festivities live and in person.<ref name="1996Invites" />
+
+{{div col}}
+*{{flagicon|USA}} [[Ray Allen]] – SG, [[Connecticut Huskies men's basketball|Connecticut]]
+*{{flagicon|USA}} [[Kobe Bryant]] – SG, [[Lower Merion High School]] ([[Lower Merion Township, Pennsylvania|Lower Merion Township]], [[Pennsylvania]])
+*{{flagicon|USA}} [[Marcus Camby]] – C, [[UMass Minutemen basketball|Massachusetts]]
+*{{flagicon|USA}} [[Erick Dampier]] – C, [[Mississippi State Bulldogs men's basketball|Mississippi State]]
+*{{flagicon|USA}} [[Todd Fuller]] – C, [[NC State Wolfpack men's basketball|North Carolina State]]
+*{{flagicon|LIT}} [[Zydrunas Ilgauskas|Žydrūnas Ilgauskas]] – C, [[LSU-Atletas|Atletas Kaunas]] ([[Lietuvos krepšinio lyga|Lithuania]])
+*{{flagicon|USA}} [[Allen Iverson]] – PG, [[Georgetown Hoyas men's basketball|Georgetown]]
+*{{flagicon|USA}} [[Kerry Kittles]] – SG, [[Villanova Wildcats men's basketball|Villanova]]
+*{{flagicon|USA}} [[Stephon Marbury]] – PG, [[Georgia Tech Yellow Jackets basketball|Georgia Tech]]
+*{{flagicon|USA}} [[Walter McCarty]] – SF/PF, [[Kentucky Wildcats men's basketball|Kentucky]]
+*{{flagicon|CAN}}/{{flagicon|RSA}} [[Steve Nash]] – PG, [[Santa Clara Broncos men's basketball|Santa Clara]]
+*{{flagicon|UKR}} [[Vitaly Potapenko]] – C, [[Wright State Raiders men's basketball|Wright State]]
+*{{flagicon|USA}} [[Roy Rogers (basketball)|Roy Rogers]] – PF, [[Alabama Crimson Tide men's basketball|Alabama]]
+*{{flagicon|FRY}}/{{flagicon|CRO}} [[Peja Stojaković|Predrag "Peja" Stojaković]] – SF, [[P.A.O.K. BC|P.A.O.K. B.C.]] ([[Greek Basket League|Greece]])
+*{{flagicon|USA}} [[Antoine Walker]] – SF/PF, [[Kentucky Wildcats men's basketball|Kentucky]]
+*{{flagicon|USA}} [[Samaki Walker]] – PF/C, [[Louisville Cardinals men's basketball|Louisville]]
+*{{flagicon|USA}} [[John Wallace (basketball)|John Wallace]] – SF, [[Syracuse Orange men's basketball|Syracuse]]
+*{{flagicon|USA}} [[Jerome Williams (basketball)|Jerome Williams]] – PF, [[Georgetown Hoyas men's basketball|Georgetown]]
+*{{flagicon|USA}} [[Lorenzen Wright]] – C, [[Memphis Tigers men's basketball|Memphis]]
+{{div col end}}
+
+==See also==
+* [[List of first overall NBA draft picks]]
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+*{{cite web|url=http://www.nba.com/draft/ |title=Official site |website=[[NBA.com]] |access-date=2013-12-13 |url-status=bot: unknown |archive-url=https://web.archive.org/web/19961026212833/http://www.nba.com/draft/ |archive-date=October 26, 1996 |df=mdy }}
+* [https://www.basketball-reference.com/draft/NBA_1996.html 1996 NBA Draft] at Basketball-reference.com
+
+{{NBA Drafts}}
+{{NBA Draft history by team}}
+{{1996 NBA draft}}
+{{1996–97 NBA season by team}}
+{{NBA on TNT}}
+
+[[Category:1996–97 NBA season|Draft]]
+[[Category:NBA draft]]
+[[Category:June 1996 sports events in the United States|NBA draft]]
+[[Category:1996 in sports in New Jersey|NBA draft]]
+[[Category:20th century in East Rutherford, New Jersey]]
+[[Category:Basketball in New Jersey]]
+[[Category:Organized events in East Rutherford, New Jersey]]
+[[Category:Sports in East Rutherford, New Jersey]]

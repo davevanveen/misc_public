@@ -1,0 +1,1093 @@
+{{short description|Basketball player selection}}
+{{Use mdy dates|date=April 2015}}
+{{Infobox sports draft
+| name        = 2015 NBA draft
+| image       = 
+| caption     = 
+| logo        = 2015 NBA Draft logo.jpg
+| logosize    = 
+| sport       = Basketball
+| date        = June 25, 2015
+| location    = [[Barclays Center]] ([[Brooklyn, New York]])
+| network     = [[NBA on ESPN|ESPN]]
+| league      = NBA
+| teams       = 
+| overall     = 60
+| rounds      = 2
+| first       = [[Karl-Anthony Towns]] ([[Minnesota Timberwolves]])
+| prev        = [[2014 NBA draft|2014]]
+| next        = [[2016 NBA draft|2016]]
+}}
+
+The '''2015 NBA draft''' was held on June 25, 2015, at [[Barclays Center]] in [[Brooklyn]]. It was televised nationally in the U.S. by ESPN. [[National Basketball Association]] (NBA) teams took turns selecting amateur U.S. [[college basketball]] players and other eligible players, including international players. The [[NBA draft lottery|draft lottery]] took place on May 19, 2015.
+
+The [[Minnesota Timberwolves]] won the [[NBA draft lottery|draft lottery]] to earn the [[List of first overall NBA draft picks|first overall pick]] in the draft. It marked the first time in Timberwolves history that they would receive the first overall pick through the lottery. The player selected would also be the third consecutive number one pick on the Timberwolves roster, joining [[Andrew Wiggins]] (2014) and [[Anthony Bennett (basketball)|Anthony Bennett]] (2013) - who were traded to Minnesota for forward [[Kevin Love]]. This draft also gave the [[Los Angeles Lakers]] the second overall pick after jumping over the [[Philadelphia 76ers]] and the [[New York Knicks]] within the draft lottery.
+
+Highlights from the draft include the first Dominican to be the first overall pick ([[Karl-Anthony Towns]]), the highest number of Kentucky Wildcats selected in the draft lottery (four with Karl-Anthony Towns, [[Willie Cauley-Stein]], [[Trey Lyles]], and [[Devin Booker]]), which tied the [[North Carolina Tar Heels men's basketball|North Carolina Tar Heels]] in 2005 for most players selected in the lottery by one school; the tied record for most Kentucky players selected in the draft (six with Towns, Cauley-Stein, Lyles, Booker, [[Andrew Harrison (basketball)|Andrew Harrison]], and [[Dakari Johnson]]), the second Latvian to have been drafted in the first round ([[Kristaps Porziņģis]]), the first former high school player to have skipped college to play in China that was selected in the draft ([[Emmanuel Mudiay]]), and the first Indian-born player to have been selected in the NBA ([[Satnam Singh]]),<ref>{{cite web |last1=Bengali |first1=Shashank |title=Mavericks draft Satnam Singh, the NBA's first Indian-born player |url=http://www.latimes.com/sports/nba/la-nba-drafts-satnam-singh-the-league-s-first-indian-born-player-20150626-story.html |website=[[Los Angeles Times]] |access-date=September 8, 2018 |date=June 26, 2015 |archive-date=September 9, 2018 |archive-url=https://web.archive.org/web/20180909073753/http://www.latimes.com/sports/nba/la-nba-drafts-satnam-singh-the-league-s-first-indian-born-player-20150626-story.html |url-status=live }}</ref> who was also the first player since 2005 to have been drafted directly from high school (albeit as a [[postgraduate year|postgraduate]]).
+
+Other noteworthy announcements that came out of the draft included the official announcement of the passing of the last pioneer of the original NBA, [[Harvey Pollack]], around the third pick and the resignation of the league's president of basketball operations [[Rod Thorn]] that became official in August after the end of the first round.
+
+==Draft selections==
+{|class="wikitable"
+|-
+| PG || [[Point guard]]
+| SG || [[Shooting guard]]
+| SF || [[Small forward]]
+| PF || [[Power forward (basketball)|Power forward]]
+| C || [[Center (basketball)|Center]]
+|}
+{{NBA Draft legend|2=y|3=y|5=y|6=y}}
+{{stack| 
+[[File:Towns9-20190120.jpg|thumb|150px|right|[[Karl-Anthony Towns]] was selected first overall by the [[Minnesota Timberwolves]].]]
+[[File:DARussell 2019.jpg|thumb|right|150px|[[D'Angelo Russell]] was selected second by the [[Los Angeles Lakers]].]]
+[[File:Kristaps Porzingis (cropped).jpg|thumb|right|150px|[[Kristaps Porziņģis]] was selected fourth by the [[New York Knicks]].]]
+[[File:Myles Turner (39916223764) (cropped).jpg|thumb|right|150px|[[Myles Turner]] was selected 11th by the [[Indiana Pacers]].]]
+[[File:Devin Booker (2022 All-Star Weekend).jpg|thumb|right|150px|[[Devin Booker]] was selected 13th by the [[Phoenix Suns]].]]
+[[File:Bobby Portis 2021.jpg|thumb|right|150px|[[Bobby Portis]] was selected 22nd by the [[Chicago Bulls]].]]
+[[File:Kevon Looney dunk.jpg|thumb|right|150px|[[Kevon Looney]] was selected 30th by the [[Golden State Warriors]].]]
+[[File:1 norman powell toronto raptors 2019 (cropped2).jpg|thumb|right|150px|[[Norman Powell]] was selected 46th by the [[Milwaukee Bucks]] (traded to the [[Toronto Raptors]]).]]
+[[File:Satnam Singh Bhamara.jpg|thumb|right|150px|[[Satnam Singh]] was selected 52nd by the [[Dallas Mavericks]]. Singh became the first Indian-born player to be drafted into the NBA.]]
+}}
+{|class="wikitable sortable" style="text-align:left"
+|-
+! style="width:1%;"| {{tooltip|Rnd.|Draft round}}
+! style="width:1%;"| {{tooltip|Pick|Overall selection number}}
+! style="width:16%;"| Player
+! style="width:1%;"| {{tooltip|Pos.|Position(s) played}}
+! style="width:16%;"| {{tooltip|Nationality|Player's representative nationality}}{{refn|group=n|name=nationality|Nationality indicates the player's national team or representative nationality. If a player has not competed at the international level, then the nationality indicates the national team which the player is eligible to represent according to [[FIBA]] rules.}}
+! style="width:38%;"| Team
+! style="width:21%;"| {{tooltip|School / club team|Most recent school attended or team played for before the draft}}
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|1
+| bgcolor="#FBCEB1"| {{sortname|Karl-Anthony|Towns}}<sup>*~</sup>
+| C
+| {{DOM}}<!-- This column indicates representative nationality; Towns plays for Dominican Republic, see note -->{{refn|group=n|Karl-Anthony Towns was born and raised in the United States to an American father and a Dominican mother.<ref>{{cite news|url=http://www.startribune.com/karl-anthony-towns-drafted-no-1-overall-by-timberwolves-as-expected/309936841/|title=Karl-Anthony Towns taken No.1 by Wolves; Tyus Jones acquired in trade with Cavaliers|first=Jerry|last=Zgoda|date=June 26, 2015|newspaper=Star Tribune|access-date=June 26, 2015|archive-date=September 29, 2018|archive-url=https://web.archive.org/web/20180929114416/http://www.startribune.com/karl-anthony-towns-drafted-no-1-overall-by-timberwolves-as-expected/309936841/|url-status=live}}</ref> He has represented the [[Dominican Republic national basketball team|Dominican Republic]] internationally since 2012.<ref>{{cite web|url=http://www.wkyt.com/sports/headlines/Calipari_makes_Dominican_team_roster_cuts_159306055.html|title=Calipari makes Dominican team roster cuts|date=June 16, 2012|publisher=WKYT|access-date=June 26, 2015|archive-date=July 2, 2015|archive-url=https://web.archive.org/web/20150702073457/http://www.wkyt.com/sports/headlines/Calipari_makes_Dominican_team_roster_cuts_159306055.html|url-status=live}}</ref>}}
+| [[Minnesota Timberwolves]]
+| [[Kentucky Wildcats men's basketball|Kentucky]] <small>([[Freshman|Fr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|2
+| bgcolor="#FFCC00"| {{sortname|D'Angelo|Russell}}<sup>+</sup>
+| PG
+| {{USA}}
+| [[Los Angeles Lakers]]
+| [[Ohio State Buckeyes men's basketball|Ohio State]] <small>([[Freshman|Fr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|3
+| {{sortname|Jahlil|Okafor}}
+| C
+| {{flagu|United States}}{{refn|group=n|Okafor was born in the United States to a Nigerian father. He played for the United States at the junior level but has played for the [[Nigeria men's national basketball team|Nigeria national basketball team]] since 2020.}}
+| [[Philadelphia 76ers]]
+| [[Duke Blue Devils men's basketball|Duke]] <small>([[Freshman|Fr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|4
+| bgcolor="#FFCC00"| {{sortname|Kristaps|Porziņģis}}<sup>+</sup>
+|PF/C
+| {{LAT}}
+| [[New York Knicks]]
+| [[CB Sevilla|Baloncesto Sevilla]] ([[Liga ACB|Spain]])
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|5
+| {{sortname|Mario|Hezonja}}
+| SG/SF
+| {{CRO}}
+| [[Orlando Magic]]
+| [[FC Barcelona Bàsquet|FC Barcelona]] ([[Liga ACB|Spain]])
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|6
+| {{sortname|Willie|Cauley-Stein}}
+| PF
+| {{flagu|United States}}
+| [[Sacramento Kings]]
+| [[Kentucky Wildcats men's basketball|Kentucky]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|7
+| {{sortname|Emmanuel|Mudiay}}
+| PG
+| {{flag|COD|name=DR Congo}}<!-- This column indicates representative nationality; Mudiay was born in DR Congo and has not competed in international level for either country, see note -->{{refn|group=n|Emmanuel Mudiay was born in the Democratic Republic of the Congo, but he was raised in the United States since age 5.<ref>{{cite magazine|url=https://www.si.com/nba/2015/06/24/emmanuel-mudiay-nba-draft-congo-china-texas-smu-larry-brown|title=The Long March: Emmanuel Mudiay's journey from Congo to the NBA|first=Chris|last=Mannix|date=June 24, 2015|magazine=Sports Illustrated|access-date=June 26, 2015|archive-date=June 26, 2015|archive-url=https://web.archive.org/web/20150626104946/http://www.si.com/nba/2015/06/24/emmanuel-mudiay-nba-draft-congo-china-texas-smu-larry-brown|url-status=live}}</ref> He has not represented either country internationally.}}
+| [[Denver Nuggets]]
+| [[Guangdong Southern Tigers]]
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|8
+| {{sortname|Stanley|Johnson|Stanley Johnson (basketball)}}
+| SF
+| {{flagu|United States}}
+| [[Detroit Pistons]]
+| [[Arizona Wildcats men's basketball|Arizona]] <small>([[Freshman (education)|Fr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|9
+| {{sortname|Frank|Kaminsky}}
+| PF
+| {{flagu|United States}}
+| [[Charlotte Hornets]]
+| [[Wisconsin Badgers men's basketball|Wisconsin]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|10
+| {{sortname|Justise|Winslow}}
+| SF
+| {{flagu|United States}}
+| [[Miami Heat]]
+| [[Duke Blue Devils men's basketball|Duke]] <small>([[Freshman|Fr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|11
+| {{sortname|Myles|Turner}}
+| C
+| {{flagu|United States}}
+| [[Indiana Pacers]]
+| [[Texas Longhorns men's basketball|Texas]] <small>([[Freshman|Fr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|12
+| {{sortname|Trey|Lyles}}
+| PF
+| {{CAN}}
+| [[Utah Jazz]]
+| [[Kentucky Wildcats men's basketball|Kentucky]] <small>([[Freshman|Fr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|13
+| bgcolor="#FBCEB1"| {{sortname|Devin|Booker}}<sup>*</sup>
+| SG
+| {{flagu|United States}}
+| [[Phoenix Suns]]
+| [[Kentucky Wildcats men's basketball|Kentucky]] <small>([[Freshman|Fr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|14
+| {{sortname|Cameron|Payne}}
+| PG
+| {{flagu|United States}}
+| [[Oklahoma City Thunder]]
+| [[Murray State Racers men's basketball|Murray State]] <small>([[Sophomore|So.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|15
+| {{sortname|Kelly|Oubre Jr.|link=Kelly Oubre Jr.}}
+| SF
+| {{flagu|United States}}
+| [[Atlanta Hawks]] <small>(from [[Brooklyn Nets|Brooklyn]],</small>{{refn|group=upper-alpha|name=atlbkn|
+July 11, 2012: [[Brooklyn Nets]] to [[Atlanta Hawks]]<ref>{{cite web|url=http://www.nba.com/nets/news/Johnson_Trade_Release_120711.html|title=Brooklyn Nets Acquire All-Star Joe Johnson|date=July 11, 2012|work=NBA.com|access-date=May 6, 2015|archive-date=January 4, 2018|archive-url=https://web.archive.org/web/20180104051635/http://www.nba.com/nets/news/Johnson_Trade_Release_120711.html|url-status=live}}</ref><ref>{{cite web|url=http://www.businessinsider.com/nets-hawks-joe-johnson-trade-swap-picks-2015-3/|title=A small detail in the 2012 Nets-Hawks blockbuster trade has turned into a huge win for Atlanta|first=William Scott|last=Davis|date=March 31, 2015|work=NBA.com|access-date=May 6, 2015|archive-date=May 9, 2015|archive-url=https://web.archive.org/web/20150509193128/http://www.businessinsider.com/nets-hawks-joe-johnson-trade-swap-picks-2015-3|url-status=live}}</ref>
+*Atlanta acquired [[Jordan Farmar]], [[Anthony Morrow]], [[DeShawn Stevenson]], [[Jordan Williams (basketball, born 1990)|Jordan Williams]], [[Johan Petro]], a conditional 2013 first-round pick, a 2017 second-round pick, the option to swap 2014 first-round pick and ''the option to swap 2015 first-round pick''
+*Brooklyn acquired [[Joe Johnson (basketball)|Joe Johnson]]
+}} <small>traded to [[Washington Wizards|Washington]])</small>{{refn|group=lower-alpha|name=atlwas|
+[[Washington Wizards]] and [[Atlanta Hawks]] trade<ref name="hawksdraft">{{cite web|url=http://www.nba.com/hawks/news/hawks-trade-tim-hardaway-jr.|title=Hawks Trade For Tim Hardaway Jr.|date=June 25, 2015|work=NBA.com|access-date=June 26, 2015|archive-date=June 28, 2015|archive-url=https://web.archive.org/web/20150628193026/http://www.nba.com/hawks/news/hawks-trade-tim-hardaway-jr.|url-status=live}}</ref>
+*Washington acquired draft rights to 15th pick [[Kelly Oubre Jr.]]
+*Atlanta acquired draft rights to 19th pick [[Jerian Grant]] and two future second-round picks
+}}
+| [[Kansas Jayhawks men's basketball|Kansas]] <small>([[Freshman|Fr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|16
+| {{sortname|Terry|Rozier}}
+| PG
+| {{flagu|United States}}
+| [[Boston Celtics]]
+| [[Louisville Cardinals men's basketball|Louisville]] <small>([[Sophomore|So.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|17
+| {{sortname|Rashad|Vaughn}}
+| SG
+| {{flagu|United States}}
+| [[Milwaukee Bucks]]
+| [[UNLV Runnin' Rebels basketball|UNLV]] <small>([[Freshman|Fr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|18
+| {{sortname|Sam|Dekker}}
+| SF
+| {{flagu|United States}}
+| [[Houston Rockets]] <small>(from [[New Orleans Pelicans|New Orleans]])</small>{{refn|group=upper-alpha|
+July 15, 2014: [[New Orleans Pelicans]] to [[Houston Rockets]] (three-team trade with [[Washington Wizards]])<ref>{{cite web|url=http://www.nba.com/rockets/rockets-land-ariza-three-team-deal|title=Rockets Land Ariza & Valuable First Round Pick|date=July 15, 2014|work=NBA.com|access-date=May 6, 2015|archive-date=May 23, 2015|archive-url=https://web.archive.org/web/20150523035001/http://www.nba.com/rockets/rockets-land-ariza-three-team-deal|url-status=live}}</ref><ref>{{cite web|url=http://www.nba.com/pelicans/news/pelicans-complete-three-team-trade-rockets-and-wizards|title=Pelicans Complete Three-Team Trade with Rockets and Wizards|date=July 15, 2014|work=NBA.com|access-date=May 6, 2015|archive-date=November 29, 2015|archive-url=https://web.archive.org/web/20151129203311/http://www.nba.com/pelicans/news/pelicans-complete-three-team-trade-rockets-and-wizards|url-status=live}}</ref>
+*Houston acquired [[Alonzo Gee]], [[Scotty Hopson]] and ''a conditional 2015 first-round pick'' (protected top 3 and 20–30 in 2015) from New Orleans
+*Houston acquired [[Trevor Ariza]] from Washington ([[sign and trade]])
+*New Orleans acquired [[Ömer Aşık]], [[Omri Casspi]] and cash considerations from Houston
+*Washington acquired [[Melvin Ely]] from New Orleans
+}}
+| [[Wisconsin Badgers men's basketball|Wisconsin]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|19
+| {{sortname|Jerian|Grant}}
+| PG
+| {{flagu|United States}}
+| [[Washington Wizards]] <small>(traded to [[New York Knicks|New York]] via [[Atlanta Hawks|Atlanta]])</small><ref group=lower-alpha name=atlwas/>{{refn|group=lower-alpha|
+[[New York Knicks]] and [[Atlanta Hawks]] trade<ref name="hawksdraft"/><ref>{{cite web|url=http://www.nba.com/knicks/draft/knicks-acquire-draft-rights-jerian-grant|title=Knicks Acquire Draft Rights To Jerian Grant|date=June 25, 2015|work=NBA.com|access-date=June 26, 2015|archive-date=June 28, 2015|archive-url=https://web.archive.org/web/20150628193035/http://www.nba.com/knicks/draft/knicks-acquire-draft-rights-jerian-grant|url-status=live}}</ref>
+*New York acquired draft rights to 19th pick [[Jerian Grant]]
+*Atlanta acquired [[Tim Hardaway Jr.]]
+}}
+| [[Notre Dame Fighting Irish men's basketball|Notre Dame]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|20
+|{{sortname|Delon|Wright}}
+| PG
+| {{flagu|United States}}
+| [[Toronto Raptors]]
+| [[Utah Utes men's basketball|Utah]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|21
+| {{sortname|Justin|Anderson|dab=basketball}}
+| SF
+| {{flagu|United States}}
+| [[Dallas Mavericks]]
+| [[Virginia Cavaliers men's basketball|Virginia]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|22
+|{{sortname|Bobby|Portis}}
+| PF
+| {{flagu|United States}}
+| [[Chicago Bulls]]
+| [[Arkansas Razorbacks men's basketball|Arkansas]] <small>([[Sophomore|So.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|23
+| {{sortname|Rondae|Hollis-Jefferson}}
+| SF
+| {{flagu|United States}}{{refn|group=n|Hollis-Jefferson became a naturalized Jordanian citizen in 2023 and plays for the [[Jordan men's national basketball team|Jordan national basketball team]].}}
+| [[Portland Trail Blazers]] <small>(traded to [[Brooklyn Nets|Brooklyn]])</small>{{refn|group=lower-alpha|name=porbkn|
+[[Brooklyn Nets]] and [[Portland Trail Blazers]] trade<ref>{{cite web|url=http://www.nba.com/nets/nets-acquire-rondae-hollis-jefferson-and-steve-blake|title=Nets Acquire Rondae Hollis-Jefferson and Steve Blake|date=June 26, 2015|work=NBA.com|access-date=June 26, 2015|archive-date=June 28, 2015|archive-url=https://web.archive.org/web/20150628174358/http://www.nba.com/nets/nets-acquire-rondae-hollis-jefferson-and-steve-blake|url-status=live}}</ref>
+*Brooklyn acquired [[Steve Blake]] and draft rights to 23rd pick [[Rondae Hollis-Jefferson]]
+*Portland acquired [[Mason Plumlee]] and draft rights to 41st pick [[Pat Connaughton]]
+}}
+| [[Arizona Wildcats men's basketball|Arizona]] <small>([[Sophomore|So.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|24
+| {{sortname|Tyus|Jones}}
+| PG
+| {{flagu|United States}}
+| [[Cleveland Cavaliers]] <small>(traded to [[Minnesota Timberwolves|Minnesota]])</small>{{refn|group=lower-alpha|name=clemin|
+[[Minnesota Timberwolves]] and [[Cleveland Cavaliers]] trade<ref>{{cite web|url=http://www.nba.com/timberwolves/news/timberwolves-acquire-draft-rights-tyus-jones|title=Timberwolves Acquire Draft Rights to Tyus Jones|date=June 25, 2015|work=NBA.com|access-date=June 25, 2015|archive-date=June 28, 2015|archive-url=https://web.archive.org/web/20150628193232/http://www.nba.com/timberwolves/news/timberwolves-acquire-draft-rights-tyus-jones|url-status=live}}</ref>
+*Minnesota acquired draft rights to 24th pick [[Tyus Jones]]
+*Cleveland acquired draft rights to 31st pick [[Cedi Osman]], draft rights to 36th pick [[Rakeem Christmas]], and a 2019 second-round pick
+}}
+| [[Duke Blue Devils men's basketball|Duke]] <small>([[Freshman|Fr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|25
+|{{sortname|Jarell|Martin}}
+| PF
+| {{flagu|United States}}
+| [[Memphis Grizzlies]]
+| [[LSU Tigers basketball|LSU]] <small>([[Sophomore|So.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|26
+| style="background:silver;"| {{sortname|Nikola|Milutinov}}<sup>#</sup>
+| C
+| {{SRB}}
+| [[San Antonio Spurs]]
+| [[KK Partizan|Partizan Belgrade]] ([[Basketball League of Serbia|Serbia]])
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|27
+|{{sortname|Larry|Nance Jr.|link=Larry Nance Jr.}}
+| PF
+| {{flagu|United States}}
+| [[Los Angeles Lakers]] <small>(from [[Houston Rockets|Houston]])</small>{{refn|group=upper-alpha|
+July 13, 2014: [[Houston Rockets]] to [[Los Angeles Lakers]]<ref>{{cite web|url=http://www.nba.com/lakers/news/140713jeremylin|title=Lakers Acquire Jeremy Lin and Draft Choices in Trade with Rockets|date=July 13, 2014|work=NBA.com|access-date=May 6, 2015|archive-date=May 11, 2015|archive-url=https://web.archive.org/web/20150511035601/http://www.nba.com/lakers/news/140713jeremylin|url-status=live}}</ref><ref name=lakerspicks>{{cite web|url=http://www.latimes.com/sports/lakers/lakersnow/la-sp-ln-lakers-27th-pick-nba-draft-rockets-clippers-20150417-story.html|title=Lakers get 27th pick in draft from Rockets after tiebreaker with Clippers|first=Eric|last=Pincus|date=April 17, 2015|work=Los Angeles Times|access-date=May 6, 2015|archive-date=April 25, 2015|archive-url=https://web.archive.org/web/20150425121341/http://www.latimes.com/sports/lakers/lakersnow/la-sp-ln-lakers-27th-pick-nba-draft-rockets-clippers-20150417-story.html|url-status=live}}</ref>
+*L.A. Lakers acquired [[Jeremy Lin]], ''a conditional 2015 first-round pick'' (protected top 14 in 2014) and a conditional 2015 second-round pick
+*Houston acquired draft rights to [[Sergei Lishouk]]
+}}
+| [[Wyoming Cowboys basketball|Wyoming]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|28
+|{{sortname|R. J.|Hunter}}
+| SG
+| {{flagu|United States}}
+| [[Boston Celtics]] <small>(from [[Los Angeles Clippers|L.A. Clippers]])</small>{{refn|group=upper-alpha|
+June 25, 2013: [[Los Angeles Clippers]] to [[Boston Celtics]]<ref name=lakerspicks/><ref>{{cite web|url=http://www.nba.com/celtics/news/press_release/062513-celtics-update-doc-rivers|title=Celtics Give Update on Doc Rivers|date=June 25, 2013|work=NBA.com|access-date=May 6, 2015|archive-date=October 24, 2015|archive-url=https://web.archive.org/web/20151024102350/http://www.nba.com/celtics/news/press_release/062513-celtics-update-doc-rivers|url-status=live}}</ref>
+*Boston acquired ''a 2015 first-round pick'' as a compensation for allowing L.A. Clippers to hire [[Doc Rivers]] as a head coach
+}}
+| [[Georgia State Panthers men's basketball|Georgia State]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|29
+|{{sortname|Chris|McCullough}}
+| PF
+| {{flagu|United States}}
+| [[Brooklyn Nets]] <small>(from [[Atlanta Hawks|Atlanta]])</small><ref group=upper-alpha name=atlbkn/>
+| [[Syracuse Orange men's basketball|Syracuse]] <small>([[Freshman|Fr.]])</small>
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|30
+|{{sortname|Kevon|Looney}}
+| PF
+| {{flagu|United States}}
+| [[Golden State Warriors]]
+| [[UCLA Bruins men's basketball|UCLA]] <small>([[Freshman|Fr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|31
+| {{sortname|Cedi|Osman}}
+| SG/SF
+| {{TUR}}{{refn|group=n|Cedi Osman was born in [[Republic of Macedonia|Macedonia]] to a Turkish father and [[Bosniaks|Bosnian]] mother. He moved to Turkey at age 12 and became a naturalized Turkish citizen.<ref>{{cite web | url=http://www.draftexpress.com/article/Cedi-Osman-NBA-Draft-Scouting-Report-and-Video-Breakdown-5107/ | title=Cedi Osman NBA Draft Scouting Report and Video Breakdown | publisher=DraftExpress | date=June 18, 2015 | access-date=June 26, 2015 | first=Jonathan | last=Givony | archive-date=September 5, 2015 | archive-url=https://web.archive.org/web/20150905083251/http://www.draftexpress.com/article/Cedi-Osman-NBA-Draft-Scouting-Report-and-Video-Breakdown-5107/ | url-status=live }}</ref> He has represented [[Turkey national basketball team|Turkey]] internationally since 2011.<ref>{{cite web|url=https://www.fiba.basketball/basketballworldcup/2014/news/Teen-sensation-Osman-makes-Turkey-squad|title=Teen sensation Osman makes Turkey squad|date=August 25, 2014|publisher=FIBA|access-date=June 26, 2015|archive-date=October 2, 2018|archive-url=https://web.archive.org/web/20181002205636/http://www.fiba.basketball/basketballworldcup/2014/news/Teen-sensation-Osman-makes-Turkey-squad|url-status=live}}</ref>}}
+| [[Minnesota Timberwolves]] <small>(traded to [[Cleveland Cavaliers|Cleveland]])</small><ref group=lower-alpha name=clemin/>
+| [[Anadolu Efes S.K.|Anadolu Efes]] ([[Turkish Basketball League|Turkey]])
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|32
+| {{sortname|Montrezl|Harrell}}
+| PF/C
+| {{flagu|United States}}
+| [[Houston Rockets]] <small>(from [[New York Knicks|New York]])</small>{{refn|group=upper-alpha|
+July 11, 2012: [[New York Knicks]] to [[Houston Rockets]]<ref name="rockets trade">{{cite web|url=http://www.nba.com/rockets/news/rockets-make-trades-official|title=Rockets Make Trades Official|date=July 11, 2012|work=NBA.com|access-date=May 22, 2015|archive-date=January 28, 2015|archive-url=https://web.archive.org/web/20150128073502/http://www.nba.com/rockets/news/rockets-make-trades-official|url-status=live}}</ref>
+*New York acquired [[Marcus Camby]] ([[sign and trade]])
+*Houston acquired [[Toney Douglas]], [[Josh Harrellson]], [[Jerome Jordan]], a 2014 second-round pick, ''a 2015 second-round pick'' and cash considerations
+}}
+| [[Louisville Cardinals men's basketball|Louisville]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|33
+| {{sortname|Jordan|Mickey}}
+| PF
+| {{flagu|United States}}
+| [[Boston Celtics]] <small>(from [[Philadelphia 76ers|Philadelphia]] via [[Miami Heat|Miami]])</small>{{refn|group=upper-alpha|
+June 28, 2012: [[Philadelphia 76ers]] to [[Miami Heat]]<ref>{{cite web|url=http://www.nba.com/heat/news/heat_aquire_justin_hamilton_2012_06_29.html|title=Heat Acquire Rights to Justin Hamilton|date=June 29, 2012|work=NBA.com|access-date=May 22, 2015|archive-date=September 24, 2020|archive-url=https://web.archive.org/web/20200924184931/https://www.nba.com/heat/news/heat_aquire_justin_hamilton_2012_06_29.html|url-status=live}}</ref><ref>{{cite web|url=https://www.espn.com/nba/draft2012/story/_/id/8107257/2012-nba-draft-trade-roundup-arnett-moultrie-tyler-zeller-picks-traded|title=2012 NBA draft trade roundup|date=June 30, 2012|work=ESPN.com|access-date=May 22, 2015|archive-date=May 23, 2015|archive-url=https://web.archive.org/web/20150523032959/http://espn.go.com/nba/draft2012/story/_/id/8107257/2012-nba-draft-trade-roundup-arnett-moultrie-tyler-zeller-picks-traded|url-status=live}}</ref>
+*Miami acquired draft rights to [[Justin Hamilton (basketball, born 1990)|Justin Hamilton]] and ''a conditional future first-round pick (protected top 14 in 2013–2015, else 2015 and 2016 second-round picks)''
+*Philadelphia acquired draft rights to [[Arnett Moultrie]]
+January 15, 2014: Miami Heat to [[Boston Celtics]] (three-team trade with [[Golden State Warriors]])<ref>{{cite web|url=http://www.nba.com/warriors/news/crawford-brooks-trade-20140115|title=Warriors Acquire Jordan Crawford & MarShon Brooks From Boston Celtics|date=January 15, 2014|work=NBA.com|access-date=May 22, 2015|archive-date=January 28, 2015|archive-url=https://web.archive.org/web/20150128083725/http://www.nba.com/warriors/news/crawford-brooks-trade-20140115|url-status=live}}</ref><ref>{{cite web|url=http://www.nba.com/celtics/news/press_release/celtics-acquire-anthony-draft-picks|title=Celtics Acquire Anthony, Draft Picks|date=January 15, 2014|work=NBA.com|access-date=May 22, 2015|archive-date=January 31, 2015|archive-url=https://web.archive.org/web/20150131060307/http://www.nba.com/celtics/news/press_release/celtics-acquire-anthony-draft-picks|url-status=live}}</ref>
+*Boston acquired [[Joel Anthony]], ''Philadelphia's conditional first-round pick'', a 2016 second-round pick from Miami and cash considerations
+*Miami acquired [[Toney Douglas]] from Golden State
+*Golden State acquired [[Jordan Crawford]] and [[MarShon Brooks]] from Boston
+}}
+| [[LSU Tigers basketball|LSU]] <small>([[Sophomore|So.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|34
+| {{sortname|Anthony|Brown|dab=basketball}}
+| SF
+| {{flagu|United States}}
+| [[Los Angeles Lakers]]
+| [[Stanford Cardinal men's basketball|Stanford]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|35
+| {{sortname|Willy|Hernangómez}}
+| C
+| {{ESP}}
+| [[Philadelphia 76ers]] <small>(from [[Orlando Magic|Orlando]],</small>{{refn|group=upper-alpha|
+June 26, 2014: [[Orlando Magic]] to [[Philadelphia 76ers]]<ref>{{cite web|url=http://www.nba.com/sixers/news/140626-first-round|title=Sixers Acquire Joel Embiid, Dario Saric in the First Round of the 2014 NBA Draft|date=June 27, 2014|work=NBA.com|access-date=May 22, 2015|archive-date=October 27, 2015|archive-url=https://web.archive.org/web/20151027052952/http://www.nba.com/sixers/news/140626-first-round|url-status=live}}</ref>
+*Philadelphia acquired draft rights to [[Dario Šarić]], a future first-round pick and ''a 2015 second-round pick''
+*Orlando acquired draft rights to [[Elfrid Payton (basketball)|Elfrid Payton]]
+}} <small>traded to [[New York Knicks|New York]])</small>{{refn|group=lower-alpha|
+[[New York Knicks]] and [[Philadelphia 76ers]] trade<ref>{{cite web|url=http://www.nba.com/knicks/knicks-acquire-guillermo-hernangomez|title=Knicks Acquire Guillermo Hernangomez|date=June 25, 2015|work=NBA.com|access-date=June 25, 2015|archive-date=June 28, 2015|archive-url=https://web.archive.org/web/20150628201404/http://www.nba.com/knicks/knicks-acquire-guillermo-hernangomez|url-status=live}}</ref>
+*New York acquired draft rights to 35th pick [[Willy Hernangómez]]
+*Philadelphia acquired two future second-round picks and cash considerations
+}}
+| [[CB Sevilla|Baloncesto Sevilla]] ([[Liga ACB|Spain]])
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|36
+|{{sortname|Rakeem|Christmas}}
+| PF/C
+| {{flagu|United States}}
+| [[Minnesota Timberwolves]] <small>(from [[Sacramento Kings|Sacramento]] via [[Houston Rockets|Houston]],</small>{{refn|group=upper-alpha|
+September 17, 2014: [[Sacramento Kings]] to [[Houston Rockets]]<ref>{{cite web|url=http://www.nba.com/rockets/news/rockets-acquire-jason-terry-and-2nd-round-picks|title=Rockets Acquire Jason Terry and 2nd Round Picks|date=September 17, 2014|work=NBA.com|access-date=May 22, 2015|archive-date=July 5, 2017|archive-url=https://web.archive.org/web/20170705123753/http://www.nba.com/rockets/news/rockets-acquire-jason-terry-and-2nd-round-picks/|url-status=live}}</ref>
+*Houston acquired [[Jason Terry]], ''a 2015 second-round pick'' and a 2016 second-round pick
+*Sacramento acquired [[Alonzo Gee]] and [[Scotty Hopson]]
+}}{{refn|group=upper-alpha|name=houminphi|
+December 19, 2014: [[Houston Rockets]], [[Minnesota Timberwolves]] and [[Philadelphia 76ers]] three-team trade<ref>{{cite web|url=http://www.nba.com/rockets/news/rockets-acquire-veterans-corey-brewer-and-alexey-shved-three-team-trade-timberwolves-and-76ers|title=Rockets Acquire Veterans Corey Brewer and Alexey Shved in Three-Team Trade with Timberwolves and 76ers|date=December 19, 2014|work=NBA.com|access-date=May 22, 2015|archive-date=January 15, 2016|archive-url=https://web.archive.org/web/20160115102730/http://www.nba.com/rockets/news/rockets-acquire-veterans-corey-brewer-and-alexey-shved-three-team-trade-timberwolves-and-76ers|url-status=live}}</ref>
+*Houston acquired [[Corey Brewer]] from Minnesota
+*Houston acquired [[Alexey Shved]] from Philadelphia
+*Minnesota acquired [[Troy Daniels]], ''Sacramento's 2015 second-round pick'', a 2016 second-round pick and cash considerations from Houston
+*Philadelphia acquired draft rights to [[Sergei Lishouk]] and ''a 2015 second-round pick'' from Houston
+*Philadelphia acquired [[Ronny Turiaf]] from Minnesota
+}} <small>traded to [[Cleveland Cavaliers|Cleveland]])</small><ref group=lower-alpha name=clemin/>
+| [[Syracuse Orange men's basketball|Syracuse]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|37
+| {{sortname|Richaun|Holmes}}
+| SF/PF
+| {{flagu|United States}}
+| [[Philadelphia 76ers]] <small>(from [[Denver Nuggets|Denver]] via [[Houston Rockets|Houston]], [[Portland Trail Blazers|Portland]] and [[Minnesota Timberwolves|Minnesota]])</small>{{refn|group=upper-alpha|
+February 22, 2011: [[Denver Nuggets]] to [[Minnesota Timberwolves]] (three-team trade with [[New York Knicks]])<ref>{{cite web|url=http://www.nba.com/nuggets/news/nuggets_trade_02_22_2011.html|title=Nuggets acquire five players, three picks in three-team trade|date=February 22, 2011|work=NBA.com|access-date=May 22, 2015|archive-date=November 10, 2012|archive-url=https://web.archive.org/web/20121110114049/http://www.nba.com/nuggets/news/nuggets_trade_02_22_2011.html|url-status=live}}</ref><ref>{{cite web|url=http://www.nba.com/timberwolves/news/pressrelease_Wolves_Acquire_Anthony_Randolph_2011_02_22.html|title=Wolves Acquire Anthony Randolph|date=February 22, 2011|work=NBA.com|access-date=May 22, 2015|archive-date=July 22, 2015|archive-url=https://web.archive.org/web/20150722110050/http://www.nba.com/timberwolves/news/pressrelease_Wolves_Acquire_Anthony_Randolph_2011_02_22.html|url-status=live}}</ref>
+*Minnesota acquired ''a 2015 second-round pick'' from Denver
+*Minnesota acquired [[Anthony Randolph]], [[Eddy Curry]] and cash considerations from New York
+*Denver acquired [[Kosta Koufos]] from Minnesota
+*Denver acquired [[Wilson Chandler]], [[Raymond Felton]], [[Danilo Gallinari]], [[Timofey Mozgov]], a 2014 first-round pick, 2012 and 2013 second-round picks, the option to swap 2016 first-round picks, and cash considerations from New York from New York
+*New York acquired [[Corey Brewer]] from Minnesota
+*New York acquired [[Carmelo Anthony]], [[Chauncey Billups]], [[Anthony Carter (basketball)|Anthony Carter]], [[Renaldo Balkman]] and [[Shelden Williams]] from Denver
+June 27, 2011: Minnesota Timberwolves to [[Portland Trail Blazers]]<ref>{{cite web|url=https://www.tsn.ca/nba/story/?id=370201|title=Trail Blazers deal Ngombo to Timberwolves|date=June 27, 2011|publisher=TSN.ca|access-date=May 22, 2015|archive-url=https://web.archive.org/web/20121020180730/http://www.tsn.ca/nba/story/?id=370201|archive-date=October 20, 2012}}</ref>
+*Minnesota acquired draft rights to [[Tanguy Ngombo]]
+*Portland acquired ''Denver's 2015 second-round pick''
+July 10, 2013: Portland Trail Blazers to [[Houston Rockets]]<ref>{{cite web|url=http://www.nba.com/rockets/news/rockets-acquire-papanikolaou-todorovic-and-two-future-2nd-round-picks|title=Rockets Acquire Papanikolaou, Todorovic and Two Future 2nd Round Picks|date=July 10, 2013|work=NBA.com|access-date=May 22, 2015|archive-date=February 14, 2015|archive-url=https://web.archive.org/web/20150214041732/http://www.nba.com/rockets/news/rockets-acquire-papanikolaou-todorovic-and-two-future-2nd-round-picks|url-status=live}}</ref>
+*Houston acquired draft rights to [[Kostas Papanikolaou]], draft rights to [[Marko Todorović (basketball)|Marko Todorović]], ''Denver's 2015 second-round pick'' and a 2017 second-round pick
+*Portland acquired [[Thomas Robinson (basketball)|Thomas Robinson]]
+February 19, 2015: Houston Rockets to [[Philadelphia 76ers]]<ref>{{cite web|url=http://www.nba.com/rockets/news/rockets-acquire-k.j.-mcdaniels-and-pablo-prigioni|title=Rockets Acquire K.J. McDaniels and Pablo Prigioni|date=February 19, 2015|work=NBA.com|access-date=May 22, 2015|archive-date=April 23, 2015|archive-url=https://web.archive.org/web/20150423190924/http://www.nba.com/rockets/news/rockets-acquire-k.j.-mcdaniels-and-pablo-prigioni|url-status=live}}</ref>
+*Philadelphia acquired [[Isaiah Canaan]] and ''Denver's 2015 second-round pick''
+*Houston acquired [[K. J. McDaniels]]
+}}
+| [[Bowling Green Falcons men's basketball|Bowling Green]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|38
+|{{sortname|Darrun|Hilliard}}
+| SG
+| {{flagu|United States}}
+| [[Detroit Pistons]]
+| [[Villanova Wildcats men's basketball|Villanova]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|39
+| style="background:silver;"| {{sortname|Juan Pablo|Vaulet}}<sup>#</sup>
+| SF
+| {{ARG}}
+| [[Charlotte Hornets]] <small>(traded to [[Brooklyn Nets|Brooklyn]])</small>{{refn|group=lower-alpha|
+[[Brooklyn Nets]] and [[Charlotte Hornets]] trade<ref>{{cite web|url=http://www.nba.com/nets/nets-acquire-four-new-players-draft-night|title=Nets Acquire Four New Players on Draft Night|date=June 26, 2015|work=NBA.com|access-date=June 26, 2015|archive-date=June 28, 2015|archive-url=https://web.archive.org/web/20150628174353/http://www.nba.com/nets/nets-acquire-four-new-players-draft-night|url-status=live}}</ref>
+*Brooklyn acquired draft rights to 39th pick [[Juan Pablo Vaulet]]
+*Charlotte acquired a 2018 second-round pick, a 2019 second-round pick, and cash considerations
+}}
+| [[Estudiantes de Bahía Blanca|Estudiantes de Bahía]] ([[Liga Nacional de Básquet|Argentina]])
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|40
+|{{sortname|Josh|Richardson}}
+| SG
+| {{flagu|United States}}
+| [[Miami Heat]]
+| [[Tennessee Volunteers basketball|Tennessee]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|41
+| {{sortname|Pat|Connaughton}}
+| SG
+| {{flagu|United States}}
+| [[Brooklyn Nets]]{{refn|group=upper-alpha|
+December 22, 2011: [[New Jersey Nets]] (now Brooklyn Nets) to [[Utah Jazz]]<ref>{{cite web|url=http://www.nba.com/nets/news/Okur_Trade_Release_111222.html|title=Nets Acquire Mehmet Okur|date=December 22, 2011|work=NBA.com|access-date=May 22, 2015|archive-date=October 24, 2015|archive-url=https://web.archive.org/web/20151024105552/http://www.nba.com/nets/news/Okur_Trade_Release_111222.html|url-status=live}}</ref>
+*Utah acquired ''a 2015 second-round pick''
+*New Jersey acquired [[Mehmet Okur]]
+June 27, 2013: Utah Jazz to [[Atlanta Hawks]]<ref>{{cite web|url=http://www.nba.com/jazz/news/jazz-acquires-draft-rights-raul-neto-atlanta|title=Jazz Acquires Draft Rights to Raul Neto from Atlanta|date=June 27, 2013|work=NBA.com|access-date=May 22, 2015|archive-date=September 24, 2020|archive-url=https://web.archive.org/web/20200924181806/https://www.nba.com/jazz/news/jazz-acquires-draft-rights-raul-neto-atlanta|url-status=live}}</ref>
+*Atlanta acquired ''Brooklyn's 2015 second-round pick''
+*Utah acquired draft rights to [[Raulzinho Neto]]
+June 26, 2014: Atlanta Hawks to [[Milwaukee Bucks]]<ref>{{cite web|url=http://www.nba.com/hawks/news/hawks-trade-get-lamar-patterson|title=Hawks Trade To Get Lamar Patterson|date=June 27, 2014|work=NBA.com|access-date=May 22, 2015|archive-date=November 22, 2015|archive-url=https://web.archive.org/web/20151122163026/http://www.nba.com/hawks/news/hawks-trade-get-lamar-patterson|url-status=live}}</ref>
+*Milwaukee acquired ''Brooklyn's 2015 second-round pick''
+*Atlanta acquired draft rights to [[Lamar Patterson]]
+June 30, 2014: Milwaukee Bucks to Brooklyn Nets<ref>{{cite web|url=http://www.nba.com/bucks/release/bucks-complete-trade-nets-reach-agreement-kidd-become-head-coach|title=Bucks Reach Agreement with Jason Kidd to Become New Head Coach|date=July 1, 2014|work=NBA.com|access-date=May 22, 2015|archive-date=July 2, 2014|archive-url=https://web.archive.org/web/20140702065402/http://www.nba.com/bucks/release/bucks-complete-trade-nets-reach-agreement-kidd-become-head-coach|url-status=live}}</ref>
+*Brooklyn re-acquired ''their 2015 second-round pick'' and also acquired a 2019 second round pick as a compensation for allowing Milwaukee to hire [[Jason Kidd]] as a head coach
+}} <small>(traded to [[Portland Trail Blazers|Portland]])</small><ref group=lower-alpha name=porbkn/>
+| [[Notre Dame Fighting Irish men's basketball|Notre Dame]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|42
+| style="background:silver;"| {{sortname|Olivier|Hanlan}}<sup>#</sup>
+| PG
+| {{flagu|Canada}}
+| [[Utah Jazz]]
+| [[Boston College Eagles men's basketball|Boston College]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|43
+| {{sortname|Joe|Young|dab=basketball}}
+| PG
+| {{flagu|United States}}
+| [[Indiana Pacers]]
+| [[Oregon Ducks men's basketball|Oregon]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|44
+|{{sortname|Andrew|Harrison|dab=basketball}}
+| PG
+| {{flagu|United States}}
+| [[Phoenix Suns]] <small>(traded to [[Memphis Grizzlies|Memphis]])</small>{{refn|group=lower-alpha|
+[[Memphis Grizzlies]] and [[Phoenix Suns]] trade<ref>{{cite web|url=http://www.nba.com/grizzlies/news/grizzlies-acquire-andrew-harrison-150625|title=Grizzlies acquire Draft Rights to Andrew Harrison from Suns|work=NBA.com|date=June 25, 2015|access-date=June 26, 2015|archive-date=June 28, 2015|archive-url=https://web.archive.org/web/20150628160357/http://www.nba.com/grizzlies/news/grizzlies-acquire-andrew-harrison-150625|url-status=live}}</ref>
+*Memphis acquired draft rights to 44th pick [[Andrew Harrison (basketball)|Andrew Harrison]]
+*Phoenix acquired [[Jon Leuer]]
+}}
+| [[Kentucky Wildcats men's basketball|Kentucky]] <small>([[Sophomore|So.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|45
+| style="background:silver;"| {{sortname|Marcus|Thornton|dab=basketball, born 1993}}<sup>#</sup>
+| PG
+| {{flagu|United States}}
+| [[Boston Celtics]]
+| [[William & Mary Tribe men's basketball|William & Mary]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|46
+| bgcolor="#FFCC00"|{{sortname|Norman|Powell|dab=basketball}}<sup>+</sup>
+| SG
+| {{flagu|United States}}
+| [[Milwaukee Bucks]] <small>(traded to [[Toronto Raptors|Toronto]])</small>{{refn|group=lower-alpha|
+[[Toronto Raptors]] and [[Milwaukee Bucks]] trade<ref>{{cite web|url=http://www.nba.com/raptors/press-releases/wright-powell-062515|title=Raptors Tab Wright With 20th Pick, Acquire Future First-Round Pick & Rights To Norman Powell From Bucks|date=June 26, 2015|work=NBA.com|access-date=June 26, 2015|archive-date=October 15, 2018|archive-url=https://web.archive.org/web/20181015114723/https://www.nba.com/raptors/press-releases/wright-powell-062515|url-status=live}}</ref>
+*Toronto acquired draft rights to 46th pick [[Norman Powell (basketball)|Norman Powell]] and a conditional 2017 first-round pick
+*Milwaukee acquired [[Greivis Vásquez]]
+}}
+| [[UCLA Bruins men's basketball|UCLA]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|47
+| style="background:silver;"| {{sortname|Artūras|Gudaitis}}<sup>#</sup>
+| C
+| {{LTU}}
+| [[Philadelphia 76ers]] <small>(from [[New Orleans Pelicans|New Orleans]] via [[Washington Wizards|Washington]] and [[Los Angeles Clippers|L.A. Clippers]])</small>{{refn|group=upper-alpha|
+December 14, 2011: [[New Orleans Hornets]] (now New Orleans Pelicans) to [[Los Angeles Clippers]]<ref>{{cite web|url=http://www.nba.com/clippers/news/breaking-news-111214.html|title=Clippers Acquire Four-time All-Star Chris Paul|date=December 14, 2011|work=NBA.com|access-date=May 22, 2015|archive-date=January 4, 2012|archive-url=https://web.archive.org/web/20120104145218/http://www.nba.com/clippers/news/breaking-news-111214.html|url-status=live}}</ref>
+*L.A. Clippers acquired [[Chris Paul]], ''a 2015 second-round pick'' and a future second-round pick
+*New Orleans acquired [[Eric Gordon]], [[Chris Kaman]], [[Al-Farouq Aminu]], and a 2012 first-round pick
+March 15, 2012: Los Angeles Clippers to [[Washington Wizards]] (three-team trade with [[Denver Nuggets]])<ref>{{cite web|url=http://www.nba.com/clippers/news/clippers-acquire-nick-young-from-wizards-120315.html|title=Clippers Acquire Nick Young from Wizards as Part of Three-Team Trade|date=March 15, 2012|work=NBA.com|access-date=May 22, 2015|archive-date=October 24, 2015|archive-url=https://web.archive.org/web/20151024105554/http://www.nba.com/clippers/news/clippers-acquire-nick-young-from-wizards-120315.html|url-status=live}}</ref>
+*Washington acquired [[Brian Cook (basketball)|Brian Cook]] and ''New Orleans' 2015 second-round pick'' from L.A. Clippers
+*Washington acquired [[Nenê]] from Denver
+*L.A. Clippers acquired [[Nick Young (basketball)|Nick Young]] from Washington
+*Denver acquired [[JaVale McGee]] and [[Ronny Turiaf]] from Washington
+February 20, 2014: Washington Wizards to [[Philadelphia 76ers]] (three-team trade with [[Denver Nuggets]])<ref>{{cite web|url=http://www.nba.com/sixers/news/sixers-acquire-two-future-second-round-picks-part-three-team-trade|title=Sixers Acquire Two Future Second-Round Picks as Part of Three Team Trade|date=February 20, 2014|work=NBA.com|access-date=May 22, 2015|archive-date=April 30, 2015|archive-url=https://web.archive.org/web/20150430034549/http://www.nba.com/sixers/news/sixers-acquire-two-future-second-round-picks-part-three-team-trade|url-status=live}}</ref><ref>{{cite web|url=http://www.nba.com/nuggets/news/denver-nuggets-acquire-jan-vesely-washington|title=Denver Nuggets Acquire Jan Vesely From Washington|date=February 20, 2014|work=NBA.com|access-date=May 22, 2015|archive-date=October 24, 2015|archive-url=https://web.archive.org/web/20151024095127/http://www.nba.com/nuggets/news/denver-nuggets-acquire-jan-vesely-washington|url-status=live}}</ref>
+*Philadelphia acquired [[Eric Maynor]] and ''New Orleans' 2015 second-round pick'' from Washington
+*Philadelphia acquired a 2016 second-round pick from Denver
+*Washington acquired a conditional 2014 second-round pick from Philadelphia
+*Washington acquired [[Andre Miller]] from Denver
+*Denver acquired [[Jan Veselý]] from Washington
+}}
+| [[BC Žalgiris|Žalgiris Kaunas]] ([[Lietuvos krepšinio lyga|Lithuania]])
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|48
+|{{sortname|Dakari|Johnson}}
+| C
+| {{flagu|United States}}
+| [[Oklahoma City Thunder]]
+| [[Kentucky Wildcats men's basketball|Kentucky]] <small>([[Sophomore|So.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|49
+| style="background:silver;"| {{sortname|Aaron|White|dab=basketball}}<sup>#</sup>
+| PF
+| {{flagu|United States}}
+| [[Washington Wizards]]
+| [[Iowa Hawkeyes men's basketball|Iowa]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|50
+| style="background:silver;"| {{sortname|Marcus|Eriksson|dab=basketball}}<sup>#</sup>
+| SG
+| {{SWE}}
+| [[Atlanta Hawks]] <small>(from [[Toronto Raptors|Toronto]])</small>{{refn|group=upper-alpha|
+June 30, 2014: [[Toronto Raptors]] to [[Atlanta Hawks]]<ref>{{cite web|url=http://www.nba.com/hawks/hawks-acquire-second-round-pick-and-salmons-toronto|title=Hawks Acquire 2015 Second Round Pick and Salmons from Toronto|date=June 30, 2014|work=NBA.com|access-date=May 23, 2015|archive-date=May 31, 2020|archive-url=https://web.archive.org/web/20200531083735/https://www.nba.com/hawks/hawks-acquire-second-round-pick-and-salmons-toronto|url-status=live}}</ref>
+*Atlanta acquired [[John Salmons]] and ''a 2015 second-round pick''
+*Toronto acquired [[Lou Williams|Louis Williams]] and draft rights to [[Lucas Nogueira]]
+}}
+| [[FC Barcelona Bàsquet|FC Barcelona]] ([[Liga ACB|Spain]])
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|51
+| style="background:silver;"| {{sortname|Tyler|Harvey|dab=basketball}}<sup>#</sup>
+| PG
+| {{flagu|United States}}
+| [[Orlando Magic]] <small>(from [[Chicago Bulls|Chicago]])</small>{{refn|group=upper-alpha|
+July 14, 2014: [[Chicago Bulls]] to [[Orlando Magic]]<ref>{{cite web|url=http://www.nba.com/magic/orlando-acquires-two-second-round-picks-chicago|title=Orlando Acquires Two Second Round Picks From Chicago|date=July 14, 2014|work=NBA.com|access-date=May 23, 2015|archive-date=December 30, 2014|archive-url=https://web.archive.org/web/20141230011333/http://www.nba.com/magic/orlando-acquires-two-second-round-picks-chicago|url-status=live}}</ref>
+*Orlando acquired [[Anthony Randolph]], ''a 2015 second-round pick'', a 2016 second-round pick and cash considerations
+*Chicago acquired draft rights to [[Milovan Raković]]
+}}
+| [[Eastern Washington Eagles men's basketball|Eastern Washington]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|52
+| style="background:silver;"| {{sortname|Satnam|Singh}}<sup>#</sup>
+| C
+| {{IND}}
+| [[Dallas Mavericks]]
+| [[IMG Academies|IMG Academy]] <small>([[Bradenton, Florida]]; [[High school (North America)|HS]][[Postgraduate year|Pg.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|53
+| style="background:silver;"| {{sortname|Sir'Dominic|Pointer}}<sup>#</sup>
+| SF
+| {{flagu|United States}}
+| [[Cleveland Cavaliers]] <small>(from [[Portland Trail Blazers|Portland]] via [[Chicago Bulls|Chicago]] and [[Denver Nuggets|Denver]])</small>{{refn|group=upper-alpha|
+June 27, 2013: [[Portland Trail Blazers]] to [[Cleveland Cavaliers]]<ref>{{cite web|url=http://www.nba.com/cavaliers/releases/bennett-karasav-130627|title=Cavaliers Select Bennett and Karasev in the First Round of the 2013 NBA Draft|date=June 27, 2013|work=NBA.com|access-date=May 23, 2015|archive-date=December 18, 2014|archive-url=https://web.archive.org/web/20141218105256/http://www.nba.com/cavaliers/releases/bennett-karasav-130627|url-status=live}}</ref>
+*Portland acquired draft rights to [[Allen Crabbe]]
+*Cleveland acquired ''a 2015 second-round pick'' and a 2016 second-round pick
+January 6, 2014: Cleveland Cavaliers to [[Chicago Bulls]]<ref>{{cite web|url=http://www.nba.com/bulls/news/bulls-acquire-multiple-draft-picks-deng.html|title=Bulls Acquire Multiple Draft Picks for Deng|date=January 7, 2014|work=NBA.com|access-date=May 23, 2015|archive-date=June 22, 2018|archive-url=https://web.archive.org/web/20180622222043/https://www.nba.com/bulls/news/bulls-acquire-multiple-draft-picks-deng.html|url-status=live}}</ref>
+*Cleveland acquired [[Luol Deng]]
+*Chicago acquired [[Andrew Bynum]], [[Sacramento Kings|Sacramento's]] conditional first-round pick, the option to swap 2015 first-round picks, ''Portland's 2015 second-round pick'' and Portland's 2016 second-round pick
+June 26, 2014: Chicago Bulls to [[Denver Nuggets]]<ref>{{cite web|url=http://www.nba.com/nuggets/news/nuggets-get-gary-harris-jusuf-nurkic-first-round-2014-nba-draft|title=Nuggets get Gary Harris, Jusuf Nurkic in first round of 2014 NBA Draft|date=June 26, 2014|work=NBA.com|access-date=May 23, 2015|archive-date=January 14, 2015|archive-url=https://web.archive.org/web/20150114002701/http://www.nba.com/nuggets/news/nuggets-get-gary-harris-jusuf-nurkic-first-round-2014-nba-draft|url-status=live}}</ref>
+*Chicago acquired [[Anthony Randolph]] and draft rights to [[Doug McDermott]]
+*Denver acquired draft rights to [[Jusuf Nurkić]], draft rights to [[Gary Harris]] and ''Portland's 2015 second-round pick''
+January 7, 2015: Denver Nuggets to Cleveland Cavaliers<ref>{{cite web|url=http://www.nba.com/cavaliers/releases/mozgov-trade-150107|title=Cavs Acquire Timofey Mozgov|date=January 7, 2015|work=NBA.com|access-date=May 23, 2015|archive-date=December 27, 2017|archive-url=https://web.archive.org/web/20171227045152/http://www.nba.com/cavaliers/releases/mozgov-trade-150107|url-status=live}}</ref>
+*Cleveland acquired [[Timofey Mozgov]] and ''Portland's 2015 second-round pick''
+*Denver acquired two conditional first-round picks
+}}
+| [[St. John's Red Storm men's basketball|St. John's]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|54
+| style="background:silver;"| {{sortname|Dani|Díez}}<sup>#</sup>
+| SF
+| {{flagu|Spain}}
+| [[Utah Jazz]] <small>(from [[Cleveland Cavaliers|Cleveland]],</small>{{refn|group=upper-alpha|
+July 22, 2014: [[Cleveland Cavaliers]] to [[Utah Jazz]]<ref>{{cite web|url=http://www.nba.com/cavaliers/releases/cavaliers-trade-140722|title=Cavaliers Acquire John Lucas III, Malcolm Thomas and Erik Murphy from Utah|date=July 22, 2014|work=NBA.com|access-date=May 23, 2015|archive-date=May 11, 2015|archive-url=https://web.archive.org/web/20150511034948/http://www.nba.com/cavaliers/releases/cavaliers-trade-140722|url-status=live}}</ref>
+*Utah acquired [[Carrick Felix]], ''a 2015 second-round pick'' and cash considerations
+*Cleveland acquired [[John Lucas III]], [[Malcolm Thomas (basketball, born 1988)|Malcolm Thomas]] and [[Erik Murphy]]
+}} <small>traded to [[Portland Trail Blazers|Portland]])</small>{{refn|group=lower-alpha|
+[[Portland Trail Blazers]] and [[Utah Jazz]] trade<ref>{{cite web|url=http://www.nba.com/blazers/trail-blazers-acquire-draft-rights-daniel-diez|title=Trail Blazers Acquire Draft Rights to Daniel Diez|date=June 25, 2015|work=NBA.com|access-date=June 26, 2015|archive-date=June 28, 2015|archive-url=https://web.archive.org/web/20150628173057/http://www.nba.com/blazers/trail-blazers-acquire-draft-rights-daniel-diez|url-status=live}}</ref>
+*Portland acquired draft rights to 54th pick [[Dani Díez]]
+*Utah acquired cash considerations
+}}
+| [[San Sebastián Gipuzkoa BC|Gipuzkoa Basket]] ([[Liga ACB|Spain]])
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|55
+| style="background:silver;"| {{sortname|Cady|Lalanne}}<sup>#</sup>
+| PF
+| {{HAI}}
+| [[San Antonio Spurs]]
+| [[UMass Minutemen basketball|Massachusetts]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|56
+|{{sortname|Branden|Dawson}}
+| SF
+| {{flagu|United States}}
+| [[New Orleans Pelicans]] <small>(from [[Memphis Grizzlies|Memphis]]</small>{{refn|group=upper-alpha|
+January 12, 2015: [[Memphis Grizzlies]] to [[New Orleans Pelicans]] (three-team trade with [[Boston Celtics]])<ref>{{cite web|url=http://www.nba.com/grizzlies/news/grizzlies-acquire-green-smith-three-team-trade-150112|title=Memphis Grizzlies acquire Jeff Green and Russ Smith in three-team trade with Boston Celtics and New Orleans Pelicans|date=January 12, 2015|work=NBA.com|access-date=May 23, 2015|archive-date=April 23, 2015|archive-url=https://web.archive.org/web/20150423214724/http://www.nba.com/grizzlies/news/grizzlies-acquire-green-smith-three-team-trade-150112|url-status=live}}</ref>
+*New Orleans acquired [[Quincy Pondexter]] and ''a 2015 second-round pick'' from Memphis
+*Memphis acquired [[Russ Smith (basketball)|Russ Smith]] from New Orleans
+*Memphis acquired [[Jeff Green (basketball)|Jeff Green]] from Boston
+*Boston acquired [[Tayshaun Prince]] and a conditional first-round pick from Memphis
+*Boston acquired [[Austin Rivers]] from New Orleans
+}}, <small>traded to [[Los Angeles Clippers|L.A. Clippers]])</small>{{refn|group=lower-alpha|
+[[New Orleans Pelicans]] and [[Los Angeles Clippers]] trade<ref>{{cite web|url=http://www.nba.com/clippers/press-release-2015-nba-draft|title=Clippers Acquire Rights to Branden Dawson|date=June 25, 2015|work=NBA.com|access-date=June 25, 2015|archive-date=June 28, 2015|archive-url=https://web.archive.org/web/20150628193011/http://www.nba.com/clippers/press-release-2015-nba-draft|url-status=live}}</ref>
+*L.A. Clippers acquired draft rights to 56th pick [[Branden Dawson]]
+*New Orleans acquired cash considerations
+}}
+| [[Michigan State Spartans men's basketball|Michigan State]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|57
+| style="background:silver;"| {{sortname|Nikola|Radičević}}<sup>#</sup>
+| PG
+| {{SRB}}
+| [[Denver Nuggets]] <small>(from [[Los Angeles Clippers|L.A. Clippers]])</small>{{refn|group=upper-alpha|
+January 5, 2009: [[Los Angeles Clippers]] to [[Denver Nuggets]]<ref>{{cite web|url=http://www.nba.com/clippers/news/samb_acquired_090105.html|title=Clippers Acquire Cheikh Samb From Denver Nuggets|date=January 5, 2009|work=NBA.com|access-date=May 23, 2015|archive-date=October 24, 2015|archive-url=https://web.archive.org/web/20151024105606/http://www.nba.com/clippers/news/samb_acquired_090105.html|url-status=live}}</ref>
+*Denver acquired ''a future second-round pick''
+*L.A. Clippers acquired [[Cheikh Samb]] and cash considerations
+}}
+| [[CB Sevilla|Baloncesto Sevilla]] ([[Liga ACB|Spain]])
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|58
+| style="background:silver;"| {{sortname|J. P.|Tokoto}}<sup>#</sup>
+| SG/SF
+| {{flagu|United States}}
+| [[Philadelphia 76ers]] <small>(from [[Houston Rockets|Houston]])</small><ref group=upper-alpha name=houminphi/>
+| [[North Carolina Tar Heels men's basketball|North Carolina]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|59
+| style="background:silver;"| {{sortname|Dimitrios|Agravanis}}<sup>#</sup>
+| PF
+| {{GRE}}
+| [[Atlanta Hawks]]
+| [[Olympiacos B.C.|Olympiacos]] ([[Greek Basket League|Greece]])
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|60
+| style="background:silver;"| {{sortname|Luka|Mitrović}}<sup>#</sup>
+| PF
+| {{SRB}}
+| [[Philadelphia 76ers]] <small>(from [[Golden State Warriors|Golden State]] via [[Indiana Pacers|Indiana]])</small>{{refn|group=upper-alpha|
+December 19, 2011: [[Golden State Warriors]] to [[Indiana Pacers]]<ref>{{cite web|url=http://www.nba.com/pacers/news/pacers_acquire_amundson_from_golden_state_for_brandon_rush_2011_12_19.html|title=Pacers Acquire Amundson from Golden State|date=December 19, 2011|work=NBA.com|access-date=May 23, 2015|archive-date=January 9, 2012|archive-url=https://web.archive.org/web/20120109003659/http://www.nba.com/pacers/news/pacers_acquire_amundson_from_golden_state_for_brandon_rush_2011_12_19.html|url-status=live}}</ref><ref>{{cite web|url=https://www.basketball-reference.com/players/r/rushbr01.html|title=Brandon Rush NBA Stats|publisher=Basketball-Reference.com|access-date=May 23, 2015|archive-date=May 10, 2015|archive-url=https://web.archive.org/web/20150510045729/http://www.basketball-reference.com/players/r/rushbr01.html|url-status=live}}</ref>
+*Indiana acquired [[Louis Amundson]] and ''a second-round pick''
+*Golden State acquired [[Brandon Rush]]
+February 20, 2014: Indiana Pacers to [[Philadelphia 76ers]]<ref>{{cite web|url=http://www.nba.com/sixers/news/140220-granger-trade|title=Sixers Trade Evan Turner and Lavoy Allen to Indiana for Danny Granger and Future Second-round Pick|date=February 20, 2014|work=NBA.com|access-date=May 23, 2015|archive-date=October 24, 2015|archive-url=https://web.archive.org/web/20151024105607/http://www.nba.com/sixers/news/140220-granger-trade|url-status=live}}</ref>
+*Philadelphia acquired [[Danny Granger]] and ''Golden State's 2015 second-round pick''
+*Indiana acquired [[Evan Turner]] and [[Lavoy Allen]]
+}}
+| [[KK Crvena zvezda|Red Star Belgrade]] ([[Basketball League of Serbia|Serbia]])
+|}
+
+==Notable undrafted players==
+{{further|List of undrafted NBA players}}
+These players were not selected in the 2015 NBA draft, but have appeared in at least one regular-season or playoff game in the NBA.
+{| class="wikitable sortable"
+|-
+!style="width:19%;"| Player
+!style="width:1%;"| Pos.
+!style="width:16%;"| Nationality
+!style="width:20%;"| School/club team
+|-
+|{{sortname|Cliff|Alexander}}
+|PF
+|{{flagu|United States}}
+|[[Kansas Jayhawks men's basketball|Kansas]] <small>([[Freshman|Fr.]])</small>
+|-
+|{{sortname|Nicolás|Brussino}}
+|SF/SG
+|{{flagu|Argentina}}{{refn|group=n|Brussino holds dual Argentinian and Italian citizenship. He plays for the [[Argentina men's national basketball team|Argentina national basketball team]].}}
+|[[Regatas Corrientes]] <small>([[Liga Nacional de Básquet|Argentina]])</small>
+|-
+|{{sortname|Quinn|Cook}}
+|PG
+|{{flagu|United States}}
+|[[Duke Blue Devils men's basketball|Duke]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|Bryce|Dejean-Jones}}
+|SG
+|{{flagu|United States}}
+|[[Iowa State Cyclones men's basketball|Iowa State]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|Duje|Dukan}}
+|PF
+|{{CRO}}{{refn|group=n|Dukan was born in Croatia and raised in the United States. Holding dual citizenship, he plays for the [[Croatia men's national basketball team|Croatia national basketball team]].}}
+|[[Wisconsin Badgers men's basketball|Wisconsin]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|Michael|Frazier II}}
+|SG
+|{{flagu|United States}}
+|[[Florida Gators men's basketball|Florida]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+|{{sortname|Treveon|Graham}}
+|SG
+|{{flagu|United States}}
+|[[VCU Rams men's basketball|VCU]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|Javonte|Green}}
+|SF/SG
+|{{flagu|United States}}
+|[[Radford Highlanders men's basketball|Radford]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|Aaron|Harrison}}
+|SG
+|{{flagu|United States}}
+|[[Kentucky Wildcats men's basketball|Kentucky]] <small>([[Sophomore|So.]])</small>
+|-
+|{{sortname|William|Howard|dab=basketball}}
+|SG
+|{{FRA}}
+|[[Denain Voltaire Basket|Denain Voltaire]] <small>([[LNB Pro B|France]])</small>
+|-
+|{{sortname|Vince|Hunter}}
+|SF
+|{{flagu|United States}}
+|[[UTEP Miners basketball|UTEP]] <small>([[Sophomore|So.]])</small>
+|-
+|{{sortname|Stanton|Kidd}}
+|SF
+|{{flagu|United States}}
+|[[Colorado State Rams men's basketball|Colorado State]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|T. J.|McConnell}}
+|PG
+|{{flagu|United States}}
+|[[Arizona Wildcats men's basketball|Arizona]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|Alfonzo|McKinnie}}
+|SF
+|{{flagu|United States}}
+|[[Green Bay Phoenix men's basketball|Green Bay]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|Malcolm|Miller|dab=basketball}}
+|SF
+|{{flagu|United States}}
+|[[Holy Cross Crusaders men's basketball|Holy Cross]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|Luis|Montero}}
+|SG
+|{{DOM}}
+|[[Westchester Community College|Westchester CC]] <small>([[Sophomore|So.]])</small>
+|-
+|{{sortname|Maurice|Ndour}}
+|PF
+|{{SEN}}
+|[[Ohio Bobcats men's basketball|Ohio]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|J. J.|O'Brien}}
+|SF/SG
+|{{flagu|United States}}
+|[[San Diego State Aztecs men's basketball|San Diego State]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|Royce|O'Neale}}
+|SF
+|{{flagu|United States}}
+|[[Baylor Bears basketball|Baylor]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|Kevin|Pangos}}
+|PG
+|{{flagu|Canada}}{{refn|group=n|Pangos was born in Canada and is of Slovenian descent. He holds dual citizenship and plays for the [[Canada men's national basketball team|Canada national basketball team]].}}
+|[[Gonzaga Bulldogs men's basketball|Gonzaga]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|Vincent|Poirier}}
+|C
+|{{flagu|France}}
+|[[Levallois Metropolitans|Paris-Levallois]] <small>([[LNB Pro A|France]])</small>
+|-
+|{{sortname|Chasson|Randle}}
+|PG
+|{{flagu|United States}}
+|[[Stanford Cardinal men's basketball|Stanford]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|Jordan|Sibert}}
+|SG
+|{{flagu|United States}}
+|[[Dayton Flyers men's basketball|Dayton]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|Keifer|Sykes}}
+|PG
+|{{flagu|United States}}
+|[[Green Bay Phoenix men's basketball|Green Bay]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|Juan|Toscano-Anderson}}
+|SF
+|{{MEX}}{{refn|group=n|Toscano-Anderson was born in the United States and is of Mexican descent. He holds dual citizenship and plays for the [[Mexico men's national basketball team|Mexico national basketball team]].}}
+|[[Marquette Golden Eagles men's basketball|Marquette]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|Julian|Washburn}}
+|SF
+|{{flagu|United States}}
+|[[UTEP Miners men's basketball|UTEP]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|Brianté|Weber}}
+|PG
+|{{flagu|United States}}
+|[[VCU Rams men's basketball|VCU]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|Greg|Whittington}}
+|PF
+|{{flagu|United States}}
+|[[Georgetown Hoyas men's basketball|Georgetown]] <small>([[Sophomore|So.]])</small>
+|-
+|{{sortname|Alan|Williams|dab=basketball}}
+|C/F
+|{{flagu|United States}}
+|[[UC Santa Barbara Gauchos men's basketball|UC Santa Barbara]] <small>([[Senior (education)|Sr.]])</small>
+|-
+|{{sortname|Christian|Wood}}
+|PF
+|{{flagu|United States}}
+|[[UNLV Runnin' Rebels men's basketball|UNLV]] <small>([[Sophomore|So.]])</small>
+|}
+
+==Eligibility and entrants==
+{{main|Eligibility for the NBA draft}}
+The draft was conducted under the eligibility rules established in the league's new 2011 [[NBA Collective Bargaining Agreement|collective bargaining agreement]] (CBA) with its players union. The CBA that ended the [[2011 NBA lockout|2011 lockout]] instituted no immediate changes to the draft, but called for a committee of owners and players to discuss future changes.<ref name="2011 status quo">{{cite web|url=https://www.usatoday.com/sports/basketball/nba/story/2011-12-07/hunters-memo-to-players-details-nba-cba/51722458/1|title=Hunter's memo to players details NBA CBA|first=Jeff|last=Zillgit|work=USA Today|date=December 7, 2011|access-date=December 12, 2011|archive-date=December 9, 2011|archive-url=https://web.archive.org/web/20111209061854/http://www.usatoday.com/sports/basketball/nba/story/2011-12-07/hunters-memo-to-players-details-nba-cba/51722458/1|url-status=dead}}</ref> Since the 2011 CBA, the basic eligibility rules have been:
+* All drafted players must be at least 19 years old during the calendar year of the draft. In terms of dates, players eligible for the 2015 draft must be born on or before December 31, 1996.<ref name="CBA Age">{{cite web|url=http://www.nbpa.com/cba_articles/article-X.php |title=Article X, Section 1(b)(i) |work=2005 NBA Collective Bargaining Agreement |publisher=National Basketball Players Association |access-date=April 17, 2008 |archive-url=https://web.archive.org/web/20080227065646/http://www.nbpa.com/cba_articles/article-X.php |archive-date=February 27, 2008 |url-status=dead |df=mdy }}</ref>
+* Any player who is not an "international player", as defined in the CBA, must be at least one year removed from the graduation of his high school class.<ref name="CBA Age"/> The CBA defines "international players" as players who permanently resided outside the United States for three years prior to the draft, did not complete high school in the U.S., and have never enrolled at a U.S. college or university.<ref name="CBA International">{{cite web|url=http://www.nbpa.com/cba_articles/article-X.php |title=Article X, Section 1(c) |work=2005 NBA Collective Bargaining Agreement |publisher=National Basketball Players Association |access-date=April 17, 2008 |archive-url=https://web.archive.org/web/20090621100158/http://www.nbpa.com/cba_articles/article-X.php |archive-date=June 21, 2009 |url-status=dead |df=mdy }}</ref>
+
+===Early entrants===
+Player who are not automatically eligible must declare their eligibility for the draft by notifying the NBA offices in writing no later than 60 days before the draft.<ref name="CBA US Early Entry">{{cite web|url=http://www.nbpa.com/cba_articles/article-X.php |title=Article X, Section 1(b)(ii)(F) |work=2005 NBA Collective Bargaining Agreement |publisher=National Basketball Players Association |access-date=April 17, 2008 |archive-url=https://web.archive.org/web/20080227065646/http://www.nbpa.com/cba_articles/article-X.php |archive-date=February 27, 2008 |url-status=dead |df=mdy }} (non-international players)</ref><ref name="CBA International Early Entry">{{cite web|url=http://www.nbpa.com/cba_articles/article-X.php |title=Article X, Section 1(b)(ii)(G)(3) |work=2005 NBA Collective Bargaining Agreement |publisher=National Basketball Players Association |access-date=April 17, 2008 |archive-url=https://web.archive.org/web/20080227065646/http://www.nbpa.com/cba_articles/article-X.php |archive-date=February 27, 2008 |url-status=dead |df=mdy }} (international players)</ref> For the 2015 draft, this date fell on April 26. After this date, "early entry" players may attend NBA pre-draft camps and individual team workouts to show off their skills and obtain feedback regarding their draft positions. Under the CBA, a player may withdraw his name from consideration from the draft at any time before the final declaration date, which is 10 days before the draft.<ref name="CBA Withdrawal">{{cite web|url=http://www.nbpa.com/cba_articles/article-X.php#section8 |title=Article X, Section 8(c) |work= 2005 NBA Collective Bargaining Agreement |publisher=National Basketball Players Association |archive-url=https://web.archive.org/web/20081012213218/http://www.nbpa.org/cba_articles/article-X.php |archive-date=October 12, 2008}}</ref> Under NCAA rules at that time, players only had until April 16<!--The NCAA bylaw specifies this exact calendar date.--> to withdraw from the draft and maintain their college eligibility.<ref name="NCAA withdrawal">{{cite web |url=http://www.ncaapublications.com/productdownloads/D111.pdf |title=Bylaw 12.2.4.2.1.1 Exception—Basketball—Four-Year College Student-Athlete, Men's Basketball |work=2010–11 NCAA Division I Manual |publisher=National Collegiate Athletic Association |page=72 |access-date=February 2, 2011 |archive-date=October 31, 2014 |archive-url=https://web.archive.org/web/20141031233421/http://www.ncaapublications.com/productdownloads/D111.pdf |url-status=live }}</ref> In January 2016, the NCAA changed its draft withdrawal date to 10 days after the end of the annual [[NBA Draft Combine]] in May, with the [[2016 NBA draft|2016 draft]] the first to be held under the new rule.<ref name="Goodman 2016-01-13">{{cite news |url=https://www.espn.com/mens-college-basketball/story/_/id/14564613/date-nba-draft-commitment-pushed-may |title=College players given extra time to mull NBA draft decision |first=Jeff |last=Goodman |work=ESPN.com |date=January 13, 2016 |access-date=January 13, 2016 |archive-date=July 13, 2016 |archive-url=https://web.archive.org/web/20160713103619/http://espn.go.com/mens-college-basketball/story/_/id/14564613/date-nba-draft-commitment-pushed-may |url-status=live }}</ref>
+
+A player who has hired an [[sports agent|agent]] will forfeit his remaining college eligibility, regardless of whether he is drafted.<ref name="NCAA agent">{{cite web |url=http://www.ncaapublications.com/productdownloads/D111.pdf |title=Bylaw 12.3.1 Use of Agents |work=2010–11 NCAA Division I Manual |publisher=[[National Collegiate Athletic Association|NCAA]] |page=73 |access-date=February 2, 2011 |archive-date=October 31, 2014 |archive-url=https://web.archive.org/web/20141031233421/http://www.ncaapublications.com/productdownloads/D111.pdf |url-status=live }}</ref> Also, while the CBA allows a player to withdraw from the draft twice,<ref name="CBA Withdrawal"/> the NCAA then mandated that a player who declared twice lost his college eligibility.<ref name="NCAA withdrawal"/> The aforementioned 2016 NCAA rule change also allowed players to declare for more than one draft without losing college eligibility.<ref name="Goodman 2016-01-13"/>
+
+This year, a total of 48 collegiate players and 43 international players declared as early entry candidates before the April 26 deadline.<ref name="earlyentrant">{{cite web|url=http://www.nba.com/2015/news/04/28/early-entry-candidates-for-2015-draft/index.html|title=NBA announces early entry candidates for 2015 Draft|date=April 28, 2015|work=NBA.com|access-date=April 28, 2015|archive-date=May 1, 2015|archive-url=https://web.archive.org/web/20150501121930/http://www.nba.com/2015/news/04/28/early-entry-candidates-for-2015-draft/index.html|url-status=live}}</ref> On June 15, the withdrawal deadline, 34 early entry candidates withdrew from the draft and one early entry candidate is added, leaving 47 collegiate players and 11 international players as the early entry candidates for the draft.<ref name="earlyentrantwithdraw">{{cite web|url=http://www.nba.com/2015/news/06/16/thirty-four-early-entry-candidates-withdraw-from-2015-nba-draft/index.html|title=34 early entry candidates withdraw from 2015 Draft|date=June 16, 2015|work=NBA.com|access-date=June 22, 2015|archive-date=June 19, 2015|archive-url=https://web.archive.org/web/20150619160246/http://www.nba.com/2015/news/06/16/thirty-four-early-entry-candidates-withdraw-from-2015-nba-draft/index.html|url-status=live}}</ref><ref name="earlyentrantlist">{{cite news|url=http://www.sfgate.com/sports/article/NBA-Draft-Early-Entries-6331008.php|title=NBA Draft-Early Entries|date=June 16, 2015|newspaper=SFGate.com|access-date=June 22, 2015|archive-date=June 22, 2015|archive-url=https://web.archive.org/web/20150622205145/http://www.sfgate.com/sports/article/NBA-Draft-Early-Entries-6331008.php|url-status=live}}</ref>
+{{div col}}
+*{{flagicon|USA}} [[Cliff Alexander]] – F, [[Kansas Jayhawks men's basketball|Kansas]] (freshman)
+*{{flagicon|USA}} [[Justin Anderson (basketball)|Justin Anderson]] – G/F, [[Virginia Cavaliers men's basketball|Virginia]] (junior)
+*{{flagicon|USA}} [[Brandon Ashley]] – F, [[Arizona Wildcats men's basketball|Arizona]] (junior)
+*{{flagicon|USA}} [[Devin Booker]] – G, [[Kentucky Wildcats men's basketball|Kentucky]] (freshman)
+*{{flagicon|USA}} [[Willie Cauley-Stein]] – F/C, [[Kentucky Wildcats men's basketball|Kentucky]] (junior)
+*{{flagicon|USA}} [[Sam Dekker]] – F, [[Wisconsin Badgers men's basketball|Wisconsin]] (junior)
+*{{flagicon|USA}} [[Michael Frazier II]] – G, [[Florida Gators men's basketball|Florida]] (junior)
+*{{flagicon|CAN}} [[Olivier Hanlan]] – G, [[Boston College Eagles men's basketball|Boston College]] (junior)
+*{{flagicon|USA}} [[Montrezl Harrell]] – F, [[Louisville Cardinals men's basketball|Louisville]] (junior)
+*{{flagicon|USA}} [[Aaron Harrison]] – G, [[Kentucky Wildcats men's basketball|Kentucky]] (sophomore)
+*{{flagicon|USA}} [[Andrew Harrison (basketball)|Andrew Harrison]] – G, [[Kentucky Wildcats men's basketball|Kentucky]] (sophomore)
+*{{flagicon|USA}} [[Tyler Harvey (basketball)|Tyler Harvey]] – G, [[Eastern Washington Eagles men's basketball|Eastern Washington]] (junior)
+*{{flagicon|USA}} [[Rondae Hollis-Jefferson]] – F, [[Arizona Wildcats men's basketball|Arizona]] (sophomore)
+*{{flagicon|USA}} [[R.J. Hunter]] – G, [[Georgia State Panthers men's basketball|Georgia State]] (junior)
+*{{flagicon|USA}} [[Vince Hunter]] – C, [[UTEP Miners men's basketball|UTEP]] (sophomore)
+*{{flagicon|USA}} [[Charles Jackson (basketball)|Charles Jackson]] – F, [[Tennessee Tech Golden Eagles men's basketball|Tennessee Tech]] (junior)
+*{{flagicon|USA}} [[Dakari Johnson]] – C,  [[Kentucky Wildcats men's basketball|Kentucky]] (sophomore)
+*{{flagicon|USA}} [[Stanley Johnson (basketball)|Stanley Johnson]] – F, [[Arizona Wildcats men's basketball|Arizona]] (freshman)
+*{{flagicon|USA}} [[Tyus Jones]] – G, [[Duke Blue Devils men's basketball|Duke]] (freshman)
+*{{flagicon|USA}} [[Trevor Lacey]] – G, [[NC State Wolfpack men's basketball|NC State]] (junior)
+*{{flagicon|USA}} [[Kevon Looney]] – C, [[UCLA Bruins men's basketball|UCLA]] (freshman)
+*{{flagicon|USA}} [[Trey Lyles]] – F, [[Kentucky Wildcats men's basketball|Kentucky]] (freshman)
+*{{flagicon|USA}} [[Jarell Martin]] – F, [[LSU Tigers men's basketball|LSU]] (sophomore)
+*{{flagicon|USA}} [[Chris McCullough]] – F, [[Syracuse Orange men's basketball|Syracuse]] (freshman)
+*{{flagicon|USA}} [[Jordan Mickey]] – F, [[LSU Tigers men's basketball|LSU]] (sophomore)
+*{{flagicon|DOM}} [[Luis Montero]] – F, [[Westchester Community College|Westchester CC]] (sophomore)
+*{{flagicon|USA}}/{{flagicon|NGA}} [[Jahlil Okafor]] – C, [[Duke Blue Devils men's basketball|Duke]] (freshman)
+*{{flagicon|USA}} [[Kelly Oubre Jr.]] – G, [[Kansas Jayhawks men's basketball|Kansas]] (freshman)
+*{{flagicon|USA}} [[Ashton Pankey]] – F, [[Manhattan Jaspers basketball|Manhattan]] (junior)
+*{{flagicon|USA}} [[Cameron Payne]] – G, [[Murray State Racers men's basketball|Murray State]] (sophomore)
+*{{flagicon|USA}} [[Terran Petteway]] – G, [[Nebraska Cornhuskers men's basketball|Nebraska]] (junior)
+*{{flagicon|USA}} [[Bobby Portis]] – F, [[Arkansas Razorbacks men's basketball|Arkansas]] (sophomore)
+*{{flagicon|USA}} [[Michael Qualls]] – G, [[Arkansas Razorbacks men's basketball|Arkansas]] (junior)
+*{{flagicon|USA}} [[Terry Rozier]] – G, [[Louisville Cardinals men's basketball|Louisville]] (sophomore)
+*{{flagicon|USA}} [[D'Angelo Russell]] – G, [[Ohio State Buckeyes men's basketball|Ohio State]] (freshman)
+*{{flagicon|IND}} [[Satnam Singh]] – C, [[IMG Academy]] (postgraduate)<!--First player to declare straight out of high school since 2005.-->
+*{{flagicon|USA}} [[Deonta Stocks]] – G, [[West Georgia Wolves|West Georgia]] (sophomore)
+*{{flagicon|USA}} [[Jherrod Stiggers]] – G, [[Houston Cougars men's basketball|Houston]] (junior)
+*{{flagicon|USA}} [[Aaron Thomas (basketball)|Aaron Thomas]] – G, [[Florida State Seminoles men's basketball|Florida State]] (junior)
+*{{flagicon|USA}}/{{flagicon|CMR}} [[J.P. Tokoto]] – F, [[North Carolina Tar Heels men's basketball|North Carolina]] (junior)
+*{{flagicon|USA}}/{{flagicon|DOM}} [[Karl-Anthony Towns]] – C, [[Kentucky Wildcats men's basketball|Kentucky]] (freshman)
+*{{flagicon|USA}} [[Myles Turner (basketball)|Myles Turner]] – C, [[Texas Longhorns men's basketball|Texas]] (freshman)
+*{{flagicon|USA}} [[Robert Upshaw]] – C, [[Washington Huskies men's basketball|Washington]] (sophomore)
+*{{flagicon|USA}} [[Rashad Vaughn]] – G, [[UNLV Runnin' Rebels basketball|UNLV]] (freshman)
+*{{flagicon|USA}} [[Chris Walker (basketball, born 1994)|Chris Walker]] – F, [[Florida Gators men's basketball|Florida]] (sophomore)
+*{{flagicon|USA}} [[Justise Winslow]] – F, [[Duke Blue Devils men's basketball|Duke]] (freshman)
+*{{flagicon|USA}} [[Christian Wood]] – C, [[UNLV Runnin' Rebels basketball|UNLV]] (sophomore)
+{{div col end}}
+
+====International players====
+
+{{div col}}
+*{{flagicon|GRE}} [[Dimitrios Agravanis]] – F/C, [[Olympiacos B.C.|Olympiacos Piraeus]] ([[Greek Basket League|Greece]])
+*{{flagicon|ESP}} [[Willy Hernangómez]] – F/C, [[CB Sevilla|Baloncesto Sevilla]] ([[Liga ACB|Spain]])
+*{{flagicon|CRO}} [[Mario Hezonja]] – F, [[FC Barcelona Bàsquet|FC Barcelona Lassa]] ([[Liga ACB|Spain]])
+*{{flagicon|FRA}} [[Mouhammadou Jaiteh]] – C, [[JSF Nanterre]] ([[LNB Pro A|France]])
+*{{flagicon|KOR}} [[Lee Jong-hyun (basketball)|Lee Jong-hyun]] – F/C, [[Korea University]] ([[South Korea]])
+*{{flagicon|SRB}} [[Nikola Milutinov]] – C, [[KK Partizan|Partizan Belgrade]] ([[Basketball League of Serbia|Serbia]])
+*{{flagicon|TUR}} [[Cedi Osman]] – F, [[Anadolu Efes S.K.|Anadolu Efes]] ([[Turkish Basketball League|Turkey]])
+*{{flagicon|PHI}} [[Bobby Ray Parks Jr.]] – G, [[Hapee Fresh Fighters]] ([[PBA D-League]])
+*{{flagicon|LAT}} [[Kristaps Porziņģis]] – C, [[CB Sevilla|Baloncesto Sevilla]] ([[Liga ACB|Spain]])
+*{{flagicon|SRB}} [[Nikola Radičević]] – G, [[CB Sevilla|Baloncesto Sevilla]] ([[Liga ACB|Spain]])
+*{{flagicon|ARG}} [[Juan Pablo Vaulet]] – F, [[Estudiantes de Bahía Blanca|Estudiantes de Bahía]] ([[Liga Nacional de Básquet|Argentina]])
+*{{flagicon|BIH}} [[Adin Vrabac]] – F, [[TBB Trier]] ([[Basketball Bundesliga|Germany]])
+{{div col end}}
+
+===Automatically eligible entrants===
+{{Dynamic list}}
+Players who do not meet the criteria for "international" players are automatically eligible if they meet any of the following criteria:<ref name="CBA US">{{cite web|url=http://www.nbpa.com/cba_articles/article-X.php |title=Article X, Section 1(b)(ii) |work=2005 NBA Collective Bargaining Agreement |publisher=[[National Basketball Players Association]] |access-date=April 17, 2008 |archive-url=https://web.archive.org/web/20080227065646/http://www.nbpa.com/cba_articles/article-X.php |archive-date=February 27, 2008 |url-status=dead |df=mdy }}</ref>
+* They have completed 4 years of their college eligibility.
+* If they graduated from high school in the U.S., but did not enroll in a U.S. college or university, four years have passed since their high school class graduated.
+* They have signed a contract with a professional basketball team outside of the NBA, anywhere in the world, and have played under that contract.
+
+Players who meet the criteria for "international" players are automatically eligible if they meet any of the following criteria:
+* They are least 22 years old during the calendar year of the draft. In terms of dates, players born on or before December 31, 1993, are automatically eligible for the 2015 draft.<ref name="CBA International Age">{{cite web|url=http://www.nbpa.com/cba_articles/article-X.php |title=Article X, Section 1(b)(ii)(G)(1) |work=2005 NBA Collective Bargaining Agreement |publisher=[[National Basketball Players Association]] |access-date=April 17, 2008 |archive-url=https://web.archive.org/web/20080227065646/http://www.nbpa.com/cba_articles/article-X.php |archive-date=February 27, 2008 |url-status=dead |df=mdy }}</ref>
+* They have signed a contract with a professional basketball team outside of the NBA ''within the United States'', and have played under that contract.<ref name="CBA International US Contract">{{cite web|url=http://www.nbpa.com/cba_articles/article-X.php |title=Article X, Section 1(b)(ii)(G)(2) |work=2005 NBA Collective Bargaining Agreement |publisher=[[National Basketball Players Association]] |access-date=April 17, 2008 |archive-url=https://web.archive.org/web/20080227065646/http://www.nbpa.com/cba_articles/article-X.php |archive-date=February 27, 2008 |url-status=dead |df=mdy }}</ref>
+
+Based on the eligibility rules, every [[Senior (education)|college seniors]] who have completed their college eligibility and every "international" players who were born on or before December 31, 1993, are automatically eligible for the draft. However, there are other players who became automatically eligible even though they have not completed their four-year college eligibility.
+
+{| class="wikitable sortable" style="text-align:left; font-size:95%"
+|+ Other automatically eligible players
+|-
+! Player !! {{tooltip|Team|Most recent team played for before the draft}} !!class=unsortable| Note !!class=unsortable| Ref.
+|-
+| {{sortname|Isaac|Fotu}} || [[Bàsquet Manresa]] ([[Liga ACB|Spain]]) || Left college in 2014, playing professionally since 2014–15 season ||align=center| <ref>{{cite web|url=https://bleacherreport.com/articles/2480627-former-hawaii-forward-isaac-fotu-making-nba-case|title=Former Hawaii Rainbow Warriors Forward Isaac Fotu Making NBA Case|first=Jeff|last=Cheshire|date=May 29, 2015|website=The Bleacher Report|access-date=June 25, 2015|archive-date=June 26, 2015|archive-url=https://web.archive.org/web/20150626104134/http://bleacherreport.com/articles/2480627-former-hawaii-forward-isaac-fotu-making-nba-case|url-status=live}}</ref>
+|-
+| {{sortname|Jamal|Jones|dab=basketball}} || [[Delaware 87ers]] ([[NBA Development League|D-League]]) || Left college in 2014, playing professionally since 2014–15 season  ||align=center| <ref>{{cite web|url=http://basketball.realgm.com/wiretap/234482/Jamal-Jones-To-Sign-In-D-League-After-Junior-Season-At-Texas-A%26M|title=Jamal Jones To Sign In D-League After Junior Season At Texas A&M|publisher=realgm.com|date=July 31, 2014|access-date=April 17, 2015|archive-date=April 17, 2015|archive-url=https://web.archive.org/web/20150417201329/http://basketball.realgm.com/wiretap/234482/Jamal-Jones-To-Sign-In-D-League-After-Junior-Season-At-Texas-A%26M|url-status=live}}</ref><ref name="jonesthreatt">{{cite web|url=http://dleague.nba.com/news/nba-draft-dleague-prospects-jamal-jones-jarvis-threatt-pj-hairston/|title=The P.J. Hairston Effect? Jamal Jones, Jarvis Threatt Take the NBA D-League Route to NBA Draft|first=Brian|last=Kotloff|date=June 9, 2015|work=NBA.com|access-date=June 23, 2015|archive-date=June 23, 2015|archive-url=https://web.archive.org/web/20150623150123/http://dleague.nba.com/news/nba-draft-dleague-prospects-jamal-jones-jarvis-threatt-pj-hairston/|url-status=live}}</ref>
+|-
+| {{sortname|Todd|Mayo}} || [[Westchester Knicks]] ([[NBA Development League|D-League]]) || Left college in 2014, playing professionally since 2014–15 season ||align=center| <ref>{{cite web|url=http://basketball.realgm.com/wiretap/234478/Todd-Mayo-Leaving-Marquette-To-Pursue-Pro-Career|title=Todd Mayo Leaving Marquette To Pursue Pro Career|publisher=realgm.com|date=July 30, 2014|access-date=April 17, 2015|archive-date=April 17, 2015|archive-url=https://web.archive.org/web/20150417201327/http://basketball.realgm.com/wiretap/234478/Todd-Mayo-Leaving-Marquette-To-Pursue-Pro-Career|url-status=live}}</ref><ref>{{cite web|url=http://www.bigeastcoastbias.com/2015/1/19/7664237/todd-mayo-marquette-nba-d-league-westchester-knicks-feature|title=Todd Mayo looking to achieve NBA dream through the D-league|first=Kenneth|last=Garner|date=Jan 19, 2015|publisher=SB Nation — Big East Coast Bias|access-date=June 23, 2015|archive-date=June 23, 2015|archive-url=https://web.archive.org/web/20150623143126/http://www.bigeastcoastbias.com/2015/1/19/7664237/todd-mayo-marquette-nba-d-league-westchester-knicks-feature|url-status=live}}</ref>
+|-
+| {{sortname|Emmanuel|Mudiay}} || [[Guangdong Southern Tigers]] ([[Chinese Basketball Association|China]]) || Graduated from high school in 2014, playing professionally since 2014–15 season ||align=center| <ref>{{cite web|url=https://sports.yahoo.com/news/source--emmanuel-mudiay-agrees-to--1-2-million-deal-to-play-in-china-150156352.html|title=Source: Emmanuel Mudiay agrees to $1.2 million deal to play in China|publisher=yahoo.com|date=July 22, 2014|access-date=January 14, 2017|archive-date=August 20, 2016|archive-url=https://web.archive.org/web/20160820105241/http://sports.yahoo.com/news/source--emmanuel-mudiay-agrees-to--1-2-million-deal-to-play-in-china-150156352.html|url-status=live}}</ref><ref>{{cite news|url=http://www.dallasnews.com/sports/high-schools/headlines/20150620-townsend-what-will-nba-draft-hold-for-emmanuel-mudiay-after-skipping-smu-for-china.ece|title=Townsend: What will NBA draft hold for Emmanuel Mudiay after skipping SMU for China?|first=Brad|last=Townsend|date=June 20, 2015|newspaper=The Dallas Morning News|access-date=June 23, 2015|archive-date=June 22, 2015|archive-url=https://web.archive.org/web/20150622111708/http://www.dallasnews.com/sports/high-schools/headlines/20150620-townsend-what-will-nba-draft-hold-for-emmanuel-mudiay-after-skipping-smu-for-china.ece|url-status=live}}</ref>
+|-
+| {{sortname|Naadir|Tharpe}} || [[Los Angeles D-Fenders]] ([[NBA Development League|D-League]]) || Left college in 2014, playing professionally since 2014–15 season ||align=center| <ref>{{cite web|url=http://www.cbssports.com/collegebasketball/eye-on-college-basketball/24612778/former-kansas-guard-naadir-tharpe-headed-to-d-league|title=Former Kansas guard Naadir Tharpe headed to D-League|publisher=cbssports.com|date=July 9, 2014|access-date=April 10, 2015|archive-date=June 26, 2015|archive-url=https://web.archive.org/web/20150626123317/http://www.cbssports.com/collegebasketball/eye-on-college-basketball/24612778/former-kansas-guard-naadir-tharpe-headed-to-d-league|url-status=dead}}</ref>
+|-
+| {{sortname|Jarvis|Threatt}} || [[Rio Grande Valley Vipers]] ([[NBA Development League|D-League]]) || Left college in 2014, playing professionally since 2014–15 season ||align=center| <ref name="jonesthreatt"/><ref>{{cite web|url=http://collegebasketballtalk.nbcsports.com/2014/07/25/report-dismissed-delaware-guard-jarvis-threatt-turning-pro/|title=Report: Dismissed Delaware guard Jarvis Threatt turning pro|publisher=nbcsports.com|date=July 25, 2014|access-date=April 10, 2015|archive-date=April 22, 2015|archive-url=https://web.archive.org/web/20150422053429/http://collegebasketballtalk.nbcsports.com/2014/07/25/report-dismissed-delaware-guard-jarvis-threatt-turning-pro/|url-status=live}}</ref>
+|}
+
+==Combine==
+{{main|NBA Draft Combine}}
+The invitation-only [[NBA Draft Combine]] was scheduled to occur in Chicago from May 12 to 17. The on-court element of the combine was scheduled for May 14 and 15.<ref>{{cite web|url=http://www.nba.com/news/important-dates/ |title=National Basketball Association Important Dates |access-date=2015-04-28 |date=2015-01-15 |work=[[NBA.com]] |url-status=dead |archive-url=https://web.archive.org/web/20131217072729/http://www.nba.com/news/important-dates/ |archive-date=December 17, 2013 }}</ref>
+
+==Draft lottery==
+{{main|NBA draft lottery}}
+The NBA conducted an annual draft lottery to determine the draft order for the teams that did not make the playoffs in the preceding season. Every NBA team that missed the NBA playoffs had a chance at winning a top three pick, but teams with worse records had a better chance at winning a top three pick. After the lottery selected the teams that receive a top three pick, the other teams received an NBA draft pick based on their winning percentage from the prior season. The table below shows each non-playoff team's chances (based on their record at the end of the NBA season) of receiving picks 1–14.
+
+The 2015 NBA lottery was held on May 19.<ref name=nbaimportantdates>{{cite web|title=National Basketball Association Important Dates |website=[[NBA.com]] |url=http://www.nba.com/news/important-dates/ |access-date=5 April 2015 |date=15 January 2015 |url-status=dead |archive-url=https://web.archive.org/web/20131217072729/http://www.nba.com/news/important-dates/ |archive-date=December 17, 2013 }}</ref> The [[Minnesota Timberwolves]], who had the worst record in the NBA and the highest chance to win the lottery at 25%, won the lottery. The [[Los Angeles Lakers]] moved from the fourth spot to second, while the [[Philadelphia 76ers]] got the third pick.<ref>{{cite web|url=http://www.nba.com/2015/news/05/19/nba-draft-lottery-wire.ap/index.html|title=Timberwolves win Draft lottery, Lakers move to No. 2|date=May 19, 2015|work=NBA.com|access-date=May 19, 2015|archive-url=https://web.archive.org/web/20150523004103/http://www.nba.com/2015/news/05/19/nba-draft-lottery-wire.ap/index.html|archive-date=May 23, 2015|url-status=dead}}</ref> The only team that moved down from their original draft position altogether was the [[New York Knicks]], who moved from the projected second pick to the fourth pick.
+
+{| class="wikitable"
+|-
+|style="background:#ff9; width:2em; text-align:center;"| ^
+|style="text-align:left"|Denotes the actual lottery result
+|}
+{|class="wikitable" style="text-align:center"
+|-
+!rowspan="2"|Team
+!rowspan="2"|[[2014–15 NBA season|2014–15<br>record]]
+!rowspan="2"|Lottery<br>chances
+!colspan="14"|Lottery probabilities
+|-
+!1st||2nd||3rd||4th||5th||6th||7th||8th||9th||10th||11th||12th||13th||14th
+|-
+|align="left"|[[Minnesota Timberwolves]]|||16–66
+|| 250 ||style="background:#ff9"|.250^|||.215||.178||.357|||—|||—|||—|||—|||—|||—|||—|||—|||—|||—
+|-
+|align="left"|[[New York Knicks]]|||17–65
+|| 199 ||.199||.188||.171||style="background:#ff9"|.319^||.123|||—|||—|||—|||—|||—|||—|||—|||—|||—
+|-
+|align="left"|[[Philadelphia 76ers]]|||18–64
+|| 156 |||.156||.157||style="background:#ff9"|.156^||.226||.265||.040|||—|||—|||—|||—|||—|||—|||—|||—
+|-
+|align="left"|[[Los Angeles Lakers]]|||21–61
+|| 119 ||.119||style="background:#ff9"|.126^||.133||.099|||.351||.160||.012|||—|||—|||—|||—|||—|||—|||—
+|-
+|align="left"|[[Orlando Magic]]|||25–57
+|| 88 ||.088||.097||.107|||—||style="background:#ff9"|.261^|||.360|||.084||.004|||—|||—|||—|||—|||—|||—
+|-
+|align="left"|[[Sacramento Kings]]|||29–53
+|| 63 ||.063||.071||.081|||—|||—||style="background:#ff9"|.440^|||.305||.040||.001|||—|||—|||—|||—|||—
+|-
+|align="left"|[[Denver Nuggets]]|||30–52
+|| 43 ||.043||.049||.058||—||—||—||style="background:#ff9"|.600^|||.232||.018||.000||—||—||—||—|—
+|-
+|align="left"|[[Detroit Pistons]]|||32–50
+|| 28 ||.028||.033||.039||—||—||—||—||style="background:#ff9"|.724^|||.168||.008||.000||—||—||—
+|-
+|align="left"|[[Charlotte Hornets]]|||33–49
+|| 17 ||.017||.020||.024|||—|||—|||—|||—|||—||style="background:#ff9"|.813^||.122||.004||.000|||—|||—
+|-
+|align="left"|[[Miami Heat]]|||37–45
+|| 11 ||.011||.013||.016|||—|||—|||—|||—|||—|||—||style="background:#ff9"|.870^||.089||.002||.000|||—
+|-
+|align="left"|[[Indiana Pacers]]|||38–44
+|| 8 ||.008||.009||.012|||—|||—|||—|||—|||—|||—|||—||style="background:#ff9"|.907^||.063||.001||.000
+|-
+|align="left"|[[Utah Jazz]]|||38–44
+|| 7 ||.007||.008||.010|||—|||—|||—|||—|||—|||—|||—|||—||style="background:#ff9"|.935^||.039||.000
+|-
+|align="left"|[[Phoenix Suns]]|||39–43
+|| 6 ||.006||.007||.009|||—|||—|||—|||—|||—|||—|||—|||—|||—||style="background:#ff9"|.960^||.018
+|-
+|align="left"|[[Oklahoma City Thunder]]|||45–37
+|| 5 ||.005||.006 ||.007|||—|||—|||—|||—|||—|||—|||—|||—|||—|||—||style="background:#ff9"|.982^
+|}
+
+==Draft ceremony==
+In the first round of the [[NBA draft]], each team has up to five minutes to decide which player they would like to select. The team can also propose a trade with another team before making their selection.<ref>{{cite web|url=http://www.cleveland.com/cavs/index.ssf/2014/06/2014_nba_draft_what_theyre_say.html|title=NBA draft 2014 reaction: What they're saying around the league|first=Scott|last=Branson|publisher=Cleveland.com|date=June 27, 2014|access-date=June 23, 2015|archive-date=July 2, 2014|archive-url=https://web.archive.org/web/20140702232312/http://www.cleveland.com/cavs/index.ssf/2014/06/2014_nba_draft_what_theyre_say.html|url-status=live}}</ref> The [[Commissioner of the NBA|NBA commissioner]] will announce the selection and the player, wearing a basketball cap sporting the team's logo, comes up to the stage to be congratulated and presented to the audience.<ref>{{cite web|url=https://www.espn.com/nba/draft2014/news/story?id=11144850|title=Parker realizes that just happened|first=Scoop|last=Jackson|work=ESPN.com|date=June 27, 2014|access-date=June 23, 2015|archive-date=July 14, 2014|archive-url=https://web.archive.org/web/20140714140958/http://sports.espn.go.com/nba/draft2014/news/story?id=11144850|url-status=live}}</ref><ref>{{cite web|url=http://www.nba.com/nets/nets-draft-hat-history-2014|title=The History of Nets Draft Caps|work=NBA.com|access-date=June 23, 2015|archive-date=July 2, 2014|archive-url=https://web.archive.org/web/20140702085208/http://www.nba.com/nets/nets-draft-hat-history-2014|url-status=live}}</ref> In the second round, each team has up to two minutes to make their picks while the deputy commissioner assumes the commissioner's role.<ref>{{cite web|url=http://boston.cbslocal.com/2014/06/26/nba-draft-live-blog-what-will-celtics-do-tonight/|title=NBA Draft LIVE Blog: No Fireworks For Celtics|first=Matthew|last=Geagan|publisher=CBS Boston|date=June 27, 2014|access-date=June 23, 2015|archive-date=June 26, 2015|archive-url=https://web.archive.org/web/20150626163101/http://boston.cbslocal.com/2014/06/26/nba-draft-live-blog-what-will-celtics-do-tonight/|url-status=live}}</ref><ref>{{cite news|url=http://www.oregonlive.com/nba/index.ssf/2014/06/nba_draft_2014_adam_silver_shi.html|title=NBA draft 2014: Adam Silver shines with selection of Isaiah Austin|newspaper=The Oregonian|date=June 27, 2014|access-date=June 23, 2015|archive-date=June 29, 2014|archive-url=https://web.archive.org/web/20140629175610/http://www.oregonlive.com/nba/index.ssf/2014/06/nba_draft_2014_adam_silver_shi.html|url-status=live}}</ref>
+
+The NBA annually invites around 15–20 players to sit in the "green room", a special room set aside at the draft site for the invited players plus their families and agents. When their names are called, the player leaves the room and goes up on stage. Other players who are not invited are allowed to attend the ceremony, sit in the stands with the fans and walk up on stage when (or if) they are drafted.<ref>{{cite web|url=https://www.espn.com/nba/draft2011/news/story?id=6675909|title=NBA issues 'green room' invitations|first=Chad|last=Ford|work=ESPN.com|date=June 18, 2011|access-date=June 23, 2015|archive-date=June 26, 2015|archive-url=https://web.archive.org/web/20150626123405/http://sports.espn.go.com/nba/draft2011/news/story?id=6675909|url-status=live}}</ref> The 19 players who accepted invitations to attend the draft were [[Devin Booker]], [[Willie Cauley-Stein]], [[Sam Dekker]], [[Jerian Grant]], [[Rondae Hollis-Jefferson]], [[Stanley Johnson (basketball)|Stanley Johnson]], [[Frank Kaminsky]], [[Kevon Looney]], [[Trey Lyles]], [[Emmanuel Mudiay]], [[Jahlil Okafor]], [[Kelly Oubre Jr.]], [[Cameron Payne]], [[Bobby Portis]], [[Kristaps Porziņģis]], [[D'Angelo Russell]], [[Karl-Anthony Towns]], [[Myles Turner (basketball)|Myles Turner]], and [[Justise Winslow]].<ref name="greenroom">{{cite magazine|url=https://www.si.com/nba/2015/06/22/nba-draft-green-room-2015-invitees-jahlil-okafor-karl-anthony-towns-frank-kaminsky|title=NBA announces green room invitees for 2015 NBA draft|first=Ben|last=Golliver|magazine=Sports Illustrated|date=June 22, 2015|access-date=June 23, 2015|archive-date=June 23, 2015|archive-url=https://web.archive.org/web/20150623124951/http://www.si.com/nba/2015/06/22/nba-draft-green-room-2015-invitees-jahlil-okafor-karl-anthony-towns-frank-kaminsky|url-status=live}}</ref> International prospect [[Mario Hezonja]] did not attend because he was still involved with his then-team [[FC Barcelona Bàsquet|FC Barcelona]] at the time.<ref>{{cite web|url=https://twitter.com/DraftExpress/status/614224218113314817|title=Jonathan Givony on Twitter|access-date=July 25, 2015|archive-date=October 25, 2015|archive-url=https://web.archive.org/web/20151025123425/https://twitter.com/DraftExpress/status/614224218113314817|url-status=live}}</ref><ref>{{cite web|url=https://bleacherreport.com/articles/2503404-2015-nba-draft-green-room-invites-full-list-of-players-revealed|title=2015 NBA Draft Green-Room Invites: Full List of Players Revealed|first=Matt|last=Fitzgerald|website=The Bleacher Report|date=June 22, 2015|access-date=June 23, 2015|archive-date=June 23, 2015|archive-url=https://web.archive.org/web/20150623135754/http://bleacherreport.com/articles/2503404-2015-nba-draft-green-room-invites-full-list-of-players-revealed|url-status=live}}</ref> Three other players, [[R.J. Hunter]], [[Tyus Jones]], and [[Delon Wright]] all had invitations as well, but they declined their invitations for undisclosed reasons.<ref name="greenroom"/>
+
+==Trades involving draft picks==
+
+===Pre-draft trades===
+Prior to the day of the draft, the following trades were made and resulted in exchanges of draft picks between the teams.
+{{Reflist|group=upper-alpha}}
+
+===Draft-day trades===
+The following trades involving drafted players were made on the day of the draft.<ref>{{cite web|title=2015 Draft Trade Tracker|url=http://www.nba.com/news/2015-draft-trade-tracker/index.html|date=June 25, 2015|publisher=NBA|access-date=June 25, 2015|archive-url=https://web.archive.org/web/20150625223845/http://www.nba.com/news/2015-draft-trade-tracker/index.html|archive-date=June 25, 2015|url-status=dead}}</ref>
+{{reflist|group=lower-alpha}}
+
+==Notes==
+{{Reflist|group=n}}
+
+==See also==
+* [[List of first overall NBA draft picks]]
+
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Portal bar|Sports}}
+*[http://www.nba.com/draft/ Official Site]
+
+{{NBA Drafts}}
+{{NBA Draft history by team}}
+{{2015 NBA draft}}
+{{2015–16 NBA season by team}}
+
+[[Category:2015–16 NBA season|Draft]]
+[[Category:NBA draft]]
+[[Category:June 2015 sports events in the United States|NBA draft]]
+[[Category:2015 in sports in New York City|NBA draft]]
+[[Category:2010s in Brooklyn]]
+[[Category:Basketball in New York City]]
+[[Category:Sporting events in New York City]]
+[[Category:Sports in Brooklyn]]
+[[Category:Organized events in Brooklyn]]

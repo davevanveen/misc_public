@@ -1,0 +1,1362 @@
+{{Short description|75th edition of the draft}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox sports draft
+| name      = 2021 NBA draft
+| logo      = 
+| logosize  =
+| image     = 2021 NBA Draft.png
+| caption   =
+| sport     = [[Basketball]]
+| date      = July 29, 2021
+| location  = [[Barclays Center]] ([[Brooklyn, New York]])
+| network   = {{hlist|[[NBA on ESPN|ESPN]]|[[NBA on ABC|ABC]] (first round only)<ref>{{cite web|url=http://www.nba.com/nba-draft-2021-presented-by-state-farm-to-take-place-on-july-29|title=NBA Draft Presented By State Farm To Take Place On July 29|website=NBA.com|date=March 29, 2021|access-date=March 29, 2021}}</ref>}}
+| overall   = 60
+| rounds    = 2
+| league    = [[National Basketball Association|NBA]]
+| first     = [[Cade Cunningham]] ([[Detroit Pistons]])
+| prev      = [[2020 NBA draft|2020]]
+| next      = [[2022 NBA draft|2022]]
+}}
+The '''2021 NBA draft''', the 75th edition of the [[National Basketball Association]]'s annual [[NBA draft|draft]], was held on July 29, 2021, at [[Barclays Center]] in [[Brooklyn|Brooklyn, New York]]. The NBA draft returned to Brooklyn after [[2020 NBA draft|the previous year's draft]] was held through [[videoconferencing]] at [[ESPN]] Studios in [[Bristol, Connecticut]] due to the [[COVID-19 pandemic]]. With the first overall pick, the [[Detroit Pistons]] selected [[Cade Cunningham]].<ref>{{cite news |url=https://www.theguardian.com/sport/2021/jul/29/nba-draft-picks-detroit-pistons-cade-cunningham |title=Detroit Pistons tab Cade Cunningham with No 1 overall pick in NBA draft |newspaper=[[The Guardian]] |date=July 30, 2021 |access-date=August 3, 2021 |archive-date=August 19, 2021 |archive-url=https://web.archive.org/web/20210819160430/https://www.theguardian.com/sport/2021/jul/29/nba-draft-picks-detroit-pistons-cade-cunningham |url-status=live }}</ref> The NBA used a "ceremonial pick" for the late [[Terrence Clarke]], between the 14th and 15th pick of the draft.
+
+==Draft picks==
+[[File:1 cade cunningham 2024.jpg|thumb|150px|[[Cade Cunningham]] was selected 1st overall by the [[Detroit Pistons]].]]
+[[File:Jalen Green with the Houston Rockets in 2022 (cropped).jpg|thumb|150px|[[Jalen Green]] ([[NBA G League Ignite]]) was selected 2nd overall by the [[Houston Rockets]].]]
+[[File:Evan Mobley (cropped).jpg|thumb|150px|[[Evan Mobley]] was selected 3rd overall by the [[Cleveland Cavaliers]].]]
+[[File: Scottie Barnes, Wizards vs Raptors on October 12, 2021.jpg|thumb|150px|[[Scottie Barnes]] was selected 4th overall by the [[Toronto Raptors]] and voted the [[NBA Rookie of the Year Award|Rookie of the Year]].]]
+[[File:Josh Giddey 2022.jpg|thumb|150px|[[Josh Giddey]] was selected 6th overall by the [[Oklahoma City Thunder]].]]
+[[File:Jonathan Kuminga (cropped) 2.jpg|thumb|150px|[[Jonathan Kuminga]] was selected 7th overall by the [[Golden State Warriors]].]]
+[[File:Wagner2022.jpg|thumb|150px|[[Franz Wagner]] was selected 8th overall by the [[Orlando Magic]].]]
+[[File:1 corey kispert.jpg|thumb|150px|[[Corey Kispert]] was selected 15th overall by the [[Washington Wizards]].]]
+[[File:1_alperen_sengun.jpg|thumb|150px|[[Alperen Şengün]] was selected 16th overall by the [[Oklahoma City Thunder]] (traded to the [[Houston Rockets]]).]]
+[[File:JalenJohnsonNicoletHighFeb2019.jpg|thumb|150px|[[Jalen Johnson]] was selected 20th overall by the [[Atlanta Hawks]].]]
+[[File:Cameron Thomas (51874870188) (cropped).jpg|thumb|150px|[[Cam Thomas (basketball)|Cam Thomas]] was selected 27th overall by the [[Brooklyn Nets]].]]
+[[File:Herb Jones.jpg|thumb|150px|[[Herbert Jones (basketball)|Herbert Jones]] was selected 35th overall by the [[New Orleans Pelicans]].]]
+{|class="wikitable"t
+|-
+| PG || [[Point guard]]
+| SG || [[Shooting guard]]
+| SF || [[Small forward]]
+| PF || [[Power forward (basketball)|Power forward]]
+| C || [[Center (basketball)|Center]]
+|}
+{{NBA Draft legend|2=y|3=y|4=y|5=y|6=y|}}
+{|class="wikitable sortable plainrowheaders" style="text-align:left"
+|-
+!style="width:20px;"| {{tooltip|Rnd.|Draft round}}
+!style="width:20px;"| {{tooltip|Pick|Overall pick number}}
+!style="width:120px;"| Player
+!style="width:20px;"| {{tooltip|Pos.|Position(s) played}}
+!style="width:100px;"| {{tooltip|Nationality|Player's representative nationality}}{{refn|group=n|name=nationality|Nationality indicates the player's national team or representative nationality. If a player has not competed at the international level, then the nationality indicates the national team which the player is eligible to represent according to [[FIBA]] rules.}}
+!style="width:300px;"| Team
+!style="width:150px;"| {{tooltip|School / club team|Most recent school attended or team played for before the draft}}
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|[[List of first overall NBA draft picks|1]]
+|bgcolor="#FBCEB1"| {{sortname|Cade|Cunningham}}<sup>*</sup>
+|PG/SG
+|{{flagu|United States}}
+|[[Detroit Pistons]]
+|[[Oklahoma State Cowboys basketball|Oklahoma State]] {{small|([[Freshman|Fr.]])}}
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|2
+| {{sortname|Jalen|Green}}
+|SG
+|{{flagu|United States}}
+|[[Houston Rockets]]
+|[[NBA G League Ignite]] {{small|([[NBA G League]])}}
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|3
+|bgcolor="#FBCEB1"| {{sortname|Evan|Mobley}}<sup>*</sup>
+|PF/C
+|{{flagu|United States}}
+|[[Cleveland Cavaliers]]
+|[[USC Trojans men's basketball|USC]] {{small|([[Freshman|Fr.]])}}
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|4
+|bgcolor="#FFCC00"| {{sortname|Scottie|Barnes}}<sup>+~</sup>
+|SG/SF
+|{{flagu|United States}}
+|[[Toronto Raptors]]
+|[[Florida State Seminoles men's basketball|Florida State]] {{small|([[Freshman|Fr.]])}}
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|5
+|{{sortname|Jalen|Suggs}}
+|PG/SG
+|{{flagu|United States}}
+|[[Orlando Magic]]
+|[[Gonzaga Bulldogs men's basketball|Gonzaga]] {{small|([[Freshman|Fr.]])}}
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|6
+|{{sortname|Josh|Giddey}}
+|PG/SG
+|{{flagu|Australia}}
+|[[Oklahoma City Thunder]]
+|[[Adelaide 36ers]] {{small|([[National Basketball League (Australia)|Australia]])}}
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|7
+|{{sortname|Jonathan|Kuminga}}
+|SF
+|{{flagu|DR Congo}}
+|[[Golden State Warriors]] {{small|(from [[Minnesota Timberwolves|Minnesota]])}}{{refn|group=upper-alpha|name=7th|February 6, 2020: [[Minnesota Timberwolves]] to [[Golden State Warriors]]<ref>{{cite web|url=https://www.nba.com/news/dangelo-russell-traded-timberwolves-warriors|title=Warriors trade D'Angelo Russell to Timberwolves for Andrew Wiggins, picks|date=February 7, 2020|publisher=National Basketball Association|access-date=June 22, 2021|archive-date=June 23, 2021|archive-url=https://web.archive.org/web/20210623011129/https://www.nba.com/news/dangelo-russell-traded-timberwolves-warriors|url-status=live}}</ref>
+*Golden State acquired [[Andrew Wiggins]], a ''top-3 protected 2021 first-round pick'', and a ''second-round draft pick''
+*Minnesota acquired [[D'Angelo Russell]], [[Jacob Evans]], and [[Omari Spellman]]
+}}
+|[[NBA G League Ignite]] {{small|([[NBA G League]])}}
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|8
+|{{sortname|Franz|Wagner}}
+|SF
+|{{flagu|Germany}}
+|[[Orlando Magic]] {{small|(from [[Chicago Bulls|Chicago]])}}{{refn|group=upper-alpha|name=8th|March 25, 2021: [[Chicago Bulls]] to [[Orlando Magic]]<ref>{{cite web|url=https://www.espn.com/nba/story/_/id/31133908/orlando-magic-trade-nikola-vucevic-chicago-bulls-sources-say|title=Orlando Magic trade Nikola Vucevic to Chicago Bulls in four-player deal, get two first-round picks|date=March 25, 2021|publisher=ESPN|access-date=June 22, 2021|archive-date=June 24, 2021|archive-url=https://web.archive.org/web/20210624203629/https://www.espn.com/nba/story/_/id/31133908/orlando-magic-trade-nikola-vucevic-chicago-bulls-sources-say|url-status=live}}</ref>
+*Orlando acquired [[Wendell Carter Jr.]], [[Otto Porter Jr.]], ''2021'' and 2023 first-round picks
+*Chicago acquired [[Nikola Vučević]], and [[Al-Farouq Aminu]]
+}}
+|[[Michigan Wolverines men's basketball|Michigan]] {{small|([[Sophomore|So.]])}}
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|9
+|{{sortname|Davion|Mitchell}}
+|PG
+|{{flagu|United States}}
+|[[Sacramento Kings]]
+|[[Baylor Bears men's basketball|Baylor]] {{small|([[Junior (education year)|Jr.]])}}
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|10
+|{{sortname|Ziaire|Williams}}
+|SF
+|{{flagu|United States}}
+|[[New Orleans Pelicans]] {{small|(rights traded to [[Memphis Grizzlies|Memphis]])}}{{refn|group=lower-alpha|name=Ziaire|August 7, 2021: [[New Orleans Pelicans]] to [[Memphis Grizzlies]] (three-team trade with [[Charlotte Hornets|Charlotte]])<ref>{{cite web|url=https://www.nba.com/grizzlies/news/grizzlies-three-team-trade-with-pelicans-and-hornets-210807|title=Grizzlies acquire Steven Adams, Eric Bledsoe, draft rights to Ziaire Williams and two draft picks in three-team trade with Pelicans and HorNets|date=July 29, 2021|publisher=NBA|access-date=August 3, 2021|archive-date=August 7, 2021|archive-url=https://web.archive.org/web/20210807160044/https://www.nba.com/grizzlies/news/grizzlies-three-team-trade-with-pelicans-and-hornets-210807|url-status=live}}</ref>
+*Memphis acquired [[Steven Adams]], [[Eric Bledsoe]], a protected 2022 first round draft pick, ''the draft rights to [[Ziaire Williams]]'', and ''the draft rights to [[Jared Butler]]''
+*New Orleans acquired [[Jonas Valančiūnas]], [[Devonte' Graham]], ''the draft rights to [[Trey Murphy III]]'' and ''the draft rights to [[Brandon Boston]]''
+*Charlotte acquired [[Wesley Iwundu]], the draft rights to [[Tyler Harvey (basketball)|Tyler Harvey]], and a protected 2022 first round pick
+}}
+|[[Stanford Cardinal men's basketball|Stanford]] {{small|([[Freshman|Fr.]])}}
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|11
+|{{sortname|James|Bouknight}}
+|SG
+|{{flagu|United States}}
+|[[Charlotte Hornets]]
+|[[UConn Huskies men's basketball|UConn]] {{small|([[Sophomore|So.]])}}
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|12
+|{{sortname|Joshua|Primo}}
+|SG
+|{{flagu|Canada}}
+|[[San Antonio Spurs]]
+|[[Alabama Crimson Tide men's basketball|Alabama]] {{small|([[Freshman|Fr.]])}}
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|13
+|{{sortname|Chris|Duarte|dab=basketball}}
+|SG
+|{{flagu|Dominican Republic}}{{refn|group=n|Duarte was born in the Dominican Republic to a Canadian father. He holds dual citizenship but has played for the [[Dominican Republic men's national basketball team|Dominican Republic national basketball team]].}}
+|[[Indiana Pacers]]
+|[[Oregon Ducks men's basketball|Oregon]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|14
+|{{sortname|Moses|Moody}}
+|SG
+|{{flagu|United States}}
+|[[Golden State Warriors]]
+|[[Arkansas Razorbacks men's basketball|Arkansas]] {{small|([[Freshman|Fr.]])}}
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|15
+|{{sortname|Corey|Kispert}}
+|SF
+|{{flagu|United States}}
+|[[Washington Wizards]]
+|[[Gonzaga Bulldogs men's basketball|Gonzaga]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|16
+|bgcolor="#FFCC00"|  {{sortname|Alperen|Şengün}}<sup>+</sup>
+|C
+|{{flagu|Turkey}}
+|[[Oklahoma City Thunder]] {{small|(from [[Boston Celtics|Boston]],{{refn|group=upper-alpha|name=16th|June 18, 2021: [[Boston Celtics]] to [[Oklahoma City Thunder]]<ref>{{cite web|url=https://www.nba.com/news/celtics-trade-kemba-walker-picks-to-thunder|title=Celtics trade Kemba Walker, picks to Thunder|date=June 18, 2021|publisher=NBA|access-date=June 23, 2021|archive-date=June 23, 2021|archive-url=https://web.archive.org/web/20210623064535/https://www.nba.com/news/celtics-trade-kemba-walker-picks-to-thunder|url-status=live}}</ref>
+*Oklahoma City acquired [[Kemba Walker]], a ''2021 first-round pick'', and 2025 second-round picks
+*Boston acquired [[Al Horford]], [[Moses Brown (basketball)|Moses Brown]], and a 2023 second-round pick
+}} rights traded to [[Houston Rockets|Houston]]){{refn|group=lower-alpha|name=Alperen|July 29, 2021: [[Oklahoma City Thunder]] to [[Houston Rockets]]<ref>{{cite web|url=https://www.nba.com/news/rockets-acquire-16th-pick-alperen-sengun-in-trade-with-thunder|title=Rockets acquire 16th pick Alperen Sengun in trade with Thunder|date=July 29, 2021|publisher=NBA|access-date=July 30, 2021|archive-date=July 30, 2021|archive-url=https://web.archive.org/web/20210730035803/https://www.nba.com/news/rockets-acquire-16th-pick-alperen-sengun-in-trade-with-thunder|url-status=live}}</ref>
+*Houston acquired ''the draft rights to [[Alperen Şengün]]''
+*Oklahoma City acquired two future first-round picks
+}}}}
+|[[Beşiktaş J.K. (men's basketball)|Beşiktaş]] {{small|([[Basketball Super League|Turkey]])}}
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|17
+|{{sortname|Trey|Murphy III}}
+|SF
+|{{flagu|United States}}
+|[[Memphis Grizzlies]] {{small|(rights traded to [[New Orleans Pelicans|New Orleans]])}}{{refn|group=lower-alpha|name=Ziaire}}
+|[[Virginia Cavaliers men's basketball|Virginia]] {{small|([[Junior (education year)|Jr.]])}}
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|18
+|{{sortname|Tre|Mann}}
+|PG
+|{{flagu|United States}}
+|[[Oklahoma City Thunder]] {{small|(from [[Miami Heat|Miami]] via [[Phoenix Suns|Phoenix]] to [[Philadelphia 76ers|Philadelphia]] to [[Los Angeles Clippers|L.A. Clippers]]){{refn|group=upper-alpha|name=18th|February 19, 2015: [[Miami Heat]] to [[Phoenix Suns]] (three-team trade with [[New Orleans Pelicans]])<ref>{{cite web|title=Suns Stockpile Draft Picks in Trade with Heat|url=https://www.nba.com/suns/news/suns-stockpile-draft-picks-trade-heat|date=February 19, 2015|publisher=National Basketball Association|access-date=June 23, 2021|archive-date=November 8, 2020|archive-url=https://web.archive.org/web/20201108141322/http://www.nba.com/suns/news/suns-stockpile-draft-picks-trade-heat|url-status=live}}</ref>
+*Phoenix acquired [[Danny Granger]], [[John Salmons]], a ''2021 first-round pick'', and a 2017 protected first-round pick
+*Miami acquired [[Goran Dragić]] and [[Zoran Dragić]]
+*New Orleans acquired [[Norris Cole]], [[Justin Hamilton (basketball, born 1990)|Justin Hamilton]] and [[Shawne Williams]]
+June 21, 2018: [[Phoenix Suns]] to [[Philadelphia 76ers]]<ref>{{cite web|title=Draft 2018 <nowiki>|</nowiki> Sought-After Prospect, Future Pick Highlight Acquisitions|url=https://www.nba.com/sixers/smith-shamet-acquired-first-round|date=June 21, 2018|publisher=National Basketball Association|access-date=June 23, 2021|archive-date=October 11, 2020|archive-url=https://web.archive.org/web/20201011141603/https://www.nba.com/sixers/smith-shamet-acquired-first-round|url-status=live}}</ref>
+*Philadelphia acquired [[Zhaire Smith]] and ''Miami's 2021 first-round pick''
+*Phoenix acquired [[Mikal Bridges]]
+}}{{refn|group=upper-alpha|name=TobiasHarris|February 6, 2019: [[Philadelphia 76ers]] to [[Los Angeles Clippers]]<ref>{{cite web|title=L.A. Clippers Acquire Chandler, Muscala, Shamet And Two First Round Draft Picks|url=https://www.nba.com/clippers/la-clippers-aquire-chandler-muscala-shamet-and-two-first-round-draft-picks|date=February 6, 2019|publisher=National Basketball Association|access-date=June 23, 2021|archive-date=February 7, 2019|archive-url=https://web.archive.org/web/20190207020815/https://www.nba.com/clippers/la-clippers-aquire-chandler-muscala-shamet-and-two-first-round-draft-picks|url-status=live}}</ref>
+*L.A. Clippers acquired [[Landry Shamet]], [[Wilson Chandler]], [[Mike Muscala]], ''Miami's 2021 first-round pick'', a protected 2020 first-round pick, ''2021'' and 2023 second-round picks
+*Philadelphia acquired [[Tobias Harris]], [[Boban Marjanović]] and [[Mike Scott (basketball, born 1988)|Mike Scott]]
+}}{{refn|group=upper-alpha|name=PaulGeorge|July 10, 2019: [[Los Angeles Clippers]] to [[Oklahoma City Thunder]]<ref>{{cite web|title=L.A. Clippers Acquire Six-Time NBA All-Star Paul George|url=https://www.nba.com/clippers/clippers-acquire-six-time-nba-all-star-paul-george|date=July 10, 2019|publisher=National Basketball Association|access-date=June 23, 2021|archive-date=January 30, 2021|archive-url=https://web.archive.org/web/20210130045004/https://www.nba.com/clippers/clippers-acquire-six-time-nba-all-star-paul-george|url-status=live}}</ref>
+*Oklahoma City acquired [[Danilo Gallinari]], [[Shai Gilgeous-Alexander]], ''Miami's 2021 first-round pick'', a 2022 first-round pick, Miami's 2023 first-round pick, a 2024 first round pick, a 2026 first round pick, and Thunder options to swap 2023 and 2025 first round picks with Clippers
+*L.A. Clippers acquired [[Paul George]]}}}}
+|[[Florida Gators men's basketball|Florida]] {{small|([[Sophomore|So.]])}}
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|19
+|{{sortname|Kai|Jones}}
+|C
+|{{flagu|Bahamas}}
+|[[New York Knicks]] {{small|(rights traded to [[Charlotte Hornets|Charlotte]]){{refn|group=lower-alpha|name=kaijones|July 29, 2021: [[New York Knicks]] to [[Charlotte Hornets]]<ref>{{cite web|url=https://www.nba.com/news/knicks-trade-19th-pick-to-hornets-kai-jones|title=Hornets acquire No. 19 pick in trade with Knicks|date=July 29, 2021|publisher=NBA|access-date=July 30, 2021|archive-date=July 30, 2021|archive-url=https://web.archive.org/web/20210730035804/https://www.nba.com/news/knicks-trade-19th-pick-to-hornets-kai-jones|url-status=live}}</ref>
+*Charlotte acquired ''the draft rights to [[Kai Jones]]''
+*New York acquired a future first-round pick
+}}}}
+|[[Texas Longhorns men's basketball|Texas]] {{small|([[Sophomore|So.]])}}
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|20
+| bgcolor="#FFCC00"|{{sortname|Jalen|Johnson}}<sup>+</sup>
+|SF
+|{{flagu|United States}}
+|[[Atlanta Hawks]]
+|[[Duke Blue Devils men's basketball|Duke]] {{small|([[Freshman|Fr.]])}}
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|21
+|{{sortname|Keon|Johnson|dab=basketball, born 2002}}
+|SG
+|{{flagu|United States}}
+|[[New York Knicks]] {{small|(from [[Dallas Mavericks|Dallas]],{{refn|group=upper-alpha|name=21st|January 31, 2019: [[Dallas Mavericks]] to [[New York Knicks]]<ref>{{cite web|title=Knicks Acquire Dennis Smith Jr., DeAndre Jordan, Wesley Matthews, and Two Future First Round Picks|url=https://www.nba.com/knicks/front-office-news/knicks-acquire-dennis-smith-jr-deandre-jordan-wesley-matthews-from-dallas|date=January 31, 2019|publisher=National Basketball Association|access-date=June 23, 2021|archive-date=June 24, 2021|archive-url=https://web.archive.org/web/20210624215343/https://www.nba.com/knicks/front-office-news/knicks-acquire-dennis-smith-jr-deandre-jordan-wesley-matthews-from-dallas|url-status=live}}</ref>
+*New York acquired [[Dennis Smith Jr.]], [[DeAndre Jordan]], [[Wesley Matthews]], ''2021'' and 2023 first-round picks
+*Dallas acquired [[Kristaps Porziņģis]], [[Tim Hardaway Jr.]], [[Courtney Lee]], and [[Trey Burke]]}} rights traded to [[Los Angeles Clippers|L.A. Clippers]]){{refn|group=lower-alpha|name=21st_lower|July 29, 2021: [[New York Knicks]] to [[L.A. Clippers]]<ref>{{cite web|title=Knicks trade No. 21 pick Keon Johnson to Clippers for No. 25 pick Quentin Grimes|url=https://www.nba.com/news/knicks-trade-johnson-for-grimes|date=July 29, 2021|publisher=National Basketball Association|access-date=July 30, 2021|url-status=live|archive-url=https://web.archive.org/web/20210730035806/https://www.nba.com/news/knicks-trade-johnson-for-grimes |archive-date=2021-07-30 }}</ref>
+*L.A. Clippers acquired the ''draft rights to [[Keon Johnson (basketball, born 2002)|Keon Johnson]]''
+*New York acquired the ''draft rights to [[Quentin Grimes]]'' and a future second-round pick}}}}
+|[[Tennessee Volunteers basketball|Tennessee]]<!--Women's basketball uses Lady Volunteers.--> {{small|([[Freshman|Fr.]])}}
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|22
+|{{sortname|Isaiah|Jackson|dab=basketball}}
+|C/PF
+|{{flagu|United States}}
+|[[Los Angeles Lakers]] {{small|(rights traded to [[Indiana Pacers|Indiana]]){{refn|name=westbrook|group=lower-alpha|August 6, 2021: [[Los Angeles Lakers]] to [[Indiana Pacers]] (five-team trade with [[Washington Wizards|Washington]], [[San Antonio Spurs|San Antonio]], and [[Brooklyn Nets|Brooklyn]])<ref>{{cite news |title=Washington acquires six players in five-team trade |url=https://www.nba.com/wizards/washington-acquires-six-players-five-team-trade |access-date=August 6, 2021 |publisher=NBA |date=August 6, 2021 |archive-date=August 7, 2021 |archive-url=https://web.archive.org/web/20210807011117/https://www.nba.com/wizards/washington-acquires-six-players-five-team-trade |url-status=live }}</ref>
+*L.A. Lakers acquired [[Russell Westbrook]] and 2023, 2024, and 2028 second-round picks
+*Indiana acquired the ''draft rights to Isaiah Jackson''
+*Washington acquired [[Spencer Dinwiddie]], [[Aaron Holiday]], [[Kentavious Caldwell-Pope]], [[Kyle Kuzma]], [[Montrezl Harrell]], ''the draft rights to forward Isaiah Todd'', and cash considerations from Indiana
+*San Antonio acquired a 2022 second round draft pick and [[Chandler Hutchison]]
+*Brooklyn acquired the draft rights to [[Nikola Milutinov]], a 2024 second round pick, and the option to swap a 2025 second round pick with Washington
+}}}}
+|[[Kentucky Wildcats men's basketball|Kentucky]] {{small|([[Freshman|Fr.]])}}
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|23
+|{{sortname|Usman|Garuba}}
+|PF/C
+|{{flagu|Spain}}
+|[[Houston Rockets]] {{small|(from [[Portland Trail Blazers|Portland]]){{refn|group=upper-alpha|name=23rd|November 22, 2020: [[Portland Trail Blazers]] to [[Houston Rockets]]<ref>{{cite web|title=Trail Blazers Acquire Robert Covington From Houston|url=https://www.nba.com/blazers/news/2020/11/22/blazers-acquire-robert-covington|date=November 22, 2020|publisher=National Basketball Association|access-date=June 23, 2021|archive-date=December 25, 2020|archive-url=https://web.archive.org/web/20201225052055/https://www.nba.com/blazers/news/2020/11/22/blazers-acquire-robert-covington|url-status=live}}</ref>
+*Houston acquired [[Trevor Ariza]], the draft rights to [[Isaiah Stewart]] and a protected ''2021 first-round pick''
+*Portland acquired [[Robert Covington]]}}}}
+|[[Real Madrid Baloncesto|Real Madrid]] {{small|([[Liga ACB|Spain]])}}
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|24
+| {{sortname|Josh|Christopher}}
+|SG
+|{{flagu|United States}}
+|[[Houston Rockets]] {{small|(from [[Milwaukee Bucks|Milwaukee]]){{refn|group=upper-alpha|name=24th|March 19, 2021: [[Milwaukee Bucks]] to [[Houston Rockets]]<ref>{{cite web|title=Milwaukee Bucks Acquire P.J. Tucker And Rodions Kurucs From The Houston Rockets|url=https://www.nba.com/bucks/news/milwaukee-bucks-acquire-pj-tucker-and-rodions-kurucs-houston-rockets|date=March 19, 2021|publisher=National Basketball Association|access-date=July 30, 2021|archive-date=March 19, 2021|archive-url=https://web.archive.org/web/20210319170639/https://www.nba.com/bucks/news/milwaukee-bucks-acquire-pj-tucker-and-rodions-kurucs-houston-rockets|url-status=live}}</ref>
+*Houston acquired [[D. J. Augustin]], [[D. J. Wilson]], a 2023 first-round pick, and ''option to swap a 2021 second-round pick with Milwaukee's 2021 first-round pick''
+*Milwaukee acquired [[P. J. Tucker]], [[Rodions Kurucs]], and a 2022 first-round pick}}}}
+|[[Arizona State Sun Devils men's basketball|Arizona State]] {{small|([[Freshman|Fr.]])}}
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|25
+|{{sortname|Quentin|Grimes}}
+|SG
+|{{flagu|United States}}
+|[[Los Angeles Clippers]] {{small|(rights traded to [[New York Knicks|New York]])}}{{refn|group=lower-alpha|name=21st_lower}}
+|[[Houston Cougars men's basketball|Houston]] {{small|([[Junior (education year)|Jr.]])}}
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|26
+|{{sortname|Bones|Hyland}}
+|SG/PG
+|{{flagu|United States}}
+|[[Denver Nuggets]]
+|[[VCU Rams men's basketball|VCU]] {{small|([[Sophomore|So.]])}}
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|27
+| {{sortname|Cam|Thomas|dab=basketball}}
+|SG
+|{{flagu|United States}}
+|[[Brooklyn Nets]]
+|[[LSU Tigers basketball|LSU]] {{small|([[Freshman|Fr.]])}}
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|28
+|{{sortname|Jaden|Springer}}
+|SG
+|{{flagu|United States}}
+|[[Philadelphia 76ers]]
+|[[Tennessee Volunteers basketball|Tennessee]]<!--Women's basketball uses Lady Volunteers.--> {{small|([[Freshman|Fr.]])}}
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|29
+|{{sortname|Day'Ron|Sharpe}}
+|C
+|{{flagu|United States}}
+|[[Phoenix Suns]] {{small|(rights traded to [[Brooklyn Nets|Brooklyn]])}}{{refn|group=lower-alpha|name=Day'Ron|August 6, 2021: [[Phoenix Suns]] to [[Brooklyn Nets]]<ref>{{cite web|url=https://www.nba.com/nets/news/2021/08/06/brooklyn-nets-acquire-jevon-carter-draft-rights-dayron-sharpe-phoenix-suns|title=BROOKLYN NETS ACQUIRE JEVON CARTER, DRAFT RIGHTS TO DAY'RON SHARPE FROM PHOENIX SUNS|work=NBA.com|date=August 6, 2021|access-date=August 7, 2021|archive-date=August 6, 2021|archive-url=https://web.archive.org/web/20210806164537/https://www.nba.com/nets/news/2021/08/06/brooklyn-nets-acquire-jevon-carter-draft-rights-dayron-sharpe-phoenix-suns|url-status=live}}</ref>
+*Brooklyn acquired ''the draft rights to [[Day'Ron Sharpe]]'' and [[Jevon Carter]]
+*Phoenix acquired [[Landry Shamet]]
+}}
+|[[North Carolina Tar Heels men's basketball|North Carolina]] {{small|([[Freshman|Fr.]])}}
+|-
+|style="text-align:center;"|1
+|style="text-align:center;"|30
+| {{sortname|Santi|Aldama}}
+|PF/C
+|{{flagu|Spain}}
+|[[Utah Jazz]] {{small|(rights traded to [[Memphis Grizzlies|Memphis]])}}{{refn|group=lower-alpha|name=Aldama|August 7, 2021: [[Utah Jazz]] to [[Memphis Grizzlies]]<ref>{{cite web|url=https://www.nba.com/grizzlies/news/grizzlies-acquire-draft-rights-santi-aldama-jazz|title=Grizzlies acquire draft rights to Santi Aldama from Jazz|work=NBA.com|date=August 7, 2021|access-date=August 7, 2021|archive-date=August 7, 2021|archive-url=https://web.archive.org/web/20210807195433/https://www.nba.com/grizzlies/news/grizzlies-acquire-draft-rights-santi-aldama-jazz|url-status=live}}</ref>
+*Memphis acquired ''the draft rights to [[Santi Aldama]]''
+*Utah acquired ''the draft rights to [[Jared Butler]]'' and two future second round selections
+}}
+|[[Loyola Greyhounds men's basketball|Loyola (MD)]] {{small|([[Sophomore|So.]])}}
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|31
+| {{sortname|Isaiah|Todd}}
+|PF
+|{{flagu|United States}}
+|[[Milwaukee Bucks]] {{small|(from [[Houston Rockets|Houston]],{{refn|group=upper-alpha|name=24th}} rights traded to [[Washington Wizards|Washington]] via [[Indiana Pacers|Indiana]]){{refn|group=lower-alpha|name=31sh-post|July 29, 2021: [[Milwaukee Bucks]] to [[Indiana Pacers]]<ref>{{cite web |url=https://www.nba.com/bucks/milwaukee-bucks-acquire-draft-rights-two-players-trade-indiana-pacers |title=Milwaukee Bucks Acquire Draft Rights to Two Players in Trade with Indiana Pacers |work=NBA.com |date=July 29, 2021 |access-date=July 30, 2021 |archive-date=July 30, 2021 |archive-url=https://web.archive.org/web/20210730062057/https://www.nba.com/bucks/milwaukee-bucks-acquire-draft-rights-two-players-trade-indiana-pacers |url-status=live }}</ref>
+*Milwaukee acquired the ''draft rights to [[Sandro Mamukelashvili]] and [[Georgios Kalaitzakis]]'', and two future second round draft picks
+*Indiana acquired the ''draft rights to [[Isaiah Todd]]''}}{{refn|group=lower-alpha|name=westbrook}}}}
+|[[NBA G League Ignite]] {{small|([[NBA G League]])}}
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|32
+| {{sortname|Jeremiah|Robinson-Earl}}
+|PF/C
+|{{flagu|United States}}
+|[[New York Knicks]] {{small|(from [[Detroit Pistons|Detroit]] via [[Philadelphia 76ers|Philadelphia]] to [[Los Angeles Clippers|L.A. Clippers]]{{refn|group=upper-alpha|name=32nd|June 21, 2018: [[Detroit Pistons]] to [[Philadelphia 76ers]]<ref name="Alter">{{cite news |url=https://www.freep.com/story/sports/nba/pistons/2018/06/21/detroit-pistons-2018-nba-draft/720696002/ |title=Detroit Pistons get Khyri Thomas in trade with 76ers, add Bruce Brown |newspaper=[[Detroit Free Press]] |first=Marlowe |last=Alter |date=June 21, 2018 |access-date=June 23, 2021 |archive-date=November 28, 2020 |archive-url=https://web.archive.org/web/20201128203044/https://www.freep.com/story/sports/nba/pistons/2018/06/21/detroit-pistons-2018-nba-draft/720696002/ |url-status=live }}</ref>
+*Philadelphia acquired ''2021'' and 2023 second-round picks
+*Detroit acquired the draft rights to [[Khyri Thomas]]
+}}{{refn|group=upper-alpha|name=TobiasHarris}}{{refn|group=upper-alpha|name=32nd-2|February 20, 2020: [[Los Angeles Clippers]] to [[New York Knicks]] (three-team trade with [[Washington Wizards]])<ref name="Alter" />
+*New York acquired [[Maurice Harkless]], the draft rights to [[Issuf Sanon]], a 2020 first-round draft pick, a ''2021 second-round pick''
+*L.A. Clippers acquired [[Marcus Morris]] and [[Isaiah Thomas (basketball)|Isaiah Thomas]]
+*Washington acquired [[Jerome Robinson]]}} rights traded to [[Oklahoma City Thunder|Oklahoma City]]){{refn|group=lower-alpha|name=nykokc|July 29, 2021: [[New York Knicks]] to [[Oklahoma City Thunder]]<ref>{{cite web|url=https://www.nba.com/news/reports-thunder-acquire-32nd-pick-from-knicks|title=Thunder acquire No. 32 pick Jeremiah Robinson-Earl from Knicks|date=July 29, 2021|publisher=NBA|access-date=July 30, 2021|archive-date=July 30, 2021|archive-url=https://web.archive.org/web/20210730041226/https://www.nba.com/news/reports-thunder-acquire-32nd-pick-from-knicks|url-status=live}}</ref>
+*Oklahoma City acquired ''the draft rights to [[Jeremiah Robinson-Earl]]''
+*New York acquired ''the draft rights to [[Rokas Jokubaitis]] and [[Miles McBride]]''
+}}}}
+|[[Villanova Wildcats men's basketball|Villanova]] {{small|([[Sophomore|So.]])}}
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|33
+| {{sortname|Jason|Preston}}
+|PG
+|{{flagu|United States}}
+|[[Orlando Magic]] {{small|(rights traded to [[Los Angeles Clippers|L.A. Clippers]]){{refn|group=lower-alpha|name=preston|July 29, 2021: [[Orlando Magic]] to [[Los Angeles Clippers]]<ref>{{cite web|url=https://www.nba.com/clippers/news/la-clippers-acquire-draft-rights-jason-preston|title=LA Clippers Acquire Draft Rights To Jason Preston|date=July 29, 2021|publisher=NBA|access-date=July 30, 2021|archive-date=July 30, 2021|archive-url=https://web.archive.org/web/20210730064834/https://www.nba.com/clippers/news/la-clippers-acquire-draft-rights-jason-preston|url-status=live}}</ref>
+*L.A. Clippers acquired ''the draft rights to [[Jason Preston]]''
+*Orlando acquired Detroit's 2026 second-round pick and cash considerations
+}}}}
+|[[Ohio Bobcats men's basketball|Ohio]] {{small|([[Junior (education year)|Jr.]])}}
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|34
+|bgcolor="C0C0C0"| {{sortname|Rokas|Jokubaitis}}#
+|PG
+|{{flagu|Lithuania}}
+|[[Oklahoma City Thunder]] {{small|(rights traded to [[New York Knicks|New York]]){{refn|group=lower-alpha|name=nykokc}}}}
+|[[BC Žalgiris|Žalgiris Kaunas]] {{small|([[Lietuvos Krepšinio Lyga|Lithuania]])}}
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|35
+|{{sortname|Herbert|Jones|dab=basketball}}
+|SF
+|{{flagu|United States}}
+|[[New Orleans Pelicans]] {{small|(from [[Cleveland Cavaliers|Cleveland]] via [[Atlanta Hawks|Atlanta]]){{refn|group=upper-alpha|name=35th|January 7, 2017: [[Cleveland Cavaliers]] to [[Atlanta Hawks]]<ref>{{cite web|url=http://www.nba.com/hawks/news/hawks-acquire-first-round-pick-dunleavy-williams-cavs-kyle-korver|title=Hawks Acquire First Round Pick, Dunleavy & Williams From Cavs For Kyle Korver|work=NBA.com|date=January 7, 2017|access-date=June 23, 2021|archive-date=June 5, 2021|archive-url=https://web.archive.org/web/20210605105508/https://www.nba.com/hawks/news/hawks-acquire-first-round-pick-dunleavy-williams-cavs-kyle-korver|url-status=live}}</ref>
+*Atlanta acquired [[Mike Dunleavy Jr.]], [[Mo Williams]], a ''2021 second-round pick'', a 2022 second-round pick,<!--was originally a first-round pick, but it converted into being two second-round picks after failing to be outside of its top-10 protections--> and cash considerations
+*Cleveland acquired [[Kyle Korver]]
+July 6, 2019: [[Atlanta Hawks]] to [[New Orleans Pelicans]]<ref>{{cite web|url=https://www.nba.com/pelicans/news/pelicans-acquire-rights-alexander-walker-hayes-silva|title=Pelicans acquire rights to Alexander-Walker, Hayes, Silva|work=NBA.com|date=July 7, 2019|access-date=June 24, 2021|archive-date=July 8, 2019|archive-url=https://web.archive.org/web/20190708142515/https://www.nba.com/pelicans/news/pelicans-acquire-rights-alexander-walker-hayes-silva|url-status=live}}</ref>
+*New Orleans Pelicans acquired the draft rights to [[Jaxson Hayes]], [[Nickeil Alexander-Walker]] and [[Marcos Louzada Silva]], ''2021'' and 2022 second-round picks<!--were originally a 2020 first-round pick, but it converted into being a second-round pick after failing to be outside of its top-10 protections-->
+*Atlanta acquired [[Solomon Hill (basketball)|Solomon Hill]], the draft rights to [[De'Andre Hunter]] and [[Jordan Bone]], and a 2023 second round pick }}}}
+|[[Alabama Crimson Tide men's basketball|Alabama]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|36
+|{{sortname|Miles|McBride}}
+|PG
+|{{flagu|United States}}
+|[[Oklahoma City Thunder]] {{small|(from [[Minnesota Timberwolves|Minnesota]] via [[Golden State Warriors|Golden State]],{{refn|group=upper-alpha|name=7th}}{{refn|group=upper-alpha|name=oubre|November 11, 2020: [[Golden State Warriors]] to [[Oklahoma City Thunder]]<ref>{{Cite web|url=https://www.nba.com/warriors/news/warriors-acquire-kelly-oubre-20201122|title=Golden State Acquires Kelly Oubre Jr. from Oklahoma City|website=NBA.com|date=November 22, 2020|access-date=June 23, 2021|archive-date=December 22, 2020|archive-url=https://web.archive.org/web/20201222021730/https://www.nba.com/warriors/news/warriors-acquire-kelly-oubre-20201122|url-status=live}}</ref>
+*Oklahoma City acquired two ''2021 second-round picks''<!--was originally a first-round pick and a second-round pick, but it converted into being two second-round picks after falling outside of its top-20 protections-->
+*Golden State acquired [[Kelly Oubre Jr.]]}} rights traded to [[New York Knicks|New York]]){{refn|group=lower-alpha|name=nykokc}}}}
+|[[West Virginia Mountaineers men's basketball|West Virginia]] {{small|([[Sophomore|So.]])}}
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|37
+|{{sortname|JT|Thor}}
+|PF
+|{{flagu|United States}}
+|[[Detroit Pistons]] {{small|(from [[Toronto Raptors|Toronto]] via [[Brooklyn Nets|Brooklyn]],{{refn|group=upper-alpha|name=37th|February 7, 2019: [[Toronto Raptors]] to [[Brooklyn Nets]]<ref>{{cite web|title=BROOKLYN NETS COMPLETE TRADE WITH TORONTO RAPTORS|url=https://www.nba.com/nets/news/2019/02/07/nets-complete-trade-with-toronto-raptors|website=NBA.com|access-date=June 23, 2021|date=February 7, 2018|archive-date=June 24, 2021|archive-url=https://web.archive.org/web/20210624223552/https://www.nba.com/nets/news/2019/02/07/nets-complete-trade-with-toronto-raptors|url-status=live}}</ref>
+*Brooklyn acquired [[Greg Monroe]] and a ''2021 second-round pick''
+*Toronto acquired cash considerations
+November 19, 2020: [[Brooklyn Nets]] to [[Detroit Pistons]] (three-team trade with [[Los Angeles Clippers]])<ref>{{cite web |title=Brooklyn Nets Acquire Landry Shamet, Bruce Brown and the Draft Rights to Reggie Perry in Three-team Trade |url=https://www.nba.com/nets/news/2020/11/19/brooklyn-nets-acquire-landry-shamet-bruce-brown-and-draft-rights-reggie-perry-three-team-trade |website=NBA.com |access-date=June 23, 2021 |date=November 19, 2020 |archive-date=December 24, 2020 |archive-url=https://web.archive.org/web/20201224143621/https://www.nba.com/nets/news/2020/11/19/brooklyn-nets-acquire-landry-shamet-bruce-brown-and-draft-rights-reggie-perry-three-team-trade |url-status=live }}</ref>
+*Detroit acquired [[Saddiq Bey]], [[Džanan Musa]], the draft rights to [[Jaylen Hands]], [[Rodney McGruder]], a ''2021 second-round pick'', and cash considerations
+*Brooklyn acquired [[Landry Shamet]], [[Bruce Brown (basketball)|Bruce Brown]], and the draft rights to [[Reggie Perry (basketball)|Reggie Perry]]
+*L.A. Clippers acquired the draft rights to [[Jay Scrubb]]; [[Luke Kennard (basketball)|Luke Kennard]]; [[Justin Patton]]; and 2023, 2024, 2025, and 2026 second-round picks}} traded to [[Charlotte Hornets|Charlotte]])}}{{refn|group=lower-alpha|name=Thor|August 6, 2021: [[Detroit Pistons]] to [[Charlotte Hornets]]<ref>{{cite web|url=https://www.nba.com/hornets/press-releases/charlotte-hornets-acquire-mason-plumlee-and-draft-rights-jt-thor|title=Charlotte Hornets Acquire Mason Plumlee and the Draft Rights to JT Thor|date=August 6, 2021|publisher=NBA|access-date=August 6, 2021|archive-date=August 6, 2021|archive-url=https://web.archive.org/web/20210806171255/https://www.nba.com/hornets/press-releases/charlotte-hornets-acquire-mason-plumlee-and-draft-rights-jt-thor|url-status=live}}</ref>
+*Charlotte acquired ''the draft rights to [[JT Thor]]'' and [[Mason Plumlee]]
+*Detroit acquired ''the draft rights to [[Balša Koprivica]]''
+}}
+|[[Auburn Tigers men's basketball|Auburn]] {{small|([[Freshman|Fr.]])}}
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|38
+|{{sortname|Ayo|Dosunmu}}
+|PG/SG
+|{{flagu|United States}}
+|[[Chicago Bulls]] {{small|(from [[New Orleans Pelicans|New Orleans]]){{refn|group=upper-alpha|name=38th|February 1, 2018: [[New Orleans Pelicans]] to [[Chicago Bulls]]<ref>{{cite news|title=Pelicans Acquire Nikola Mirotić|url=http://www.nba.com/pelicans/news/pelicans-acquire-nikola-mirotic|access-date=July 29, 2021|work=NBA.com|date=February 1, 2018|archive-date=July 29, 2021|archive-url=https://web.archive.org/web/20210729185644/https://www.nba.com/pelicans/news/pelicans-acquire-nikola-mirotic|url-status=live}}</ref>
+*Chicago acquired [[Ömer Aşık]], [[Tony Allen (basketball)|Tony Allen]], [[Jameer Nelson]], a 2018 first-round pick, and the ''option to swap a 2021 second-round pick with New Orleans''
+*New Orleans Pelicans acquired [[Nikola Mirotić]] and a 2018 second-round pick
+}}}}
+|[[Illinois Fighting Illini men's basketball|Illinois]] {{small|([[Junior (education year)|Jr.]])}}
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|39
+|{{sortname|Neemias|Queta}}
+|C
+|{{flagu|Portugal}}
+|[[Sacramento Kings]]
+|[[Utah State Aggies men's basketball|Utah State]] {{small|([[Junior (education year)|Jr.]])}}
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|40
+|{{sortname|Jared|Butler}}
+|SG
+|{{flagu|United States}}
+|[[New Orleans Pelicans]] {{small|(from [[Chicago Bulls|Chicago]],{{refn|group=upper-alpha|name=38th}} rights traded to [[Utah Jazz|Utah]] via [[Memphis Grizzlies|Memphis]])}}{{refn|group=lower-alpha|name=Ziaire}}{{refn|group=lower-alpha|name=Aldama}}
+|[[Baylor Bears men's basketball|Baylor]] {{small|([[Junior (education year)|Jr.]])}}
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|41
+|{{sortname|Joe|Wieskamp}}
+|SF
+|{{flagu|United States}}
+|[[San Antonio Spurs]]
+|[[Iowa Hawkeyes men's basketball|Iowa]] {{small|([[Junior (education year)|Jr.]])}}
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|42
+|{{sortname|Isaiah|Livers}}
+|SF
+|{{flagu|United States}}
+|[[Detroit Pistons]] {{small|(from [[Charlotte Hornets|Charlotte]] via [[New York Knicks|New York]]){{refn|group=upper-alpha|name=42nd|February 7, 2018: [[Charlotte Hornets]] to [[New York Knicks]]<ref>{{cite web|title=Hornets Acquire Center Willy Hernangomez From Knicks|url=http://www.nba.com/hornets/hornets-acquire-center-willy-hernangomez-knicks|website=NBA.com|access-date=June 23, 2021|date=February 7, 2018|archive-date=June 29, 2021|archive-url=https://web.archive.org/web/20210629121940/https://www.nba.com/hornets/hornets-acquire-center-willy-hernangomez-knicks|url-status=live}}</ref>
+*New York acquired [[Johnny O'Bryant III]], a 2020 second-round pick, and a ''2021 second-round pick''
+*Charlotte acquired [[Willy Hernangómez]]
+February 8, 2021: [[New York Knicks]] to [[Detroit Pistons]].<ref>{{cite web |title=Knicks Acquire Derrick Rose |url=https://www.nba.com/knicks/front-office-news/knicks-acquire-derrick-rose |website=NBA.com |access-date=June 23, 2021 |date=February 8, 2021 |archive-date=March 1, 2021 |archive-url=https://web.archive.org/web/20210301141700/https://www.nba.com/knicks/front-office-news/knicks-acquire-derrick-rose |url-status=live }}</ref>
+*Detroit acquired [[Dennis Smith Jr.]] and a ''2021 second-round pick''
+*New York acquired [[Derrick Rose]]}}}}
+|[[Michigan Wolverines men's basketball|Michigan]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|43
+|{{sortname|Greg|Brown|dab=basketball, born 2001}}
+|PF
+|{{flagu|United States}}
+|[[New Orleans Pelicans]] {{small|(from [[Washington Wizards|Washington]] via [[Utah Jazz|Utah]] to [[Cleveland Cavaliers|Cleveland]] to [[Milwaukee Bucks|Milwaukee]],{{refn|group=upper-alpha|name=43rd|July 7, 2016: [[Washington Wizards]] to [[Utah Jazz]]<ref>{{cite web|url=https://wizardstoday.monumentalsportsnetwork.com/2016/07/07/wizards-acquire-trey-burke|title=Wizards Acquire Trey Burke|website=MonumentalSportsNetwork.com|date=July 7, 2016|access-date=July 7, 2016|archive-date=August 17, 2016|archive-url=https://web.archive.org/web/20160817065205/https://wizardstoday.monumentalsportsnetwork.com/2016/07/07/wizards-acquire-trey-burke|url-status=dead}}</ref>
+*Utah acquired a ''2021 second-round pick''
+*Washington acquired [[Trey Burke]]
+November 29, 2018: [[Utah Jazz]] to [[Cleveland Cavaliers]]<ref>{{cite web|url=https://www.nba.com/cavaliers/releases/burks-trade-181129|title=Cavaliers Acquire Alec Burks and Two Future Second Round Picks from Utah|work=NBA.com|date=November 29, 2018|access-date=June 28, 2021|archive-date=November 8, 2020|archive-url=https://web.archive.org/web/20201108094907/https://www.nba.com/cavaliers/releases/burks-trade-181129|url-status=live}}</ref>
+*Cleveland acquired [[Alec Burks]], a 2020 second-round pick, and a ''2021 second-round pick''
+*Utah acquired [[Kyle Korver]]
+}}{{refn|group=upper-alpha|name=dellavedova|December 7, 2018: [[Cleveland Cavaliers]] to [[Milwaukee Bucks]] (three-team trade with the [[Washington Wizards]])<ref>{{cite web|title=Report: Cavs trade George Hill to Bucks for Dellavedova, Henson, picks|url=https://www.nba.com/news/cavs-trade-george-hill-bucks-dellavedova-henson-picks|website=NBA.com|access-date=June 26, 2021|date=December 7, 2018|archive-date=June 27, 2021|archive-url=https://web.archive.org/web/20210627025103/https://www.nba.com/news/cavs-trade-george-hill-bucks-dellavedova-henson-picks|url-status=live}}</ref>
+*Cleveland acquired [[Matthew Dellavedova]], [[John Henson (basketball)|John Henson]], ''2021'' and 2022 second-round picks, and a conditional 2022 first-round pick
+*Milwaukee acquired [[George Hill (basketball)|George Hill]], [[Jason Smith (basketball, born 1986)|Jason Smith]], a 2020 second-round pick, Washington's ''2021 second-round pick'', and cash considerations
+*Washington acquired [[Sam Dekker]] and a conditional 2020 second-round pick
+}}{{refn|group=upper-alpha|name=43rd-2|February 7, 2019: [[Milwaukee Bucks]] to [[New Orleans Pelicans]] (three-team trade with the [[Detroit Pistons]])<ref>{{cite web|url=https://www.nba.com/bucks/news/milwaukee-bucks-acquire-nikola-mirotic-three-team-deal|title=Milwaukee Bucks Acquire Nikola Mirotic In Three-Team Deal|work=NBA.com|date=February 7, 2019|access-date=June 28, 2021|archive-date=February 9, 2019|archive-url=https://web.archive.org/web/20190209131732/https://www.nba.com/bucks/news/milwaukee-bucks-acquire-nikola-mirotic-three-team-deal|url-status=live}}</ref>
+*New Orleans acquired [[Jason Smith (basketball, born 1986)|Jason Smith]], [[Stanley Johnson (basketball)|Stanley Johnson]], a 2019 second-round pick, two 2020 second-round picks, and a ''2021 second-round pick''
+*Milwaukee acquired [[Nikola Mirotić]]
+*Detroit acquired [[Thon Maker]]}} rights traded to [[Portland Trail Blazers|Portland]]){{refn|group=lower-alpha|name=brown|July 29, 2021: [[New Orleans Pelicans]] to [[Portland Trail Blazers]]<ref>{{cite web|url=https://www.nba.com/news/blazers-trade-pelicans-43-pick|title=Blazers acquire No. 43 pick from Pelicans|date=July 29, 2021|publisher=NBA|access-date=July 30, 2021|archive-date=July 30, 2021|archive-url=https://web.archive.org/web/20210730040429/https://www.nba.com/news/blazers-trade-pelicans-43-pick|url-status=live}}</ref>
+*Portland acquired ''the draft rights to [[Greg Brown III]]''
+*New Orleans acquired a future second-round pick and cash considerations
+}}}}
+|[[Texas Longhorns men's basketball|Texas]] {{small|([[Freshman|Fr.]])}}
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|44
+|{{sortname|Kessler|Edwards}}
+|SF
+|{{flagu|United States}}
+|[[Brooklyn Nets]] {{small|(from [[Indiana Pacers|Indiana]]){{refn|group=upper-alpha|name=44th|July 7, 2016: [[Indiana Pacers]] to [[Brooklyn Nets]]<ref>{{cite web|title=Brooklyn Nets Acquire Draft Rights to Caris LeVert from Indiana|url=https://www.nba.com/nets/news/2016/07/07/brooklyn-nets-acquire-draft-rights-to-caris-levert-from-indiana|website=NBA.com|access-date=June 26, 2021|date=July 7, 2016|archive-date=June 26, 2021|archive-url=https://web.archive.org/web/20210626184741/https://www.nba.com/nets/news/2016/07/07/brooklyn-nets-acquire-draft-rights-to-caris-levert-from-indiana|url-status=live}}</ref>
+*Brooklyn acquired the draft rights to [[Caris LeVert]] and a ''2021 second-round pick'' <!--protected No. 45-60 2017-22, finally conveyed in 2021-->
+*Indiana acquired [[Thaddeus Young]]}}}}
+|[[Pepperdine Waves men's basketball|Pepperdine]] {{small|([[Junior (education year)|Jr.]])}}
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|45
+|bgcolor="C0C0C0"| {{sortname|Juhann|Begarin}}#
+|SG
+|{{flagu|France}}
+|[[Boston Celtics]]
+|[[Paris Basketball]] {{small|([[LNB Pro B|France]])}}
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|46
+|{{sortname|Dalano|Banton}}
+|PG
+|{{flagu|Canada}}
+|[[Toronto Raptors]] {{small|(from [[Memphis Grizzlies|Memphis]] via [[Sacramento Kings|Sacramento]]){{refn|group=upper-alpha|name=46th|July 17, 2018: [[Memphis Grizzlies]] to [[Sacramento Kings]]<ref>{{cite web|url=https://www.nba.com/kings/news/kings-acquire-ben-mclemore-deyonta-davis-2021-second-round-draft-pick-and-cash|title=Kings Acquire Ben McLemore, Deyonta Davis, 2021 Second-Round Draft pick, and Cash Considerations|work=NBA.com|date=July 17, 2018|access-date=June 28, 2021|archive-date=September 29, 2020|archive-url=https://web.archive.org/web/20200929072631/https://www.nba.com/kings/news/kings-acquire-ben-mclemore-deyonta-davis-2021-second-round-draft-pick-and-cash|url-status=live}}</ref>
+*Sacramento acquired [[Ben McLemore]], [[Deyonta Davis]], a ''2021 second-round pick'', and cash considerations
+*Memphis acquired [[Garrett Temple]]
+March 25, 2021: [[Sacramento Kings]] to [[Toronto Raptors]]<ref>{{cite web|url=https://www.nba.com/kings/news/kings-acquire-terence-davis|title=Kings Acquire Terence Davis|work=NBA.com|date=March 25, 2021|access-date=June 28, 2021|archive-date=July 16, 2021|archive-url=https://web.archive.org/web/20210716192205/https://www.nba.com/kings/news/kings-acquire-terence-davis|url-status=live}}</ref>
+*Toronto acquired a ''2021 second-round pick''
+*Sacramento acquired [[Terence Davis]]}}}}
+|[[Nebraska Cornhuskers men's basketball|Nebraska]] {{small|([[Sophomore|So.]])}}
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|47
+|{{sortname|David|Johnson|dab=basketball}}
+|SG
+|{{flagu|United States}}
+|[[Toronto Raptors]] {{small|(from [[Golden State Warriors|Golden State]] via [[New Orleans Pelicans|New Orleans]] to [[Utah Jazz|Utah]]){{refn|group=upper-alpha|name=47th|June 20, 2019: [[Golden State Warriors]] to [[New Orleans Pelicans]]<ref>{{cite web|title=Pelicans complete trade with Golden State|url=https://www.nba.com/pelicans/news/pelicans-complete-trade-golden-state|work=NBA.com|date=June 20, 2019|access-date=June 28, 2021|archive-date=November 5, 2019|archive-url=https://web.archive.org/web/20191105072100/https://www.nba.com/pelicans/news/pelicans-complete-trade-golden-state|url-status=live}}</ref>
+*New Orleans acquired ''2021'' and 2023 second-round picks
+*Golden State acquired the draft rights to [[Alen Smailagić]]
+July 7, 2019: [[New Orleans Pelicans]] to [[Utah Jazz]]<ref>{{cite web|title=Pelicans acquire Derrick Favors|url=https://www.nba.com/pelicans/news/pelicans-acquire-derrick-favors|website=NBA.com|access-date=June 28, 2021|date=July 7, 2019|archive-date=November 14, 2020|archive-url=https://web.archive.org/web/20201114012236/https://www.nba.com/pelicans/news/pelicans-acquire-derrick-favors|url-status=live}}</ref>
+*Utah acquired ''2021'' and 2023 second-round picks
+*New Orleans acquired [[Derrick Favors]]
+March 25, 2021: [[Utah Jazz]] to [[Toronto Raptors]]<ref>{{cite web |title=Utah Jazz Acquire Matt Thomas |url=https://www.nba.com/jazz/news/utah-jazz-acquire-matt-thomas |website=NBA.com |date=March 25, 2021 |access-date=March 27, 2021 |archive-date=March 26, 2021 |archive-url=https://web.archive.org/web/20210326230437/https://www.nba.com/jazz/news/utah-jazz-acquire-matt-thomas |url-status=live }}</ref>
+*Toronto acquired a ''2021 second-round pick''
+*Utah acquired [[Matt Thomas (basketball)|Matt Thomas]]}}}}
+|[[Louisville Cardinals men's basketball|Louisville]] {{small|([[Sophomore|So.]])}}
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|48
+|{{sortname|Sharife|Cooper}}
+|PG
+|{{flagu|United States}}
+|[[Atlanta Hawks]] {{small|(from [[Miami Heat|Miami]] via [[Portland Trail Blazers|Portland]] to [[Sacramento Kings|Sacramento]]){{refn|group=upper-alpha|name=48th|February 18, 2016: [[Miami Heat]] to [[Portland Trail Blazers]]<ref>{{cite web|url=http://www.nba.com/blazers/trail-blazers-acquire-brian-roberts-future-second-round-pick-miami|title=TRAIL BLAZERS ACQUIRE BRIAN ROBERTS, FUTURE SECOND-ROUND PICK FROM MIAMI|work=NBA.com|publisher=Turner Sports Interactive, Inc.|date=February 18, 2016|access-date=June 28, 2021|archive-date=July 2, 2021|archive-url=https://web.archive.org/web/20210702214719/https://www.nba.com/blazers/trail-blazers-acquire-brian-roberts-future-second-round-pick-miami|url-status=live}}</ref>
+*Portland acquired [[Brian Roberts (basketball)|Brian Roberts]] and a ''2021 second-round pick''
+*Miami acquired cash considerations
+June 21, 2018: [[Portland Trail Blazers]] to [[Sacramento Kings]]<ref>{{cite web|url=http://www.nba.com/blazers/trail-blazers-acquire-draft-rights-gary-trent-jr|title=TRAIL BLAZERS ACQUIRE DRAFT RIGHTS TO GARY TRENT JR.|work=TrailBlazers.com|date=June 21, 2018|access-date=June 28, 2021|archive-date=June 22, 2018|archive-url=https://web.archive.org/web/20180622112047/http://www.nba.com/blazers/trail-blazers-acquire-draft-rights-gary-trent-jr|url-status=live}}</ref>
+*Sacramento acquired a 2019 second-round pick and a ''2021 second-round pick''
+*Portland acquired the draft rights to [[Gary Trent Jr.]]
+February 6, 2020: [[Sacramento Kings]] to [[Atlanta Hawks]]<ref>{{cite web|url=https://www.nba.com/hawks/hawks-acquire-dedmon-draftpicks-from-kings-for-len-parker|title=Hawks Acquire Dewayne Dedmon, Draft Picks From Kings in Exchange For Alex Len and Jabari Parker|work=NBA.com|date=February 6, 2020|access-date=February 6, 2020|archive-date=February 7, 2020|archive-url=https://web.archive.org/web/20200207073437/https://www.nba.com/hawks/hawks-acquire-dedmon-draftpicks-from-kings-for-len-parker|url-status=live}}</ref>
+*Atlanta acquired [[Dewayne Dedmon]], a 2020 second-round pick, and a ''2021 second-round pick''
+*Sacramento acquired [[Jabari Parker]] and [[Alex Len]]}}}}
+|[[Auburn Tigers men's basketball|Auburn]] {{small|([[Freshman|Fr.]])}}
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|49
+|bgcolor="C0C0C0"| {{sortname|Marcus|Zegarowski}}#
+|PG
+|{{flagu|United States}}
+|[[Brooklyn Nets]] {{small|(from [[Atlanta Hawks|Atlanta]]){{refn|group=upper-alpha|name=49th|July 6, 2019: [[Atlanta Hawks]] to [[Brooklyn Nets]]<ref>{{cite web|title=BROOKLYN NETS ACQUIRE TAUREAN PRINCE AND 2021 SECOND ROUND DRAFT PICK FROM ATLANTA|url=https://www.nba.com/nets/news/2019/07/06/brooklyn-nets-acquire-taurean-prince-and-2021-second-round-draft-pick-atlanta|website=NBA.com|access-date=June 26, 2021|date=July 6, 2019|archive-date=July 6, 2019|archive-url=https://web.archive.org/web/20190706185255/https://www.nba.com/nets/news/2019/07/06/brooklyn-nets-acquire-taurean-prince-and-2021-second-round-draft-pick-atlanta|url-status=live}}</ref>
+*Brooklyn acquired [[Taurean Prince]] and a ''2021 second-round pick''
+*Atlanta acquired the draft rights to [[Nickeil Alexander-Walker]], [[Allen Crabbe]], and a protected 2020 first-round pick}}}}
+|[[Creighton Bluejays men's basketball|Creighton]] {{small|([[Junior (education year)|Jr.]])}}
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|50
+| {{sortname|Filip|Petrušev}}
+|C
+|{{flagu|Serbia}}
+|[[Philadelphia 76ers]] {{small|(from [[New York Knicks|New York]]){{refn|group=upper-alpha|name=50th|June 26, 2015: [[New York Knicks]] to [[Philadelphia 76ers]]<ref>{{cite web|title=Knicks Acquire Guillermo Hernangomez|url=https://www.nba.com/knicks/knicks-acquire-guillermo-hernangomez|website=NBA.com|access-date=June 26, 2021|date=June 26, 2015|archive-date=June 28, 2015|archive-url=https://web.archive.org/web/20150628201404/https://www.nba.com/knicks/knicks-acquire-guillermo-hernangomez|url-status=live}}</ref>
+*Philadelphia acquired a 2020 second-round pick, a ''2021 second-round pick'', and cash considerations
+*New York acquired the draft rights to [[Willy Hernangómez]]}}}}
+|[[KK Mega Basket|Mega Basket]] {{small|([[Basketball League of Serbia|Serbia]])}}
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|51
+| {{sortname|Brandon|Boston Jr.}}
+|SG
+|{{flagu|United States}}
+|[[Memphis Grizzlies]] {{small|(from [[Portland Trail Blazers|Portland]] via [[Cleveland Cavaliers|Cleveland]] to [[Detroit Pistons|Detroit]] to  [[Dallas Mavericks|Dallas]],{{refn|group=upper-alpha|name=51st-1|February 4, 2019: [[Portland Trail Blazers]] to [[Cleveland Cavaliers]]<ref>{{cite web|title=Cavaliers trade Hood to Trail Blazers|url=https://www.nba.com/news/cleveland-cavaliers-trade-hood-portland-trail-blazers?collection=news|website=NBA.com|access-date=June 26, 2021|date=February 4, 2019|archive-date=June 26, 2021|archive-url=https://web.archive.org/web/20210626214532/https://www.nba.com/news/cleveland-cavaliers-trade-hood-portland-trail-blazers?collection=news|url-status=live}}</ref>
+*Cleveland acquired [[Nik Stauskas]], [[Wade Baldwin IV]], ''2021'' and 2023 second-round picks
+*Portland acquired [[Rodney Hood]]
+June 26, 2019: [[Cleveland Cavaliers]] to [[Detroit Pistons]]<ref>{{cite web|title=Pistons trade Kevin Porter Jr. to Cavaliers for four second-round picks|url=https://www.nba.com/news/pistons-cavaliers-kevin-porter-jr-trade-offical-release|website=NBA.com|access-date=June 26, 2021|date=June 26, 2019|archive-date=June 26, 2021|archive-url=https://web.archive.org/web/20210626214525/https://www.nba.com/news/pistons-cavaliers-kevin-porter-jr-trade-offical-release|url-status=live}}</ref>
+*Detroit acquired a 2020 second-round pick, a ''2021 second-round pick'', a 2023 second-round pick, a conditional 2024 second-round pick, and cash considerations
+*Cleveland acquired the draft rights to [[Kevin Porter Jr.]]
+June 26, 2019: [[Detroit Pistons]] to [[Dallas Mavericks]]<ref>{{cite web|title=Pistons complete Draft night trade with Mavericks|url=https://www.nba.com/news/pistons-mavericks-isaiah-roby-deividas-sirvydis-trade-release|website=NBA.com|access-date=June 26, 2021|date=June 26, 2019|archive-date=June 26, 2021|archive-url=https://web.archive.org/web/20210626214526/https://www.nba.com/news/pistons-mavericks-isaiah-roby-deividas-sirvydis-trade-release|url-status=live}}</ref>
+*Dallas acquired the draft rights to [[Isaiah Roby]], a 2020 second-round pick, and a ''2021 second-round pick''
+*Detroit acquired the draft rights to [[Deividas Sirvydis]]
+July 8, 2019: [[Dallas Mavericks]] to [[Memphis Grizzlies]]<ref>{{cite web|title=Dallas Mavericks acquire Delon Wright|url=https://www.nba.com/news/mavericks-acquire-delon-wright|website=NBA.com|access-date=June 26, 2021|date=July 8, 2019|archive-date=June 26, 2021|archive-url=https://web.archive.org/web/20210626214524/https://www.nba.com/news/mavericks-acquire-delon-wright|url-status=live}}</ref>
+*Memphis acquired the draft rights to [[Satnam Singh]], a ''2021 second-round pick'', and a Least Favorable 2023 second-round pick <!--Oklahoma City will receive the more favorable of Dallas' 2023 2nd round pick and Miami's 2023 2nd round pick (Oklahoma City may convey this pick to Boston (see Oklahoma City Outgoing)); Boston will receive the more favorable of (i) Houston's 2023 2nd round pick protected for picks 31-32 and (ii) the less favorable of the Dallas pick and the Miami pick and Indiana will receive the least favorable of the three (via Miami to Dallas; via Memphis' right to swap Dallas or Miami for Houston); if the Houston pick falls within its protected range, then Houston's obligation to Boston will be extinguished and Boston will instead receive the less favorable of the Dallas pick and the Miami pick and Indiana will instead receive the Houston pick. In short, out of Dallas, Miami, and Houston's second-round picks, OKC gets best, Boston gets next, and Indiana gets worst. If Houston's pick is 31 or 32, then Indiana gets Houston's pick, OKC/Boston get Dallas/Miami picks.-->
+*Dallas acquired [[Delon Wright]]}} traded to [[Los Angeles Clippers|L.A. Clippers]] via [[New Orleans Pelicans|New Orleans]]){{refn|group=lower-alpha|name=Ziaire}}{{refn|group=lower-alpha|name=51-clippers|August 7, 2021: [[New Orleans Pelicans]] to [[Los Angeles Clippers]]<ref>{{cite web|url=https://www.nba.com/pelicans/news/pelicans-complete-trade-clippers|title=Pelicans complete trade with Clippers|work=NBA.com|date=August 7, 2021|access-date=August 7, 2021|archive-date=August 7, 2021|archive-url=https://web.archive.org/web/20210807175927/https://www.nba.com/pelicans/news/pelicans-complete-trade-clippers|url-status=live}}</ref>
+* L.A. Clippers acquired ''the draft rights to Brandon Boston Jr.''
+*New Orleans acquired a 2022 second round selection and cash considerations }}}}
+|[[Kentucky Wildcats men's basketball|Kentucky]] {{small|([[Freshman|Fr.]])}}
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|52
+|{{sortname|Luka|Garza}}
+|C
+|{{flagu|United States}}
+|[[Detroit Pistons]] {{small|(from [[Los Angeles Lakers|L.A. Lakers]] via [[Detroit Pistons|Detroit]] to [[Houston Rockets|Houston]] to [[Sacramento Kings|Sacramento]]){{refn|group=upper-alpha|name=52nd|February 6, 2019: [[Los Angeles Lakers]] to [[Detroit Pistons]]<ref>{{cite web |url=https://www.nba.com/pistons/news/detroit-pistons-acquire-sviatoslav-mykhailiuk |title=Detroit Pistons Acquire Sviatoslav Mykhailiuk |work=NBA.com |date=February 6, 2019 |access-date=June 28, 2021 |archive-date=May 23, 2021 |archive-url=https://web.archive.org/web/20210523174007/https://www.nba.com/pistons/news/detroit-pistons-acquire-sviatoslav-mykhailiuk |url-status=live }}</ref>
+*Detroit acquired [[Sviatoslav Mykhailiuk]], and a ''2021 second-round pick''
+*L.A. Lakers acquired [[Reggie Bullock]]
+November 24, 2020: [[Detroit Pistons]] to [[Houston Rockets]]<ref>{{cite web|url=https://www.nba.com/rockets/news/rockets-acquire-christian-wood|title=Rockets Acquire Christian Wood|work=NBA.com|date=November 24, 2020|access-date=June 28, 2021|archive-date=January 10, 2021|archive-url=https://web.archive.org/web/20210110000610/https://www.nba.com/rockets/news/rockets-acquire-christian-wood|url-status=live}}</ref>
+*Houston acquired [[Christian Wood]], a conditional first-round pick, and a ''2021 second-round pick''
+*Detroit acquired [[Trevor Ariza]], the draft rights to [[Isaiah Stewart]], a 2027 second-round pick, and cash considerations
+November 25, 2020: [[Houston Rockets]] to [[Sacramento Kings]]<ref>{{cite web|url=https://www.nba.com/rockets/news/rockets-acquire-kj-martin-jr|title=Rockets Acquire KJ Martin Jr.|work=NBA.com|date=November 25, 2020|access-date=June 28, 2021|archive-date=January 10, 2021|archive-url=https://web.archive.org/web/20210110173940/https://www.nba.com/rockets/news/rockets-acquire-kj-martin-jr|url-status=live}}</ref>
+*Sacramento acquired a ''2021 second-round pick'' and cash considerations
+*Houston acquired the draft rights to [[Kenyon Martin Jr.]]
+March 25, 2021: [[Sacramento Kings]] to [[Detroit Pistons]]<ref>{{cite web|title=Detroit Pistons Acquire Cory Joseph and Two Second-Round Picks From Sacramento Kings In Exchange For Delon Wright|url=https://www.nba.com/pistons/news/detroit-pistons-acquire-cory-joseph-and-two-second-round-picks-sacramento-kings-exchange-delon|website=NBA.com|date=March 26, 2021|access-date=June 28, 2021|archive-date=June 10, 2021|archive-url=https://web.archive.org/web/20210610045901/https://www.nba.com/pistons/news/detroit-pistons-acquire-cory-joseph-and-two-second-round-picks-sacramento-kings-exchange-delon|url-status=live}}</ref>
+*Detroit acquired [[Cory Joseph]], ''2021''and 2024 second-round picks
+*Sacramento acquired [[Delon Wright]]}}}}
+|[[Iowa Hawkeyes men's basketball|Iowa]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|53
+|{{sortname|Charles|Bassey}}
+|C
+|{{flagu|Nigeria}}
+|[[Philadelphia 76ers]] {{small|(from [[Dallas Mavericks|Dallas]] via [[New Orleans Pelicans|New Orleans]]){{refn|group=upper-alpha|name=53rd|March 25, 2021: [[Dallas Mavericks]] to [[New Orleans Pelicans]]<ref>{{cite web|title=Pelicans deal JJ Redick to Mavericks|url=https://www.nba.com/news/reports-pelicans-deal-jj-redick-to-mavericks|website=NBA.com|access-date=June 26, 2021|date=March 25, 2021|archive-date=June 26, 2021|archive-url=https://web.archive.org/web/20210626200017/https://www.nba.com/news/reports-pelicans-deal-jj-redick-to-mavericks|url-status=live}}</ref>
+*New Orleans acquired [[James Johnson (basketball, born 1987)|James Johnson]], [[Wes Iwundu|Wesley Iwundu]], and a ''2021 second-round pick''
+*Dallas acquired [[JJ Redick]] and [[Nicolò Melli]]
+July 29, 2021: [[New Orleans Pelicans]] to [[Philadelphia 76ers]]<ref>{{cite web |title=Pelicans complete trade with 76ers |url=https://www.nba.com/pelicans/news/pelicans-complete-trade-76ers-2021-nba-draft |website=NBA.com |access-date=July 29, 2021 |date=July 29, 2021 |archive-date=July 29, 2021 |archive-url=https://web.archive.org/web/20210729155534/https://www.nba.com/pelicans/news/pelicans-complete-trade-76ers-2021-nba-draft |url-status=live }}</ref><ref>{{cite web |title=Sixers acquire No. 53 pick in 2021 Draft from Pelicans |url=https://www.nba.com/news/sixers-acquire-no-53-pick-in-2021-draft-from-pelicans |website=NBA.com |access-date=July 29, 2021 |date=July 29, 2021 |archive-date=July 29, 2021 |archive-url=https://web.archive.org/web/20210729155533/https://www.nba.com/news/sixers-acquire-no-53-pick-in-2021-draft-from-pelicans |url-status=live }}</ref>
+*Philadelphia acquired No. 53 pick
+*New Orleans acquired cash considerations}}}}
+|[[Western Kentucky Hilltoppers basketball|Western Kentucky]] {{small|([[Junior (education year)|Jr.]])}}
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|54
+|{{sortname|Sandro|Mamukelashvili}}
+|PF/C
+|{{flagu|Georgia}}{{refn|group=n|Mamukelashvili was born in the United States to Georgian parents and raised in Georgia. He holds dual citizenship but plays for the [[Georgia men's national basketball team|Georgia national basketball team]].}}
+|[[Indiana Pacers]] {{small|(from [[Milwaukee Bucks|Milwaukee]] via [[Cleveland Cavaliers|Cleveland]] to [[Houston Rockets|Houston]],{{refn|group=upper-alpha|name=dellavedova}}{{refn|group=upper-alpha|name=54th|February 7, 2019: [[Cleveland Cavaliers]] to [[Houston Rockets]] (three-team trade with the [[Sacramento Kings]]<ref name="nba.com">{{cite web|title=Shumpert headed to Rockets in three-team deal|url=https://www.nba.com/news/rockets-cavaliers-kings-complete-trade|website=NBA.com|access-date=June 26, 2021|date=February 7, 2019|archive-date=June 27, 2021|archive-url=https://web.archive.org/web/20210627025107/https://www.nba.com/news/rockets-cavaliers-kings-complete-trade|url-status=live}}</ref>
+*Houston acquired [[Wade Baldwin IV]], [[Iman Shumpert]], [[Nik Stauskas]],  a 2020 second-round pick swap (with Cleveland), and a ''2021 second-round pick''
+*Cleveland acquired [[Marquese Chriss]], [[Brandon Knight (basketball)|Brandon Knight]], a condition 2019 first-round pick, and a 2022 second-round pick
+*Sacramento acquired [[Alec Burks]]
+February 7, 2019: [[Houston Rockets]] to [[Indiana Pacers]]<ref name="nba.com" />
+*Pacers acquired [[Wade Baldwin IV]], [[Nik Stauskas]], the draft rights to [[Maarty Leunen]], and a ''2021 second-round pick''
+*Houston acquired cash considerations}} rights traded to Milwaukee){{refn|group=lower-alpha|name=31sh-post}}}}
+|[[Seton Hall Pirates men's basketball|Seton Hall]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|55
+|{{sortname|Aaron|Wiggins}}
+|SG
+|{{flagu|United States}}
+|[[Oklahoma City Thunder]] {{small|(from [[Denver Nuggets|Denver]] via [[Philadelphia 76ers|Philadelphia]] to [[Golden State Warriors|Golden State]]){{refn|group=upper-alpha|name=55th|July 6, 2018: [[Denver Nuggets]] to [[Philadelphia 76ers]]<ref name="Denver Nuggets Trade Wilson Chandle">{{cite web|url=https://www.nba.com/nuggets/news/nuggets-trade-wilson-chandler-to-sixers-070618|title=Denver Nuggets Trade Wilson Chandler to Philadelphia 76ers|work=NBA.com|date=July 6, 2018|access-date=July 6, 2018|archive-date=November 28, 2020|archive-url=https://web.archive.org/web/20201128193403/https://www.nba.com/nuggets/news/nuggets-trade-wilson-chandler-to-sixers-070618|url-status=live}}</ref>
+*Philadelphia acquired [[Wilson Chandler]] and a ''2021 second round pick''
+*Denver acquired cash considerations
+February 6, 2020: [[Philadelphia 76ers]] to [[Golden State Warriors]]<ref>{{cite web|url=https://www.nba.com/sixers/team-acquires-burks-robinson-iii|title=Team Acquires Burks, Robinson III|work=NBA.com|date=February 6, 2020|access-date=June 24, 2022|archive-date=February 7, 2020|archive-url=https://web.archive.org/web/20200207064804/https://www.nba.com/sixers/team-acquires-burks-robinson-iii|url-status=live}}</ref>
+*Golden State acquired 2020, ''2021'', and 2022 second-round picks
+*Philadelphia acquired [[Alec Burks]] and [[Glenn Robinson III]]
+}}{{refn|group=upper-alpha|name=oubre}}}}
+|[[Maryland Terrapins men's basketball|Maryland]] {{small|([[Junior (education year)|Jr.]])}}
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|56
+| {{sortname|Scottie|Lewis}}
+|SG
+|{{flagu|United States}}
+|[[Charlotte Hornets]] {{small|(from [[Los Angeles Clippers|L.A. Clippers]]){{refn|group=upper-alpha|name=56th|June 21, 2018: [[Los Angeles Clippers]] to [[Charlotte Hornets]]<ref>{{cite web|title=LA Clippers swap picks with Charlotte Hornets to acquire Shai Gilgeous-Alexander|url=https://www.nba.com/news/report-la-clippers-swap-picks-charlotte-hornets-get-shai-gilgeous-alexander|website=NBA.com|access-date=June 26, 2021|date=Jun 21, 2018|archive-date=June 26, 2021|archive-url=https://web.archive.org/web/20210626194022/https://www.nba.com/news/report-la-clippers-swap-picks-charlotte-hornets-get-shai-gilgeous-alexander|url-status=live}}</ref>
+*Charlotte acquired the draft rights to [[Miles Bridges]], a 2020 second-round pick, and a ''2021 second-round pick''
+*Los Angeles acquired the draft rights to [[Shai Gilgeous-Alexander]]}}}}
+|[[Florida Gators men's basketball|Florida]] {{small|([[Sophomore|So.]])}}
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|57
+|bgcolor="C0C0C0"| {{sortname|Balša|Koprivica}}#
+|C
+|{{flagu|Serbia}}
+|[[Charlotte Hornets]] {{small|(from [[Brooklyn Nets|Brooklyn]],{{refn|group=upper-alpha|name=57th|July 6, 2018: [[Brooklyn Nets]] to [[Charlotte Hornets]]<ref>{{cite web|title=BROOKLYN NETS COMPLETE TRADE WITH CHARLOTTE HORNETS|url=https://www.nba.com/nets/news/2018/07/06/brooklyn-nets-complete-trade-with-charlotte-hornets|website=NBA.com|access-date=June 26, 2021|date=July 6, 2018|archive-date=July 7, 2018|archive-url=https://web.archive.org/web/20180707101622/https://www.nba.com/nets/news/2018/07/06/brooklyn-nets-complete-trade-with-charlotte-hornets|url-status=live}}</ref>
+*Charlotte acquired [[Timofey Mozgov]], the draft rights to [[Hamidou Diallo]], and a ''2021 second-round pick''
+*Brooklyn acquired [[Dwight Howard]]}} rights traded to [[Detroit Pistons|Detroit]])}}{{refn|group=lower-alpha|name=Thor}}
+|[[Florida State Seminoles men's basketball|Florida State]] {{small|([[Sophomore|So.]])}}
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|58
+|{{sortname|Jericho|Sims}}
+|PF/C
+|{{flagu|United States}}
+|[[New York Knicks]] {{small|(from [[Philadelphia 76ers|Philadelphia]]){{refn|group=upper-alpha|name=58th|March 25, 2021: [[Philadelphia 76ers]] to [[New York Knicks]] (three-team trade with [[Oklahoma City Thunder]])<ref>{{cite web|title=76ers acquire George Hill in 3-team trade with Thunder, Knicks|url=https://www.nba.com/news/report-76ers-acquire-george-hill-in-3-team-trade-with-thunder-knicks|website=NBA.com|access-date=June 26, 2021|date=March 25, 2021|archive-date=June 26, 2021|archive-url=https://web.archive.org/web/20210626194024/https://www.nba.com/news/report-76ers-acquire-george-hill-in-3-team-trade-with-thunder-knicks|url-status=live}}</ref>
+*New York acquired [[Terrance Ferguson]], [[Vincent Poirier]], [[Emir Preldžič]], a ''2021 second-round pick'', and Miami's protected 2024 second-round pick
+*Philadelphia acquired [[George Hill (basketball)|George Hill]], [[Ignas Brazdeikis]]
+*Oklahoma City acquired [[Austin Rivers]], [[Tony Bradley (basketball)|Tony Bradley]], and Philadelphia's 2025 and 2026 second-round picks}}}}
+|[[Texas Longhorns men's basketball|Texas]] {{small|([[Senior (education)|Sr.]])}}
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|59
+|{{sortname|RaiQuan|Gray}}
+|PF
+|{{flagu|United States}}
+|[[Brooklyn Nets]] {{small|(from [[Phoenix Suns|Phoenix]]){{refn|group=upper-alpha|name=59th|July 20, 2018: [[Phoenix Suns]] to [[Brooklyn Nets]]<ref>{{cite web|title=BROOKLYN NETS COMPLETE TRADE WITH PHOENIX SUNS|url=https://www.nba.com/nets/news/2018/07/20/brooklyn-nets-complete-trade-phoenix-suns|website=NBA.com|access-date=June 26, 2021|date=June 21, 2019|archive-date=November 28, 2020|archive-url=https://web.archive.org/web/20201128120108/https://www.nba.com/nets/news/2018/07/20/brooklyn-nets-complete-trade-phoenix-suns|url-status=live}}</ref>
+*Brooklyn acquired [[Jared Dudley]] and a ''2021 second-round pick'' <!--protected, but conveyed in 2021-->
+*Phoenix acquired [[Darrell Arthur]]}}}}
+|[[Florida State Seminoles men's basketball|Florida State]] {{small|([[Junior (education year)|Jr.]])}}
+|-
+|style="text-align:center;"|2
+|style="text-align:center;"|60
+| {{sortname|Georgios|Kalaitzakis}}
+|SG/SF
+|{{flagu|Greece}}
+|[[Indiana Pacers]] {{small|(from [[Utah Jazz|Utah]],{{refn|group=upper-alpha|name=60th|June 21, 2019: [[Utah Jazz]] to [[Indiana Pacers]]<ref>{{cite web|title=Pacers Trade Draft Rights to Brantley|url=https://www.nba.com/pacers/news/pacers-trade-draft-rights-brantley|website=NBA.com|access-date=June 26, 2021|date=June 21, 2019|archive-date=June 26, 2019|archive-url=https://web.archive.org/web/20190626183055/https://www.nba.com/pacers/news/pacers-trade-draft-rights-brantley|url-status=live}}</ref>
+*Indiana acquired a ''2021 second-round pick'' <!--unprotected-->
+*Utah acquired the draft rights to [[Jarrell Brantley]]}} rights traded to [[Milwaukee Bucks|Milwaukee]]){{refn|group=lower-alpha|name=31sh-post}}}}
+|[[Panathinaikos B.C.|Panathinaikos]] {{small|([[Greek Basketball League|Greece]])}}
+|}
+
+==Notable undrafted players==
+{{further|List of undrafted NBA players}}
+These players were not selected in the 2021 NBA draft, but have played at least one game in the NBA.
+
+{| class="wikitable sortable"
+|-
+!style="width:19%;"| Player
+!style="width:1%;"| Pos.
+!style="width:16%;"| Nationality
+!style="width:20%;"| School/club team
+|-
+| {{sortname|Jose|Alvarado|dab=basketball}}
+| PG
+| {{PRI}}
+| [[Georgia Tech Yellow Jackets men's basketball|Georgia Tech]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Alex|Antetokounmpo}}
+| PF
+| {{GRE}}
+| [[UCAM Murcia CB|UCAM Murcia]] <small>([[Liga ACB|Spain]])</small>
+|-
+| {{sortname|Joël|Ayayi}}
+| SG
+| {{FRA}}
+| [[Gonzaga Bulldogs men's basketball|Gonzaga]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+| {{sortname|Onuralp|Bitim}}
+| SF
+| {{TUR}}
+| [[Bursaspor Basketbol|Frutti Extra Bursaspor]] <small>([[Basketbol Süper Ligi|Turkey]])</small>
+|-
+| {{sortname|Chaundee|Brown Jr.}}
+| SG
+| {{flagu|United States}}
+| [[Michigan Wolverines men's basketball|Michigan]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|D. J.|Carton}}
+| PG
+| {{flagu|United States}}
+| [[Marquette Golden Eagles men's basketball|Marquette]] <small>([[Sophomore|So.]])</small>
+|-
+| {{sortname|Justin|Champagnie}}
+| SF
+| {{flagu|United States}}
+| [[Pittsburgh Panthers men's basketball|Pittsburgh]] <small>([[Sophomore|So.]])</small>
+|-
+| {{sortname|Jalen|Crutcher}}
+| PG
+| {{flagu|United States}}
+| [[Dayton Flyers men's basketball|Dayton]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|David|Duke Jr.}}
+| SG
+| {{flagu|United States}}
+| [[Providence Friars men's basketball|Providence]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+| {{sortname|Aleem|Ford}}
+| SF
+| {{flagu|United States}}
+| [[Wisconsin Badgers men's basketball|Wisconsin]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Marcus|Garrett}}
+| PG
+| {{flagu|United States}}
+| [[Kansas Jayhawks men's basketball|Kansas]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Jordan|Goodwin}}
+| SG
+| {{flagu|United States}}
+| [[Saint Louis Billikens men's basketball|Saint Louis]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Sam|Hauser}}
+| PF
+| {{flagu|United States}}
+| [[Virginia Cavaliers men's basketball|Virginia]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Aaron|Henry|dab=basketball}}
+| SF
+| {{flagu|United States}}
+| [[Michigan State Spartans men's basketball|Michigan State]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+| {{sortname|Jay|Huff}}
+| C
+| {{flagu|United States}}
+| [[Virginia Cavaliers men's basketball|Virginia]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Feron|Hunt}}
+| SF
+| {{flagu|United States}}
+| [[SMU Mustangs men's basketball|SMU]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+| {{sortname|Matthew|Hurt}}
+| PF
+| {{flagu|United States}}
+| [[Duke Blue Devils men's basketball|Duke]] <small>([[Sophomore|So.]])</small>
+|-
+| {{sortname|DeJon|Jarreau}}
+| PG/SG
+| {{flagu|United States}}
+| [[Houston Cougars men's basketball|Houston]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Carlik|Jones}}
+| PG
+| {{flagu|United States}}{{refn|group=n|Jones was born and raised in the United States. He gained South Sudanese citizenship by naturalization and plays for the [[South Sudan men's national basketball team|South Sudan national basketball team]].}}
+| [[Louisville Cardinals men's basketball|Louisville]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|AJ|Lawson}}
+| SG
+| {{CAN}}
+| [[South Carolina Gamecocks men's basketball|South Carolina]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+| {{sortname|Mac|McClung}}
+| PG
+| {{flagu|United States}}
+| [[Texas Tech Red Raiders basketball|Texas Tech]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+| {{sortname|JaQuori|McLaughlin}}
+| PG
+| {{flagu|United States}}
+| [[UC Santa Barbara Gauchos men's basketball|UC Santa Barbara]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|RJ|Nembhard}}
+| SG
+| {{flagu|United States}}
+| [[TCU Horned Frogs men's basketball|TCU]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Daishen|Nix}}
+| PG
+| {{flagu|United States}}
+| [[NBA G League Ignite]] <small>([[NBA G League]])</small>
+|-
+| {{sortname|Eugene|Omoruyi}}
+| SF
+| {{flagu|Canada}}
+| [[Oregon Ducks men's basketball|Oregon]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Jamorko|Pickett}}
+| SF
+| {{flagu|United States}}
+| [[Georgetown Hoyas men's basketball|Georgetown]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Yves|Pons}}
+| PF
+| {{flagu|France}}{{refn|group=n|Pons was born in Haiti and raised in France. He plays for the [[France men's national basketball team|France national basketball team]].}}
+| [[Tennessee Volunteers basketball|Tennessee]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Micah|Potter}}
+| PF/C
+| {{flagu|United States}}
+| [[Wisconsin Badgers men's basketball|Wisconsin]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Austin|Reaves}}
+| SG
+| {{flagu|United States}}
+| [[Oklahoma Sooners men's basketball|Oklahoma]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Alex|Reese}}
+| PF/C
+| {{flagu|United States}}
+| [[Alabama Crimson Tide men's basketball|Alabama]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Olivier|Sarr}}
+| C
+| {{flagu|France}}
+| [[Kentucky Wildcats men's basketball|Kentucky]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Jordan|Schakel}}
+| SG/SF
+| {{flagu|United States}}
+| [[San Diego State Aztecs men's basketball|San Diego State]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Javonte|Smart}}
+| PG
+| {{flagu|United States}}
+| [[LSU Tigers basketball|LSU]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+| {{sortname|Dru|Smith}}
+| SG
+| {{flagu|United States}}
+| [[Missouri Tigers men's basketball|Missouri]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Terry|Taylor|dab=basketball}}
+| SG/SF
+| {{flagu|United States}}
+| [[Austin Peay Governors basketball|Austin Peay]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Ethan|Thompson}}
+| SG
+| {{flagu|Puerto Rico}}
+| [[Oregon State Beavers men's basketball|Oregon State]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|M. J.|Walker}}
+| SG
+| {{flagu|United States}}
+| [[Florida State Seminoles men's basketball|Florida State]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Keaton|Wallace}}
+| PG/SG
+| {{flagu|United States}}
+| [[UTSA Roadrunners men's basketball|UTSA]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Duane|Washington Jr.}}
+| PG/SG
+| {{flagu|United States}}
+| [[Ohio State Buckeyes men's basketball|Ohio State]] <small>([[Junior (education year)|Jr.]])</small>
+|-
+| {{sortname|Trendon|Watford}}
+| PF
+| {{flagu|United States}}
+| [[LSU Tigers basketball|LSU]] <small>([[Sophomore|So.]])</small>
+|-
+| {{sortname|Phillip|Wheeler|dab=basketball}}
+| SF
+| {{flagu|United States}}
+| [[Ranney School]]
+|-
+| {{sortname|Brandon|Williams|dab=basketball, born 1999}}
+| PG
+| {{flagu|United States}}
+| [[Arizona Wildcats men's basketball|Arizona]] <small>([[Sophomore|So.]])</small>
+|-
+| {{sortname|McKinley|Wright IV}}
+| PG
+| {{flagu|United States}}
+| [[Colorado Buffaloes men's basketball|Colorado]] <small>([[Senior (education)|Sr.]])</small>
+|-
+| {{sortname|Moses|Wright}}
+| PF
+| {{flagu|United States}}
+| [[Georgia Tech Yellow Jackets men's basketball|Georgia Tech]] <small>([[Senior (education)|Sr.]])</small>
+|}
+
+==Trades involving draft picks==
+
+===Pre-draft trades===
+Prior to the draft, the following trades were made and resulted in exchanges of draft picks between teams.
+{{reflist|group=upper-alpha}}
+
+===Draft-night trades===
+Draft-night trades were made after the draft began. These trades are usually not confirmed until the next day or after free agency officially begins.<ref>{{cite web |title=2021 Draft Trade Tracker |url=https://www.nba.com/news/2021-trade-tracker |website=nba.com |access-date=July 30, 2021 |archive-date=July 30, 2021 |archive-url=https://web.archive.org/web/20210730035941/https://www.nba.com/news/2021-trade-tracker |url-status=live }}</ref>
+{{reflist|group=lower-alpha}}
+
+==Combine==
+Prior to the [[NBA Draft Combine]], the 2021 NBA G League Elite Camp, which took place on June 19–21 at the Wintrust Arena and Marriott Marquis in [[Chicago]], provided another chance for players not originally invited to the combine to impress scouts. The best performers from this camp were given invites to the main combine.<ref>{{cite web|date=June 14, 2021|title=NBA G League Announces Field Of 40 Draft Prospects For 2021 NBA G League Elite Camp In Chicago|url=https://gleague.nba.com/news/nba-g-league-announces-field-of-40-draft-prospects-for-2021-nba-g-league-elite-camp-in-chicago/|url-status=live|archive-url=https://web.archive.org/web/20210614195112/https://gleague.nba.com/news/nba-g-league-announces-field-of-40-draft-prospects-for-2021-nba-g-league-elite-camp-in-chicago/|archive-date=June 14, 2021|access-date=June 15, 2021|website=gleague.nba.com}}</ref>
+
+The NBA Draft Combine was held on June 21–27 at the same site sponsored by [[Microsoft]]. A total of 69 players attended the NBA Draft Combine 2021, with these players undergoing a series of interviews, five-on-five games, drills, and measurements.<ref>{{cite web |url=https://www.nba.com/news/nba-announces-participants-in-2021-microsoft-surface-draft-combine |title=NBA announces participants in 2021 Microsoft Surface Draft combine |website=NBA.com |date=June 15, 2021 |access-date=June 29, 2021 |archive-date=June 29, 2021 |archive-url=https://web.archive.org/web/20210629031326/https://www.nba.com/news/nba-announces-participants-in-2021-microsoft-surface-draft-combine |url-status=live }}</ref> Lottery-projected pick [[Keon Johnson (basketball, born 2002)|Keon Johnson]] broke the combine's vertical leap record of {{convert|45.5|in|m|abbr=on}}, set by [[Kenny Gregory]] in 2001, with a vertical leap of {{convert|48|in|m|abbr=on}}.<ref>{{cite web |url=https://www.nba.com/stats/draft/combine/ |title=2021 NBA Draft Combine - All Participants |website=NBA.com |access-date=June 29, 2021 |archive-date=June 28, 2021 |archive-url=https://web.archive.org/web/20210628201932/https://www.nba.com/stats/draft/combine/ |url-status=live }}</ref> The combine also featured some recent graduates of the inaugural [[NBA G League Ignite]] team, which is a developmental basketball program meant to provide prospects with a paid alternative to playing NCAA college basketball. The success of these players, [[Jalen Green]], [[Jonathan Kuminga]], [[Daishen Nix]], and [[Isaiah Todd]], may pave the way for more top prospects to participate in the G League system pre-draft.
+
+Projected top picks who decided not to attend the NBA Draft Combine include potential No. 1 pick [[Cade Cunningham]] and likely top-four pick [[Jalen Suggs]].<ref name="missing">{{cite web |url=https://therookiewire.usatoday.com/lists/2021-nba-draft-prospects-skipping-combine/ |title=2021 NBA Draft: Notable prospects not attending the draft combine |website=USA TODAY |date=June 15, 2021 |access-date=June 29, 2021 |archive-date=June 28, 2021 |archive-url=https://web.archive.org/web/20210628205956/https://therookiewire.usatoday.com/lists/2021-nba-draft-prospects-skipping-combine/ |url-status=live }}</ref> Numerous other potential prospects, especially those playing overseas, also decided to skip the Combine.<ref name="missing" />
+
+==Draft lottery==
+{{External media
+| float  = right
+| video1 = [https://www.youtube.com/watch?v=nDsCiYC6Q9g 2021 NBA Draft Lottery Drawing], ''NBA's official YouTube channel''. Jun 22, 2021.
+}}
+
+The [[NBA draft lottery]] was held on June 22. It was also televised nationally on [[NBA on ESPN|ESPN]].<ref>{{cite web|title=Anthony Edwards, Hakeem Olajuwon among Draft Lottery team representatives|url=https://www.nba.com/news/anthony-edwards-hakeem-olajuwon-among-draft-lottery-team-representatives|website=NBA.com|date=June 21, 2021|access-date=July 26, 2021|archive-date=July 29, 2021|archive-url=https://web.archive.org/web/20210729021647/https://www.nba.com/news/anthony-edwards-hakeem-olajuwon-among-draft-lottery-team-representatives|url-status=live}}</ref><ref>{{cite web|title=Detroit Pistons win 2021 NBA Draft Lottery|url=https://www.nba.com/news/detroit-pistons-win-the-2021-nba-draft-lottery|website=NBA.com|date=June 22, 2021|access-date=July 26, 2021|archive-date=August 20, 2021|archive-url=https://web.archive.org/web/20210820093933/https://www.nba.com/news/detroit-pistons-win-the-2021-nba-draft-lottery|url-status=live}}</ref>
+
+{|class="wikitable"
+|-
+|style="background:#ff9; width:2em; text-align:center;"|
+|style="text-align:left"|Denotes the actual lottery result
+|}
+
+{|class="wikitable plainrowheaders" style="text-align:center"
+|-
+! scope="col" rowspan="2" | Team
+! scope="col" rowspan="2" | [[2020–21 NBA season|2020–21<br />record]]
+! scope="col" rowspan="2" | Lottery<br />chances
+! scope="col" colspan="14" | Lottery probabilities
+|-
+! 1st || 2nd || 3rd || 4th || 5th || 6th || 7th || 8th || 9th || 10th || 11th || 12th || 13th || 14th
+|-
+! scope="row" style="text-align:left;" | [[Houston Rockets]]
+| 17–55|| 140 || 14.0% ||style="background:#ff9;| 13.4% || 12.7% || 11.9% || 47.9% || - || - || - || - || - || - || - || - || -
+|-
+! scope="row" style="text-align:left;" | [[Detroit Pistons]]
+| 20–52|| 140 ||style="background:#ff9;| 14.0% || 13.4% || 12.7% || 11.9% || 27.8% || 20.1% || - || - || - || - || - || - || - || -
+|-
+! scope="row" style="text-align:left;" | [[Orlando Magic]]
+| 21–51|| 140 ||  14.0% || 13.4% || 12.7% || 11.9% ||style="background:#ff9;| 14.8% || 26.0% || 7.1% || - || - || - || - || - || - || -
+|-
+! scope="row" style="text-align:left;" | [[Oklahoma City Thunder]]
+| 22–50|| 115 || 11.5% || 11.4% || 11.2% || 11.0% || 7.4% ||style="background:#ff9;| 27.1% || 18.0% || 2.4% || - || - || - || - || - || -
+|-
+! scope="row" style="text-align:left;" | [[Cleveland Cavaliers]]
+| 22–50 || 115 || 11.5% || 11.4% ||style="background:#ff9;| 11.2% || 11.0% || 2.0% || 18.2% || 25.5% || 8.6% || 0.6% || - || - || - || - || -
+|-
+! scope="row" style="text-align:left;" | [[Minnesota Timberwolves]]<ref group="lower-alpha">This pick was conveyed to Golden State after it fell outside its protected range.</ref>
+| 23–49|| 90 || 9.0% || 9.2% || 9.4% || 9.6% || - || 8.6% ||style="background:#ff9;| 29.7% || 20.6% || 3.4% || 0.2% || - || - || - || -
+|-
+! scope="row" style="text-align:left;" | [[Toronto Raptors]]
+| 27–45|| 75 || 7.5% || 7.8% || 8.1% ||style="background:#ff9;| 8.5% || - || - || 19.8% || 33.9% || 13.0% || 1.4% || <0.1% || - || - || -
+|-
+! scope="row" style="text-align:left;" | [[Chicago Bulls]]<ref group="lower-alpha">This pick was conveyed to Orlando after it fell outside its protected range.</ref>
+| 31–41|| 45 || 4.5% || 4.8% || 5.2% || 5.7% || - || - || - ||style="background:#ff9;| 34.5% || 36.2% || 8.5% || 0.5% || <0.1% || - || -
+|-
+! scope="row" style="text-align:left;" | [[Sacramento Kings]]
+| 31–41 || 45 || 4.5% || 4.8% || 5.2% || 5.7% || - || - || - || - ||style="background:#ff9;| 46.4% || 29.4% || 3.9% || 0.1% || <0.1% || -
+|-
+! scope="row" style="text-align:left;" | [[New Orleans Pelicans]]
+| 31–41 || 45 || 4.5% || 4.8% || 5.2% || 5.7% || - || - || - || - || - ||style="background:#ff9;| 60.6% || 17.9% || 1.2% || <0.1% || <0.1%
+|-
+! scope="row" style="text-align:left;" | [[Charlotte Hornets]]
+| 33–39|| 18 || 1.8% || 2.0% || 2.2% || 2.5% || - || - || - || - || - || - ||style="background:#ff9;| 77.6% || 13.4% || 0.4% || <0.1%
+|-
+! scope="row" style="text-align:left;" | [[San Antonio Spurs]]
+| 33–39 || 17 || 1.7% || 1.9% || 2.1% || 2.4% || - || - || - || - || - || - || - ||style="background:#ff9;| 85.2% || 6.6% || 0.1%
+|-
+! scope="row" style="text-align:left;" | [[Indiana Pacers]]
+| 34–38|| 10 || 1.0% || 1.1% || 1.2% || 1.4% || - || - || - || - || - || - || - || - ||style="background:#ff9;| 92.9% || 2.3%
+|-
+! scope="row" style="text-align:left;" | [[Golden State Warriors]]
+| 39–33|| 5 || 0.5% || 0.6% || 0.6% || 0.7% || - || - || - || - || - || - || - || - || - ||style="background:#ff9;| 97.6%
+|}
+'''Notes:'''
+{{Notelist}}
+
+==Eligibility and entrants==
+{{main|Eligibility for the NBA draft}}
+The draft is conducted under the eligibility rules established in the league's 2017 [[NBA Collective Bargaining Agreement|collective bargaining agreement]] (CBA) with its players' union, with special modifications agreed to by both parties due to disruptions caused by the [[COVID-19 pandemic]]. The previous CBA that ended the [[2011 NBA Lockout|2011 lockout]] instituted no immediate changes to the draft. but called for a committee of owners and players to discuss further charges.
+
+*All drafted players must be at least 19 years old during the calendar year of the draft. In term of dates, players who were eligible for the 2021 NBA draft must have been born on or before December 31, 2002.
+**This draft could have possibly been the last in which high school players of any nationality are ineligible for pick after graduation as the two associations sought at first to lower the minimum age back to 18 and end the need to wait one year after their high school class graduated, also called the "one and done" requirement, ahead of next year's edition, as discussed in 2019.<ref>{{cite news |title=NBA, NBPA Reportedly Targeting 2022 Draft to End One-and-Done Rule |url=https://bleacherreport.com/articles/2830591-nba-nbpa-reportedly-targeting-2022-draft-to-end-one-and-done-rule |work=Bleacher Report |date=April 11, 2019 |access-date=March 30, 2021 |archive-date=November 1, 2020 |archive-url=https://web.archive.org/web/20201101134557/https://bleacherreport.com/articles/2830591-nba-nbpa-reportedly-targeting-2022-draft-to-end-one-and-done-rule |url-status=live }}</ref> If approved, the current CBA may have to be amended and the amendment ratified. However, the ineligibility for the draft shortly after high school remained in place, as reported in 2020, unless there were further discussions about its repeal.<ref>{{cite news |title=NBA won't eliminate one-and-done rule any time soon, with discussions stalled over one key issue, per report |url=https://www.cbssports.com/nba/news/nba-wont-eliminate-one-and-done-rule-any-time-soon-with-discussions-stalled-over-one-key-issue-per-report/ |work=CBS Sports |date=April 17, 2020 |access-date=April 6, 2021 |archive-date=February 26, 2021 |archive-url=https://web.archive.org/web/20210226020858/https://www.cbssports.com/nba/news/nba-wont-eliminate-one-and-done-rule-any-time-soon-with-discussions-stalled-over-one-key-issue-per-report/ |url-status=live }}</ref>
+*Since the 2016 draft, the following rules are, as implemented by the [[NCAA Division I]] council for that division:<ref>{{cite web |url=https://www.espn.com/mens-college-basketball/story/_/id/14564613/date-nba-draft-commitment-pushed-may |title=College players given extra time to mull NBA draft decision |first=Jeff |last=Goodman |publisher=ESPN |date=January 13, 2016 |access-date=March 30, 2021 |archive-date=July 13, 2016 |archive-url=https://web.archive.org/web/20160713103619/http://espn.go.com/mens-college-basketball/story/_/id/14564613/date-nba-draft-commitment-pushed-may |url-status=live }}</ref>
+**Declaration for the draft no longer results in automatic loss of college eligibility. As long as a player does not sign a contract with a professional team outside the NBA, or sign with an agent, he retains college eligibility as long as he makes a timely withdrawal from the draft.
+**NCAA players now have 10 days after the end of the [[NBA Draft Combine]] to withdraw from the draft. Since the combine is normally held in mid-May, the current deadline is about five weeks after the previous mid-April deadline.
+**NCAA players may participate in the draft combine, and are allowed to attend one tryout per year with each NBA team without losing college eligibility.
+**NCAA players may now enter and withdraw from the draft up to two times without loss of eligibility. Previously, the NCAA treated a second declaration of draft eligibility as a permanent loss of college eligibility.
+
+The NBA announced on February 26, 2021, that for this draft only, all college players who wished to enter the draft, regardless of class, had to formally declare eligibility. In October 2020, COVID-19 led the NCAA to declare that the 2020–21 season would not be counted against the college eligibility of any basketball player. The exact language of the CBA with regard to automatic eligibility of college seniors is "The player has graduated from a four-year college or university in the United States, and has no remaining intercollegiate basketball eligibility." Due to the NCAA ruling, ''every'' college senior in the 2020–21 season had remaining eligibility. The league was required to consult with the players' union and the NCAA to determine whether it would require seniors to opt out of the draft (which was implemented by the [[National Football League|NFL]] for its [[2021 NFL Draft|2021 draft]], affected by a similar NCAA ruling for football) or require opt-ins, with the latter option being chosen.<ref>{{cite news |url=https://www.espn.com/nba/story/_/id/30968822/pandemic-changes-nba-draft-rules-seniors |title=Pandemic changes NBA draft rules for seniors |first=Jonathan |last=Givony |website=ESPN.com |date=February 26, 2021 |access-date=February 26, 2021 |archive-date=February 26, 2021 |archive-url=https://web.archive.org/web/20210226194908/https://www.espn.com/nba/story/_/id/30968822/pandemic-changes-nba-draft-rules-seniors |url-status=live }}</ref>
+
+===Early entrants===
+Players who were not automatically eligible had to declare their eligibility for the draft by notifying the NBA offices in writing no later than at least 60 days before the event. For the 2021 draft, the date fell on May 30. Under the CBA a player may withdraw his name from consideration from the draft at any time before the final declaration deadline, which usually falls 10 days before the draft at 5:00 pm [[Eastern Daylight Time|EDT]] (2100 [[Coordinated Universal Time|UTC]]). Under current NCAA rules, players usually have until 10 days after the draft combine to withdraw from the draft and retain college eligibility. They must have withdrawn on or before July 7, 22 days prior to this draft.
+
+A player who has hired an agent retains his remaining college eligibility regardless of whether he is drafted after an evaluation from the NBA Undergraduate Advisory Committee. Players who declare for the NBA draft and are not selected have the opportunity to return to their school for at least another year only after terminating all agreements with their agents, who must have been certified no later than August 1, 2020.<ref>{{cite web |title=Flexibility for going pro and getting a degree |url=https://www.ncaa.org/about/flexibility-going-pro-and-getting-degree |website=NCAA.org |publisher=NCAA |access-date=April 18, 2021 |archive-date=December 8, 2020 |archive-url=https://web.archive.org/web/20201208115245/http://www.ncaa.org/about/flexibility-going-pro-and-getting-degree |url-status=live }}</ref>
+
+The NBA released its official list of early entrants on June 2, 2021, consisting of 296 players from college and other educational institutions and 57 international players.<ref>{{cite press release |url=https://www.nba.com/news/nba-announces-early-entry-candidates-for-nba-draft-2021 |title=NBA announces early entry candidates for NBA Draft 2021 |publisher=National Basketball Association |date=June 2, 2021 |access-date=June 5, 2021 |archive-date=June 4, 2021 |archive-url=https://web.archive.org/web/20210604163327/https://www.nba.com/news/nba-announces-early-entry-candidates-for-nba-draft-2021 |url-status=live }}</ref> The current version of the list found in this article omits players who withdrew from the draft after June 2.
+
+====College underclassmen====
+[[Terrence Clarke]], a freshman guard from [[Kentucky Wildcats men's basketball|Kentucky]], declared for the draft, but died on April 22, three months before it.<ref>{{cite web |title=Terrence Clarke, Boston native and rising basketball star, dead at 19 after car accident |url=https://www.boston.com/sports/local-news/2021/04/22/terrence-clarke-dead-at-19 |website=Boston.com |access-date=April 23, 2021 |archive-date=April 23, 2021 |archive-url=https://web.archive.org/web/20210423023326/https://www.boston.com/sports/local-news/2021/04/22/terrence-clarke-dead-at-19 |url-status=live }}</ref> At the draft, the NBA honored him with an honorary selection.<ref>{{cite web |title=Terrence Clarke, former Kentucky Wildcats player who died in car accident, selected by league in NBA draft |url=https://www.espn.com/nba/story/_/id/31915715/terrence-clarke-former-kentucky-wildcats-guard-died-car-accident-selected-league-nba-draft |website=ESPN.com |date=July 30, 2021 |access-date=2021-08-04 |archive-date=2021-07-30 |archive-url=https://web.archive.org/web/20210730022602/https://www.espn.com/nba/story/_/id/31915715/terrence-clarke-former-kentucky-wildcats-guard-died-car-accident-selected-league-nba-draft |url-status=live }}</ref>
+
+{{colbegin}}
+*{{flagicon|ESP}} [[Santi Aldama]] – F, [[Loyola Greyhounds men's basketball|Loyola (MD)]] (sophomore)
+*{{flagicon|FRA}} [[Joël Ayayi]] – G, [[Gonzaga Bulldogs men's basketball|Gonzaga]] (redshirt junior)
+*{{flagicon|CAN}} [[Dalano Banton]] – G, [[Nebraska Cornhuskers men's basketball|Nebraska]] (redshirt sophomore)
+*{{flagicon|USA}} [[Scottie Barnes]] – F, [[Florida State Seminoles men's basketball|Florida State]] (freshman)
+*{{flagicon|NGA}} [[Charles Bassey]] – C, [[Western Kentucky Hilltoppers basketball|Western Kentucky]] (junior)
+*{{flagicon|GEO}} [[Giorgi Bezhanishvili]] – F, [[Illinois Fighting Illini men's basketball|Illinois]] (junior)
+*{{flagicon|USA}} [[Brandon Boston Jr.]] – G,  [[Kentucky Wildcats men's basketball|Kentucky]] (freshman)
+*{{flagicon|USA}} [[James Bouknight]] – G, [[UConn Huskies men's basketball|UConn]] (sophomore)
+*{{flagicon|USA}} [[Pedro Bradshaw]] – F, [[Bellarmine Knights men's basketball|Bellarmine]] (redshirt junior)
+*{{flagicon|USA}} [[Greg Brown (basketball, born 2001)|Greg Brown]] – F, [[Texas Longhorns men's basketball|Texas]] (freshman)
+*{{flagicon|USA}} [[Jared Butler]] – G, [[Baylor Bears basketball|Baylor]] (junior)
+*{{flagicon|USA}} [[D. J. Carton]] – G, [[Marquette Golden Eagles men's basketball|Marquette]] (sophomore)
+*{{flagicon|USA}} [[Justin Champagnie]] – F, [[Pittsburgh Panthers men's basketball|Pittsburgh]] (sophomore)
+*{{flagicon|USA}} [[Josh Christopher]] – G, [[Arizona State Sun Devils men's basketball|Arizona State]] (freshman)
+*{{flagicon|USA}} [[Sharife Cooper]] – G, [[Auburn Tigers men's basketball|Auburn]] (freshman)
+*{{flagicon|USA}} [[Derek Culver]] – C, [[West Virginia Mountaineers men's basketball|West Virginia]] (junior)
+*{{flagicon|USA}} [[Sam Cunliffe]] – G, [[Evansville Purple Aces men's basketball|Evansville]] (redshirt junior)
+*{{flagicon|USA}} [[Cade Cunningham]] – G, [[Oklahoma State Cowboys basketball|Oklahoma State]] (freshman)
+*{{flagicon|USA}} [[Ayo Dosunmu]] – G, [[Illinois Fighting Illini men's basketball|Illinois]] (junior)
+*{{flagicon|USA}} [[David Duke Jr.]] – G, [[Providence Friars men's basketball|Providence]] (junior)
+*{{flagicon|USA}} [[Nojel Eastern]] – G, [[Purdue Boilermakers men's basketball|Purdue]] (junior)
+*{{flagicon|USA}} [[Kessler Edwards]] – F, [[Pepperdine Waves men's basketball|Pepperdine]] (junior)
+*{{flagicon|USA}} [[RaiQuan Gray]] – F, [[Florida State Seminoles men's basketball|Florida State]] (redshirt junior)
+*{{flagicon|USA}} [[Alan Griffin (basketball)|Alan Griffin]] – G, [[Syracuse Orange men's basketball|Syracuse]] (junior)
+*{{flagicon|USA}} [[Quentin Grimes]] – G, [[Houston Cougars men's basketball|Houston]] (junior)
+*{{flagicon|USA}} [[Aaron Henry (basketball)|Aaron Henry]] – F, [[Michigan State Spartans men's basketball|Michigan State]] (junior)
+*{{flagicon|USA}} [[Feron Hunt]] – F, [[SMU Mustangs men's basketball|SMU]] (junior)
+*{{flagicon|USA}} [[Matthew Hurt]] – F, [[Duke Blue Devils men's basketball|Duke]] (sophomore)
+*{{flagicon|USA}} [[Bones Hyland]] – G, [[VCU Rams men's basketball|VCU]] (sophomore)
+*{{flagicon|USA}} [[Isaiah Jackson (basketball)|Isaiah Jackson]] – F, [[Kentucky Wildcats men's basketball|Kentucky]] (freshman)
+*{{flagicon|USA}} [[David Johnson (basketball)|David Johnson]] – G, [[Louisville Cardinals men's basketball|Louisville]] (sophomore)
+*{{flagicon|USA}} [[Jalen Johnson]] – F, [[Duke Blue Devils men's basketball|Duke]] (freshman)
+*{{flagicon|USA}} [[Keon Johnson (basketball, born 2002)|Keon Johnson]] – G, [[Tennessee Volunteers basketball|Tennessee]] (freshman)
+*{{flagicon|BAH}} [[Kai Jones]] – F, [[Texas Longhorns men's basketball|Texas]] (sophomore)
+*{{flagicon|SRB}} [[Balša Koprivica]] – C, [[Florida State Seminoles men's basketball|Florida State]] (sophomore)
+*{{flagicon|CAN}} [[A. J. Lawson]] – G, [[South Carolina Gamecocks men's basketball|South Carolina]] (junior)
+*{{flagicon|USA}} [[Scottie Lewis]] – G, [[Florida Gators men's basketball|Florida]] (sophomore)
+*{{flagicon|USA}} [[Tre Mann]] – G, [[Florida Gators men's basketball|Florida]] (sophomore)
+*{{flagicon|USA}} [[Miles McBride]] – G, [[West Virginia Mountaineers men's basketball|West Virginia]] (sophomore)
+*{{flagicon|USA}} [[Mac McClung]] – G, [[Texas Tech Red Raiders basketball|Texas Tech]] (junior)
+*{{flagicon|USA}} [[Davion Mitchell]] – G, [[Baylor Bears basketball|Baylor]] (redshirt junior)
+*{{flagicon|USA}} [[Evan Mobley]] – F/C, [[USC Trojans men's basketball|USC]] (freshman)
+*{{flagicon|USA}} [[Moses Moody]] – G, [[Arkansas Razorbacks men's basketball|Arkansas]] (freshman)
+*{{flagicon|USA}} [[Trey Murphy III]] – F, [[Virginia Cavaliers men's basketball|Virginia]] (junior)
+*{{flagicon|USA}} [[RJ Nembhard]] – G, [[TCU Horned Frogs men's basketball|TCU]] (redshirt junior)
+*{{flagicon|COD}} [[Joel Ntambwe]] – F, [[Texas Tech Red Raiders basketball|Texas Tech]] (redshirt sophomore)
+*{{flagicon|USA}} [[Jason Preston]] – G, [[Ohio Bobcats men's basketball|Ohio]] (junior)
+*{{flagicon|CAN}} [[Joshua Primo]] – G, [[Alabama Crimson Tide men's basketball|Alabama]] (freshman)
+*{{flagicon|PRT}} [[Neemias Queta]] – C, [[Utah State Aggies men's basketball|Utah State]] (junior)
+*{{flagicon|USA}} [[Jeremiah Robinson-Earl]] – F, [[Villanova Wildcats men's basketball|Villanova]] (sophomore)
+*{{flagicon|USA}} [[Damion Rosser]] – G, [[New Orleans Privateers men's basketball|New Orleans]] (redshirt junior)
+*{{flagicon|USA}} [[Day'Ron Sharpe]] – C, [[North Carolina Tar Heels men's basketball|North Carolina]] (freshman)
+*{{flagicon|USA}} [[Javonte Smart]] – G, [[LSU Tigers basketball|LSU]] (junior)
+*{{flagicon|USA}} [[Jaden Springer]] – G, [[Tennessee Volunteers basketball|Tennessee]] (freshman)
+*{{flagicon|USA}} [[DJ Steward]] – G, [[Duke Blue Devils men's basketball|Duke]] (freshman)
+*{{flagicon|USA}} [[D. J. Stewart Jr.]] – G, [[Mississippi State Bulldogs men's basketball|Mississippi State]] (redshirt sophomore)
+*{{flagicon|USA}} [[Jalen Suggs]] – G, [[Gonzaga Bulldogs men's basketball|Gonzaga]] (freshman)
+*{{flagicon|USA}} [[Cam Thomas (basketball)|Cam Thomas]] – G, [[LSU Tigers basketball|LSU]] (freshman)
+*{{flagicon|USA}} [[JT Thor]] – F, [[Auburn Tigers men's basketball|Auburn]] (freshman)
+*{{flagicon|DEU}} [[Franz Wagner]] – F, [[Michigan Wolverines men's basketball|Michigan]] (sophomore)
+*{{flagicon|USA}} [[Kyree Walker]] – G, Hillcrest Prep Academy (postgraduate)
+*{{flagicon|USA}} [[Duane Washington Jr.]] – G, [[Ohio State Buckeyes men's basketball|Ohio State]] (junior)
+*{{flagicon|USA}} [[Trendon Watford]] – F, [[LSU Tigers basketball|LSU]] (sophomore)
+*{{flagicon|USA}} [[Romeo Weems]] – F, [[DePaul Blue Demons men's basketball|DePaul]] (sophomore)
+*{{flagicon|USA}} [[Joe Wieskamp]] – G, [[Iowa Hawkeyes men's basketball|Iowa]] (junior)
+*{{flagicon|USA}} [[Aaron Wiggins]] – G, [[Maryland Terrapins men's basketball|Maryland]] (junior)
+*{{flagicon|USA}} [[Brandon Williams (basketball, born 1999)|Brandon Williams]] – G, [[Arizona Wildcats men's basketball|Arizona]] (sophomore)
+*{{flagicon|USA}} [[Ziaire Williams]] – F, [[Stanford Cardinal men's basketball|Stanford]] (freshman)
+*{{flagicon|USA}} [[Bryce Wills]] – G, [[Stanford Cardinal men's basketball|Stanford]] (junior)
+*{{flagicon|USA}} [[Marcus Zegarowski]] – G, [[Creighton Bluejays men's basketball|Creighton]] (junior)
+{{colend}}
+
+====College seniors====
+"Redshirt" refers to players who were [[Redshirt (college sports)|redshirt]] seniors in the 2020–21 season. "Graduate" refers to players who were graduate transfers in 2020–21.
+{{colbegin}}
+*{{flagicon|USA}} [[Derrick Alston Jr.]] – F, [[Boise State Broncos men's basketball|Boise State]] (redshirt)
+*{{flagicon|USA}} [[Jose Alvarado (basketball)|Jose Alvarado]] – G, [[Georgia Tech Yellow Jackets men's basketball|Georgia Tech]]
+*{{flagicon|USA}} [[Jonah Antonio]] – G, [[Wake Forest Demon Deacons men's basketball|Wake Forest]]
+*{{flagicon|GER}} [[Jonathan Baehre]] – F, [[Clemson Tigers men's basketball|Clemson]]
+*{{flagicon|USA}} [[Mitch Ballock]] – G, [[Creighton Bluejays men's basketball|Creighton]]
+*{{flagicon|USA}} [[Troy Baxter Jr.]] – F, [[Morgan State Bears men's basketball|Morgan State]]
+*{{flagicon|USA}} [[Chudier Bile]] – F, [[Georgetown Hoyas men's basketball|Georgetown]]
+*{{flagicon|USA}} [[Jahvon Blair]] – G, [[Georgetown Hoyas men's basketball|Georgetown]]
+*{{flagicon|USA}} [[Isaac Bonton]] – G, [[Washington State Cougars men's basketball|Washington State]]
+*{{flagicon|USA}} [[Chaundee Brown]] – G, [[Michigan Wolverines men's basketball|Michigan]]
+*{{flagicon|USA}} [[Marcus Burk]] – G, [[IUPUI Jaguars men's basketball|IUPUI]] (redshirt)
+*{{flagicon|USA}} [[Jordan Burns]] – G, [[Colgate Raiders men's basketball|Colgate]]
+*{{flagicon|PUR}} [[Manny Camper]] – G/F, [[Siena Saints men's basketball|Siena]]
+*{{flagicon|USA}} [[Nahziah Carter]] – G/F, [[Washington Huskies men's basketball|Washington]]
+*{{flagicon|USA}} [[Arinze Chidom]] – F, [[UC Riverside Highlanders men's basketball|UC Riverside]]
+*{{flagicon|USA}} [[Matt Coleman III]] – G, [[Texas Longhorns men's basketball|Texas]]
+*{{flagicon|USA}} [[Trevion Crews]] – G, [[Bethel College (Indiana)|Bethel (IN)]]
+*{{flagicon|USA}} [[T. J. Crockett]] – G, [[Lindenwood Lions|Lindenwood]]
+*{{flagicon|USA}} [[Jalen Crutcher]] – G, [[Dayton Flyers men's basketball|Dayton]]
+*{{flagicon|USA}} [[Ryan Daly]] – G, [[Saint Joseph's Hawks men's basketball|Saint Joseph's]] (redshirt)
+*{{flagicon|USA}} [[Zaccheus Darko-Kelly]] – G/F, [[University of Providence|Providence (MT)]] (redshirt)
+*{{flagicon|DEU}} [[Oscar da Silva]] – F, [[Stanford Cardinal men's basketball|Stanford]]
+*{{flagicon|USA}} [[Cartier Diarra]] – G, [[Virginia Tech Hokies men's basketball|Virginia Tech]]
+*{{flagicon|SVK}} [[Marek Dolezaj]] – F, [[Syracuse Orange men's basketball|Syracuse]]
+*{{flagicon|DOM}} [[Chris Duarte (basketball)|Chris Duarte]] – G, [[Oregon Ducks men's basketball|Oregon]]
+*{{flagicon|USA}} [[Ian DuBose]] – G, [[Wake Forest Demon Deacons men's basketball|Wake Forest]]
+*{{flagicon|USA}} [[Juwan Durham]] – C, [[Notre Dame Fighting Irish men's basketball|Notre Dame]]
+*{{flagicon|USA}} [[Tahj Eaddy]] – G, [[USC Trojans men's basketball|USC]]
+*{{flagicon|USA}} [[Lydell Elmore]] – F, [[High Point Panthers men's basketball|High Point]]
+*{{flagicon|USA}} [[Romeao Ferguson]] – G, [[Lipscomb Bisons men's basketball|Lipscomb]]
+*{{flagicon|DOM}} [[L. J. Figueroa]] – G, [[Oregon Ducks men's basketball|Oregon]]
+*{{flagicon|PUR}} [[Aleem Ford]] – F, [[Wisconsin Badgers men's basketball|Wisconsin]]
+*{{flagicon|USA}} [[Blake Francis]] – G, [[Richmond Spiders men's basketball|Richmond]]
+*{{flagicon|USA}} [[D. J. Funderburk]] – F/C, [[NC State Wolfpack men's basketball|NC State]]
+*{{flagicon|USA}} [[Ty Gadsden]] – G, [[UNC Wilmington Seahawks men's basketball|UNC Wilmington]]
+*{{flagicon|AUS}} [[Gorjok Gak]] – C, [[California Baptist Lancers men's basketball|California Baptist]]
+*{{flagicon|USA}} [[Marcus Garrett]] – G, [[Kansas Jayhawks men's basketball|Kansas]]
+*{{flagicon|USA}} [[Luka Garza]] – C, [[Iowa Hawkeyes men's basketball|Iowa]]
+*{{flagicon|USA}} [[Samson George]] – F, [[Central Arkansas Bears basketball|Central Arkansas]]<!--UCA women are Sugar Bears.-->
+*{{flagicon|USA}} [[Asante Gist]] – G, [[Iona Gaels men's basketball|Iona]]
+*{{flagicon|USA}} [[Terrell Gomez]] – G, [[San Diego State Aztecs men's basketball|San Diego State]]
+*{{flagicon|USA}} [[Jordan Goodwin]] – G, [[Saint Louis Billikens men's basketball|Saint Louis]]
+*{{flagicon|USA}} [[Justin Gorham]] – F, [[Houston Cougars men's basketball|Houston]] (redshirt)
+*{{flagicon|USA}} [[Elyjah Goss]] – F, [[IUPUI Jaguars men's basketball|IUPUI]]
+*{{flagicon|USA}} [[Jayvon Graves]] – G, [[Buffalo Bulls men's basketball|Buffalo]]
+*{{flagicon|USA}} [[Quade Green]] – G, [[Washington Huskies men's basketball|Washington]]
+*{{flagicon|NLD}} [[Matt Haarms]] – C, [[BYU Cougars men's basketball|BYU]] (graduate)
+*{{flagicon|USA}} [[Javion Hamlet]] – G, [[North Texas Mean Green men's basketball|North Texas]] (redshirt)
+*{{flagicon|USA}} [[Deion Hammond]] – G, [[Monmouth Hawks men's basketball|Monmouth]]
+*{{flagicon|USA}} [[Amauri Hardy]] – G, [[Oregon Ducks men's basketball|Oregon]]
+*{{flagicon|USA}} [[Romio Harvey]] – G, [[Harding Bisons|Harding]]
+*{{flagicon|USA}} [[Sam Hauser]] – F, [[Virginia Cavaliers men's basketball|Virginia]] (redshirt)
+*{{flagicon|USA}} [[Kashaun Hicks]] – G, [[Norfolk State Spartans men's basketball|Norfolk State]]
+*{{flagicon|USA}} [[Taveion Hollingsworth]] – G, [[Western Kentucky Hilltoppers basketball|Western Kentucky]]
+*{{flagicon|USA}} [[Jay Huff]] – F/C, [[Virginia Cavaliers men's basketball|Virginia]] (redshirt)
+*{{flagicon|USA}} [[Anthony Hughes Jr.]] – G, [[Millsaps Majors|Millsaps]]
+*{{flagicon|PUR}} [[Jhivvan Jackson]] – G, [[UTSA Roadrunners men's basketball|UTSA]]
+*{{flagicon|USA}} [[Loren Cristian Jackson]] – G, [[Akron Zips men's basketball|Akron]] (redshirt)
+*{{flagicon|USA}} Casdon Jardine – G/F, [[Hawaii Rainbow Warriors basketball|Hawai{{okina}}i]]<!--UH women are Rainbow Wāhine.-->
+*{{flagicon|USA}} [[DeJon Jarreau]] – G, [[Houston Cougars men's basketball|Houston]]
+*{{flagicon|USA}} [[Tristan Jarrett]] – G, [[Jackson State Tigers basketball|Jackson State]]
+*{{flagicon|USA}} [[Justin Jaworski]] – G, [[Lafayette Leopards men's basketball|Lafayette]]
+*{{flagicon|USA}} [[Damien Jefferson]] – F, [[Creighton Bluejays men's basketball|Creighton]] (redshirt)
+*{{flagicon|USA}} [[Bryson Johnson]] – G, [[University of the Ozarks|Ozarks]]
+*{{flagicon|USA}} [[Carlik Jones]] – G, [[Louisville Cardinals men's basketball|Louisville]] (graduate)
+*{{flagicon|USA}} [[Herbert Jones (basketball)|Herbert Jones]] – F, [[Alabama Crimson Tide men's basketball|Alabama]]
+*{{flagicon|USA}} [[Corey Kispert]] – F, [[Gonzaga Bulldogs men's basketball|Gonzaga]]
+*{{flagicon|USA}} [[Cameron Krutwig]] – C, [[Loyola Ramblers men's basketball|Loyola Chicago]]<!--Both the school and the NCAA use "Loyola Chicago" when disambiguation is needed.-->
+*{{flagicon|USA}} [[Matt Lewis (basketball)|Matt Lewis]] – G, [[James Madison Dukes men's basketball|James Madison]]
+*{{flagicon|USA}} [[Spencer Littleson]] – G, [[Toledo Rockets men's basketball|Toledo]]
+*{{flagicon|USA}} [[Isaiah Livers]] – G/F, [[Michigan Wolverines men's basketball|Michigan]]
+*{{flagicon|USA}} [[Denzel Mahoney]] – G, [[Creighton Bluejays men's basketball|Creighton]] (redshirt)
+*{{flagicon|AUS}} [[Makuach Maluach]] – G, [[New Mexico Lobos men's basketball|New Mexico]]
+*{{flagicon|GEO}} [[Sandro Mamukelashvili]] – F/C, [[Seton Hall Pirates men's basketball|Seton Hall]]
+*{{flagicon|USA}} [[Kyle Mangas]] – G, [[Indiana Wesleyan Wildcats|Indiana Wesleyan]]
+*{{flagicon|USA}} [[JaQuori McLaughlin]] – G, [[UC Santa Barbara Gauchos men's basketball|UC Santa Barbara]]
+*{{flagicon|USA}} [[Jadyn Michael]] – G, [[Colorado Christian Cougars|Colorado Christian]]
+*{{flagicon|USA}} [[Isaiah Miller]] – G, [[UNC Greensboro Spartans men's basketball|UNC Greensboro]]
+*{{flagicon|DNK}} [[Asbjørn Midtgaard]] – C, [[Grand Canyon Antelopes men's basketball|Grand Canyon]]
+*{{flagicon|USA}} [[Damek Mitchell]] – G, [[Lewis–Clark State College|Lewis–Clark State]]
+*{{flagicon|USA}} [[Matt Mitchell (basketball)|Matt Mitchell]] – F, [[San Diego State Aztecs men's basketball|San Diego State]]
+*{{flagicon|USA}} [[Steffon Mitchell]] – G, [[Boston College Eagles men's basketball|Boston College]]
+*{{flagicon|USA}} [[Ruot Monyyong]] – F, [[Little Rock Trojans men's basketball|Little Rock]]
+*{{flagicon|USA}} [[Clay Mounce]] – G/F, [[Furman Paladins men's basketball|Furman]]
+*{{flagicon|USA}} [[Matthew Moyer]] – F, [[George Washington Colonials men's basketball|George Washington]]
+*{{flagicon|USA}} [[Obadiah Noel]] – G, [[UMass Lowell River Hawks men's basketball|UMass Lowell]]
+*{{flagicon|USA}} [[Kobi Nwandu]] – G, [[Niagara Purple Eagles men's basketball|Niagara]]
+*{{flagicon|CAN}} [[Eugene Omoruyi]] – F, [[Oregon Ducks men's basketball|Oregon]] (redshirt)
+*{{flagicon|USA}} [[EJ Onu]] – F/C, [[Shawnee State Bears|Shawnee State]]
+*{{flagicon|USA}} [[Chris Parker (basketball)|Chris Parker]] – G, [[Liberty Flames basketball|Liberty]]<!--Women are Lady Flames.-->
+*{{flagicon|AUS}} [[Jock Perry]] – C, [[UC Riverside Highlanders men's basketball|UC Riverside]] (redshirt)
+*{{flagicon|USA}} [[John Petty Jr.]] – G, [[Alabama Crimson Tide men's basketball|Alabama]]
+*{{flagicon|USA}} [[Jamorko Pickett]] – F, [[Georgetown Hoyas men's basketball|Georgetown]]
+*{{flagicon|USA}} [[Danny Pippen]] – F, [[Kent State Golden Flashes men's basketball|Kent State]] (redshirt)
+*{{flagicon|FRA}} [[Yves Pons]] – F, [[Tennessee Volunteers basketball|Tennessee]]<!--Women are Lady Volunteers.-->
+*{{flagicon|USA}} [[Micah Potter]] – F, [[Wisconsin Badgers men's basketball|Wisconsin]] (redshirt)
+*{{flagicon|USA}} [[Brandon Rachal]] – F, [[Tulsa Golden Hurricane men's basketball|Tulsa]]
+*{{flagicon|USA}} [[Austin Reaves]] – G, [[Oklahoma Sooners men's basketball|Oklahoma]] (redshirt)
+*{{flagicon|USA}} [[Nate Reuvers]] – C, [[Wisconsin Badgers men's basketball|Wisconsin]]
+*{{flagicon|USA}} [[Elvin Rodriguez]] – G, [[USAO Drovers|USAO]]
+*{{flagicon|USA}} [[Colbey Ross]] – G, [[Pepperdine Waves men's basketball|Pepperdine]]
+*{{flagicon|FRA}} [[Olivier Sarr]] – C, [[Kentucky Wildcats men's basketball|Kentucky]]
+*{{flagicon|USA}} [[Jordan Schakel]] – G, [[San Diego State Aztecs men's basketball|San Diego State]]
+*{{flagicon|USA}} [[Devontae Shuler]] – G, [[Ole Miss Rebels men's basketball|Ole Miss]]
+*{{flagicon|USA}} [[Aamir Simms]] – F, [[Clemson Tigers men's basketball|Clemson]]
+*{{flagicon|USA}} [[Jericho Sims]] – F, [[Texas Longhorns men's basketball|Texas]]
+*{{flagicon|USA}} [[Chris Smith (basketball, born 1999)|Chris Smith]] – F, [[UCLA Bruins men's basketball|UCLA]]
+*{{flagicon|USA}} [[Dru Smith]] – G, [[Missouri Tigers men's basketball|Missouri]] (redshirt)
+*{{flagicon|USA}} [[Justin Smith (basketball)|Justin Smith]] – F, [[Arkansas Razorbacks men's basketball|Arkansas]]
+*{{flagicon|USA}} [[Mike Smith (basketball, born 1997)|Mike Smith]] – G, [[Michigan Wolverines men's basketball|Michigan]] (graduate)
+*{{flagicon|USA}} [[Anthony Tarke]] – G, [[Coppin State Eagles men's basketball|Coppin State]] (redshirt)
+*{{flagicon|USA}} [[Jalen Tate]] – G, [[Arkansas Razorbacks men's basketball|Arkansas]]
+*{{flagicon|USA}} [[Terry Taylor (basketball)|Terry Taylor]] – G/F, [[Austin Peay Governors basketball|Austin Peay]]
+*{{flagicon|USA}} [[MaCio Teague]] – G, [[Baylor Bears basketball|Baylor]] (redshirt)
+*{{flagicon|USA}} [[Christian Terrell]] – G, [[Sacramento State Hornets men's basketball|Sacramento State]] (redshirt)
+*{{flagicon|USA}} [[Koby Thomas]] – G, [[Coppin State Eagles men's basketball|Coppin State]]
+*{{flagicon|PUR}} [[Ethan Thompson]] – G, [[Oregon State Beavers men's basketball|Oregon State]]
+*{{flagicon|USA}} [[Jeremiah Tilmon]] – F, [[Missouri Tigers men's basketball|Missouri]]
+*{{flagicon|USA}} [[D'Mitrik Trice]] – G, [[Wisconsin Badgers men's basketball|Wisconsin]] (redshirt)<!--Medical redshirt-->
+*{{flagicon|CAN}} [[Jordy Tshimanga]] – F, [[Dayton Flyers men's basketball|Dayton]] (redshirt)
+*{{flagicon|USA}} [[Justin Turner (basketball)|Justin Turner]] – G, [[Bowling Green Falcons men's basketball|Bowling Green]] (redshirt)
+*{{flagicon|USA}} [[Chandler Vaudrin]] – G, [[Winthrop Eagles men's basketball|Winthrop]] (redshirt)
+*{{flagicon|ESP}} [[Eric Vila]] – F/C, [[UTEP Miners men's basketball|UTEP]] (redshirt)
+*{{flagicon|USA}} [[Mark Vital]] – G/F, [[Baylor Bears basketball|Baylor]] (redshirt)
+*{{flagicon|USA}} [[M. J. Walker]] – G, [[Florida State Seminoles men's basketball|Florida State]]
+*{{flagicon|USA}} [[Keaton Wallace]] – G, [[UTSA Roadrunners men's basketball|UTSA]]
+*{{flagicon|USA}} [[Josh Washburn]] – G, [[Carthage College|Carthage]]
+*{{flagicon|USA}} [[Isaiah Washington (basketball)|Isaiah Washington]] – G, [[Long Beach State Beach men's basketball|Long Beach State]]
+*{{flagicon|USA}} [[Romello White]] – F, [[Ole Miss Rebels men's basketball|Ole Miss]] (graduate)
+*{{flagicon|USA}} [[Devin Whitfield]] – G, [[Lincoln Memorial Railsplitters|Lincoln Memorial]] (redshirt)
+*{{flagicon|USA}} [[McKinley Wright IV]] – G, [[Colorado Buffaloes men's basketball|Colorado]]
+*{{flagicon|USA}} [[Moses Wright]] – F, [[Georgia Tech Yellow Jackets men's basketball|Georgia Tech]]
+{{colend}}
+
+====International players====
+International players that declared for this draft and did not previously declare in another prior draft could drop out 10 days before the event, on July 19. A total of 51 international players withdrew their names from consideration for the draft, with only the following eight prospects remaining after the international deadline.<ref>{{cite web |title=NBA announces 51 early entry candidates withdraw from 2021 Draft |url=https://www.nba.com/news/nba-announces-51-early-entry-candidates-withdraw-from-2021-draft |website=nba.com |access-date=July 21, 2021 |archive-date=July 21, 2021 |archive-url=https://web.archive.org/web/20210721013532/https://www.nba.com/news/nba-announces-51-early-entry-candidates-withdraw-from-2021-draft |url-status=live }}</ref>
+<!--This section is STRICTLY for players defined by the NBA CBA as "international" for draft purposes. The CBA explicitly states that anyone who has enrolled in a US college or university, regardless of nationality, is NOT "international" when it comes to the draft.-->
+
+* {{flagicon|FRA}} [[Juhann Begarin]] – G, [[Paris Basketball]] ([[LNB Pro B|France]])
+* {{flagicon|BEL}} [[Vrenz Bleijenbergh]] – F, [[Antwerp Giants]] ([[Pro Basketball League|Belgium]])
+* {{flagicon|SEN}} [[Biram Faye]] – C, [[Bàsquet Girona]] ([[LEB Plata|Spain]])
+* {{flagicon|ESP}} [[Usman Garuba]] – F, [[Real Madrid Baloncesto|Real Madrid]] ([[Liga ACB|Spain]])
+* {{flagicon|AUS}} [[Josh Giddey]] – G, [[Adelaide 36ers]] ([[National Basketball League (Australia)|Australia]])
+* {{flagicon|LTU}} [[Rokas Jokubaitis]] – G, [[BC Žalgiris|Žalgiris Kaunas]] ([[Lietuvos krepšinio lyga|Lithuania]])
+* {{flagicon|TUR}} [[Alperen Şengün]] – C, [[Beşiktaş J.K. (men's basketball)|Beşiktaş Icrypex]] ([[Basketball Super League|Turkey]])
+* {{flagicon|SEN}} [[Amar Sylla]] – C, [[B.C. Oostende|Filou Oostende]] ([[Pro Basketball League|Belgium]])
+
+===Automatically eligible entrants===
+Players who do not meet the criteria for "international" players are automatically eligible if they meet any of the following criteria:
+*They have no remaining college eligibility.
+*If they graduated from high school in the U.S., but did not enroll in a U.S. college or university, four years have passed since their high school class graduated.
+*They have signed a contract with a professional basketball team not in the NBA, anywhere in the world, and have played under the contract.
+
+As noted above, the NCAA's COVID-19 eligibility waiver for 2020–21 resulted in all college seniors having remaining eligibility, leading to the NBA and its players' union agreeing that seniors would have to declare for the 2021 draft.
+
+Players who meet the criteria for "international" players are automatically eligible if they meet any of the following criteria:
+*They are at least 22 years old during the calendar year of the draft. In term of dates players born on or before December 31, 1999, were automatically eligible for the 2021 draft.
+*They have signed a contract with a professional basketball team not in the NBA ''within the United States'', and have played under that contract.
+
+{| class="wikitable sortable plainrowheaders" style="text-align:left; font-size:95%"
+|+ Other automatically eligible players
+|-
+! Player !! {{tooltip|Team|Most recent team played for before the draft}} !!class=unsortable| Note !!class=unsortable| Ref.
+|-
+!scope="row"|{{flagicon|AUS}} [[Owen Hulland]]
+| [[Adelaide 36ers]] ([[National Basketball League (Australia)|Australia]]) || Left [[Hawaii Rainbow Warriors basketball|Hawaii]] in 2020; playing professionally since the 2020–21 season ||align=center|<ref>{{cite web |title=Adelaide 36ers sign young local talent Owen Hulland |url=https://www.adelaide36ers.com/news/adelaide-36ers-sign-young-local-talent-owen-hulland |website=Adelaide 36ers |access-date=April 22, 2021 |date=January 7, 2021 |archive-date=January 9, 2021 |archive-url=https://web.archive.org/web/20210109085714/https://www.adelaide36ers.com/news/adelaide-36ers-sign-young-local-talent-owen-hulland |url-status=live }}</ref>
+|-
+!scope="row"|{{flagicon|SRB}} [[Filip Petrušev]]
+| [[KK Mega Basket|Mega Basket]] ([[Basketball League of Serbia|Serbia]]) || Left [[Gonzaga Bulldogs men's basketball|Gonzaga]] in 2020; playing professionally since the 2020–21 season ||align=center|<ref name="mozzartsport">{{cite web |title=Srbija dobila još jednog predstavnika na NBA draftu: Posle Petruševa prijavio se i Dalibor Ilić |url=https://www.mozzartsport.com/kosarka/vesti/srbija-dobila-jos-jednog-predstavnika-na-nba-draftu-posle-petruseva-prijavio-se-i-dalibor-ilic/386633 |website=MozzartSport |language=sr |access-date=May 8, 2021 |archive-date=July 22, 2021 |archive-url=https://web.archive.org/web/20210722144348/https://www.mozzartsport.com/kosarka/vesti/srbija-dobila-jos-jednog-predstavnika-na-nba-draftu-posle-petruseva-prijavio-se-i-dalibor-ilic/386633 |url-status=live }}</ref>
+|-
+!scope="row"|{{flagicon|AUS}} [[Isaac White (basketball)|Isaac White]]
+| [[Illawarra Hawks|The Hawks]] ([[National Basketball League (Australia)|Australia]]) || Left [[Stanford Cardinal men's basketball|Stanford]] in 2020; playing professionally since the 2020–21 season ||align=center|<ref>{{cite web |title=Returning College Star Isaac White Joins Hawks |url=https://nbl.com.au/news/returning-college-star-isaac-white-joins-hawks |website=NBL.com.au |access-date=May 21, 2021 |date=July 24, 2020 |archive-date=July 22, 2021 |archive-url=https://web.archive.org/web/20210722144224/https://nbl.com.au/news/returning-college-star-isaac-white-joins-hawks |url-status=live }}</ref>
+|}
+
+== Invited attendees ==
+After previously not having a proper "green room" invitation process for the [[2020 NBA draft]] due to the [[COVID-19 pandemic]] (with players instead being conducted interviews and showings through [[videotelephony]]), the NBA allowed for invites to attend the NBA draft event once again this season. The NBA usually annually invites players to sit in the so-called "green room", a special room set aside at the draft site for the invited players plus their families and agents, with 2020 being considered an exception due to the unprecedented nature of COVID-19 impacting the world at the time. This year, a reported 20 players were invited (listed alphabetically).<ref>{{Cite web|url=https://www.espn.com/nba/story/_/id/31849078/sources-cade-cunningham-jalen-green-evan-mobley-20-invited-nba-draft-green-room|title=Sources: NBA extends green room invites to 20|date=20 July 2021|website=ESPN.com|accessdate=6 August 2023}}</ref>
+
+{{colbegin|colwidth=25em}}
+*{{flagicon|USA}} [[Scottie Barnes]], [[Florida State Seminoles men's basketball|Florida State]]
+*{{flagicon|USA}} [[James Bouknight]], [[Connecticut Huskies men's basketball|Connecticut]]
+*{{flagicon|USA}} [[Cade Cunningham]], [[Oklahoma State Cowboys basketball|Oklahoma State]]
+*{{flagicon|DOM}} [[Chris Duarte (basketball)|Chris Duarte]], [[Oregon Ducks men's basketball|Oregon]]
+*{{flagicon|USA}} [[Jalen Green]], [[NBA G League Ignite]] ([[NBA G League]])
+*{{flagicon|AUS}} [[Josh Giddey]], [[Adelaide 36ers]] ([[National Basketball League (Australia)|Australia]])
+*{{flagicon|USA}} [[Isaiah Jackson (basketball)|Isaiah Jackson]], [[Kentucky Wildcats men's basketball|Kentucky]]
+*{{flagicon|USA}} [[Jalen Johnson]], [[Duke Blue Devils men's basketball|Duke]]
+*{{flagicon|USA}} [[Keon Johnson (basketball, born 2002)|Keon Johnson]], [[Tennessee Volunteers basketball|Tennessee]]
+*{{flagicon|BAH}} [[Kai Jones]], [[Texas Longhorns men's basketball|Texas]]
+*{{flagicon|USA}} [[Corey Kispert]], [[Gonzaga Bulldogs men's basketball|Gonzaga]]
+*{{flagicon|COD}} [[Jonathan Kuminga]], [[NBA G League Ignite]] ([[NBA G League]])
+*{{flagicon|USA}} [[Davion Mitchell]], [[Baylor Bears men's basketball|Baylor]]
+*{{flagicon|USA}} [[Evan Mobley]], [[USC Trojans men's basketball|USC]]
+*{{flagicon|USA}} [[Moses Moody]], [[Arkansas Razorbacks men's basketball|Arkansas]]
+*{{flagicon|TUR}} [[Alperen Şengün]], [[Beşiktaş J.K. (men's basketball)|Beşiktaş Icrypex]] ([[Basketbol Süper Ligi|Turkey]])
+*{{flagicon|USA}} [[Jalen Suggs]], [[Gonzaga Bulldogs men's basketball|Gonzaga]]
+*{{flagicon|USA}} [[Cam Thomas (basketball)|Cameron Thomas]], [[LSU Tigers basketball|LSU]]
+*{{flagicon|GER}} [[Franz Wagner]], [[Michigan Wolverines men's basketball|Michigan]]
+*{{flagicon|USA}} [[Ziaire Williams]], [[Stanford Cardinal men's basketball|Stanford]]
+{{colend}}
+
+==See also==
+* [[List of first overall NBA draft picks]]
+
+==Notes==
+<references group="n"/>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.nba.com/draft Official site]
+
+{{NBA Drafts}}
+{{NBA Draft history by team}}
+{{2021 NBA draft}}
+{{2021–22 NBA season by team}}
+{{Portal bar|Sport|United States}}
+
+[[Category:2021–22 NBA season|Draft]]
+[[Category:NBA draft]]
+[[Category:July 2021 sports events in the United States|NBA draft]]
+[[Category:2021 in sports in New York City|NBA draft]]
+[[Category:2020s in Brooklyn]]
+[[Category:Basketball in New York City]]
+[[Category:Sports in Brooklyn]]
+[[Category:Sporting events in New York City]]
+[[Category:Organized events in Brooklyn]]

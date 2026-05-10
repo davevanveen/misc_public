@@ -1,0 +1,835 @@
+{{Use mdy dates|date=October 2020}}
+{{distinguish|1988 NBA expansion draft}}
+{{short description|Basketball player selection}}
+{{Infobox sports draft
+| name        = 1988 NBA draft
+| image       = 
+| caption     = 
+| logo        = 
+| logosize    = 
+| sport       = Basketball
+| date        = June 28, 1988
+| location    = [[Felt Forum]], [[Madison Square Garden]] ([[New York City]], [[New York (state)|New York]])<ref>{{cite book|last=Bradley|first=Robert D.|title=The Basketball Draft Fact Book: A History of Professional Basketball's College Drafts|year=2013|publisher=Scarecrow Press|isbn=9780810890695}}</ref>
+| network     = [[NBA on TBS|Superstation TBS]]
+| league      = NBA
+| teams       = 
+| overall     = 75
+| rounds      = 3
+| first       = [[Danny Manning]] ([[Los Angeles Clippers]])
+| hofnum      = {{Collapsible list
+| title = 1
+|1 = SG [[Mitch Richmond]]}}
+| prev        = [[1987 NBA draft|1987]]
+| next        = [[1989 NBA draft|1989]]
+}}
+
+The '''[[1988–89 NBA season|1988]] [[NBA draft]]''' took place on June 28, 1988, in New York City, New York. The length was reduced from seven rounds in the previous year to three rounds.<ref>{{Cite web|url=https://www.basketball-reference.com/draft/NBA_1988.html|title = 1988 NBA draft}}</ref><ref>{{Cite web|url=http://basketball.realgm.com/nba/draft/past_drafts/1988|title = NBA Past Drafts - RealGM}}</ref> This was also the first draft for the [[Charlotte Hornets]] and [[Miami Heat]], prior to their inaugural season.
+
+[[Danny Manning]] was picked first overall by the [[Los Angeles Clippers]] and later became a two-time [[List of NBA All-Stars|All-Star]] and a [[NBA Sixth Man of the Year|Sixth Man of the Year]] winner. However, injuries prevented him from fulfilling his potential, despite playing 15 seasons. [[Mitch Richmond]], the fifth pick, went on to earn six All-Star and five [[All-NBA team]] selections, while also winning [[NBA Rookie of the Year|Rookie of the Year]]. Other notable selections include All-Stars [[Rik Smits]], [[Hersey Hawkins]] and [[Dan Majerle]], as well as nine-time NBA champion [[Steve Kerr]], who achieved championship success as a player (five championships) and as a coach (four championships).
+
+==Draft==
+[[File:RikSmits headshot.jpg|right|thumb|150px|[[Rik Smits]], the 2nd pick]]
+[[File:Rod-Strickland.jpg|right|thumb|150px|[[Rod Strickland]], the 19th pick]]
+[[File:Brian Shaw.jpg|right|thumb|150px|[[Brian Shaw (basketball)|Brian Shaw]], the 24th pick]]
+[[File:Keith Smart.jpg|right|thumb|150px|[[Keith Smart]], the 41st pick]]
+[[File:Steve Kerr 2013.jpg|right|thumb|150px|[[Steve Kerr]], the 50th pick]]
+[[file:Craig Neal in 2008.jpg|right|thumb|150px|[[Craig Neal]], the 71st pick]]
+{|class=wikitable
+|-
+| PG || [[Point guard]]
+| SG || [[Shooting guard]]
+| SF || [[Small forward]]
+| PF || [[Power forward (basketball)|Power forward]]
+| C || [[Center (basketball)|Center]]
+|}
+{{NBA Draft legend|1=y|2=y|3=y|4=y|5=y|6=y}}
+{| class="wikitable"
+! style="width:1%;"| Round
+! style="width:1%;"| Pick
+! style="width:19%;"| Player
+! style="width:1%;"| Position
+! style="width:16%;"| Nationality{{refn|group=n|Nationality indicates the player's national team or [[representative nationality]]. If a player has not competed at the international level, then the nationality indicates the national team which the player is eligible to represent according to [[FIBA]] rules.}}
+! style="width:35%;"| Team
+! style="width:20%;"| School/club team
+|-
+|align=center|  1
+|align=center|  1
+| bgcolor="#FFCC00"| {{sortname|Danny|Manning}}<sup>+</sup> 
+|PF
+| {{flagu|United States}}
+| [[Los Angeles Clippers]]
+| [[Kansas Jayhawks men's basketball|Kansas]] <small>(Sr.)</small>
+|-
+|align=center| 1
+|align=center| 2
+| bgcolor="#FFCC00"| {{sortname|Rik|Smits}}<sup>+</sup>
+|C
+| {{flagu|Netherlands}}
+| [[Indiana Pacers]]
+| [[Marist Red Foxes men's basketball|Marist]] <small>(Sr.)</small>
+|-
+|align=center| 1
+|align=center| 3
+| {{sortname|Charles|Smith|Charles Smith (basketball, born 1965)}} 
+| PF
+| {{flagu|United States}}
+| [[Philadelphia 76ers]] <small>(traded to [[Los Angeles Clippers|L.A. Clippers]])</small>
+| [[Pittsburgh Panthers men's basketball|Pittsburgh]] <small>(Sr.)</small>
+|-
+|align=center| 1
+|align=center| 4
+| {{sortname|Chris|Morris|Chris Morris (basketball)}}
+| SF
+| {{flagu|United States}}
+| [[New Jersey Nets]]
+| [[Auburn Tigers men's basketball|Auburn]] <small>(Sr.)</small>
+|-
+|align=center| 1
+|align=center| 5
+| bgcolor="#FFFF99"| {{sortname|Mitch|Richmond}}^~
+| SG
+| {{flagu|United States}}
+| [[Golden State Warriors]]
+| [[Kansas State Wildcats men's basketball|Kansas State]] <small>(Sr.)</small>
+|-
+|align=center| 1
+|align=center| 6
+| bgcolor="#FFCC00"| {{sortname|Hersey|Hawkins}}<sup>+</sup> 
+| SG
+| {{flagu|United States}}
+| [[Los Angeles Clippers]] <small>(from [[Sacramento Kings|Sacramento]], traded to [[Philadelphia 76ers|Philadelphia]])</small> 
+| [[Bradley Braves men's basketball|Bradley]] <small>(Sr.)</small>
+|-
+|align=center| 1
+|align=center| 7
+| {{sortname|Tim|Perry}}
+| F
+| {{flagu|United States}}
+| [[Phoenix Suns]]
+| [[Temple Owls men's basketball|Temple]] <small>(Sr.)</small>
+|-
+|align=center| 1
+|align=center| 8
+| {{sortname|Rex|Chapman}} 
+| SG
+| {{flagu|United States}}
+| [[Charlotte Hornets]]
+| [[Kentucky Wildcats men's basketball|Kentucky]] <small>([[College sophomore|So.]])</small>
+|-
+|align=center| 1
+|align=center| 9
+| {{sortname|Rony|Seikaly}}
+| C
+| {{flagu|Lebanon}}
+| [[Miami Heat]]
+| [[Syracuse Orange men's basketball|Syracuse]] <small>(Sr.)</small>
+|-
+|align=center| 1
+|align=center| 10
+| {{sortname|Willie|Anderson|Willie Anderson (basketball)}}
+| SG
+| {{flagu|United States}}
+| [[San Antonio Spurs]]
+| [[Georgia Bulldogs men's basketball|Georgia]] <small>(Sr.)</small>
+|-
+|align=center| 1
+|align=center| 11
+| {{sortname|Will|Perdue}}
+| C
+| {{flagu|United States}}
+| [[Chicago Bulls]] <small>(from [[New York Knicks|New York]])</small>
+| [[Vanderbilt Commodores men's basketball|Vanderbilt]] <small>(Sr.)</small>
+|-
+|align=center| 1
+|align=center| 12
+| {{sortname|Harvey|Grant}}
+| SF
+| {{flagu|United States}}
+| [[Washington Bullets]]
+| [[Oklahoma Sooners men's basketball|Oklahoma]] <small>(Sr.)</small>
+|-
+|align=center| 1
+|align=center| 13
+| {{sortname|Jeff|Grayer}}
+| SG/SF
+| {{flagu|United States}}
+| [[Milwaukee Bucks]]
+| [[Iowa State Cyclones men's basketball|Iowa State]] <small>(Sr.)</small>
+|-
+|align=center| 1
+|align=center| 14
+| bgcolor="#FFCC00"| {{sortname|Dan|Majerle}}<sup>+</sup>
+| SF
+| {{flagu|United States}}
+| [[Phoenix Suns]] <small>(from [[Cleveland Cavaliers|Cleveland]])</small>
+| [[Central Michigan Chippewas men's basketball|Central Michigan]] <small>(Sr.)</small>
+|-
+|align=center| 1
+|align=center| 15
+| {{sortname|Gary|Grant|Gary Grant (basketball)}}
+| PG
+| {{flagu|United States}}
+| [[Seattle SuperSonics]]
+| [[Michigan Wolverines men's basketball|Michigan]] <small>(Sr.)</small>
+|-
+|align=center| 1
+|align=center| 16
+| {{sortname|Derrick|Chievous}}
+| SG
+| {{flagu|United States}}
+| [[Houston Rockets]]
+| [[Missouri Tigers men's basketball|Missouri]] <small>(Sr.)</small>
+|-
+|align=center| 1
+|align=center| 17
+| {{sortname|Eric|Leckner}}
+| C
+| {{flagu|United States}}
+| [[Utah Jazz]]
+| [[Wyoming Cowboys basketball|Wyoming]] <small>(Sr.)</small>
+|-
+|align=center| 1
+|align=center| 18
+| {{sortname|Ricky|Berry}} 
+| SG
+| {{flagu|United States}}
+| [[Sacramento Kings]] <small>(from [[Atlanta Hawks|Atlanta]])</small>
+| [[San Jose State Spartans men's basketball|San Jose State]] <small>(Sr.)</small>
+|-
+|align=center| 1
+|align=center| 19
+| bgcolor="CCFFCC"| {{sortname|Rod|Strickland}}<sup>x</sup> 
+| PG
+| {{flagu|United States}}
+| [[New York Knicks]] <small>(from [[Chicago Bulls|Chicago]])</small>	
+| [[DePaul Blue Demons men's basketball|DePaul]] <small>(Jr.)</small>
+|-
+|align=center| 1
+|align=center| 20
+| {{sortname|Kevin|Edwards}}
+| SG
+| {{flagu|United States}}
+| [[Miami Heat]] <small>(from [[Dallas Mavericks|Dallas]])</small>{{ref label|Note1|a|a}}
+| [[DePaul Blue Demons men's basketball|DePaul]] <small>(Sr.)</small>
+|-
+|align=center| 1
+|align=center| 21
+| {{sortname|Mark|Bryant|Mark Bryant (basketball)}}
+| PF
+| {{flagu|United States}}
+| [[Portland Trail Blazers]]
+| [[Seton Hall Pirates men's basketball|Seton Hall]] <small>(Sr.)</small>
+|-
+|align=center| 1
+|align=center| 22
+| {{sortname|Randolph|Keys}}
+| SF
+| {{flagu|United States}}
+| [[Cleveland Cavaliers]] <small>(from [[Detroit Pistons|Detroit]] via [[Phoenix Suns|Phoenix]])</small>
+| [[Southern Miss Golden Eagles men's basketball|Southern Miss]] <small>(Sr.)</small>
+|-
+|align=center| 1
+|align=center| 23
+| {{sortname|Jerome|Lane}} 
+| PF
+| {{flagu|United States}}
+| [[Denver Nuggets]]
+| [[Pittsburgh Panthers men's basketball|Pittsburgh]] <small>(Jr.)</small>
+|-
+|align=center|1
+|align=center| 24
+| {{sortname|Brian|Shaw|Brian Shaw (basketball)}} 
+| SG
+| {{flagu|United States}}
+| [[Boston Celtics]]
+| [[UC Santa Barbara Gauchos men's basketball|UC Santa Barbara]] <small>(Sr.)</small>
+|-
+|align=center| 1
+|align=center| 25
+| {{sortname|David|Rivers}}
+| PG
+| {{flagu|United States}}
+| [[Los Angeles Lakers]]
+| [[Notre Dame Fighting Irish men's basketball|Notre Dame]] <small>(Sr.)</small>
+|-
+|align=center| 2
+|align=center| 26
+| {{sortname|Rolando|Ferreira}}
+| C
+| {{flagu|Brazil}}
+| [[Portland Trail Blazers]]
+| [[Houston Cougars men's basketball|Houston]] <small>(Sr.)</small>
+|-
+|align=center| 2
+|align=center| 27
+| {{sortname|Shelton|Jones}}
+| F
+| {{flagu|United States}}
+| [[San Antonio Spurs]]
+| [[St. John's University (New York City)|St. John's]] <small>(Sr.)</small>
+|-
+|align=center| 2
+|align=center| 28
+| {{sortname|Andrew|Lang|Andrew Lang (basketball)}}
+| C
+| {{flagu|United States}}
+| [[Phoenix Suns]]
+| [[Arkansas Razorbacks basketball|Arkansas]] <small>(Sr.)</small>
+|-
+|align=center| 2
+|align=center| 29
+| {{sortname|Vinny|Del Negro}}
+| SG
+| {{flagu|United States}}
+| [[Sacramento Kings]]
+| [[NC State Wolfpack men's basketball|NC State]] <small>(Sr.)</small>
+|-
+|align=center| 2
+|align=center| 30
+| {{sortname|Fennis|Dembo}}
+| PF
+| {{flagu|United States}}
+| [[Detroit Pistons]]
+| [[Wyoming Cowboys basketball|Wyoming]] <small>(Sr.)</small>
+|-
+|align=center| 2
+|align=center| 31
+| {{sortname|Everette|Stephens}}
+| G
+| {{flagu|United States}}
+| [[Philadelphia 76ers]]
+| [[Purdue Boilermakers men's basketball|Purdue]] <small>(Sr.)</small>
+|-
+|align=center| 2
+|align=center| 32
+| {{sortname|Charles|Shackleford}}
+| F/C
+| {{flagu|United States}}
+| [[New Jersey Nets]]
+| [[NC State Wolfpack men's basketball|NC State]] <small>(Sr.)</small>
+|-
+|align=center| 2
+|align=center| 33
+| {{sortname|Grant|Long}}
+| F
+| {{flagu|United States}}
+| [[Miami Heat]]
+| [[Eastern Michigan Eagles men's basketball|Eastern Michigan]] <small>(Sr.)</small>
+|-
+|align=center| 2
+|align=center| 34
+| {{sortname|Tom|Tolbert}}
+| F/C
+| {{flagu|United States}}
+| [[Charlotte Hornets]]
+| [[Arizona Wildcats men's basketball|Arizona]] <small>(Sr.)</small>
+|-
+|align=center| 2
+|align=center| 35
+| {{sortname|Sylvester|Gray}}
+| F
+| {{flagu|United States}}
+| [[Miami Heat]] <small>(from [[New York Knicks|New York]] via [[Chicago Bulls|Chicago]], [[Seattle SuperSonics|Seattle]], and [[Boston Celtics|Boston]])</small>{{ref label|Note2|b|b}}
+| [[Memphis Tigers men's basketball|Memphis State]] <small>(So.)</small>
+|-
+|align=center| 2
+|align=center| 36
+| {{sortname|Ledell|Eackles}}
+| G/F
+| {{flagu|United States}}
+| [[Washington Bullets]]
+| [[New Orleans Privateers men's basketball|New Orleans]] <small>(Sr.)</small>
+|-
+|align=center| 2
+|align=center| 37
+| {{sortname|Greg|Butler|dab=basketball}}
+| C
+| {{flagu|United States}}
+| [[New York Knicks]]
+| [[Stanford Cardinal men's basketball|Stanford]] <small>(Sr.)</small>
+|-
+|align=center| 2
+|align=center| 38
+| {{sortname|Dean|Garrett}}
+| C
+| {{flagu|United States}}
+| [[Phoenix Suns]]  <small>(from [[Cleveland Cavaliers|Cleveland]])</small>
+| [[Indiana Hoosiers men's basketball|Indiana]] <small>(Sr.)</small>
+|-
+|align=center| 2
+|align=center| 39
+| {{sortname|Tito|Horford}}
+| C
+| {{DOM}}
+| [[Milwaukee Bucks]]
+| [[Miami Hurricanes men's basketball|Miami (FL)]] <small>(So.)</small>
+|-
+|align=center|2
+|align=center|40
+| {{sortname|Orlando|Graham}}
+| F
+| {{flagu|United States}}
+| [[Miami Heat]] <small>(from [[Seattle SuperSonics|Seattle]])</small>{{ref label|Note3|c|c}}
+| [[Auburn University at Montgomery#Athletics|Auburn-Montgomery]] <small>(Sr.)</small>
+|-
+|align=center| 2
+|align=center| 41
+| {{sortname|Keith|Smart}}
+| G
+| {{flagu|United States}}
+| [[Golden State Warriors]]
+| [[Indiana Hoosiers men's basketball|Indiana]] <small>(Sr.)</small>
+|-
+|align=center| 2
+|align=center| 42
+|  style="background:silver"| {{sortname|Jeff|Moe}}<sup>#</sup>
+| SG
+| {{flagu|United States}}
+| [[Utah Jazz]]
+| [[Iowa Hawkeyes men's basketball|Iowa]] <small>(Sr.)</small>
+|-
+|align=center| 2
+|align=center| 43
+|  {{sortname|Todd|Mitchell}}
+| F
+| {{flagu|United States}}
+| [[Denver Nuggets]]
+| [[Purdue Boilermakers men's basketball|Purdue]] <small>(Sr.)</small>
+|-
+|align=center| 2
+|align=center| 44
+|  {{sortname|Anthony|Taylor|Anthony Taylor (basketball)}}
+| G
+| {{flagu|United States}}
+| [[Atlanta Hawks]]
+| [[Oregon Ducks men's basketball|Oregon]] (Sr)
+|-
+|align=center| 2
+|align=center| 45
+|  {{sortname|Tom|Garrick}}
+| G
+| {{flagu|United States}}
+| [[Los Angeles Clippers]]
+| [[Rhode Island Rams men's basketball|Rhode Island]] <small>(Sr.)</small>
+|-
+|align=center| 2
+|align=center| 46
+|  {{sortname|Morlon|Wiley}}
+| G
+| {{flagu|United States}}
+| [[Dallas Mavericks]]
+| [[Long Beach State 49ers men's basketball|Long Beach State]] <small>(Sr.)</small>
+|-
+|align=center| 2
+|align=center| 47
+|  {{sortname|Vernon|Maxwell}}
+| SG
+| {{flagu|United States}}
+| [[Denver Nuggets]]
+| [[Florida Gators men's basketball|Florida]]  <small>(Sr.)</small>
+|-
+|align=center| 2
+|align=center| 48
+|  {{sortname|Micheal|Williams}}
+| G
+| {{flagu|United States}}
+| [[Detroit Pistons]]
+| [[Baylor Bears men's basketball|Baylor]]  <small>(Sr.)</small>
+|-
+|align=center| 2
+|align=center| 49
+|  style="background:silver"| {{sortname|José|Vargas|José Vargas (basketball)}}<sup>#</sup>
+| C/PF
+| {{DOM}}
+| [[Dallas Mavericks]]
+| [[LSU Tigers basketball|LSU]] <small>(Sr.)</small>
+|-
+|align=center| 2
+|align=center| 50
+| {{sortname|Steve|Kerr}} 
+| PG
+| {{flagu|United States}}
+| [[Phoenix Suns]]
+| [[Arizona Wildcats men's basketball|Arizona]] <small>(Sr.)</small>
+|-
+|align=center|3
+|align=center|51
+| {{sortname|Rob|Lock}}
+| F
+| {{flagu|United States}}
+| [[Los Angeles Clippers]]
+| [[Kentucky Wildcats men's basketball|Kentucky]] <small>(Sr.)</small>
+|-
+|align=center| 3
+|align=center| 52
+|  style="background:silver"| {{sortname|Derrick|Hamilton|Derrick Hamilton (basketball)}}<sup>#</sup>
+| SF
+| {{flagu|United States}}
+| [[New Jersey Nets]]
+| [[Southern Miss Golden Eagles men's basketball|Southern Miss]] <small>(Sr.)</small>
+|-
+|align=center|3
+|align=center|53
+| bgcolor="#FBCEB1"| {{sortname|Anthony|Mason|Anthony Mason (basketball)}}* 
+| SF/PF
+| {{flagu|United States}}
+| [[Portland Trail Blazers]] <small>(from [[Golden State Warriors|Golden State]])</small>
+| [[Tennessee State Tigers men's basketball|Tennessee State]]  <small>(Sr.)</small>
+|-
+|align=center|3
+|align=center|54
+|  style="background:silver"|  {{sortname|Jorge|González|Jorge González (wrestler)}}<sup>#</sup>
+| C
+| {{ARG}}
+| [[Atlanta Hawks]] <small>(from [[Sacramento Kings|Sacramento]])</small>
+| [[Sport Club de Cañada de Gómez]] <small>([[Liga Nacional de Básquet|Argentina]]) 1966</small>
+|-
+|align=center|3
+|align=center| 55
+|  style="background:silver"| {{sortname|Rodney|Johns}}<sup>#</sup>
+| PG
+| {{flagu|United States}}
+| [[Phoenix Suns]]
+| [[Grand Canyon Antelopes men's basketball|Grand Canyon]] <small>(Sr.)</small>
+|-
+|align=center|3
+|align=center|56
+| {{sortname|Barry|Sumpter}}
+| F/C
+| {{flagu|United States}}
+| [[San Antonio Spurs]]
+| [[Austin Peay State Governors basketball|Austin Peay]] <small>(Sr.)</small>
+|-
+|align=center|3
+|align=center|57
+| style="background:silver"|{{sortname|Hernán|Montenegro}}<sup>#</sup>
+| PF/C
+| {{ARG}}
+| [[Philadelphia 76ers]]
+| [[Club Olimpo|Olimpo]] <small>([[Campeonato Argentino de Clubes de Básquet|Argentina]])</small>
+|-
+| align=center|3
+|align=center|58
+|style="background:silver"| {{sortname|Jeff|Moore|Jeff Moore (basketball)}}<sup>#</sup>
+| PF
+| {{flagu|United States}}
+| [[Charlotte Hornets]]
+| [[Auburn Tigers men's basketball|Auburn]] <small>(Sr.)</small>
+|-
+|align=center|3
+|align=center|59
+| {{sortname|Nate|Johnston}}
+| F
+| {{flagu|United States}}
+| [[Miami Heat]]
+| [[University of Tampa#Athletics|Tampa]] <small>(Sr.)</small>
+|-
+|align=center|3
+|align=center|60
+|style="background:silver"| {{sortname||[[Ed Davender]]|nolink=1}}<sup>#</sup>
+| PG
+| {{flagu|United States}}
+| [[Washington Bullets]]
+| [[Kentucky Wildcats men's basketball|Kentucky]] <small>(Sr.)</small>
+|-
+|align=center|3
+|align=center|61
+|style="background:silver"|  {{sortname|Herbert|Crook}} <sup>#</sup>
+| SF/SG
+| {{flagu|United States}}
+| [[Indiana Pacers]]
+| [[Louisville Cardinals men's basketball|Louisville]] <small>(Sr.)</small>
+|-
+|align=center| 3
+|align=center| 62
+|style="background:silver"| {{sortname|Derrick|Lewis|dab=basketball}}<sup>#</sup>
+| PF
+| {{flagu|United States}}
+| [[Chicago Bulls]] <small>(from [[New York Knicks|New York]])</small>
+| [[Maryland Terrapins men's basketball|Maryland]] <small>(Sr.)</small>
+|-
+|align=center| 3
+|align=center| 63
+|style="background:silver"| {{sortname|Mike|Jones|dab=basketball, born 1967}}<sup>#</sup>
+|PF
+| {{flagu|United States}}
+| [[Milwaukee Bucks]]
+| [[Auburn Tigers men's basketball|Auburn]] <small>(Jr.)</small>
+|-
+|align=center| 3
+|align=center| 64
+| {{sortname|Winston|Bennett}}
+| F
+| {{flagu|United States}}
+| [[Cleveland Cavaliers]]
+| [[Kentucky Wildcats men's basketball|Kentucky]] <small>(Sr.)</small>
+|-
+|align=center| 3
+|align=center| 65
+| {{sortname|Corey|Gaines}}
+| G
+| {{flagu|United States}}
+| [[Seattle SuperSonics]]
+| [[Loyola Marymount Lions men's basketball|Loyola Marymount]] <small>(Sr.)</small>
+|-
+|align=center| 3
+|align=center| 66
+| style="background:silver"|{{sortname|Dwight|Boyd}}<sup>#</sup>
+|SG
+| {{flagu|United States}}
+| [[Denver Nuggets]] <small>(from [[Houston Rockets|Houston]])</small>
+| [[Memphis Tigers men's basketball|Memphis State]] <small>(Sr.)</small>
+|-
+|align=center| 3
+|align=center| 67
+| {{sortname|Ricky|Grace}}
+| G
+| {{flagu|Australia}}
+| [[Utah Jazz]]
+| [[Oklahoma Sooners men's basketball|Oklahoma]] <small>(Sr.)</small>
+|-
+|align=center| 3
+|align=center| 68
+| style="background:silver"| {{sortname|Darryl|Middleton}}<sup>#</sup>
+| PF
+| {{flagu|United States}}
+| [[Atlanta Hawks]]
+| [[Baylor Bears men's basketball|Baylor]] <small>(Sr.)</small>
+|-
+|align=center| 3
+|align=center| 69
+| style="background:silver"|{{sortname|Phil|Stinnie|nolink=1}}<sup>#</sup>
+| PF
+| {{flagu|United States}}
+| [[New York Knicks]] <small>(from [[Chicago Bulls|Chicago]])</small>
+| [[VCU Rams men's basketball|VCU]]  <small>(Sr.)</small>
+|-
+|align=center| 3
+|align=center| 70
+| style="background:silver"| {{sortname|Jerry|Johnson|nolink=1}}<sup>#</sup>
+| PG
+| {{flagu|United States}}
+| [[Dallas Mavericks]]
+| [[Florida Southern College#Athletics|Florida Southern]] <small>(Sr.)</small>
+|-
+|align=center| 3
+|align=center| 71
+| {{sortname|Craig|Neal}}
+| G
+| {{flagu|United States}}
+| [[Portland Trail Blazers]]
+| [[Georgia Tech Yellow Jackets men's basketball|Georgia Tech]] <small>(Sr.)</small>
+|-
+|align=center| 3
+|align=center| 72
+| {{sortname|Lee|Johnson|dab=basketball}}
+| PF
+| {{flagu|United States}}
+| [[Detroit Pistons]]
+| [[Norfolk State Spartans men's basketball|Norfolk State]] <small>(Sr.)</small>
+|-
+|align=center| 3
+|align=center| 73
+| {{sortname|Michael|Anderson|Michael Anderson (basketball)}}
+| G
+| {{flagu|United States}}
+| [[Indiana Pacers]] <small>(from [[Denver Nuggets|Denver]] via [[Los Angeles Clippers|L.A. Clippers]])</small>
+| [[Drexel Dragons men's basketball|Drexel]] <small>(Sr.)</small>
+|-
+|align=center| 3
+|align=center| 74
+| {{sortname|Gerald|Paddio}}
+| F/G
+| {{flagu|United States}}
+| [[Boston Celtics]]
+| [[UNLV Runnin' Rebels basketball|UNLV]]  <small>(Sr.)</small>
+|-
+|align=center| 3
+|align=center| 75
+| style="background:silver"| {{sortname|Archie|Marshall|dab=basketball}}<sup>#</sup>
+| SF
+| {{flagu|United States}}
+| [[San Antonio Spurs]] <small>(from [[Los Angeles Lakers|L.A. Lakers]])</small>
+| [[Kansas Jayhawks men's basketball|Kansas]] <small>(Sr.)</small>
+|}
+{{reflist|group=n}}
+
+==Notable undrafted players==
+{{further|List of undrafted NBA players}}
+This section is for players who were eligible for the 1988 NBA draft, did not get selected, but still later appeared in at least one NBA regular season or postseason game.
+[[File:Lipofsky-John Starks.jpg|thumb|upright|150px|John Starks was undrafted but had a successful career, including an appearance in the [[1994 NBA All-Star Game]].]]
+{| class="wikitable sortable sortable"
+! width="19%"| Player
+! width="1%" | Position
+! width="20%"| Nationality
+! width="25%"| School/Club team
+|-
+|{{sortname|Lloyd|Daniels}}
+|SG
+|{{flagu|United States}}
+|[[Waitemata Dolphins]] <small>([[National Basketball League (New Zealand)|New Zealand]])</small>
+|-
+|{{sortname|Wayne|Engelstad}}
+|PF
+|{{flagu|United States}}
+|[[UC Irvine Anteaters men's basketball|UC Irvine]] <small>(Sr.)</small>
+|-
+|{{sortname|Duane|Ferrell}}
+|SF
+|{{flagu|United States}}
+|[[Georgia Tech Yellow Jackets men's basketball|Georgia Tech]] <small>(Sr.)</small>
+|-
+|{{sortname|Ben|Gillery}}
+|C
+|{{flagu|United States}}
+|[[Georgetown Hoyas men's basketball|Georgetown]] <small>(Sr.)</small>
+|-
+|{{sortname|Henry|James|Henry James (basketball)}}
+|PF/SF
+|{{flagu|United States}}
+|[[St. Mary's University, Texas#Athletics|St. Mary's (TX)]] <small>(Sr.)</small>
+|-
+|{{sortname|Avery|Johnson}}
+|PG
+|{{flagu|United States}}
+|[[Southern Jaguars men's basketball|Southern]] <small>(Sr.)</small>
+|-
+|{{sortname|Bill|Jones|dab=basketball, born 1966}}
+|PF
+|{{flagu|United States}}
+|[[Iowa Hawkeyes men's basketball|Iowa]] <small>(Sr.)</small>
+|-
+|{{sortname|Tim|Legler}}
+|SG
+|{{flagu|United States}}
+|[[La Salle Explorers men's basketball|La Salle]] <small>(Sr.)</small>
+|-
+|{{sortname|Carlton|McKinney}}
+|SG
+|{{flagu|United States}}
+|[[SMU Mustangs men's basketball|SMU]] <small>(Sr.)</small>
+|-
+|{{sortname|Tracy|Moore|dab=basketball}}
+|SG/SF
+|{{flagu|United States}}
+|[[Tulsa Golden Hurricane men's basketball|Tulsa]] <small>(Sr.)</small>
+|-
+|{{sortname|Richard|Morton|Richard Morton (basketball)}}
+|PG
+|{{flagu|United States}}
+|[[Cal State Fullerton Titans men's basketball|Cal State Fullerton]] <small>(Sr.)</small>
+|-
+|{{sortname|Žarko|Paspalj}}
+|SF
+|{{YUG}}
+|[[KK Partizan]] <small>([[First Federal Basketball League|Yugoslavia]])</small>
+|-
+|{{sortname|Ramon|Rivas}}
+|C
+|{{PUR}}
+|[[Temple Owls men's basketball|Temple]] <small>(Sr.)</small>
+|-
+| bgcolor="#FFCC00"|{{sortname|John|Starks|John Starks (basketball)}}<sup>+</sup>
+|SG
+|{{flagu|United States}}
+|[[Oklahoma State Cowboys men's basketball|Oklahoma State]] <small>(Sr.)</small>
+|-
+|{{sortname|Henry|Turner|dab=basketball}}
+|SG/SF
+|{{flagu|United States}}
+|[[Cal State Fullerton Titans men's basketball|Cal State Fullerton]] <small>(Sr.)</small>
+|-
+| {{sortname|João|Vianna}}
+| PF
+| {{BRA}}
+| [[Clube Atlético Monte Líbano (basketball)|C.A. Monte Líbano]] <small>([[Campeonato Brasileiro de Basquete|Brazil]])</small>
+|-
+|{{sortname|Gary|Voce}}
+|PF
+|{{JAM}}
+|[[Notre Dame Fighting Irish men's basketball|Notre Dame]] <small>(Sr.)</small>
+|}
+
+==Notes==
+*{{note label|Note1|a|a}}On June 23, 1988, the Heat received the 1988 NBA Draft first-round draft pick from the [[Dallas Mavericks]] for not picking centers [[Bill Wennington]] and [[Uwe Blab]] or guard [[Steve Alford]] in the [[1988 NBA expansion draft]].<ref name="1988trades">{{cite web |title=HEAT: Key Dates and Transactions: 1988 |url=http://www.nba.com/heat/history/keydates_transactions_1988.html |work=NBA.com |access-date=2011-05-29 |archive-url=https://web.archive.org/web/20121108232728/http://www.nba.com/heat/history/keydates_transactions_1988.html |archive-date=2012-11-08 |url-status=dead }}</ref>
+
+*{{note label|Note3|c|c}}On June 23, 1988, the Heat received the 1988 NBA Draft second-round draft pick from the Seattle SuperSonics for not selecting guard [[Danny Young (basketball)|Danny Young]] in the 1988 NBA Expansion Draft.<ref name="1988trades" />
+
+==Early entrants==
+===College underclassmen===
+For the sixth year in a row and the tenth time in eleven years, no college underclassman would withdraw their entry into the NBA draft. Not only that, for the third time in a row, there would be at least one player that qualified for the status of "college underclassman" while playing professional basketball overseas. In this case, three players ended up qualifying for this case with [[Lloyd Daniels]] leaving [[Mt. San Antonio College]] to play for the [[Waitemata Dolphins]] in [[New Zealand]], the [[Argentina|Argentinian]] born [[Hernán Montenegro]] leaving [[LSU Tigers men's basketball|Louisiana State University]] to play for [[Club Olimpo|Olimpo de Bahía Blanca]] in his home land of [[Argentina]], and Eddie Pope leaving the [[Southern Miss Golden Eagles basketball|University of Southern Mississippi]] to play for [[Saint-Étienne Basket]] in [[France]]. If you include those three players, the number of college underclassmen increases from nine to twelve total players for this year. Regardless, the following [[college basketball]] players successfully applied for early draft entrance.<ref>{{cite web |title=1988 Underclassmen |url=https://www.thedraftreview.com/index.php?option=com_content&view=article&id=3035:1988-underclassmen&catid=136&Itemid=384 |website=The Draft Review | date=August 4, 2007 |access-date=December 14, 2022}}</ref>
+
+{{div col}}
+* {{flagicon|USA}} Marvin Alexander – F, [[Memphis Tigers men's basketball|Memphis]] (junior)
+* {{flagicon|USA}} [[Rex Chapman]] – G, [[Kentucky Wildcats men's basketball|Kentucky]] (sophomore)
+* {{flagicon|USA}} [[Sylvester Gray]] – F, [[Memphis Tigers men's basketball|Memphis]] (sophomore)
+* {{flagicon|DOM}} [[Tito Horford]] – C, [[Miami Hurricanes men's basketball|Miami (Florida)]] (sophomore)
+* {{flagicon|USA}} [[Mike Jones (basketball, born 1967)|Mike Jones]] – F, [[Auburn Tigers men's basketball|Auburn]] (junior)
+* {{flagicon|USA}} [[Jerome Lane]] – F, [[Pittsburgh Panthers men's basketball|Pittsburgh]] (junior)
+* {{flagicon|USA}} Dwayne Lewis – G, [[Marshall Thundering Herd men's basketball|Marshall]] (junior)
+* {{flagicon|USA}} [[Charles Shackleford]] – F/C, [[NC State Wolfpack men's basketball|NC State]] (junior)
+* {{flagicon|USA}} [[Rod Strickland]] – G, [[DePaul Blue Demons men's basketball|DePaul]] (junior)
+{{div col end}}
+
+===Other eligible players===
+This would be the third year in a row with at least one player that previously played in college entering the NBA draft as an underclassman. However, it would be the second year in a row where multiple players would qualify for such a feat and the first where none of the underclassmen players would play in Italy after the previous two drafts had a player go to Italy first before being drafted. It was also the second year where a foreign-born player would qualify as an underclassman while also playing for an international team and the first time it happened while said player was playing for what would be considered his home nation.
+{| class="wikitable sortable plainrowheaders" style="text-align:left; font-size:95%"
+! Player !! {{tooltip|Team|Most recent team played for before the draft}} !!class=unsortable| Note !!class=unsortable| Ref.
+|-
+!scope="row"|{{flagicon|USA}} [[Lloyd Daniels]]
+| [[Waitemata Dolphins]] ([[National Basketball League (New Zealand)|New Zealand]]) || Left [[Mt. SAC Mounties|Mt. San Antonio College]] in 1987; playing professionally since the 1987–88 season ||align=center|<ref>{{cite web |last1=Ross |first1=Helen |title=Rebounding: Gaters' Star On His Way Back |url=https://greensboro.com/rebounding-gaters-star-on-his-way-back/article_ff6f5850-f17c-5a0d-b461-8dc4593d2ccd.html |website=News & Record |access-date=December 14, 2022 |date=January 28, 2015}}</ref>
+|-
+!scope="row"|{{flagicon|ARG}} [[Hernán Montenegro]]
+| [[Club Olimpo|Olimpo de Bahía Blanca]] ([[La Liga Argentina de Básquet|Argentina]]) || Left [[LSU Tigers men's basketball|LSU]] in 1987; playing professionally since the 1987–88 season ||align=center|<ref>{{cite web | url=https://www.thedraftreview.com/index.php?option=com_content&amp;view=article&amp;id=3665&amp;Itemid=33 | title=Hernan Montenegro - the Draft Review | date=January 26, 2008 }}</ref>
+|-
+!scope="row"|{{flagicon|USA}} Eddie Pope
+| [[Saint-Étienne Basket]] ([[LNB Pro A|France]]) || Left [[Southern Miss Golden Eagles basketball|Southern Miss]] in 1986; playing professionally since the 1987–88 season ||align=center|<ref>{{cite web |title=Eddie Pope 1988 Underclassmen |url=https://www.thedraftreview.com/index.php?option=com_content&amp;view=article&amp;id=8672&amp;Itemid=33 |website=The Draft Review | date=March 28, 2016 |access-date=December 14, 2022}}</ref>
+|}
+
+==Invited attendees==
+The 1988 NBA draft is considered to be the eleventh NBA draft to have utilized what's properly considered the "green room" experience for NBA prospects. The NBA's green room is a staging area where anticipated draftees often sit with their families and representatives, waiting for their names to be called on draft night. Often being positioned either in front of or to the side of the podium (in this case, being positioned in the Madison Square Garden's Felt Forum for the seventh year in a row<ref name="1988Invites">{{cite web | title=1988 Green Room Invites - the Draft Review | access-date=December 26, 2025 | url=https://www.thedraftreview.com/historical-draft-events/green-room/1988-green-room-invites }}</ref>), once a player heard his name, he would walk to the podium to shake hands and take promotional photos with the NBA commissioner. From there, the players often conducted interviews with various media outlets while backstage. From there, the players often conducted interviews with various media outlets while backstage. However, once the NBA draft started to air nationally on TV starting with the [[1980 NBA draft]], the green room evolved from players waiting to hear their name called and then shaking hands with these select players who were often called to the hotel to take promotional pictures with the NBA commissioner a day or two after the draft concluded to having players in real-time waiting to hear their names called up and then shaking hands with [[David Stern]], the NBA's commissioner at the time.<ref>{{Cite web |last=Maurer |first=Matthew |date=2024-02-18 |title=Draft Broadcasts - The Draft Review |url=https://www.thedraftreview.com/sundry/sundry-articles/draft-broadcasts |access-date=2025-08-20 |website=The Draft Review |language=en-us}}</ref> The NBA compiled its list of green room invites through collective voting by the NBA's team presidents and general managers alike, which in this year's case belonged to only what they believed were the top 17 prospects at the time.<ref>{{Cite web |title=Green Room - The Draft Review |url=https://www.thedraftreview.com/historical-draft-events/green-room |access-date=2025-08-20 |website=The Draft Review |language=en-us}}</ref> Despite the large amount of invites, two notable absences from this group include [[Dan Majerle]] from [[Central Michigan University]] and [[Anthony Mason (basketball)|Anthony Mason]] from [[Tennessee State University]], with [[Shelton Jones]] waiting into the second round himself. Even so, the following players were invited to attend this year's draft festivities live and in person.<ref name="1988Invites" />
+
+{{div col}}
+*{{flagicon|USA}} [[Mark Bryant (basketball)|Mark Bryant]] – PF, [[Seton Hall Pirates men's basketball|Seton Hall]]
+*{{flagicon|USA}} [[Rex Chapman]] – SG, [[Kentucky Wildcats men's basketball|Kentucky]]
+*{{flagicon|USA}} [[Harvey Grant]] – SF, [[Oklahoma Sooners men's basketball|Oklahoma]]
+*{{flagicon|USA}} [[Gary Grant (basketball)|Gary Grant]] – PG, [[Michigan Wolverines men's basketball|Michigan]]
+*{{flagicon|USA}} [[Jeff Grayer]] – SG/SF, [[Iowa State Cyclones basketball|Iowa State]]
+*{{flagicon|USA}} [[Hersey Hawkins]] – SG, [[Bradley Braves men's basketball|Bradley]]
+*{{flagicon|USA}} [[Shelton Jones]] – SF, [[St. John's Red Storm men's basketball|St. John's]]
+*{{flagicon|USA}} [[Danny Manning]] – PF, [[Kansas Jayhawks men's basketball|Kansas]]
+*{{flagicon|USA}} [[Chris Morris (basketball)|Chris Morris]] – SF, [[Auburn Tigers men's basketball|Auburn]]
+*{{flagicon|USA}} [[Will Perdue]] – C, [[Vanderbilt Commodores men's basketball|Vanderbilt]]
+*{{flagicon|USA}} [[Tim Perry]] – PF/C, [[Temple Owls men's basketball|Temple]]
+*{{flagicon|USA}} [[Mitch Richmond]] – SG, [[Kansas State Wildcats men's basketball|Kansas State]]
+*{{flagicon|USA}} [[David Rivers]] – PG, [[Notre Dame Fighting Irish men's basketball|Notre Dame]]
+*{{flagicon|LBN}}/{{flagicon|USA}} [[Rony Seikaly]] – C, [[Syracuse Orange men's basketball|Syracuse]]
+*{{flagicon|USA}} [[Charles Smith (basketball, born 1965)|Charles Smith]] – PF, [[Pittsburgh Panthers men's basketball|Pittsburgh]]
+*{{flagicon|NED}} [[Rik Smits]] – C, [[Marist Red Foxes men's basketball|Marist]]
+*{{flagicon|USA}} [[Rod Strickland]] – PG, [[DePaul Blue Demons men's basketball|DePaul]]
+{{div col end}}
+
+==See also==
+* [[List of first overall NBA draft picks]]
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.basketball-reference.com/draft/NBA_1988.html 1988 NBA Draft]
+
+{{NBA Drafts}}
+{{NBA Draft history by team}}
+{{1988 NBA draft}}
+{{1988–89 NBA season by team}}
+{{NBA on TBS}}
+
+[[Category:1988–89 NBA season|Draft]]
+[[Category:NBA draft]]
+[[Category:June 1988 sports events in the United States|NBA draft]]
+[[Category:1988 in sports in New York City|NBA draft]]
+[[Category:1980s in Manhattan]]
+[[Category:Basketball in New York City]]
+[[Category:Sporting events in New York City]]
+[[Category:Sports in Manhattan]]
