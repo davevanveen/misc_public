@@ -1,17 +1,17 @@
 year,era,team,team_wikilink,record_wins,record_losses,pre_lottery_rank,combinations,won_pick_position,has_trade_protection_note,pick_note_refs,data_quality_flag,confirmatory_eligible,eligibility_reason
-2003,weighted_1994_2018,Cleveland Cavaliers,Cleveland Cavaliers,17,65,1,225,1,0,,clean,1,ok
-2003,weighted_1994_2018,Denver Nuggets,Denver Nuggets,17,65,1,225,3,0,,clean,1,ok
-2003,weighted_1994_2018,Toronto Raptors,Toronto Raptors,24,58,3,157,4,0,,clean,1,ok
-2003,weighted_1994_2018,Miami Heat,Miami Heat,25,57,4,120,5,0,,clean,1,ok
-2003,weighted_1994_2018,Los Angeles Clippers,Los Angeles Clippers,28,54,5,89,6,0,,clean,1,ok
-2003,weighted_1994_2018,Memphis Grizzlies,Memphis Grizzlies,28,54,5,64,2,0,,clean,1,ok
-2003,weighted_1994_2018,Chicago Bulls,Chicago Bulls,30,52,7,44,7,0,,clean,1,ok
-2003,weighted_1994_2018,Atlanta Hawks,Atlanta Hawks,35,47,8,29,8,0,,clean,1,ok
-2003,weighted_1994_2018,New York Knicks,New York Knicks,37,45,9,15,9,0,,clean,1,ok
-2003,weighted_1994_2018,Washington Wizards,Washington Wizards,37,45,9,14,10,0,,clean,1,ok
-2003,weighted_1994_2018,Golden State Warriors,Golden State Warriors,38,44,11,7,11,0,,clean,1,ok
-2003,weighted_1994_2018,Seattle SuperSonics,Seattle SuperSonics,40,42,12,6,12,0,,clean,1,ok
-2003,weighted_1994_2018,Houston Rockets,Houston Rockets,43,39,13,5,13,0,,clean,1,ok
+2003,weighted_1994_2018,Cleveland Cavaliers,Cleveland Cavaliers,17,65,1,225,1,0,,clean,0,published probabilities on Wikipedia disagree with exact Monte Carlo marginals across multiple teams (up to 46 sigma); likely a source transcription issue for the 13-team era
+2003,weighted_1994_2018,Denver Nuggets,Denver Nuggets,17,65,1,225,3,0,,clean,0,published probabilities on Wikipedia disagree with exact Monte Carlo marginals across multiple teams (up to 46 sigma); likely a source transcription issue for the 13-team era
+2003,weighted_1994_2018,Toronto Raptors,Toronto Raptors,24,58,3,157,4,0,,clean,0,published probabilities on Wikipedia disagree with exact Monte Carlo marginals across multiple teams (up to 46 sigma); likely a source transcription issue for the 13-team era
+2003,weighted_1994_2018,Miami Heat,Miami Heat,25,57,4,120,5,0,,clean,0,published probabilities on Wikipedia disagree with exact Monte Carlo marginals across multiple teams (up to 46 sigma); likely a source transcription issue for the 13-team era
+2003,weighted_1994_2018,Los Angeles Clippers,Los Angeles Clippers,28,54,5,89,6,0,,clean,0,published probabilities on Wikipedia disagree with exact Monte Carlo marginals across multiple teams (up to 46 sigma); likely a source transcription issue for the 13-team era
+2003,weighted_1994_2018,Memphis Grizzlies,Memphis Grizzlies,28,54,5,64,2,0,,clean,0,published probabilities on Wikipedia disagree with exact Monte Carlo marginals across multiple teams (up to 46 sigma); likely a source transcription issue for the 13-team era
+2003,weighted_1994_2018,Chicago Bulls,Chicago Bulls,30,52,7,44,7,0,,clean,0,published probabilities on Wikipedia disagree with exact Monte Carlo marginals across multiple teams (up to 46 sigma); likely a source transcription issue for the 13-team era
+2003,weighted_1994_2018,Atlanta Hawks,Atlanta Hawks,35,47,8,29,8,0,,clean,0,published probabilities on Wikipedia disagree with exact Monte Carlo marginals across multiple teams (up to 46 sigma); likely a source transcription issue for the 13-team era
+2003,weighted_1994_2018,New York Knicks,New York Knicks,37,45,9,15,9,0,,clean,0,published probabilities on Wikipedia disagree with exact Monte Carlo marginals across multiple teams (up to 46 sigma); likely a source transcription issue for the 13-team era
+2003,weighted_1994_2018,Washington Wizards,Washington Wizards,37,45,9,14,10,0,,clean,0,published probabilities on Wikipedia disagree with exact Monte Carlo marginals across multiple teams (up to 46 sigma); likely a source transcription issue for the 13-team era
+2003,weighted_1994_2018,Golden State Warriors,Golden State Warriors,38,44,11,7,11,0,,clean,0,published probabilities on Wikipedia disagree with exact Monte Carlo marginals across multiple teams (up to 46 sigma); likely a source transcription issue for the 13-team era
+2003,weighted_1994_2018,Seattle SuperSonics,Seattle SuperSonics,40,42,12,6,12,0,,clean,0,published probabilities on Wikipedia disagree with exact Monte Carlo marginals across multiple teams (up to 46 sigma); likely a source transcription issue for the 13-team era
+2003,weighted_1994_2018,Houston Rockets,Houston Rockets,43,39,13,5,13,0,,clean,0,published probabilities on Wikipedia disagree with exact Monte Carlo marginals across multiple teams (up to 46 sigma); likely a source transcription issue for the 13-team era
 2006,weighted_1994_2018,Portland Trail Blazers,Portland Trail Blazers,21,61,1,250,4,0,,clean,1,ok
 2006,weighted_1994_2018,New York Knicks,New York Knicks,23,59,2,199,2,1,a,resolved_ambiguity,1,ok
 2006,weighted_1994_2018,Charlotte Bobcats,Charlotte Bobcats,26,56,3,138,3,0,,clean,1,ok

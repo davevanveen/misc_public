@@ -120,6 +120,17 @@ def apply_confirmatory_gate(
     tables_by_year: dict[int, LotteryTable],
 ) -> dict[int, list[dict]]:
     """Mark confirmatory_eligible=0 for years failing the plan's gate."""
+    # Known data-quality issues discovered during validate_probabilities.
+    # Exclude these years from the confirmatory set. Reasons are documented
+    # in docs/feasibility_report.md.
+    KNOWN_INELIGIBLE: dict[int, str] = {
+        2003: (
+            "published probabilities on Wikipedia disagree with exact "
+            "Monte Carlo marginals across multiple teams (up to 46 sigma); "
+            "likely a source transcription issue for the 13-team era"
+        ),
+    }
+
     out = {}
     for year, rows in rows_by_year.items():
         t = tables_by_year[year]
@@ -127,6 +138,8 @@ def apply_confirmatory_gate(
 
         # Fail reasons
         reasons = []
+        if year in KNOWN_INELIGIBLE:
+            reasons.append(KNOWN_INELIGIBLE[year])
         # Check 1: integer combination sum matches era base (weighted eras only)
         if era.combination_base is not None:
             combo_sum = sum(int(r["combinations"]) for r in rows if r["combinations"] != "")
