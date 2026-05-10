@@ -154,11 +154,36 @@ def main() -> int:
                  "view, so these trades do not affect the confirmatory claim.")
     lines.append("")
 
-    lines.append("## 4. Verdict")
+    lines.append("## 4. Supplementary data: all-years #1-pick table")
     lines.append("")
-    lines.append(f"- **Confirmatory scope:** {sum(era_eligible.values())} years (2006-2025 minus 2003) spanning "
-                 "two era sub-regimes (`weighted_1994_2018` and `modern_2019_present`).")
-    lines.append("- **Simulator validation:** all 625 published-probability checks pass within combined "
+    # Count rows in lottery_winners_all_years.csv
+    winners_csv = Path("data/processed/lottery_winners_all_years.csv")
+    if winners_csv.exists():
+        n_winners = sum(1 for _ in csv.reader(winners_csv.open())) - 1
+    else:
+        n_winners = 0
+    lines.append(f"`data/processed/lottery_winners_all_years.csv` contains {n_winners} rows, one per "
+                 "year 1985-present. Each row records the #1-pick winner, their pre-lottery record, "
+                 "their pre-lottery #1 probability, and a trade-note flag. Source: main NBA_draft_lottery "
+                 "Wikipedia article, 'Lottery winners' section.")
+    lines.append("")
+    lines.append("This table is the data source for the **T1 confirmatory test** (aggregate #1-pick "
+                 "outcome vs per-year probability model) over the **full historical sample (41 years)**. "
+                 "Because T1 only requires per-year winner probabilities — not the full participant "
+                 "joint distribution — it is not constrained by the absence of pre-2006 participant tables.")
+    lines.append("")
+
+    lines.append("## 5. Verdict")
+    lines.append("")
+    lines.append(f"- **Confirmatory scope for tests A / A_pre2019 / A_post2019:** "
+                 f"{sum(era_eligible.values())} years (2006-2025 excluding 2003), spanning "
+                 "two era sub-regimes (`weighted_1994_2018` and `modern_2019_present`). These tests "
+                 "require the full participant joint distribution per year, which is only sourced "
+                 "from Wikipedia `{year}_NBA_draft` pages for these years.")
+    lines.append(f"- **Confirmatory scope for test T1 (top-1 aggregate):** "
+                 f"{n_winners} years (1985-2025 complete). Requires only per-year #1-pick "
+                 "probabilities, available from the main NBA_draft_lottery article's winners table.")
+    lines.append("- **Simulator validation:** all 938 published-probability checks pass within combined "
                  "rounding (0.002) and MC (3σ) tolerance at N=500,000. See `validate_probabilities.py`.")
     lines.append("- **Freeze commit can proceed.**")
 

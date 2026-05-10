@@ -1,0 +1,42 @@
+year,winner_team,winner_record_wins,winner_record_losses,pre_chances,pre_probability,player_selected,had_trade_note
+1985,New York Knicks,24,58,1,0.1429,,0
+1986,Los Angeles Clippers,32,50,1,0.1429,,1
+1987,San Antonio Spurs,28,54,1,0.1429,,0
+1988,Los Angeles Clippers,17,65,1,0.1429,,0
+1989,Sacramento Kings,27,55,1,0.11109999999999999,,0
+1990,New Jersey Nets,17,65,11,0.16670000000000001,,0
+1991,Charlotte Hornets,26,56,7,0.1061,,0
+1992,Orlando Magic,21,61,10,0.1515,,0
+1993,Orlando Magic,41,41,1,0.0152,,1
+1994,Milwaukee Bucks,20,62,163,0.163,,0
+1995,Golden State Warriors,26,56,94,0.094,,0
+1996,Philadelphia 76ers,18,64,200,0.3373,,0
+1997,San Antonio Spurs,20,62,157,0.21600000000000003,,0
+1998,Los Angeles Clippers,17,65,157,0.2256,,0
+1999,Chicago Bulls,13,37,157,0.157,,0
+2000,New Jersey Nets,31,51,44,0.044000000000000004,,0
+2001,Washington Wizards,19,63,157,0.157,,0
+2002,Houston Rockets,28,54,89,0.08900000000000001,,0
+2003,Cleveland Cavaliers,17,65,225,0.225,,0
+2004,Orlando Magic,21,61,250,0.25,,0
+2005,Milwaukee Bucks,30,52,63,0.063,,0
+2006,Toronto Raptors,27,55,88,0.08800000000000001,,0
+2007,Portland Trail Blazers,32,50,53,0.053,,0
+2008,Chicago Bulls,33,49,17,0.017,,0
+2009,Los Angeles Clippers,19,63,177,0.177,,0
+2010,Washington Wizards,26,56,103,0.10300000000000001,,0
+2011,Los Angeles Clippers,32,50,28,0.027999999999999997,,1
+2012,New Orleans Hornets,21,45,137,0.13699999999999998,,0
+2013,Cleveland Cavaliers,24,58,156,0.156,,0
+2014,Cleveland Cavaliers,33,49,17,0.017,,1
+2015,Minnesota Timberwolves,16,66,250,0.25,,0
+2016,Philadelphia 76ers,10,72,250,0.25,,0
+2017,Brooklyn Nets,20,62,250,0.25,,1
+2018,Phoenix Suns,21,61,250,0.25,,0
+2019,New Orleans Pelicans,33,49,60,0.06,,0
+2020,Minnesota Timberwolves,19,45,140,0.14,,0
+2021,Detroit Pistons,20,52,140,0.14,,0
+2022,Orlando Magic,22,60,140,0.14,,0
+2023,San Antonio Spurs,22,60,140,0.14,,0
+2024,Atlanta Hawks,36,46,30,0.03,Zaccharie Risacher,0
+2025,Dallas Mavericks,39,43,18,0.018000000000000002,Cooper Flagg,0

@@ -13,9 +13,9 @@ For each confirmatory-eligible year `y`, the observed outcome is the tuple of pr
 | **A** | Global NLL is inconsistent with null over all confirmatory-eligible weighted-era years | Monte Carlo, N = 1,000,000 | Exact joint-outcome enumeration would require ≈ Π(n_k) evaluations per year; MC is simpler and sufficient. |
 | **A_pre2019** | Era-stratified A for 1994-2018 weighted era | Monte Carlo, N = 1,000,000 | Same as A restricted to this era. |
 | **A_post2019** | Era-stratified A for 2019-present modern era | Monte Carlo, N = 1,000,000 | Same as A restricted to this era. |
-| **T1** | Aggregate #1-pick count deviates from null | Monte Carlo, N = 1,000,000 | Simulation inherits dependence; closed-form binomial/Poisson-binomial inadequate when within-year dependence is modeled through the draw-without-replacement mechanic. |
+| **T1** | Aggregate #1-pick observed outcome is inconsistent with per-year pre-lottery probabilities, over 1985-2025 | Exact Poisson-binomial (closed-form), cross-checked by Monte Carlo N = 1,000,000 | Only per-year #1-pick probabilities are needed; exact Poisson-binomial tail gives p-values directly. Data source: `data/processed/lottery_winners_all_years.csv` (41 rows, 1985-present). |
 
-1985-1989 is NOT in the confirmatory family. Per-year probabilities for that era are not sourced (Wikipedia's pre-2006 draft pages do not carry lottery tables); those years are sensitivity-only.
+1985-1989 is NOT in the A/A_pre2019/A_post2019 confirmatory tests. Full participant lists for that era are not sourced (Wikipedia's pre-2006 draft pages do not carry lottery tables), so the joint-outcome NLL is not computable. **T1 uses all 41 years (1985-2025)** because only per-year #1-pick probabilities are required, and those are sourced from the main NBA_draft_lottery Wikipedia article for every year.
 
 ## Primary test statistic: global negative log-likelihood (NLL)
 

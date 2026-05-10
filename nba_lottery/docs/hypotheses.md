@@ -9,7 +9,7 @@ For each lottery year `y`, the observed outcome (mapping of pre-trade lottery sl
 - **A.** Global: aggregated outcomes over confirmatory-eligible weighted-era years are less likely under `P_y` than expected by chance. **Confirmatory.**
 - **A_pre2019.** Era-stratified A for 1994-2018. **Confirmatory.**
 - **A_post2019.** Era-stratified A for 2019-present. **Confirmatory.**
-- **T1.** Aggregate #1-pick distribution across franchises deviates from null. **Confirmatory.**
+- **T1.** Aggregate #1-pick observed outcome is inconsistent with per-year pre-lottery probabilities, over all 41 lotteries (1985-2025). **Confirmatory.**
 - **B.** Team-specific luck. **Exploratory phase 1.**
 - **C.** Pre-lottery-rank-specific luck. **Exploratory phase 1.**
 - **F.** Outlier-year detection. **Exploratory phase 1.**

@@ -20,8 +20,9 @@ from dataclasses import dataclass, field
 from pathlib import Path
 
 from . import data as core_data
-from .fetch import fetch_years
+from .fetch import fetch_years, fetch_year
 from .parse import parse_lottery, LotteryTable
+from .parse_main_article import write_lottery_winners_csv
 
 
 # ---------------------------------------------------------------------------
@@ -219,6 +220,27 @@ def build(raw_dir: Path, processed_dir: Path, years: list[int] | None = None,
 
     fetch_years(years, raw_dir, throttle_s=throttle_s)
 
+    # Also fetch the main NBA_draft_lottery article for the historical
+    # #1-pick winners table (covers 1985-present; enables the T1 confirmatory
+    # test over the full historical sample).
+    from .fetch import _wiki_parse
+    import json as _json_mod, hashlib, time
+    main_path = raw_dir / "wiki" / "NBA_draft_lottery.wikitext"
+    main_meta = raw_dir / "wiki" / "NBA_draft_lottery.wikitext.meta.json"
+    if not main_path.exists():
+        result = _wiki_parse("NBA_draft_lottery")
+        wikitext = result["parse"]["wikitext"]
+        wb = wikitext.encode("utf-8")
+        main_path.write_bytes(wb)
+        main_meta.write_text(_json_mod.dumps({
+            "page_title": "NBA_draft_lottery",
+            "url": "https://en.wikipedia.org/wiki/NBA_draft_lottery",
+            "fetch_timestamp": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+            "sha256": hashlib.sha256(wb).hexdigest(),
+            "revid": result["parse"].get("revid"),
+            "bytes": len(wb),
+        }, indent=2) + "\n")
+
     tables: dict[int, LotteryTable] = {}
     team_year: dict[int, list[dict]] = {}
     prob_rows: list[dict] = []
@@ -275,6 +297,11 @@ def build(raw_dir: Path, processed_dir: Path, years: list[int] | None = None,
                      "sha256", "notes"]
         write_csv(processed_dir / "source_audit.csv", source_rows, sa_fields)
 
+    # Write the lottery-winners (#1 pick, 1985-present) table from the
+    # main NBA_draft_lottery article.
+    winners_csv = processed_dir / "lottery_winners_all_years.csv"
+    n_winners = write_lottery_winners_csv(main_path, winners_csv)
+
     summary = {
         "years_attempted": len(years),
         "years_with_data": len(team_year),
@@ -284,5 +311,6 @@ def build(raw_dir: Path, processed_dir: Path, years: list[int] | None = None,
         ),
         "total_team_year_rows": len(flat_team_year),
         "total_probability_rows": len(prob_rows),
+        "lottery_winners_rows_1985_present": n_winners,
     }
     return summary

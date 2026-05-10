@@ -1,0 +1,575 @@
+{{short description|Lottery process to determine the order of the NBA draft}}
+{{Multiple image
+| image1      = Shaquille O'Neal 1998.jpg
+| image2      = Penny Hardaway Knicks.jpg
+| total_width = 350
+| footer      = In 1992 and 1993, the [[Orlando Magic]] famously received the first overall selection in back-to-back years. In 1992, the Magic would draft [[Shaquille O'Neal]] (left). In 1993, the Magic selected [[Chris Webber]] first overall but traded Webber's draft rights for [[Anfernee Hardaway]] (right).
+}}
+
+The '''NBA draft lottery''' is an annual event held by the [[National Basketball Association]] (NBA), in which the teams who had missed the [[NBA playoffs|playoffs]] the previous year participate in a [[lottery]] process to determine the [[Draft (sports)|draft]] order in the [[NBA draft]]. The NBA draft lottery started in 1985. In the NBA draft, the teams obtain the rights to amateur U.S. [[college basketball]] players and other [[Eligibility for the NBA draft|eligible players]], including international players. The lottery winner would get the [[List of first overall NBA draft picks|first selection]] in the draft. A '''lottery pick''' denotes a draft pick whose position is determined through the lottery, while a non-playoff team involved in the process is often called a '''lottery team'''.
+
+Under the current rules, only the top four picks are decided by the lottery, and are chosen from the 14 teams that do not make the playoffs. The team with the worst record, or the team that holds the draft rights of the team with the worst record, has the best chance to obtain a higher draft pick. After the top four positions are selected (from the lottery slotting system), the remainder of the first-round draft order is in inverse order of the win–loss record for the remaining teams, or the teams who originally held the rights if they were traded. The lottery does not determine the draft order in the subsequent round of the draft.
+
+After the 2019 draft, the NBA changed the lottery odds (the bottom three teams will all have an equal 14% chance of winning the top pick) and increased the number of teams selected in the lottery from three to four.
+
+==History==
+
+===1947–1965: Territorial picks===
+{{further|NBA territorial pick}}
+In the earlier drafts, the teams would draft in reverse order of their win–loss record. However, a special [[NBA territorial pick|territorial-pick]] rule allowed a team to draft a player from its local area. If a team decided to use its territorial pick, it forfeited its first-round pick in the draft.<ref name="Inside">{{cite web|url=http://www.nba.com/features/inside_lottery_050524.html|title=Let the Ping-Pong Balls Fall|last=Dengate|first=Jeff|date=May 16, 2007|access-date=August 22, 2009|work=NBA.com|publisher=Turner Sports Interactive, Inc|archive-url=https://web.archive.org/web/20120523105241/http://www.nba.com/features/inside_lottery_050524.html|archive-date=May 23, 2012|url-status=dead}}</ref> The territorial pick, if used, would happen before the [[First overall NBA draft pick|first pick in the draft]].
+
+===1966–1984: Coin flip===
+In 1966, the NBA revamped its draft system and introduced a coin flip between the worst teams in each conference to determine who would obtain the first overall draft pick. The team that lost the coin flip would get the second pick, and the rest of the first-round picks were determined in reverse order of each team's win–loss record.
+
+While the coin flip system gave the worst teams in each conference an equal chance to have the first draft pick, if the two worst teams overall were in the same conference, the second-worst team overall would have no chance of obtaining the first draft pick.<ref name="Inside"/>
+
+===1985–1989: Early lottery system===
+After the [[1984 NBA draft|1984]] coin flip, which was won by the [[Houston Rockets]] (who also won the coin flip in [[1983 NBA draft|1983]]), the NBA introduced the lottery system to counter the accusations that the Rockets and several other teams were [[tanking (sports)|tanking]] by deliberately losing their remaining regular season games in order to secure the worst record and consequently the chance to obtain the first pick.<ref name="NYDailyNews">{{cite news|url=http://www.nydailynews.com/archives/sports/2005/05/22/2005-05-22_the_draft_that_changed_it_al.html |title=The Draft That Changed It All. Tanks to '84, the lottery was born |last=Bondy |first=Filip |date=May 22, 2005 |access-date=August 22, 2009 |work=NYDailyNews.com |publisher=Daily News, L.P |location=New York |url-status=dead |archive-url=https://archive.today/20240525100547/https://www.webcitation.org/600WDBDwj?url=http://articles.nydailynews.com/2005-05-22/sports/18292722_1_lottery-flips-draft-ladder |archive-date=May 25, 2024 }}</ref><ref name="USAToday">{{cite news|url=https://www.usatoday.com/sports/basketball/nba/2007-06-24-draft-lookback_N.htm|title=25 drafts, dozens of stars, one Michael|last=DuPree|first=David|date=June 25, 2007|access-date=August 22, 2009|work=USA Today}}</ref> The lottery system involved a random drawing of an envelope from a hopper. Inside each of the envelopes was the name of a non-playoff team. The team whose envelope was drawn first would get the first pick. The process was then repeated until the rest of the lottery picks were determined. In this system, each non-playoff team had an equal chance to obtain the first pick. The rest of the first-round picks were determined in reverse order of the win–loss record.<ref name="SportingNews">{{cite web|url=http://www.sportingnews.com/nba/articles/20070328/849887-p.html|title=Tanking games? If only NBA's bad teams were that good|last=Litke|first=Jim|date=March 28, 2007|access-date=August 22, 2009|work=SportingNews.com|publisher=Sporting News}} {{Dead link|date=October 2010|bot=H3llBot}}</ref>
+
+Starting from 1987, the NBA modified the lottery system so that the first three picks were determined by the lottery. After the three envelopes were drawn, the remaining non-playoff teams would select in reverse order of their win–loss record. This meant that the team with the worst record could receive no worse than the fourth selection, and the second-worst team could pick no lower than fifth, and so on.<ref>{{cite news|url=http://findarticles.com/p/articles/mi_qn4188/is_20070522/ai_n19166711/|title=League has used variety of methods to determine No. 1 pick|date=May 22, 2007|work=The Indianapolis Star|access-date=October 4, 2009}}</ref><ref>{{Cite web |last=Baker |first=Chris |date=1987-05-17 |title=NBA Draft Lottery : Clippers Set Sights on an Aircraft Carrier Named Robinson |url=https://www.latimes.com/archives/la-xpm-1987-05-17-sp-606-story.html |access-date=2024-06-28 |website=Los Angeles Times |language=en-US}}</ref>
+
+The [[New York Knicks]] were the first winner of the lottery in [[1985 NBA draft|1985]]. They selected [[Georgetown Hoyas men's basketball|Georgetown University]] standout [[Patrick Ewing]] with their first overall pick. However, speculation arose that the NBA had rigged the lottery so that the Knicks would be assured to get the first pick.<ref name="NYDailyNews"/><ref name="USAToday"/><ref>{{Cite web |last=McMANIS |first=S. A. M. |date=1985-06-19 |title=NBA DRAFT : Ewing, Tisdale Are Teams' and People's Choice |url=https://www.latimes.com/archives/la-xpm-1985-06-19-sp-9438-story.html |access-date=2024-06-28 |website=Los Angeles Times |language=en-US}}</ref> Even though the envelope system was highly criticized, it was used until [[1989 NBA draft|1989]] before being replaced by the weighted lottery system in [[1990 NBA draft|1990]].<ref>{{cite web|url=http://www.nba.com/2009/news/features/fran_blinebury/05/19/lottery/|title=Winning the Lottery is easy; picking the right player is not|last=Blinebury|first=Fran|date=May 19, 2009|access-date=August 22, 2009|work=NBA.com|publisher=Turner Sports Interactive, Inc|url-status=dead|archive-url=https://web.archive.org/web/20090523201822/http://www.nba.com/2009/news/features/fran_blinebury/05/19/lottery/|archive-date=May 23, 2009}}</ref>
+
+===Since 1990: Weighted lottery system===
+In 1990, the NBA changed the format of the lottery to give the team with the worst record the best chance of landing the first pick. The worst non-playoff team that season would have 11 chances, out of 66, to obtain the first pick. The second worst would have 10 chances, and so on. Similarly to the previous system, the weighted lottery system was also used only to determine the first three picks, while the rest of the teams selected in reverse order of their win–loss records.<ref>{{Cite web |last=Howard-Cooper |first=Scott |date=1990-05-21 |title=Net Losses Add Up to a Win in the Lottery : Pro basketball: New Jersey, the team with the worst record, will have first pick in the NBA draft June 27. Seattle, beating the odds, will draft second. |url=https://www.latimes.com/archives/la-xpm-1990-05-21-sp-88-story.html |access-date=2024-06-28 |website=Los Angeles Times |language=en-US}}</ref>
+
+Despite the weighted odds, the [[Orlando Magic]] managed to win the lottery in [[1993 NBA draft|1993]] with only one chance to obtain the first pick as it was the best non-playoff team in the [[1992–93 NBA season|previous season]]. In October 1993, the NBA modified the lottery system to give the team with the worst record a higher chance to win the draft lottery and to decrease the better teams' chances to win. The new system increased the chances of the worst team obtaining the first pick in the draft from 16.7 percent to 25 percent, while decreasing the chances of the best non-playoff team from 1.5 percent to 0.5 percent.
+
+In the new system, 14 numbered [[table tennis]] balls were used. Then, a four-number combination from the 14 balls were drawn to determine the lottery winner. Prior to the draft, the NBA assigns 1,000 possible combinations to the non-playoff teams (the 11–12–13–14 combination is ignored and redrawn). The process was then repeated to determine the second and third pick.<ref name="Inside"/> The table below shows the lottery chances and the probabilities for each team to win the first pick in the weighted lottery system in 1993 and 1994 drafts.<ref>{{cite web |last1=Florke |first1=Chad R. |last2=Ecker |first2=Mark D. |date=December 1, 2003 |title=NBA Draft Lottery Probabilities |url=http://www.ajur.uni.edu/v2n3/Florke%20%26%20Ecker.pdf |access-date=August 22, 2009 |publisher=University of Northern Iowa |archive-date=July 10, 2010 |archive-url=https://web.archive.org/web/20100710010737/http://www.ajur.uni.edu/v2n3/Florke%20%26%20Ecker.pdf |url-status=dead }}</ref>
+
+In 2014, the NBA Board of Governors voted on a proposed reform to the lottery.<ref>{{cite web|title=Lottery Reform Vote Set to Pass?|url=http://www.basketballinsiders.com/lottery-reform-vote-set-to-pass/|website=basketballinsiders.com|date=21 October 2014 }}</ref> If the proposed changes passed, the four worst teams in the league would have been given identical odds (around 11 percent) at winning the top pick. The fifth team would have a 10 percent chance and the odds would decrease for each team picking after.<ref>{{cite web|last=Higin|first=Sean|title=Report: Board of Governors expected to pass draft lottery reform, Sixers and Thunder opposed|url=http://probasketballtalk.nbcsports.com/2014/10/20/report-board-of-governors-expected-to-pass-draft-lottery-reform-sixers-and-thunder-opposed/|website=probasketballtalk.com|date=20 October 2014 |access-date=October 21, 2014}}</ref> The proposed changes were designed to disincentivize having the worst record in the league (at the time, the worst team was given a 25% chance at the top pick) and keep teams competitive throughout the entire season.
+The final vote was 17–13 in favor of the reform, short of the 23 votes in favor required to push the change through.<ref>{{cite web |date=October 22, 2014 |title=Lottery reform falls short of passing |url=https://www.espn.com/nba/story/_/id/11744283 |access-date=January 25, 2024 |website=ESPN.com}}</ref>
+
+In 2016, [[Dikembe Mutombo]] made people question the draft's legitimacy when he prematurely tweeted a congratulatory message to the [[Philadelphia 76ers]] for receiving the first pick hours before the lottery was conducted. Philadelphia did indeed win the first overall pick.<ref>{{cite web|url=http://www.foxsports.com/nba/story/dikembe-mutombo-tweet-nba-draft-lottery-rigged-76ers-sixers-philadelphia-051716|archive-url=https://web.archive.org/web/20161008154555/https://www.foxsports.com/nba/story/dikembe-mutombo-tweet-nba-draft-lottery-rigged-76ers-sixers-philadelphia-051716|title=Did Dikembe Mutombo reveal that the NBA Draft lottery is rigged?|website=Fox Sports|date=May 17, 2016|archive-date=October 8, 2016|access-date=May 18, 2016|url-status=dead}}</ref> Further questions were raised when the NBA draft revealed that every spot remained exactly the same as it was before the event took place, which was the first occurrence in draft lottery history. A year later, Lakers executive [[Magic Johnson]] raised even further questions about the draft process with him assuring head coach [[Luke Walton]] that the Lakers would acquire a top-3 pick for the [[2017 NBA draft]] after an interview Walton had on May 4, 2017, twelve days before the draft lottery commenced and moved up to the second pick.<ref>{{cite web|url=https://www.sbnation.com/2017/5/4/15543124/luke-walton-magic-johnson-draft-pick-lakers|title=Luke Walton says Magic Johnson assured him the Lakers will keep their top 3 pick|website=SBNation|date=May 4, 2017|access-date=May 4, 2017}}</ref>
+
+In response to teams like the [[Philadelphia 76ers]] deliberately seeking high-loss season records in order to improve their draft odds, beginning with the [[2019 NBA draft]] the NBA implemented a new lottery system giving the worst three teams equal odds at the first overall pick and expanding the lottery to the top four picks (up from the top three picks).<ref>{{Cite web |title=NBA Board of Governors approves changes to draft lottery system {{!}} NBA.com |url=https://www.nba.com/news/nba-board-governors-approves-changes-draft-lottery-system |access-date=2021-01-21 |website=NBA.com}}</ref> As with the changes proposed in 2014, these changes were intended to disincentivize high-loss seasons by flattening the odds of getting the top pick and increasing the likelihood of the worst teams having to pick later in the draft.
+
+{|class="wikitable" style="text-align:right"
+!rowspan="2"|
+! colspan="4" |1993 draft lottery
+!rowspan="13"|
+! colspan="4" |1994 draft lottery
+|-
+!Team!![[1992–93 NBA season|1992–93<br>record]]!!Chances<br>(out of 66)!!Probability
+!Team!![[1993–94 NBA season|1993–94<br>record]]!!Chances<br>(out of 1,000)!!Probability
+|-
+|align="left"|1
+|align="left"|[[Dallas Mavericks|Dallas]]
+|11–71||11||16.67%
+|align="left"|Dallas
+|13–69||250||25.00%
+|-
+|align="left"|2
+|align="left"|[[Minnesota Timberwolves|Minnesota]]
+|19–63||10||15.15%
+|align="left"|[[Detroit Pistons|Detroit]]
+|20–62||164||16.40%
+|-
+|align="left"|3
+|align="left"|[[Washington Wizards|Washington]]
+|22–60||9||13.64%
+|align="left"|Minnesota
+|20–62||164||16.40%
+|-
+|align="left"|4
+|align="left"|[[Sacramento Kings|Sacramento]]
+|25–57||8||12.12%
+|align="left"|[[Milwaukee Bucks|Milwaukee]]
+|20–62||163||16.30%
+|-
+|align="left"|5
+|align="left"|[[Philadelphia 76ers|Philadelphia]]
+|26–56||7||10.61%
+|align="left"|Washington
+|24–58||94||9.40%
+|-
+|align="left"|6
+|align="left"|Milwaukee
+|28–54||6||9.09%
+|align="left"|Philadelphia
+|25–57||66||6.60%
+|-
+|align="left"|7
+|align="left"|[[Golden State Warriors|Golden State]]
+|34–48||5||7.58%
+|align="left"|[[L.A. Clippers]]
+|27–55||44||4.40%
+|-
+|align="left"|8
+|align="left"|[[Denver Nuggets|Denver]]
+|36–46||4||6.06%
+|align="left"|Sacramento
+|28–54||27||2.70%
+|-
+|align="left"|9
+|align="left"|[[Miami Heat|Miami]]
+|36–46||3||4.55%
+|align="left"|[[Boston Celtics|Boston]]
+|32–50||15||1.50%
+|-
+|align="left"|10
+|align="left"|Detroit
+|40–42||2||3.03%
+|align="left"|[[L.A. Lakers]]
+|33–49||8||0.80%
+|-
+|align="left"|11
+|align="left"|[[Orlando Magic|Orlando]]
+|41–41||1||1.52%
+|align="left"|[[Charlotte Hornets|Charlotte]]
+|41–41||5||0.50%
+|}
+
+In 1995, the NBA had an agreement with the two expansion franchises, the [[Toronto Raptors]] and the [[Memphis Grizzlies|Vancouver Grizzlies]] that neither team would be eligible to obtain the first overall pick in the [[1996 NBA draft|1996]], [[1997 NBA draft|1997]] and [[1998 NBA draft|1998 draft]]s. The Raptors won the 1996 lottery but were forced to settle for the second pick. Another combination was drawn and resulted in the [[Philadelphia 76ers]] getting the first pick.<ref>{{cite news|url=http://www.nydailynews.com/archives/sports/2003/01/12/2003-01-12__new__charlotte_gets_fast_br.html |title='New' Charlotte Gets Fast Break |last=Lawrence |first=Mitch |date=January 12, 2003 |access-date=August 22, 2009 |work=NYDailyNews.com |publisher=Daily News, L.P |location=New York |url-status=dead |archive-url=https://archive.today/20240525115516/https://www.webcitation.org/61Gyf8WsP?url=http://articles.nydailynews.com/2003-01-12/sports/18223903_1_raptors-salary-cap-griz |archive-date=May 25, 2024 }}</ref> Two years later, the Grizzlies won the lottery and likewise had to pick second in the draft, while the [[L.A. Clippers]] obtained the first pick.<ref>{{cite news|url=https://www.cbsnews.com/news/clippers-get-pick-of-the-litter/|title=Clippers Get Pick Of The Litter|date=May 17, 1998|access-date=August 22, 2009|work=CBS News|publisher=CBS Interactive Inc}}</ref> The Raptors did not pick first until [[2006 NBA draft|2006]], when they won the lottery as the fifth-worst non-playoff team. The Grizzlies have yet to hold the first selection.
+
+==Process==
+The lottery is normally held in the first or second round of the NBA Playoffs, typically during the first or second round of the main playoffs in May.
+
+The pool of lottery contestants consists of the teams who failed to qualify for that season's [[NBA playoffs|postseason]].  Since the expansion of postseason from 16 to 20 teams with a [[NBA play-in tournament|Page-McIntyre tournament to eliminate four teams]], the four teams eliminated in the [[Page playoff system|Page-McIntyre system]] are also draft lottery eligible. They are seeded in order from worst record to best, with each team's seed determining the odds it will have of winning one of the top four draft picks.
+
+The winners of the top four picks are determined by the following process, beginning with the first draft pick. Fourteen ping pong balls numbered 1–14 are placed in a standard lottery machine and four balls are randomly selected one at a time from the lot. The balls are placed in the machine for 20 seconds to randomize before the first ball is drawn. The remaining three balls are drawn after remixing for 10 seconds. Just as in most traditional lotteries, the order in which the numbers are drawn is immaterial; e.g., a drawing of 1–2–3–4 in that order is the same as 4–1–3–2.
+
+There are a total of 1,001 possible [[combination]]s of four balls numbered 1 through 14, with one combination (balls 11–12–13–14, regardless of order) being deemed invalid: the balls are redrawn if this combination is drawn.
+
+The remaining 1,000 combinations are distributed amongst the lottery contestants according to their seed's assigned odds. For example, because each of the top 3 seeds has a 14% chance of winning the top pick, they are each assigned 140 of the 1,000 possible winning combinations.
+
+The balls drawn in determining each of the first four picks are returned to the lottery machine and can be drawn again. However, a team generally cannot win multiple picks, so the drawing of a combination assigned to a team who has already won a pick will be ignored and redrawn.
+
+The exception to this rule applies where the winner of the lottery pick acquired the pick via trade. When a lottery team trades its first pick to another team, the recipient of the pick assumes the seed "earned" by the original owner of the pick, unless the terms of the trade provide otherwise. When a lottery team trades its first pick to another team that missed the playoffs, the recipient receives the seed of the team who traded it away as well as the seed determined by its own record (unless it also traded its first pick). This is the only situation in which a team can win multiple lottery picks. Trades are also the only way in which postseason teams can win a lottery pick;  however, with the play-in tournament, the four teams eliminated in the first stage of postseason can win a lottery pick, meaning in theory a team as high as the No. 7 seed in a conference could hold a lottery pick (provided they lose both the 7–8 game and the loser vs winner of 9–10 game);  the [[2023-24 Atlanta Hawks season|2024 Atlanta Hawks]], which lost the first stage 9–10 game, were the first team to make the postseason and be one of the four teams eliminated in the first stage tournament to win a lottery pick.
+
+The lottery is conducted with witnesses (from the accounting firm [[Ernst & Young]]) auditing the process to verify that it is conducted in accordance with the rules.
+
+Prior to the 2019 draft, after the first three teams had been determined, the remaining picks were determined by regular season record with the worst teams getting the highest picks: this assured each team that it could drop no more than three spots from its projected draft position.
+
+Since the 2019 draft, the number of lottery winners was increased from 3 to 4, with the remaining picks still assigned based on regular season record, meaning a team can drop no more than four spots from its seeded position to its actual draft position.
+
+==Chances of winning==
+Since the 2019 draft, the odds of each seed winning the first pick are:
+
+# 140 combinations, 14.0% chance of receiving the No. 1 pick
+# 140 combinations, 14.0% chance
+# 140 combinations, 14.0% chance
+# 125 combinations, 12.5% chance
+# 105 combinations, 10.5% chance
+# 90 combinations, 9.0% chance
+# 75 combinations, 7.5% chance
+# 60 combinations, 6.0% chance
+# 45 combinations, 4.5% chance
+# 30 combinations, 3.0% chance
+# 20 combinations, 2.0% chance
+# 15 combinations, 1.5% chance
+# 10 combinations, 1.0% chance
+# 5 combinations, 0.5% chance
+
+The following table lists the chance for each seed to get specific picks, beginning with the 2019 draft, if there were no ties.
+
+{| class="wikitable"
+|-
+! Seed  
+! Chances
+! 1st
+! 2nd
+! 3rd
+! 4th
+! 5th
+! 6th
+! 7th
+! 8th
+! 9th
+! 10th
+! 11th
+! 12th
+! 13th
+! 14th
+|-
+| align="left" | 1
+| 140 || 14.00%	|| 13.42%	|| 12.75%	|| 11.97%	|| 47.86%
+|-
+| align="left" | 2
+| 140 || 14.00%	|| 13.42%	|| 12.75%	|| 11.97%	|| 27.84%	|| 20.02%
+|-
+| align="left" | 3
+| 140 || 14.00% || 13.42%	|| 12.75%	|| 11.97%	|| 14.84%	|| 26.00% ||  7.02%
+|-
+| align="left" | 4
+| 125 || 12.50% || 12.23%	|| 11.89%	|| 11.46%	|| 7.24%	|| 25.74%	|| 16.74%	|| 2.19%
+|-
+| align="left" | 5
+| 105 || 10.50% || 10.54%	|| 10.56%	|| 10.53%	|| 2.22%	|| 19.61%	|| 26.74%	|| 8.68%	|| 0.62%
+|-
+| align="left" | 6
+| 90 || 9.00% || 9.20%	|| 9.41%	|| 9.62%	 ||  -	|| 8.62%	|| 29.77%	|| 20.55%	|| 3.68%	|| 0.15%
+|-
+| align="left" | 7
+| 75 || 7.50% || 7.80%	|| 8.14%	|| 8.52%	 ||  -	 ||  -	|| 19.72%	|| 34.11%	|| 12.88%	|| 1.30%	|| 0.03%
+|-
+| align="left" | 8
+| 60 || 6.00% || 6.34%	|| 6.74%	|| 7.22%	 ||  -	 ||  -	 ||  -	|| 34.47%	|| 32.10%	|| 6.75%	|| 0.38%	|| <0.01%
+|-
+| align="left" | 9
+| 45 || 4.50%	|| 4.83%	|| 5.23%	|| 5.71%	 ||  -	 ||  -	 ||  -	 ||  -	|| 50.72%	|| 25.90%	|| 3.01%	|| 0.09%	|| <0.01%
+|-
+| align="left" | 10
+| 30 || 3.00% || 3.27%	|| 3.60%	|| 4.01%	 ||  -	 ||  -	 ||  -	 ||  -	 ||  -	|| 65.90%	|| 18.99%	|| 1.20%	|| 0.02%	|| <0.01%
+|-
+| align="left" | 11
+| 20 || 2.00% || 2.20%	|| 2.45%	|| 2.76%	 ||  -	 ||  -	 ||  -	 ||  -	 ||  -	 ||  -	|| 77.59%	|| 12.60%	|| 0.40%	|| <0.01%
+|-
+| align="left" | 12
+| 15 ||  1.50%	|| 1.66%	|| 1.86%	|| 2.10%	 ||  -	 ||  -	 ||  -	 ||  -	 ||  -	 ||  -	 ||  -	|| 86.10%	|| 6.70%	|| 0.07%
+|-
+| align="left" | 13
+| 10 || 1.00% || 1.11%	|| 1.25%	|| 1.43%	 ||  -	 ||  -	 ||  -	 ||  -	 ||  -	 ||  -	 ||  -	 ||  -	|| 92.88%	|| 2.34%
+|-
+| align="left" | 14
+| 5 || 0.50%	|| 0.56%	|| 0.63%	|| 0.72%	 ||  -	 ||  -	 ||  -	 ||  -	 ||  -	 ||  -	 ||  -	 ||  -	 ||  -	|| 97.59%
+|}
+
+In the event that teams finish with the same record, each tied team receives the ''average'' of the total number of combinations for the positions that they occupy. Should the average number not be an [[integer]], a coin flip is then used to determine which team or teams receive the extra combination. The result of the coin flip is also used to determine who receives the earlier pick in the event that neither of the tied teams wins one of the first four picks via the lottery. For example, in 2020, the [[New Orleans Pelicans]] and the [[Sacramento Kings]] tied for the 12th-worst record (due to the [[COVID-19]] [[suspension of the 2019–20 NBA season]], only the record as of March 12, 2020 was considered for lottery purposes). The average of the 12th and 13th positions in the lottery was taken, resulting in each team getting 12 combinations (the average of 15 and 10). A coin flip was used to break the tie for the lottery position and assign the extra lottery combination. Sacramento won, giving them the 12th-best lottery odds and New Orleans 13th best. They received the 12th and 13th picks, respectively, after neither was drawn in the lottery. The order was reversed in the second round as New Orleans received the 42nd pick and Sacramento the 43rd.
+
+==Lottery ceremony==
+{{See also|National Basketball Association criticisms and controversies}}
+{{external media
+| float  = right
+| video1 = [https://www.youtube.com/watch?v=hI8jEtnd4_0 2023 NBA Draft Lottery Drawing] (actual drawing of the ping-pong balls). ''NBA's official YouTube channel''. May 16, 2023.
+| video2 = [https://www.youtube.com/watch?v=GvsaLL5WxB0 2023 NBA Draft Lottery results] (televised ceremony of the order). ''NBA's official YouTube channel''. May 16, 2023.
+}}
+
+The drawing of the ping-pong balls is conducted in private, though observed by independent auditors and representatives from each team. The results are subsequently presented in a televised unveiling (formerly broadcast as a short ceremony prior to or during halftime of an NBA playoff game, but since the mid-2010s, presented as an hour-long special by [[NBA on ESPN|ESPN]]), in which the order of the lottery is announced in reverse order, from the fourteenth selection to the first. Representatives from each lottery team are present at the lottery ceremony.
+
+The decision of not showing the ping-pong balls live has fueled speculation that the NBA occasionally fixes the draft lottery if it can benefit the league. The speculation originated with the 1985 draft lottery that sent Patrick Ewing to New York, with the theory being that the NBA wanted to send the best player in the draft to New York to increase ratings in a large television market. At that time, the NBA used seven envelopes in a tumbler representing the seven teams with the worst record. Some have speculated<ref>{{cite news| url=https://www.usatoday.com/sports/basketball/nba/2009-05-18-3301876890_x.htm | work=USA Today | title=Griffin the big gift at lottery's 25th anniversary | date=May 18, 2009 | access-date=May 20, 2010}}</ref><ref>{{cite news| url=https://www.latimes.com/archives/la-xpm-1985-05-14-sp-19104-story.html | work=Los Angeles Times | title=NBA's New Showtime: It's Called the Lottery | first=Sam | last=McManis | date=May 14, 1985 | access-date=May 20, 2010}}</ref><ref>{{cite web|url=http://sports.espn.go.com/nbadraft/story?id=1383452 |title=NBA out to prove conspiracy theorists wrong |first=Darren |last=Rovell |date=May 16, 2002 |publisher=ESPN |access-date=April 8, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20121104101847/http://sports.espn.go.com/nbadraft/story?id=1383452 |archive-date=November 4, 2012 }}</ref> that the envelope containing the Knicks logo was refrigerated beforehand, enabling [[David Stern]] to recognize and select it. Afterward, the Draft Lottery Format was changed to the current ping-pong ball lottery in a private room with team representatives. However, conspiracy theories still persist regarding the annual outcome of the lottery.<ref>{{cite news |last=Dengate |first=Jeff |title=Let the Ping-Pong Balls Fall |date=May 16, 2007 |work=NBA.com |url=http://www.nba.com/features/inside_lottery_050524.html |archive-url=https://web.archive.org/web/20120523105241/http://www.nba.com/features/inside_lottery_050524.html |url-status=dead |archive-date=May 23, 2012 |access-date=March 3, 2007 }}</ref><ref>{{cite news|last=Schoenfield |first=David |title=The first lottery draft still rates the best |date=June 29, 2009 |publisher=ESPN |url=https://www.espn.com/espn/page2/story?page=draftreview/090624 |archive-url=https://web.archive.org/web/20090627133325/http://sports.espn.go.com/espn/page2/story?page=draftreview%2F090624 |url-status=live |archive-date=June 27, 2009 }}</ref><ref>{{cite news |last=Helin |first=Kurt |title=David Stern expects your draft conspiracy theories now |work=nbcsports.com |url=http://probasketballtalk.nbcsports.com/2012/06/11/david-stern-expects-your-draft-conspiracy-theories-now/ |archive-url=https://web.archive.org/web/20120614050432/http://probasketballtalk.nbcsports.com/2012/06/11/david-stern-expects-your-draft-conspiracy-theories-now/ |url-status=dead |archive-date=June 14, 2012 |access-date=June 13, 2012 }}</ref><ref>{{cite news|title=David Stern, Jim Rome battle on radio |date=June 13, 2012 |publisher=ESPN |url=https://www.espn.com/nba/story/_/id/8048426/nba-commissioner-david-stern-radio-host-jim-rome-get-lottery |archive-url=https://web.archive.org/web/20120614053048/http://espn.go.com/nba/story/_/id/8048426/nba-commissioner-david-stern-radio-host-jim-rome-get-lottery |url-status=live |archive-date=June 14, 2012 }}</ref>
+
+==Lottery winners==
+[[File:NBA Draft Lottery winners.svg|thumb|441x441px|Visual representation of the following table]]
+The largest upset in the lottery occurred in [[1993 NBA draft|1993]] when the Magic won the lottery with just a 1.5% chance to win. The second-largest upsets occurred in [[2008 NBA draft|2008]] and [[2014 NBA draft|2014]] when the [[Chicago Bulls]] and [[Cleveland Cavaliers]] both won their respective lotteries with just a 1.7% chance.<ref>{{cite web |last=Matuszewski |first=Erik |date=May 21, 2008 |title=Bulls Win NBA's Draft Lottery, Eye Beasley, Rose With Top Pick |url=https://www.bloomberg.com/apps/news?pid=20601079&sid=a8oVsNTz65cA |access-date=August 22, 2009 |work=Bloomberg |publisher=Bloomberg L.P}}</ref> In [[1999 NBA draft|1999]], the [[Charlotte Hornets]] also overcame long odds in the draft lottery when they won the third pick despite having the best record among all non-playoff teams. The Hornets only had a 1.83% chance of winning a top-three pick.<ref>{{cite web |title=NBA.com:Year-By-Year Lottery Probabilities |website=[[NBA.com]] |url=http://www.nba.com/news/lottery02_probabilities.html |access-date=2015-02-07 |archive-date=2013-09-02 |archive-url=https://web.archive.org/web/20130902022144/http://www.nba.com/news/lottery02_probabilities.html |url-status=dead}}</ref> Since the lottery was introduced in 1985, only 21 of 30 worst NBA teams have won the lottery. The [[Los Angeles Clippers]] have won five lotteries, although two of them were conveyed to other teams in trades prior to the lottery. The Magic rank second, having held the first overall pick four times. The Cavaliers, [[Brooklyn Nets]] and [[San Antonio Spurs]] are third with three lottery wins each. Since the weighted lottery system was introduced in 1990, only seven teams with the worst record went on to win the lottery while only four teams with the second-worst record have won the lottery.
+
+Since the introduction of the draft lottery in 1985, seven teams have never won the first pick neither via lottery or trade: the [[Denver Nuggets]], [[Indiana Pacers]], [[Los Angeles Lakers]], [[Memphis Grizzlies]] (joined as expansion team in 1995; previously located in Vancouver), [[Miami Heat]] (joined as expansion team in 1988), [[Oklahoma City Thunder]] (formerly Seattle SuperSonics), and [[Utah Jazz]]. Furthermore, the [[Boston Celtics]] have never won the lottery with their own pick, but did own the #1 pick in the 2017 draft at the time of the lottery via a previous trade with the Brooklyn Nets, before subsequently trading that pick to the Philadelphia 76ers a few days before the draft.
+
+{|class="wikitable sortable"
+!Year
+!Team
+!Previous season<br>record
+!Lottery<br>chances
+!Probability
+![[List of first overall NBA draft picks|Player selected]]
+|-
+|align="center"|[[1985 NBA draft|1985]]
+|align="left"|[[New York Knicks]]
+|24–58 (3rd worst)
+|1 (out of 7)
+|{{Ntsh|14.29}}14.29%{{refn|From 1985 to 1988, each of the 7 non-playoff teams had an equal chance to win the lottery, i.e. 14.29%.|group=lower-alpha|name=note_a}}
+|{{sortname|Patrick|Ewing}}
+|-
+|align="center"|[[1986 NBA draft|1986]]
+|align="left"|[[Los Angeles Clippers]]<br><small>(conveyed to the [[Cleveland Cavaliers]] via [[Philadelphia 76ers]])</small>{{refn|The Philadelphia 76ers obtained [[Los Angeles Clippers]]' first-round pick in a previous trade on October 6, 1979 that sent [[Joe Bryant]] to the Clippers.<ref>{{cite web|url=http://www.nba.com/clippers/history/transactions.html|title=All-Time Transactions|access-date=August 22, 2009|work=NBA.com/Clippers|publisher=Turner Sports Interactive, Inc|archive-url=https://web.archive.org/web/20100221020635/http://www.nba.com/clippers/history/transactions.html|archive-date=February 21, 2010|url-status=dead}}</ref> On June 16, 1986, after the lottery and a day before the draft, the 76ers traded the first pick to the [[Cleveland Cavaliers]] in exchange for [[Roy Hinson]].<ref>{{cite basketball-reference|name=Roy Hinson|id=h/hinsoro01|date=April 8, 2012}}</ref>|group=lower-alpha}}
+|32–50 (7th worst)
+|1 (out of 7)
+|{{Ntsh|14.29}}14.29%<ref group=lower-alpha name=note_a/>
+|{{sortname|Brad|Daugherty|dab=basketball}}
+|-
+|align="center"|[[1987 NBA draft|1987]]
+|align="left"|[[San Antonio Spurs]]
+|28–54 (4th worst)
+|1 (out of 7)
+|{{Ntsh|14.29}}14.29%<ref group=lower-alpha name=note_a/>
+|{{sortname|David|Robinson}}
+|-
+|align="center"|[[1988 NBA draft|1988]]
+|align="left"|[[Los Angeles Clippers]]
+|17–65 (worst)
+|1 (out of 7)
+|{{Ntsh|14.29}}14.29%<ref group=lower-alpha name=note_a/>
+|{{sortname|Danny|Manning}}
+|-
+|align="center"|[[1989 NBA draft|1989]]
+|align="left"|[[Sacramento Kings]]
+|27–55 (6th worst)
+|1 (out of 9)
+|{{Ntsh|11.11}}11.11%{{refn|In 1989, each of the 9 non-playoff teams had an equal chance to win the lottery, i.e. 11.11%.|group=lower-alpha}}
+|{{sortname|Pervis|Ellison}}
+|-
+|align="center"|[[1990 NBA draft|1990]]
+|align="left"|[[New Jersey Nets]]
+|17–65 (worst)
+|11 (out of 66)
+|{{Ntsh|16.67}}16.67%
+|{{sortname|Derrick|Coleman}}
+|-
+|align="center"|[[1991 NBA draft|1991]]
+|align="left"|[[Charlotte Hornets]]
+|26–56 (5th worst)
+|7 (out of 66)
+|{{Ntsh|10.61}}10.61%
+|{{sortname|Larry|Johnson|dab=basketball, born 1969}}
+|-
+|align="center"|[[1992 NBA draft|1992]]
+|align="left"|[[Orlando Magic]]
+|21–61 (2nd worst)
+|10 (out of 66)
+|{{Ntsh|15.15}}15.15%
+|{{sortname|Shaquille|O'Neal}}
+|-
+|align="center"|[[1993 NBA draft|1993]]
+|align="left"|[[Orlando Magic]]<br><small>(conveyed to [[Golden State Warriors|Golden State]] on draft night)</small>
+|41–41 (11th worst)
+|1 (out of 66)
+|{{Ntsh|1.52}}1.52%
+|{{sortname|Chris|Webber}}
+|-
+|align="center"|[[1994 NBA draft|1994]]
+|align="left"|[[Milwaukee Bucks]]
+|20–62 (T–2nd worst)
+|163 (out of 1,000)
+|{{Ntsh|16.30}}16.30%
+|{{sortname|Glenn|Robinson}}
+|-
+|align="center"|[[1995 NBA draft|1995]]
+|align="left"|[[Golden State Warriors]]
+|26–56 (5th worst)
+|94 (out of 1,000)
+|{{Ntsh|9.40}}9.40%
+|{{sortname|Joe|Smith|dab=basketball}}
+|-
+|align="center"|[[1996 NBA draft|1996]]
+|align="left"|[[Philadelphia 76ers]]
+|18–64 (2nd worst)
+|200 (out of 593){{refn|The [[Toronto Raptors]] and the [[Vancouver Grizzlies]] were not eligible to win the lottery in 1996, 1997 and 1998 due to their expansion agreement. Therefore, their lottery combinations for the first pick were excluded.|group=lower-alpha|name=note_d}}
+|{{Ntsh|33.73}}33.73%
+|{{sortname|Allen|Iverson}}
+|-
+|align="center"|[[1997 NBA draft|1997]]
+|align="left"|[[San Antonio Spurs]]
+|20–62 (3rd worst)
+|157 (out of 727)<ref group=lower-alpha name=note_d/>
+|{{Ntsh|21.60}}21.60%
+|{{sortname|Tim|Duncan}}
+|-
+|align="center"|[[1998 NBA draft|1998]]
+|align="left"|[[Los Angeles Clippers]]
+|17–65 (3rd worst)
+|157 (out of 696)<ref group=lower-alpha name=note_d/>
+|{{Ntsh|22.56}}22.56%
+|{{sortname|Michael|Olowokandi}}
+|-
+|align="center"|[[1999 NBA draft|1999]]
+|align="left"|[[Chicago Bulls]]
+|13–37{{refn|Due to the [[1998–99 NBA lockout]], the [[1998–99 NBA season|season]] was shortened to 50 games per team.<ref>{{cite news|url=https://www.nytimes.com/2009/02/15/sports/basketball/15nba.html|title=N.B.A. and Union Are Discussing New Labor Deal|first=Howard|last=Beck|date=February 14, 2009|work=The New York Times |access-date=February 22, 2009}}</ref>|group=lower-alpha}} (3rd worst)
+|157 (out of 1,000)
+|{{Ntsh|15.70}}15.70%
+|{{sortname|Elton|Brand}}
+|-
+|align="center"|[[2000 NBA draft|2000]]
+|align="left"|[[New Jersey Nets]]
+|31–51 (7th worst)
+|44 (out of 1,000)
+|{{Ntsh|4.40}}4.40%
+|{{sortname|Kenyon|Martin}}
+|-
+|align="center"|[[2001 NBA draft|2001]]
+|align="left"|[[Washington Wizards]]
+|19–63 (3rd worst)
+|157 (out of 1,000)
+|{{Ntsh|15.70}}15.70%
+|{{sortname|Kwame|Brown}}
+|-
+|align="center"|[[2002 NBA draft|2002]]
+|align="left"|[[Houston Rockets]]
+|28–54 (5th worst)
+|89 (out of 1,000)
+|{{Ntsh|8.90}}8.90%
+|{{sortname||Yao Ming}}
+|-
+|align="center"|[[2003 NBA draft|2003]]
+|align="left"|[[Cleveland Cavaliers]]
+|17–65 (T–worst)
+|225 (out of 1,000)
+|{{Ntsh|22.50}}22.50%
+|{{sortname|LeBron|James}}
+|-
+|align="center"|[[2004 NBA draft|2004]]
+|align="left"|[[Orlando Magic]]
+|21–61 (worst)
+|250 (out of 1,000)
+|{{Ntsh|25.00}}25.00%
+|{{sortname|Dwight|Howard}}
+|-
+|align="center"|[[2005 NBA draft|2005]]
+|align="left"|[[Milwaukee Bucks]]
+|30–52 (6th worst)
+|63 (out of 1,000)
+|{{Ntsh|6.30}}6.30%
+|{{sortname|Andrew|Bogut}}
+|-
+|align="center"|[[2006 NBA draft#Draft Lottery|2006]]
+|align="left"|[[Toronto Raptors]]
+|27–55 (5th worst)
+|88 (out of 1,000)
+|{{Ntsh|8.80}}8.80%
+|{{sortname|Andrea|Bargnani}}
+|-
+|align="center"|[[2007 NBA draft#Draft Lottery|2007]]
+|align="left"|[[Portland Trail Blazers]]
+|32–50 (6th worst)
+|53 (out of 1,000)
+|{{Ntsh|5.30}}5.30%
+|{{sortname|Greg|Oden}}
+|-
+|align="center"|[[2008 NBA draft#Draft Lottery|2008]]
+|align="left"|[[Chicago Bulls]]
+|33–49 (9th worst)
+|17 (out of 1,000)
+|{{Ntsh|1.70}}1.70%
+|{{sortname|Derrick|Rose}}
+|-
+|align="center"|[[2009 NBA draft#Draft Lottery|2009]]
+|align="left"|[[Los Angeles Clippers]]
+|19–63 (T–2nd worst){{refn|The Los Angeles Clippers and the [[Washington Wizards]] had identical 19–63 records for 2nd-worst record in the NBA. However, the Wizards won the tiebreaker and were awarded one extra lottery combination.<ref>{{cite web|url=http://www.nba.com/2009/playoffs2009/04/17/draft.tiebreakers/index.html|title=Ties broken for Draft 2009 order of selection|date=April 17, 2009|access-date=August 17, 2010|work=NBA.com|publisher=Turner Sports Interactive, Inc|url-status=dead|archive-url=https://web.archive.org/web/20090420031541/http://www.nba.com/2009/playoffs2009/04/17/draft.tiebreakers/index.html|archive-date=April 20, 2009}}</ref>|group=lower-alpha}}
+|177 (out of 1,000)
+|{{Ntsh|17.70}}17.70%
+|{{sortname|Blake|Griffin}}
+|-
+|align="center"|[[2010 NBA draft#Draft Lottery|2010]]
+|align="left"|[[Washington Wizards]]
+|26–56 (5th worst)
+|103 (out of 1,000)
+|{{Ntsh|10.30}}10.30%
+|{{sortname|John|Wall}}
+|-
+|align="center"|[[2011 NBA draft#Draft lottery|2011]]
+|align="left"|[[Los Angeles Clippers]]<br><small>(conveyed to the [[Cleveland Cavaliers]])</small>{{refn|The Cleveland Cavaliers had two lottery picks, their own pick and the [[Los Angeles Clippers]]' pick. The Cavaliers obtained the Clippers' first-round pick from a previous trade on February 24, 2011 that sent [[Mo Williams]] and [[Jamario Moon]] to the Clippers and [[Baron Davis]] to the Cavaliers.<ref>{{cite web|url=https://www.espn.com/los-angeles/nba/news/story?id=6153550|title=Baron Davis traded for Williams, Moon|last1=Shelburne|first1=Ramona|author-link1=Ramona Shelburne|last2=Ford|first2=Chad|name-list-style=and|others=Contributed by Pedro Moura|date=February 24, 2011|website=ESPN.com|access-date=January 25, 2024}}</ref> The Cavaliers, who had the second-worst record (19–63), had a combined total of 227 chances (22.7%) to win the lottery, which consists of 199 chances (19.9%) from their own pick and 28 chances (2.8%) from the Clippers' pick.<ref>{{cite web|url=http://www.nba.com/2011/news/05/17/draft-lottery.ap/index.html |title=Cavaliers win draft lottery, will pick No. 1 |date=May 17, 2011 |work=NBA.com |publisher=Turner Sports Interactive, Inc |access-date=May 18, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110521144356/http://www.nba.com/2011/news/05/17/draft-lottery.ap/index.html |archive-date=May 21, 2011 }}</ref><ref>{{cite web|url=https://www.espn.com/nba/draft2011/news/story?id=6560322|title=Cavs win No. 1 pick; Wolves 2nd|date=May 18, 2011|publisher=ESPN|access-date=May 18, 2011}}</ref>|group=lower-alpha}}
+|32–50 (8th worst)
+|28 (out of 1,000)
+|{{Ntsh|2.80}}2.80%
+|{{sortname|Kyrie|Irving}}
+|-
+|align="center"|[[2012 NBA draft|2012]]
+|[[New Orleans Hornets]]
+|21–45{{refn|Due to the [[2011 NBA lockout]], the [[2011–12 NBA season|season]] was shortened to 66 games per team.<ref>{{cite news |last=Beck |first=Howard |title=Two Exhibition Games for N.B.A. Teams |date=November 28, 2011 |newspaper=The New York Times |url=https://www.nytimes.com/2011/11/29/sports/basketball/two-exhibition-games-for-nba-teams.html?ref=basketball |access-date=November 28, 2011}}</ref>|group=lower-alpha}} (T–3rd worst)
+|137 (out of 1,000)
+|{{Ntsh|13.70}}13.70%
+|{{sortname|Anthony|Davis}}
+|-
+|align="center"|[[2013 NBA draft|2013]]
+|align="left"|[[Cleveland Cavaliers]]
+|24–58 (3rd worst)
+|156 (out of 1,000)
+|{{Ntsh|15.60}}15.60%
+|{{sortname|Anthony|Bennett|dab=basketball}}
+|-
+|align="center"|[[2014 NBA draft|2014]]
+|align="left"|[[Cleveland Cavaliers]]<br><small>(later traded to [[Minnesota Timberwolves|Minnesota]] before playing)</small>
+|33–49 (9th worst)
+|17 (out of 1,000)
+|{{Ntsh|1.70}}1.70%
+|{{sortname|Andrew|Wiggins}}
+|-
+|align="center"|[[2015 NBA draft|2015]]
+|align="left"|[[Minnesota Timberwolves]]
+|16–66 (worst)
+|250 (out of 1,000)
+|{{Ntsh|25.00}}25.00%
+|{{sortname|Karl-Anthony|Towns}}
+|-
+|align="center"|[[2016 NBA draft|2016]]
+|align="left"|[[Philadelphia 76ers]]
+|10–72 (worst)
+|250 (out of 1,000)
+|{{Ntsh|25.00}}25.00%
+|{{sortname|Ben|Simmons}}
+|-
+|align="center"|[[2017 NBA draft|2017]]
+|align="left"|[[Brooklyn Nets]]<br><small>(conveyed to the [[Philadelphia 76ers]] via the [[Boston Celtics]])</small>
+|20–62 (worst)
+|250 (out of 1,000)
+|{{Ntsh|25.00}}25.00%
+|{{sortname|Markelle|Fultz}}
+|-
+|align="center"|[[2018 NBA draft|2018]]
+|align="left"|[[Phoenix Suns]] 
+|21–61 (worst)
+|250 (out of 1,000)
+|{{Ntsh|25.00}}25.00%
+|{{sortname|Deandre|Ayton}}
+|-
+|align="center"|[[2019 NBA draft|2019]]
+|align="left"|[[New Orleans Pelicans]]
+|33–49 (T–7th worst)
+|60 (out of 1,000)
+|{{Ntsh|6.00}}6.00%
+|{{sortname|Zion|Williamson}}
+|-
+|align=center|[[2020 NBA draft|2020]]
+|align="left"|[[Minnesota Timberwolves]]
+|19–45{{refn|Due to the ongoing [[COVID-19 pandemic]], the [[2019–20 NBA season|season]] was suspended in March 2020 and later restarted in July.<ref>{{cite web |title=NBA to suspend season following Wednesday's games |url=https://www.nba.com/article/2020/03/11/nba-suspend-season-following-wednesdays-games |website=NBA.com |access-date=August 22, 2020 |date=March 11, 2020}}</ref><ref>{{cite web|title=NBA Board of Governors approves competitive format to restart 2019-20 season with 22 teams returning to play|url=https://www.nba.com/article/2020/06/04/board-of-governors-approves-nba-return-official-release|website=NBA.com|date=June 4, 2020|access-date=August 22, 2020}}</ref> Teams that were not invited to the [[2020 NBA Bubble|NBA Bubble]], Minnesota among them, played between 63 and 67 games until the suspension.|group=lower-alpha}} (3rd worst)
+|140 (out of 1,000)
+|{{Ntsh|14.00}}14.00%
+|{{sortname|Anthony|Edwards|dab=basketball}}
+|-
+|align=center|[[2021 NBA draft|2021]]
+|align="left"|[[Detroit Pistons]]
+|20–52{{refn|Due to the ongoing [[COVID-19 pandemic]], the [[2020–21 NBA season|season]] was shortened to 72 games.<ref>{{cite web |title=NBA announces structure and format for 2020-21 season |url=https://www.nba.com/news/nba-announces-structure-and-format-for-2020-21-season |website=NBA.com |access-date=June 24, 2021 |date=November 17, 2020}}</ref>|group=lower-alpha}} (2nd worst)
+|140 (out of 1,000)
+|{{Ntsh|14.00}}14.00%
+|{{sortname|Cade|Cunningham}}
+|-
+|align="center"|[[2022 NBA draft|2022]]
+|align="left"|[[Orlando Magic]]
+|22–60 (2nd worst)
+|140 (out of 1,000)
+|{{Ntsh|14.00}}14.00%
+|{{sortname|Paolo|Banchero|}}
+|-
+|align="center"|[[2023 NBA draft|2023]]
+|align="left"|[[San Antonio Spurs]]
+|22–60 (T–2nd worst)
+|140 (out of 1,000)
+|{{Ntsh|14.00}}14.00%
+|{{sortname|Victor|Wembanyama|}}
+|-
+|align="center"|[[2024 NBA draft|2024]]
+|align="left"|[[Atlanta Hawks]]
+|36–46 (9th worst)
+|30 (out of 1,000)
+|{{Ntsh|3.00}}3.00%
+|[[Zaccharie Risacher]]
+|-
+|align="center"|[[2025 NBA draft|2025]]
+|align="left"|[[Dallas Mavericks]]
+|39–43 (11th worst)
+|18 (out of 1,000)
+|{{Ntsh|1.80}}1.80%
+|[[Cooper Flagg]]
+|-
+|align="center"|[[2026 NBA draft|2026]]
+|align="left"|
+|
+|
+|
+|
+|}
+;Notes
+{{reflist|group=lower-alpha}}
+
+==See also==
+*{{Portal-inline|Sports}}
+
+==References==
+;General
+{{Refbegin}}
+*{{cite web|url=http://www.nba.com/history/draft_evolution.html|title=Evolution of the Draft and Lottery|access-date=August 22, 2009|work=NBA.com|publisher=Turner Sports Interactive, Inc|archive-url=https://web.archive.org/web/20101203184544/http://www.nba.com/history/draft_evolution.html|archive-date=December 3, 2010|url-status=dead}}
+*{{cite web|url=http://www.nba.com/history/lottery_probabilities.html|title=Year-by-Year Lottery Probabilities|access-date=August 22, 2009|work=NBA.com|publisher=Turner Sports Interactive, Inc|archive-url=https://web.archive.org/web/20121104090733/http://www.nba.com/history/lottery_probabilities.html|archive-date=November 4, 2012|url-status=dead}}
+{{Refend}}
+;Specific
+{{Reflist|colwidth=30em}}
+
+==External links==
+*[http://www.nba.com/ NBA.com]
+*[https://web.archive.org/web/20090315112610/http://www.nba.com/history/draft_index.html NBA.com: NBA Draft History]
+*[https://web.archive.org/web/20100523120216/http://www.thehoopsreport.com/article.aspx?id=499 The Hoops Report: NBA Draft Lottery]
+
+{{NBA Drafts}}
+
+{{DEFAULTSORT:Nba Draft Lottery}}
+[[Category:NBA draft|Draft Lottery]]
+[[Category:Recurring events established in 1985]]
+[[Category:1985 establishments in the United States]]

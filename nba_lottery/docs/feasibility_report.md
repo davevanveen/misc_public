@@ -121,8 +121,15 @@ Counts of drawn year-picks where the Wikipedia source flagged a trade-protection
 
 Interpretation: the slot-owner (primary) and pick-recipient (robustness) views diverge for this fraction of drawn year-picks. The plan's primary estimand is the slot-owner view, so these trades do not affect the confirmatory claim.
 
-## 4. Verdict
+## 4. Supplementary data: all-years #1-pick table
 
-- **Confirmatory scope:** 20 years (2006-2025 minus 2003) spanning two era sub-regimes (`weighted_1994_2018` and `modern_2019_present`).
-- **Simulator validation:** all 625 published-probability checks pass within combined rounding (0.002) and MC (3σ) tolerance at N=500,000. See `validate_probabilities.py`.
+`data/processed/lottery_winners_all_years.csv` contains 41 rows, one per year 1985-present. Each row records the #1-pick winner, their pre-lottery record, their pre-lottery #1 probability, and a trade-note flag. Source: main NBA_draft_lottery Wikipedia article, 'Lottery winners' section.
+
+This table is the data source for the **T1 confirmatory test** (aggregate #1-pick outcome vs per-year probability model) over the **full historical sample (41 years)**. Because T1 only requires per-year winner probabilities — not the full participant joint distribution — it is not constrained by the absence of pre-2006 participant tables.
+
+## 5. Verdict
+
+- **Confirmatory scope for tests A / A_pre2019 / A_post2019:** 20 years (2006-2025 excluding 2003), spanning two era sub-regimes (`weighted_1994_2018` and `modern_2019_present`). These tests require the full participant joint distribution per year, which is only sourced from Wikipedia `{year}_NBA_draft` pages for these years.
+- **Confirmatory scope for test T1 (top-1 aggregate):** 41 years (1985-2025 complete). Requires only per-year #1-pick probabilities, available from the main NBA_draft_lottery article's winners table.
+- **Simulator validation:** all 938 published-probability checks pass within combined rounding (0.002) and MC (3σ) tolerance at N=500,000. See `validate_probabilities.py`.
 - **Freeze commit can proceed.**
