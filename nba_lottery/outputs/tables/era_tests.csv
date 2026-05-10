@@ -1,0 +1,4 @@
+era,n_years,S_obs,null_mean,p_value
+all_confirmatory,20,138.9898,139.8286,0.538281
+weighted_1994_2018,13,76.6458,77.6233,0.554927
+modern_2019_present,7,63.5225,62.2089,0.330216

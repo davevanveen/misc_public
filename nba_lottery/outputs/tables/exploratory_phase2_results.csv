@@ -1,0 +1,4 @@
+family,status,notes
+narrative_market_covariates,deferred,"msa_population, forbes_valuation, attendance_rank not collected; covariate coverage rule (>20% missing drops covariate) would drop all three"
+pick_recipient_robustness,deferred,pick-recipient view requires unconditional-ownership filter; not yet wired
+top3_top4_jump_analysis,deferred,descriptive only per plan; not run in this pass

@@ -1,0 +1,15 @@
+pre_lottery_rank,n_years,observed_top1_wins,expected_top1_wins,excess,two_sided_p,bh_adjusted_p,reject_bh_q_0_10,eligibility
+1,20,3,4.1790,-1.1790,0.596057,1.000000,0,frequentist
+2,23,4,3.9600,+0.0400,1.000000,1.000000,0,frequentist
+3,22,3,3.1360,-0.1360,1.000000,1.000000,0,frequentist
+4,18,1,2.0710,-1.0710,0.514549,1.000000,0,frequentist
+5,22,1,1.8680,-0.8680,,,,effect_size_only
+6,19,1,1.3060,-0.3060,,,,effect_size_only
+7,21,1,1.1180,-0.1180,,,,effect_size_only
+8,24,1,0.7620,+0.2380,,,,effect_size_only
+9,15,2,0.4020,+1.5980,,,,effect_size_only
+10,17,1,0.2760,+0.7240,,,,effect_size_only
+11,25,1,0.3010,+0.6990,,,,effect_size_only
+12,19,0,0.1660,-0.1660,,,,effect_size_only
+13,18,0,0.1250,-0.1250,,,,effect_size_only
+14,17,1,0.3300,+0.6700,,,,effect_size_only

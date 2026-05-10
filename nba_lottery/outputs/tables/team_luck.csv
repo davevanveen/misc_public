@@ -1,0 +1,36 @@
+team,n_years_in_lottery,observed_top1_wins,expected_top1_wins,excess,two_sided_p,bh_adjusted_p,reject_bh_q_0_10,eligibility
+Atlanta Hawks,7,1,0.6600,+0.3400,,,,effect_size_only
+Boston Celtics,4,1,0.6050,+0.3950,,,,effect_size_only
+Brooklyn Nets,5,0,0.3940,-0.3940,,,,effect_size_only
+Charlotte Bobcats,7,0,0.6580,-0.6580,,,,effect_size_only
+Charlotte Hornets,10,0,0.5290,-0.5290,,,,effect_size_only
+Chicago Bulls,9,1,0.3750,+0.6250,,,,effect_size_only
+Cleveland Cavaliers,8,2,0.9100,+1.0900,,,,effect_size_only
+Dallas Mavericks,6,1,0.2690,+0.7310,,,,effect_size_only
+Denver Nuggets,5,0,0.0810,-0.0810,,,,effect_size_only
+Detroit Pistons,13,1,0.8840,+0.1160,,,,effect_size_only
+Golden State Warriors,9,0,0.3700,-0.3700,,,,effect_size_only
+Houston Rockets,8,0,0.4730,-0.4730,,,,effect_size_only
+Indiana Pacers,8,0,0.2240,-0.2240,,,,effect_size_only
+Los Angeles Clippers,7,2,0.3290,+1.6710,,,,effect_size_only
+Los Angeles Lakers,7,0,0.6280,-0.6280,,,,effect_size_only
+Memphis Grizzlies,8,0,0.8080,-0.8080,,,,effect_size_only
+Miami Heat,4,0,0.2760,-0.2760,,,,effect_size_only
+Milwaukee Bucks,7,0,0.4950,-0.4950,,,,effect_size_only
+Minnesota Timberwolves,15,2,1.4540,+0.5460,,,,effect_size_only
+New Jersey Nets,4,0,0.3450,-0.3450,,,,effect_size_only
+New Orleans Hornets,3,1,0.1510,+0.8490,,,,effect_size_only
+New Orleans Pelicans,9,1,0.4200,+0.5800,,,,effect_size_only
+New Orleans/Oklahoma City Hornets,1,0,0.0070,-0.0070,,,,effect_size_only
+New York Knicks,13,0,0.9130,-0.9130,,,,effect_size_only
+Oklahoma City Thunder,5,0,0.3810,-0.3810,,,,effect_size_only
+Orlando Magic,10,1,1.0560,-0.0560,,,,effect_size_only
+Philadelphia 76ers,9,1,0.9030,+0.0970,,,,effect_size_only
+Phoenix Suns,12,1,0.9230,+0.0770,,,,effect_size_only
+Portland Trail Blazers,9,1,0.6920,+0.3080,,,,effect_size_only
+Sacramento Kings,18,0,1.0110,-1.0110,,,,effect_size_only
+San Antonio Spurs,6,1,0.3870,+0.6130,,,,effect_size_only
+Seattle SuperSonics,3,0,0.2980,-0.2980,,,,effect_size_only
+Toronto Raptors,10,1,0.5590,+0.4410,,,,effect_size_only
+Utah Jazz,9,0,0.3800,-0.3800,,,,effect_size_only
+Washington Wizards,12,1,1.1520,-0.1520,,,,effect_size_only

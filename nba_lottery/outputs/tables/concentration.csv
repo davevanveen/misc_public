@@ -1,0 +1,5 @@
+metric,value,notes
+top3_share,0.2256,top-3 years' share of total NLL (not excess)
+top3_excess_share,0.7434,top-3 years' share of NLL excess over expected (gate metric)
+gini,0.1468,Gini coefficient of per-year NLL contributions
+passes_gate,0,1 if top3_excess_share < 0.5 (global-anomaly gate)

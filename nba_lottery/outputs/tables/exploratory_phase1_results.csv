@@ -1,0 +1,4 @@
+family,n_tests,n_rejected_bh_0_10,min_adjusted_p
+team_luck,0,0,1.0
+seed_luck,4,0,1.0
+outlier_years,20,0,0.673706
