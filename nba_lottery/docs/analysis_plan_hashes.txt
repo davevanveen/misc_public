@@ -1,0 +1,9 @@
+# Analysis Plan Hashes
+# Written by scripts/freeze_plan.py; any subsequent change to the
+# listed files can be detected by recomputing SHA-256 and comparing.
+# Generated: 2026-05-10T18:11:22Z
+
+79bde556dd3478161434e5738e10bbe76bc43c918d74131e441bb0ac943fda61  docs/statistical_analysis_plan.md
+ad1fa45fc6a3a1159cd6048b431b27b3ec8e275838a6fbfa70b4c247b5b93c40  docs/hypotheses.md
+8a2b914212b13c34c959efae2115f803ccd4cff41e50d18145babf6ca443e68f  docs/multiple_testing_plan.md
+add25d978d7f186d428efc6a2e91172a97a61ac555e0f7353e9915db699c6bf3  docs/estimand_choice.md
